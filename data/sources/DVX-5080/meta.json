@@ -1,0 +1,16 @@
+{
+ "ann_id": "DVX-5080",
+ "t1_files": [
+  "data/raw/announcements/DVX-5080/text_0.txt"
+ ],
+ "t2_files": [
+  "data/raw/announcements/DVX-5080-DEC/text_0.txt"
+ ],
+ "has_t2": 1,
+ "t2_status": "yes",
+ "t1_is_act": 1,
+ "sha256_T1": "78c6956b6b9e2169ab482ab2fde657e6a26d453346bcccaaf0e6823a944d1803",
+ "sha256_T2": "57548cae8be4a54293d451c3a4723dbb53c9b907705bebd7193b70b857cc1949",
+ "chars_T1": 44233,
+ "chars_T2": 43874
+}

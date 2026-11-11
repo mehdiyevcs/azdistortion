@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite the paper."
+title: "AzDistortion: data and code"
+authors:
+  - family-names: Mehdiyev
+    given-names: Jalal
+    orcid: "https://orcid.org/0009-0005-1386-9025"
+    affiliation: "Institute of Information Technology, Baku, Azerbaijan"
+license:
+  - MIT
+  - CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "Detection of misleading claims in Azerbaijani news: limitations of language models"
+  authors:
+    - family-names: Mehdiyev
+      given-names: Jalal
+      orcid: "https://orcid.org/0009-0005-1386-9025"
+  journal: "Problems of Information Society"
+  year: 2026

@@ -1,0 +1,11 @@
+TITLE: ƏMAS-da atalıq məzuniyyəti ilə bağlı yeni funksionallıq tətbiq edilib
+DATE: 2026-01-01
+AUTHOR: None
+Əmək və Əhalinin Sosial Müdafiəsi Nazirliyinin “Əmək və Məşğulluq” altsistemində (ƏMAS) uşağının doğulması ilə əlaqədar kişilərə ödənişli məzuniyyət verilməsi ilə bağlı əmri e-qaydada formalaşdırmaq üçün yeni funksionallıq tətbiq edilib.
+Uşağının doğulmasını təsdiq edən tibbi arayış işçi tərəfindən təqdim edildikdən sonra işəgötürən ƏMAS-da:
+- “Əmrlər” bölməsindən “Məzuniyyət əmri yarat” bölməsinə daxil olur,
+- məzuniyyətin növünü seçir,
+- məzuniyyətin hüquqi əsası kimi Əmək Məcəlləsinin 125-ci maddəsinin 4-cü hissəsini göstərir,
+- işçiyə uşağının doğulmasından əvvəl və sonrakı dövr üzrə 14 təqvim günü ödənişli məzuniyyət verilməsinə dair əmri ƏMAS üzərində formalaşdırır.
+Bu yenilik iş yerlərində məzuniyyət verilməsi prosesləsinin tam elektronlaşdırılaraq çevik və şəffaf şəkildə həyata keçirilməsinə, əmək münasibətlərində sosial təminat mexanizmlərinin gücləndirilməsinə xidmət edir.
+Qeyd edək ki, əmək qanunvericiliyinə edilmiş yeni dəyişikliklərdən biri də uşağının doğulması ilə əlaqədar kişilərə 14 təqvim günü müddətində ödənişli məzuniyyətin verilməsini nəzərdə tutur.

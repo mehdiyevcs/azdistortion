@@ -1,0 +1,14 @@
+{
+ "run_id": "e1_gbm_C2_benchmark",
+ "system": "S0b_gbm",
+ "condition": "C2",
+ "sample": "benchmark",
+ "n": 1573,
+ "model_id": "sklearn:gbm",
+ "source_file": "runs/nonllm_benchmark/predictions_tradml.csv",
+ "source_sha256": "8895cb0528d9abe32d588ac94dd89598190c825b97a801e65aba3abaa47ee9e6",
+ "predictions_sha256": "2f5e135285f937e42b7d0f67cd2971a51c057c405fe06aca7d5a277547be1b47",
+ "cost": 0.0,
+ "finished": "2026-11-11 12:33:35",
+ "note": ""
+}

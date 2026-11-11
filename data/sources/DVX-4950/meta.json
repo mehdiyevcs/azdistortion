@@ -1,0 +1,14 @@
+{
+ "ann_id": "DVX-4950",
+ "t1_files": [
+  "data/raw/announcements/DVX-4950/text_0.txt"
+ ],
+ "t2_files": [],
+ "has_t2": 0,
+ "t2_status": "no",
+ "t1_is_act": 0,
+ "sha256_T1": "66d40125ed9a86af1178217880c12a49bc7cca1064653a3fca536aae27225b58",
+ "sha256_T2": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+ "chars_T1": 2974,
+ "chars_T2": 0
+}

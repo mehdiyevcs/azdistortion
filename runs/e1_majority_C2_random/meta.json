@@ -1,0 +1,14 @@
+{
+ "run_id": "e1_majority_C2_random",
+ "system": "S0_majority",
+ "condition": "C2",
+ "sample": "random",
+ "n": 2020,
+ "model_id": "majority:SUPPORTED",
+ "source_file": "runs/nonllm_random/predictions_majority.csv",
+ "source_sha256": "a3ae4890f5f6bc8e2d7c07b842e8f5c3169f011db04e1855d8cba0f3fb82407a",
+ "predictions_sha256": "5ae70015e742837f82968376b48a29b90b67ef01c1440db15e7f81a5d9196da3",
+ "cost": 0.0,
+ "finished": "2026-11-11 12:33:35",
+ "note": ""
+}

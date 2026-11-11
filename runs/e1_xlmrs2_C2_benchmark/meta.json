@@ -1,0 +1,14 @@
+{
+ "run_id": "e1_xlmrs2_C2_benchmark",
+ "system": "S2_xlmr",
+ "condition": "C2",
+ "sample": "benchmark",
+ "n": 1573,
+ "model_id": "FacebookAI/xlm-roberta-base",
+ "source_file": "runs/colab_returned_2026-11-11/results_benchmark/predictions_enc_xlmr.csv",
+ "source_sha256": "192ccb3b062d6f2434b17df88b8c3c42fbfc7c264b146a2118fb782d219565b8",
+ "predictions_sha256": "5a2474fd5672e6da6cd746b6c88170d71d42a66ad039ca75bffe6023a68a355f",
+ "cost": 0.0,
+ "finished": "2026-11-11 12:33:36",
+ "note": "E2 encoder, training seed 2 (mean and range over seeds 1-3 in the analysis)"
+}

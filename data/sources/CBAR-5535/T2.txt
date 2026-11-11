@@ -1,0 +1,1778 @@
+=== text_0.txt ===
+--- page 1 ---
+Maliyyə institutlarının bazar
+davranışına dair
+Metodoloji Rəhbərlik
+1
+--- page 2 ---
+Azərbaycan Respublikası
+Mərkəzi Bankının İdarə Heyətinin
+“07” iyul 2026-cı il tarixli
+qərarı ilə təsdiq edilmişdir.
+Protokol № 30/3
+Maliyyə institutlarının bazar davranışına dair
+Metodoloji Rəhbərlik
+2
+--- page 3 ---
+Mündəricat
+1-ci Fəsil. Bazar davranışı prinsipləri və ümumi tələblər ........................................... 5
+1. Ümumi müddəalar........................................................................................................ 5
+3. Bazar davranışı prinsipləri ............................................................................................ 7
+4. İdarəetmə və korporativ mədəniyyət ............................................................................ 8
+5. İstehlakçıların hüquqlarının qorunması üzrə komplayens planı .................................... 9
+6. Maraqlar münaqişəsi ...................................................................................................10
+7. Təmsilçilər ..................................................................................................................10
+2-ci Fəsil. Müqavilə bağlanmazdan əvvəl məlumatların açıqlanması ..................... 11
+8. Maliyyə institutunun açıqladığı ümumi məlumatlar ...................................................... 11
+9. Standart şərtlərin açıqlanması ....................................................................................12
+10. Müqavilənin son redaksiyası .......................................................................................13
+12. İstehlakçıya verilən izahlar ..........................................................................................15
+13. Məlumatların açıqlanması ...........................................................................................16
+3-cü Fəsil. Maliyyə məhsullarının uyğunluğu ........................................................... 17
+14. Maliyyə məhsulunun idarə edilməsi ............................................................................17
+15. Hədəf müştəri seqmenti ..............................................................................................18
+16. Məhsulun monitorinqi ..................................................................................................18
+17. Maliyyə məhsulunun təqdim edilməsi ..........................................................................19
+4-cü Fəsil. Xidmət keyfiyyəti və əlçatanlığı ............................................................... 20
+18. Həssas istehlakçılar üçün əlçatanlıq ...........................................................................20
+19. Ofis və maddi təchizat .................................................................................................21
+20. Ödəniş terminalları və internet (mobil) bankçılıq .........................................................21
+21. İstehlakçılarla birbaşa əlaqədə olan şəxslər ................................................................22
+22. Müştəri məmnuniyyəti sorğularının keçirilməsi ............................................................23
+5-ci Fəsil. Biznes davranışı ......................................................................................... 23
+23. İstehlakçılarla əlaqə ....................................................................................................23
+24. Əməliyyatların təhlükəsizliyinin təmin edilməsi ............................................................24
+25. Bildirişlərin alınmasından imtina ..................................................................................25
+26. Çaşdırıcı elementlər ....................................................................................................25
+27. İstehlakçıların maarifləndirilməsi .................................................................................26
+28. Reklam .......................................................................................................................27
+3
+--- page 4 ---
+6-cı Fəsil. Xidmət alanların şikayətlərinin daxili həlli ............................................... 28
+29. Şikayətlərə baxılmasına dair daxili qaydalar................................................................28
+30. Şikayətlərə baxılması işinin təşkili ...............................................................................29
+31. Şikayətlərə baxılması funksiyasının fəaliyyəti ..............................................................30
+32. Şikayətlərə baxılması ..................................................................................................32
+33. Şikayətlərin qeydiyyatı və xidmət alanlar tərəfindən izlənilməsinin təmin edilməsi.......33
+34. Hesabatlılıq .................................................................................................................34
+Bank məhsulları və ödəniş xidmətləri ....................................................................... 35
+1. Kredit məhsulları üzrə məlumatların açıqlanması ..............................................................35
+2. Hesabdan çıxarış ........................................................................................................36
+3. Borcun məbləği və ödənişi barədə məlumat................................................................37
+4. Kredit məhsullarının istehlakçıya uyğunluğu ...............................................................37
+5. Bankomatlarla bağlı əlçatanlıq ....................................................................................39
+6. Maliyyə çətinliyi ilə üzləşən istehlakçılara yardım ........................................................40
+7. İstehlak kreditinin yenidən maliyyələşdirilməsi ............................................................40
+8. Borcun yığılması .........................................................................................................40
+9. Kreditlə əlaqədar bağlanmış sığorta müqaviləsinin ləğv edilməsi ................................41
+10. Ödəniş alətinin məhdudlaşdırılması və bloklaşdırılması ..............................................41
+11. Kredit məhsulları üzrə reklam .....................................................................................43
+12. Əmanət məhsulları üzrə reklam ..................................................................................43
+Sığorta məhsulları ....................................................................................................... 45
+1. Sığorta məhsulları üzrə məlumatların açıqlanması ......................................................45
+2. Sığorta müqavilələri üzrə məlumatların verilməsi ........................................................45
+3. Sığorta müqaviləsinin son versiyası ............................................................................46
+4. Hesabdan çıxarış ........................................................................................................46
+5. Sığorta tələblərinin tənzimlənməsi ..............................................................................47
+İnvestisiya xidmətləri .................................................................................................. 50
+1. İnvestisiya risklərinin açıqlanması ...............................................................................50
+2. İnvestisiya xidməti göstərən maliyyə institutlarının əlavə öhdəlikləri ............................50
+3. İnvestisiya xidmətləri üzrə reklam ...............................................................................52
+Şikayətlərin reyestrinin aparılması Forması .................................................................. 54
+Sığorta müqaviləsi üzrə standart məlumatlandırma forması ......................................... 62
+4
+--- page 5 ---
+1-ci Fəsil. Bazar davranışı prinsipləri və ümumi tələblər
+1. Ümumi müddəalar
+1.1. Bu Metodoloji Rəhbərlik (bundan sonra - Rəhbərlik) “Azərbaycan
+Respublikasının Mərkəzi Bankı haqqında” Azərbaycan Respublikası Qanununun
+48.3.7-ci maddəsinə uyğun olaraq hazırlanmışdır və maliyyə institutlarının bazar
+davranışlarının əsas prinsiplərini və maliyyə bazarlarını tənzimləyən qanunların
+istehlakçılarla münasibətlərə dair tələblərinə əlavə olaraq Azərbaycan Respublikası
+Mərkəzi Bankının (bundan sonra – Mərkəzi Bank) bu sahədə tövsiyələrini müəyyən edir.
+1.2. Bu Rəhbərlik maliyyə institutlarının bazar davranışının tənzimlənməsi, o
+cümlədən istehlakçıların hüquqlarının müdafiəsinin təmin edilməsi, maliyyə sektorunda
+ədalətsiz təcrübələrin qarşısının alınması, informasiya əlçatanlığının artırılması, maliyyə
+məhsullarından (xidmətlərindən) faydalanan şəxslərin maliyyə savadlılığının və maliyyə
+məhsullarının (xidmətlərinin) keyfiyyətinin artırılması məqsədini daşıyır.
+1.3. Bu Rəhbərliyin müvafiq hissələri müstəsna olaraq təkrarsığorta fəaliyyəti ilə
+məşğul olan təkrarsığortaçılara onların bağladığı təkrarsığorta müqavilələrində
+istehlakçılarla birbaşa əlaqədə olmağa əsas verən hüquq və öhdəliklər müəyyən edildikdə
+nəzərə alınır.
+1.4. Bu Rəhbərliyin maliyyə institutlarının rəsmi internet səhifəsi, mobil tətbiq və
+digər elektron platformalarına dair müddəaları, onların mövcud olduğu hallarda nəzərə
+alınır.
+1.5. Direktorlar Şurası (Müşahidə Şurası) mövcud olmayan maliyyə
+institutlarında bu Rəhbərlikdə nəzərdə tutulmuş Direktorlar Şurasının (Müşahidə
+Şurasının) səlahiyyətlərini icra orqanı həyata keçirir.
+1.6. Bu Rəhbərlik maliyyə institutlarının fəaliyyətlərinin xarakterinə və
+xüsusiyyətlərinə uyğun olduğu həddə onlara tətbiq edilir.
+1.7. Bu Rəhbərliyin 29-cu, 30-cu, 32-34-cü hissələri banklar, xarici bankların
+yerli filialları, bank olmayan kredit təşkilatları, sığortaçılar, investisiya şirkətləri, ödəniş
+5
+--- page 6 ---
+təşkilatları və elektron pul təşkilatlarına şamil olunur. Bu Rəhbərliyin 31-ci hissəsi bank
+olmayan kredit təşkilatlarına şamil edilir.
+1.8. Bu Rəhbərliyə 1 nömrəli Əlavə kredit təşkilatlarının və ödəniş xidməti
+təchizatçılarının təqdim etdiyi maliyyə məhsullarına münasibətdə tətbiq edilir.
+2. Anlayışlar
+2.1. Bu Rəhbərliyin məqsədləri üçün istifadə olunmuş anlayışlar aşağıdakı
+mənaları ifadə edir:
+2.1.1. maliyyə institutu – banklar, xarici bankların yerli filialları, bank olmayan
+kredit təşkilatları, kredit ittifaqları, poçt rabitəsinin milli operatoru, sığortaçılar,
+təkrarsığortaçılar, sığorta vasitəçiləri, investisiya şirkətləri, investisiya fondları,
+investisiya fondlarının idarəçiləri, ödəniş təşkilatları və elektron pul təşkilatları;
+2.1.2. xidmət alan – maliyyə institutunun maliyyə məhsulundan istifadə edən,
+onları alan, sifariş verən, yaxud almaq və ya sifariş vermək niyyəti olan istehlakçılar və
+hüquqi şəxslər;
+2.1.3. istehlakçı – şəxsi tələbatını ödəmək məqsədi maliyyə məhsullarından
+istifadə edən fiziki şəxs, o cümlədən hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini
+həyata keçirən fiziki şəxs;
+2.1.4. həssas istehlakçı – məlum olduğu halda pensiya alan şəxslər, minimum
+əmək haqqı alan şəxslər və əlilliyi olan şəxslər;
+2.1.5. istehlak krediti - sahibkarlıq və ya peşə fəaliyyəti ilə bağlı olmayan
+məqsədlər üçün istehlakçıya verilən kredit;
+2.1.6. şikayət – pozulmuş və ya barəsində mübahisə edilən hüquq və azadlıqların
+bərpası və müdafiəsi ilə bağlı tələbləri nəzərdə tutan müraciət;
+2.1.7. davamlı daşıyıcı – məlumatın məqsədlərinə uyğun müddət ərzində
+saxlanılmasına imkan verən və saxlanılan məlumatın dəyişiklik olmadan əks etdirilməsi
+mümkün olan istənilən vasitə (kağız daşıyıcı, elektron məktub, CD disk, PDF və s);
+2.1.8. maliyyə məhsulu – maliyyə institutu tərəfindən istehlakçılara təklif edilən
+məhsul və xidmətlər;
+6
+--- page 7 ---
+2.1.9. əhəmiyyətli məlumatlar – maliyyə məhsulu ilə bağlı xidmət alanların iradə
+ifadəsinə və ya qərar verməsinə təsir edən istənilən məlumat;
+2.1.10. əlaqəli maliyyə məhsulu - iki və ya daha çox maliyyə məhsulunu
+özündə ehtiva edən və birlikdə təqdim edilən maliyyə məhsulu;
+2.1.11. çaşdırıcı elementlər – reklamda və satış materiallarında, habelə
+maliyyə məhsulunun təqdim edildiyi internet səhifələrində, mobil tətbiqlərdə və digər
+elektron platformalarda istifadə olunan, maliyyə institutu və maliyyə məhsulları barədə
+istehlakçıların müstəqil və məlumatlı seçim etmə (qərar vermə) qabiliyyətinə əhəmiyyətli
+dərəcədə mənfi təsir edən və ya zəiflədən təcrübələr və dizayn elementləri;
+2.1.12. təmsilçi – maliyyə institutu tərəfindən maliyyə institutunu təmsil
+etmək səlahiyyəti verilmiş işçi, vasitəçi və digər səlahiyyətləndirilmiş şəxs;
+2.1.13. vasitəçi – qanunvericilikdə nəzərdə tutulduğu halda, maliyyə
+institutunun adından və onun verdiyi səlahiyyətlər daxilində istehlakçılara maliyyə
+məhsullarını təqdim edən maliyyə institutu (fiziki şəxs);
+2.1.14. maraqlar münaqişəsi - maliyyə institutu tərəfindən maliyyə məhsulu
+təklif edilən istehlakçının maraqlarının bir hissəsinin və ya hamısının maliyyə institutunun
+maraqları ilə uyğun gəlmədiyi və ya uyğun gəlmədiyi ehtimal olunan vəziyyət;
+2.1.15. standart məlumatlandırma forması – maliyyə məhsulunun
+istehlakçıya daha anlaşılan və müqayisə edilə bilən formada çatdırılması məqsədilə
+hazırlanmış məhsulun əsas xüsusiyyətlərinin, şərtlərinin və xərclərinin xülasəsi;
+2.1.16. satış materialları – maliyyə məhsulu üzrə müqavilə bağlanmazdan
+əvvəl istehlakçıya təqdim edilməsi nəzərdə tutulan hər hansı sənəd, o cümlədən
+broşürlər, bukletlər, müraciət formaları, vərəqələr və s. materiallar.
+3. Bazar davranışı prinsipləri
+3.1. Maliyyə institutu özünün və təmsilçilərinin fəaliyyətinin, habelə daxili
+siyasət, qayda, proses və prosedurlarının aşağıdakı prinsiplərə uyğunluğunu təmin edir:
+3.1.1. açıqlama və şəffaflıq;
+3.1.2. ədalətli rəftar və biznes davranışı;
+3.1.3. istehlakçının maraqlarına uyğunluq;
+7
+--- page 8 ---
+3.1.4. mübahisələrin effektiv həlli;
+3.1.5. məlumatların və məxfiliyin qorunması.
+3.2. Açıqlama və şəffaflıq prinsipinə uyğun olaraq istehlakçı tərəfindən
+məlumatlı qərarın qəbul edilməsi məqsədilə maliyyə institutu istehlakçıya maliyyə
+məhsullarının xüsusiyyətləri, şərtləri, riskləri və xərcləri barədə dəqiq, vaxtında və
+asanlıqla başa düşülən dildə məlumat verir.
+3.3. Ədalətli rəftar və biznes davranışı prinsipinə uyğun olaraq, maliyyə institutu
+aşağıdakıları təmin edir:
+3.3.1. istehlakçıların maraqlarının daima diqqətdə saxlanılması;
+3.3.2. istehlakçılarla hər zaman ədalətli və hörmətlə rəftar edilməsi;
+3.3.3. istehlakçıların şəxsiyyəti ilə bağlı ayrı-seçkiliyə yol verilməməsi və onlarla
+aldadıcı davranılmaması;
+3.4. İstehlakçının maraqlarına uyğunluq prinsipinə müvafiq olaraq, maliyyə
+institutu aşağıdakıları təmin edir:
+3.4.1. istehlakçıların maliyyə imkanları, o cümlədən ehtimal olunan maliyyə
+imkanları, məqsədləri və ehtiyacları nəzərə alınmaqla maliyyə məhsullarının dizayn və
+təklif edilməsi;
+3.4.2. istehlakçıya hər hansı məsləhət verildiyi zaman istehlakçının maraqlarının
+öz maraqlarından üstün tutulması, habelə onun maliyyə imkanlarının, məqsədlərinin və
+ehtiyaclarının nəzərə alınması.
+3.5. Mübahisələrin effektiv həlli prinsipinə uyğun olaraq, maliyyə institutu xidmət
+alanların şikayətlərini qanuni, səmərəli, operativ və ədalətli şəkildə həll etmək üçün lazımi
+və adekvat daxili imkanların və yazılı siyasətlərin mövcudluğunu təmin edir.
+3.6. Məlumatların və məxfiliyin qorunması prinsipinə əsasən maliyyə institutu
+məlumatların toplanması, saxlanması, emalı, istifadəsi və açıqlanmasını qanunvericiliyə
+uyğun şəkildə həyata keçirir, əməkdaşlarının məlumatlardan səlahiyyətlərinə uyğun
+istifadəsini təmin edir və məlumatların qorunması istiqamətində digər təşkilati-texniki
+tədbirləri həyata keçirir.
+4. İdarəetmə və korporativ mədəniyyət
+8
+--- page 9 ---
+4.1. Maliyyə institutu bu Rəhbərlikdə müəyyən edilmiş vəzifələri öz
+strategiyalarına, korporativ idarəetmə sisteminə, qayda və prosedurlarına, insan
+resursları və mükafatlandırma siyasətlərinə daxil edir və istehlakçıların hüquqlarının
+müdafiəsinin daxili nəzarət sistemində və risklərin idarə edilməsi sistemində əsas
+komponentlərdən biri olmasını təmin edir.
+4.2. Maliyyə institutunda maliyyə məhsullarının, o cümlədən elektron formada
+(məsafədən) maliyyə məhsullarının təqdim edilməsi ilə bağlı istehlakçıların qarşılaşa
+biləcəyi risklərin tənzimlənməsi, azaldılması və qarşısının alınması prinsiplərini və
+tədbirlərini nəzərdə tutan mexanizmlər, daxili qayda və prosedurların mövcudluğu təmin
+edilir.
+4.3. Maliyyə institutu bu Rəhbərliyin 4.1-ci və 4.2-ci bəndlərində müəyyən
+edilmiş tədbirlərin icrasına nəzarətin Direktorlar Şurası (Müşahidə Şurası) tərəfindən
+həyata keçirilməsini təmin edir.
+4.4. Maliyyə institutunun Direktorlar Şurası (Müşahidə Şurası) maliyyə
+institutunun fəaliyyətinin bu Rəhbərliyə uyğunluğunu təmin etmək üçün maliyyə
+institutunun həyata keçirdiyi tədbirləri azı ildə 1 dəfə qiymətləndirir və çatışmazlıqları
+aradan qaldırılmasını təmin edir.
+5. İstehlakçıların hüquqlarının qorunması üzrə komplayens planı
+5.1. Maliyyə institutunun icra orqanı istehlakçıların hüquqlarının qorunması ilə
+bağlı tələblərə və bu Rəhbərliyə riayət etmək məqsədilə aparılacaq daxili yoxlamaları
+özündə əks etdirən yazılı komplayens planı hazırlayır. Plan həmçinin bu istiqamətdə
+əvvəllər aşkarlanmış tapıntılar üzrə təklif edimiş həll yollarının tətbiq edilib edilmədiyinin
+yoxlamalarını da əhatə edir.
+5.2. Maliyyə institututunda:
+5.2.1. komplayens funksiyasını həyata keçirən struktur bölməyə nəzarət edən
+kollegial icra orqanının üzvü (təkbaşına icra orqanının rəhbəri) komplayens planının
+icrasına nəzarət edir və həmin planın icra səviyyəsi barədə rüblük əsasda icra orqanına
+hesabat verir;
+5.2.2. komplayens planı hər il nəzərdən keçirilir və zərurət yarandıqda yenilənir.
+9
+--- page 10 ---
+5.3. Maliyyə institutu komplayens planının icra səviyyəsinin yoxlanılmasını
+daxili audit planında nəzərdə tutur.
+6. Maraqlar münaqişəsi
+6.1. Maliyyə institutu maliyyə məhsulunun təqdim edilməsi ilə bağlı özü, vəzifəli
+şəxsləri və təmsilçiləri ilə istehlakçılar arasında yaranan maraqlar münaqişəsindən
+istehlakçıya dəyə biləcək potensial maddi zərərin müəyyən edilməsi, qarşısının alınması
+və azaldılması üçün maliyyə institutunun biznes modelinin və həyata keçirdiyi fəaliyyətin
+xüsusiyyəti, həcmi və mürəkkəbliyi nəzərə alınmaqla zəruri texniki və təşkilati imkanlara,
+o cümlədən daxili prosedurlara malik olmalıdır.
+6.2. Bu Rəhbərliyin 6.1-ci bəndində nəzərdə tutulmuş maraqlar münaqişəsinə,
+həmçinin maliyyə institutunun mükafatlandırma siyasətindən irəli gələn mükafatlar və
+digər həvəsləndirici tədbirlərin səbəb olduğu maraqlar münaqişəsi də daxildir.
+6.3. Maliyyə institutu mükafatlandırma siyasətində müəyyən etdiyi
+mükafatlandırma sisteminin istehlakçıların müstəqil və məlumatlı seçim etmə (qərar
+vermə) qabiliyyətinə və maliyyə məhsullarının şəffaf və ədalətli formada təqdim
+olunmasına və icra edilməsinə təsir göstərməməsini təmin edir.
+6.4. İnvestisiya şirkətlərinin maraqlar münaqişəsinin müəyyən edilməsi,
+qarşısının alınması və azaldılması üzrə texniki və təşkilati imkanları, o cümlədən daxili
+prosedurları “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikası Qanununun
+36-cı maddəsində müəyyən edilmiş tələblərə cavab verməlidir.
+7. Təmsilçilər
+7.1. Maliyyə institutu aşağıdakılardan əmin olmaq üçün təmsilçilərə tezliyi
+maliyyə məhsulunun xüsusiyyətlərindən, risklərindən, xarakterindən və mürəkkəbliyindən
+asılı olaraq mütəmadi şəkildə təlimlər təşkil edir və istehlakçılara maliyyə məhsulunun
+təqdim edilməsi zamanı onların davranışlarının davamlı şəkildə monitorinqini aparır:
+7.1.1. təmsilçi maliyyə məhsulunun xüsusiyyətlərini, şərtlərini, risklərini və
+xərclərini anlayır;
+10
+--- page 11 ---
+7.1.2. təmsilçi qanunvericiliklə və bu Rəhbərliklə onun rol və funksiyalarına aid
+olan tələbləri anlayır və onlara uyğun olaraq fəaliyyət göstərir.
+7.2. Maliyyə institutu bu Rəhbərliyin 7.1-ci bəndində nəzərdə tutulmuş təlimin
+müvafiq təmsilçilik növünə və həmin təmsilçiliyin həyata keçirildiyi maliyyə sektoruna
+tətbiq olunan yerli qanunvericiliyə, beynəlxalq standartlara və qabaqcıl təcrübəyə
+uyğunluğunu təmin edir.
+2-ci Fəsil. Müqavilə bağlanmazdan əvvəl məlumatların açıqlanması
+8. Maliyyə institutunun açıqladığı ümumi məlumatlar
+8.1. Maliyyə institutu istehlakçılara maliyyə məhsullarının təqdim edildiyi bütün
+fiziki məkanlarda və rəsmi internet səhifəsində azı aşağıdakı məlumatları açıqlayır:
+8.1.1. maliyyə institutunun tam və qısaldılmış adı, fəaliyyətinə icazə verən sənədin
+tarixi və nömrəsi;
+8.1.2. maliyyə institutunun, onun filial, şöbə və nümayəndəliklərinin yerləşdiyi
+ünvan, əlaqə məlumatları və iş qrafikləri;
+8.1.3. geniş istehlakçı kütləsinə təqdim etdiyi maliyyə məhsullarının siyahısı,
+habelə onlarla əlaqədar istehlakçının üzləşə biləcəyi aşağıdakı risklər:
+8.1.3.1. istehlakçı tərəfindən müvafiq ödənişin edilməməsinin və ya
+gecikdirilməsinin nəticələri (dəbbə pulunun (gecikdirilmə faizlərinin) tətbiqi, girov
+predmetinə tutma yönəldilməsi, tələbin zaminə yönəldilməsi, məhkəmədə iddianın
+qaldırılması və s.);
+8.1.3.2. informasiya təhlükəsizliyi və kibercinayətkarlıq riskləri (məxfi
+məlumatların paylaşılmasının, saxta keçidlərdən istifadə edilməsinin mümkünnəticələri
+və s.);
+8.1.4. kütləvi təqdim etdiyi maliyyə məhsulları ilə əlaqədar istehlakçının maliyyə
+öhdəlikləri (faizlər, ödənilməli olan haqlar və ya hesablanması qaydası, habelə onların
+ödənilmə müddəti və qaydası);
+8.1.5. maliyyə institutunun fəaliyyətinə nəzarəti həyata keçirən orqanın (qurumun)
+adı, ünvanı, əlaqə məlumatları və rəsmi internet səhifəsi (səhifəyə keçid imkanı
+yaratmaqla);
+11
+--- page 12 ---
+8.1.6. mübahisələrə məhkəmədənkənar qaydada baxılması imkanları (ardıcıl
+olaraq maliyyə institutuna, müvafiq hallarda bank ombudsmanına, Mərkəzi Banka və
+mübahisələrin həlli ilə məşğul olan digər orqanlara (qurumlara) müraciətlərin edilməsi
+qaydası və ünvanı);
+8.1.7. digər maliyyə institutunun təmsilçisi olduqda həmin maliyyə institutunun tam
+adı və ünvanı;
+8.1.8. mövcud olduqda istehlakçının maliyyə məhsulunu əldə etməsi üçün
+qanunvericiliklə və ya maliyyə institutu tərəfindən müəyyən edilmiş minimum şərtlər və
+tələblər;
+8.1.9. qanunvericiliklə açıqlanması tələb olunan digər məlumatlar.
+8.2. Maliyyə institutu mobil tətbiqlərində təqdim edilən maliyyə məhsulları üzrə
+bu Rəhbərliyin 8.1.3-cü, 8.1.4-cü və 8.1.6-cı yarımbəndlərində nəzərdə tutulmuş
+məlumatları açıqlayır.
+8.3. Bu Rəhbərliyin 8.1.3-cü və 8.1.4-cü yarımbəndlərinin tələbləri fiziki məkana
+(ofis, filial və s.) münasibətdə həmin yerlərdə təqdim olunan maliyyə məhsullarına tətbiq
+edilir.
+8.4. Maliyyə institutu istehlakçıların hüquqlarının pozulmasına səbəb olmuş
+halları aradan qaldırır və həmin hallar, habelə onların aradan qaldırılması barədə
+icmallaşdırılmış məlumatı (pozuntuların mahiyyəti üzrə) bu Rəhbərliyin 13-cü hissəsini
+nəzərə alınmaqla rəsmi internet səhifəsində açıqlayır.
+9. Standart şərtlərin açıqlanması
+9.1. Maliyyə institutu maliyyə məhsulunun standart şərtlərinin (məsələn, sığorta
+qaydalarının) və müqavilə formasının (kredit müqaviləsi, əmanət müqaviləsi və s.)
+istehlakçıya aşağıdakı formalarda əlçatanlığını təmin edir:
+9.1.1. rəsmi internet səhifəsində mətnin surətini çıxarmağa imkan verən PDF
+formatında yerləşdirir və elektron poçt ünvanına yönləndirmək imkanı yaradır;
+9.1.2. istehlakçının müraciəti əsasında davamlı daşıyıcıda təqdim edir;
+9.1.3. maliyyə institutunun və ya təmsilçinin müvafiq maliyyə məhsulunu təklif
+etdiyi yerdə (ofisdə, filialda və s.) yerləşdirir.
+12
+--- page 13 ---
+10. Müqavilənin yekun redaksiyası
+10.1. Maliyyə institutu müqavilə bağlanmazdan əvvəl təklif olunan maliyyə
+məhsulu üzrə müqavilənin yekun redaksiyasını istehlakçıya təqdim edir.
+10.2. Müqavilənin yekun redaksiyası ayrı sənəd (elektron sənəd) formasında
+tərtib edilməli, habelə reklam və satış materiallarına istinad olmamalıdır.
+10.3. Ayrı-ayrı maliyyə məhsulları üzrə normativ hüquqi aktlarda başqa qayda
+nəzərdə tutulmayıbsa, maliyyə institutu təklif olunan hər maliyyə məhsulu üzrə
+müqavilənin yekun redaksiyasına azı aşağıdakı məlumatları daxil edir:
+10.3.1. bu Rəhbərliyin 8.1.1-ci və 8.1.4-8.1.7-ci yarımbəndlərində nəzərdə
+tutulmuş məlumatlar;
+10.3.2. maliyyə məhsulunun adı;
+10.3.3. istehlakçıya faydaları (üstünlükləri) və onun hüquqları, habelə
+məhdudiyyətlər və istisnalar daxil olmaqla maliyyə məhsulunun əsas xüsusiyyətləri;
+10.3.4. maliyyə məhsulu ilə əlaqədar istehlakçı üçün yaranan azı aşağıdakı
+risklər:
+10.3.4.1. istehlakçı tərəfindən öhdəliklərin icra edilməməsinin və ya lazımınca
+icra edilməməsinin nəticələri (dəbbə pulunun (gecikdirilmə faizlərinin) tətbiqi, girov
+predmetinə tutma yönəldilməsi, tələbin zaminə yönəldilməsi, məhkəmədə iddianın
+qaldırılması və s.);
+10.3.4.2. informasiya təhlükəsizliyi və kibercinayətkarlıq riskləri (məxfi
+məlumatların paylaşılmasının, saxta keçidlərdən istifadə edilməsinin mümkün nəticələri
+və s.)
+10.3.5. müqavilənin qüvvədə olma müddəti (tətbiq olunduqda);
+10.3.6. müqavilə şərtləri əlaqəli maliyyə məhsulunun bir hissəsini təşkil edən digər
+maliyyə məhsulu ilə bağlı olduqda əlaqəli maliyyə məhsuluna ayrılıqda xitam verilməsinin
+mümkünlüyünə və bu xitamın istehlakçı üçün nəticələrinə dair izah;
+10.3.7. müqavilənin hər hansı müddəasına və ya müqavilə üzrə ödənilməli olan
+hər hansı məbləğə edilə biləcək dəyişikliklər barədə dəqiq məlumat və dəyişikliklərin
+edilməsi qaydası.
+13
+--- page 14 ---
+11. Standart məlumatlandırma forması
+11.1. Maliyyə institutu aşağıdakı maliyyə məhsulu üzrə istehlakçıya standart
+məlumatlandırma formasını təqdim edir:
+11.1.1. istehlak krediti;
+11.1.2. könüllü sığorta növləri;
+11.2. Standart məlumatlandırma forması aşağıdakı hallarda istehlakçıya təqdim
+edilir:
+11.2.1. istehlakçı tələb etdikdə;
+11.2.2. istehlakçı maliyyə məhsulu barədə sorğu (müraciət) etdikdə;
+11.2.3. istehlakçıya maliyyə məhsulu üzrə müqavilənin bağlanması haqqında
+təklif verildikdə.
+11.3. Standart məlumatlandırma forması:
+11.3.1. qısa məzmunda tərtib olunur və ayrıca olaraq istehlakçıya təqdim edilir;
+11.3.2. bu Rəhbərliyin 13-cü hissəsinə uyğun tərtib edilir, o cümlədən təqdim
+edildiyi anda aktual olan məlumatı əks etdirir;
+11.3.3. kağız daçıyıcıda təqdim edildikdə “A4” formatında tərtib olunur və sağ
+yuxarı küncündə tünd şriftlə bu formanın maliyyə məhsulu üzrə müqavilə olmadığı qeyd
+olunur;
+11.4. Maliyyə institutu tərəfindən maliyyə məhsulu üzrə standart
+məlumatlandırma formasının “PDF” formatında yüklənmə və mətn üzrə axtarış imkanı
+təmin edilir və aydın görünən formada (şablon) maliyyə institutunun rəsmi internet
+səhifəsində və mobil tətbiqlərində yerləşdirilir.
+11.5. Müqavilə maliyyə məhsulunun təqdim edildiyi ofislərdə (filiallarda və s.)
+bağlandıqda standart məlumatlandırma kağız daşıyıcısında təqdim edilir.
+11.6. Maliyyə institutu maliyyə məhsulunun məsafədən təqdim edilməsi zamanı
+müqavilə bağlanmasından əvvəl istehlakçı tərəfindən standart məlumatlandırma forması
+ilə tanış olmasının təsdiq edilməsini təmin edir. Forma elektron formada (davamlı
+daşıyıcıda) təqdim edildikdə istehlakçı tərəfindən müvafiq məlumatların əldə edilməsi
+elektron qaydada təsdiq oluna bilər.
+14
+--- page 15 ---
+11.7. Könüllü sığorta növləri üzrə standart məlumatlandırma forması bu
+Rəhbərliyin 6 nömrəli Əlavəsində müəyyən edilmiş formada verilir.
+11.8. İstehlak krediti üzrə standart məlumatlandırma forması Mərkəzi Bankın
+“İstehlak krediti müqaviləsi üzrə standart məlumatlandırma forması”nın təsdiq edilməsi
+barədə” 26 iyul 2023-cü il tarixli 38/2 nömrəli Qərarı ilə tənzimlənir və istehlakçıya Mülki
+Məcəllənin tələblərinə uyğun olaraq təqdim edilir. Bu forma bu Rəhbərlikdə müəyyən
+edilmiş istehlak kreditlərinə də tətbiq edilir.
+12. İstehlakçıya verilən izahlar
+12.1. Maliyyə institutu maliyyə məhsulunun fiziki təqdim edilməsi zamanı
+aşağıdakıları ona aydın şəkildə izah edir:
+12.1.1. istehlakçının maraqlandığı maliyyə məhsulunun xüsusiyyətləri, əsas
+şərtləri, istehlakçı üçün bütün xərcləri və azı aşağıdakı riskləri:
+12.1.1.1. istehlakçı tərəfindən müvafiq ödənişin edilməməsinin və ya
+gecikdirilməsinin nəticələri (dəbbə pulunun (gecikdirilmə faizlərinin) tətbiqi, girov
+predmetinə tutma yönəldilməsi, tələbin zaminə yönəldilməsi, məhkəmədə iddianın
+qaldırılması və s.);
+12.1.1.2. informasiya təhlükəsizliyi və kibercinayətkarlıq riskləri (məxfi
+məlumatların paylaşılmasının, saxta keçidlərdən istifadə edilməsinin mümkün nəticələri
+və s.)
+12.1.2. təqdim edilən maliyyə məhsulunun əlaqəli maliyyə məhsulunun tərkib
+hissəsi olub-olmaması, əlaqəli maliyyə məhsulu olduğu təqdirdə hər bir tərkib hissənin
+ayrıca ləğv edilməsinin mümkünlüyü və belə ləğvin istehlakçı üçün nəticələri;
+12.1.3. maliyyə məhsulunu təqdim edən maliyyə institutu vasitəçi olduqda,
+həmçinin onun yalnız bir və ya daha çox maliyyə institutlarına xidmət göstərib-
+göstərmədiyi, habelə xidmət göstərdiyi maliyyə institutlarının adı;
+12.2. Maliyyə məhsulu barədə məlumatların təqdim edilməsinə ehtiyacın
+olmadığını bildirən istehlakçının aşağı maliyyə savadlılığına malik olmasına və ya
+məhsulun əsas xüsusiyyətlərini anlaya bilməməsinə dair əsasılı şübhələr olduqda
+15
+--- page 16 ---
+maliyyə institutu tərəfindən istehlakçıya bu Rəhbərliyin 12.1-ci bəndinə uyğun olaraq,
+izahlar verilir.
+12.3. Öhdəliyin icrasına təminat (zaminlik, girov və s.) vermək istəyən şəxsə
+(zaminə, girov qoyana və s.) maliyyə institutu tərəfindən həmin təminatın verilməsi ilə
+bağlı risklər, yarana biləcək öhdəliklər və öhdəliyin icra edilməməsinin təminat qismində
+çıxış edən əmlaka hüquqi təsiri aydın şəkildə izah edilir.
+13. Məlumatların açıqlanması
+13.1. Bu Rəhbərliyin bütün fəsil və hissələrində açıqlanmalı və təqdim edilməli
+olan məlumatlar, habelə müqavilələr və bildirişlər aşağıdakı tələblərə uyğun tərtib olunur:
+13.1.1. aydın və sadə şəkildə ifadə edilməlidir;
+13.1.2. oxunaqlı olmaq üçün kifayət qədər ölçüdə və görünən olmalı və
+istehlakçını çaşdırmamalıdır;
+13.1.3. audio və ya video formatda olduqda aydın şəkildə eşidilə bilən və görünən
+olmalıdır;
+13.1.4. maliyyə məhsulunun şərtləri ilə uyğunluq təşkil etməlidir;
+13.1.5. açıqlanan və təqdim edilən anda aktual olmalıdır.
+13.2. İstehlakçıya təqdim edilən bütün sənədlərdə onun hazırlandığı tarix qeyd
+olunur. Tətbiq olunduqda müqavilənin bağlanılması təklifi və şərtlərini əhatə edən
+məlumatların qüvvədə olduğu müddət açıqlanır.
+13.3. Əlaqəli maliyyə məhsulunu təklif edən maliyyə institutu əlaqəli maliyyə
+məhsulunun hər bir tərkib hissəsi üzrə şərtlər və qaydaları ayırır, hər bir tərkib hissəsi
+üzrə haqq və ödənişləri ayrılıqda müəyyən edir, habelə açıqlanması tələb olunan
+məlumatları və standart məlumatlandırma formalarını ayrılıqda təqdim edir (açıqlayır).
+13.4. Rəsmi internet səhifəsində, mobil tətbiqlərdə və digər elektron
+platformalarda açıqlanması tələb olunan məlumatlar elə yerləşdirilir ki, istehlakçıların
+həmin məlumatlara asanlıqla çıxış imkanları olsun və onlardan asanlıqla istifadə edə
+bilsinlər. Maliyyə məhsulunun standart şərtləri, müqavilə formaları (sığorta
+şəhadətnamələri, kredit müqaviləsi və s.) və Mərkəzi Bankın maliyyə savadlılığı portalına
+və maliyyə məhsullarının məlumat-axtarış sisteminə keçid maliyyə institutunun rəsmi
+16
+--- page 17 ---
+internet səhifəsinin, mobil tətbiqinin və digər elektron platformasının əsas keçidləri
+(menyu) ilə yanaşı yerləşdirilir və əsas keçidlərlə eyni ölçüdə və görüntüdə verilir.
+3-cü Fəsil. Maliyyə məhsullarının uyğunluğu
+14. Maliyyə məhsulunun idarə edilməsi
+14.1. Maliyyə institutu yeni maliyyə məhsulunun hazırlanması və mövcud
+məhsullarda əhəmiyyətli dəyişikliklərin edilməsi üçün maliyyə məhsulunun təsdiqi
+prosesini hazırlayır, tətbiq edir, idarə edir və mütəmadi olaraq nəzərdən keçirir.
+İstehlakçıların hüquqlarının qorunması baxımından bu proses maliyyə məhsulu üzrə
+aşağıdakıların təmin edilməsinə yönəlir:
+14.1.1. istehlakçıların kateqoriyasının (məsələn, tələbə, işsiz, təqaüdçü və s.),
+məqsəd və ehtiyaclarının nəzərə alınması;
+14.1.2. istehlakçılara dəyə biləcək maddi zərərin qarşısının alınması və
+azaldılması.
+14.2. Bu Rəhbərliyin 14.1-ci bəndində nəzərdə tutulmuş maliyyə məhsulunun
+təsdiqi prosesi yazılı formada icra orqanı tərəfindən hazırlanır və aşağıdakıları əhatə edir:
+14.2.1. məhsulun dizaynı, monitorinqi və istehlakçılara təqdim edilməsi tədbirləri
+və prosedurları;
+14.2.2. maliyyə institutunun məhsulun istehlakçılara maddi zərər vurduğunu aşkar
+etdikdə həyata keçirəcəyi tədbirlər (məhsulun dəyişdirilməsi, məlumatların təqdim
+edilməsinin təkmilləşdirilməsi və s.);
+14.2.3. məhsulun dizaynı, monitorinqi və istehlakçılara təqdim edilməsi ilə bağlı
+yarana biləcək maraqlar münaqişəsinin idarə edilməsi prosedurları.
+14.3. Bu Rəhbərliyin 14.2-cü bəndində nəzərdə tutulmuş prosedurlar maliyyə
+məhsulunun mürəkkəbliyinə, habelə maliyyə institutunun biznes modelinin və həyata
+keçirdiyi fəaliyyətin xüsusiyyətinə, həcminə və mürəkkəbliyinə uyğun hazırlanır.
+14.4. Maliyyə məhsulunun təsdiqi prosesinin hazırlanmasına, idarə edilməsinə və
+həyata keçirilməsinə, habelə bu Rəhbərliyin 14-cü hissəsində nəzərdə tutulmuş
+17
+--- page 18 ---
+vəzifələrin icra edilməsi üçün tədbirlərin effektivliyinin monitorinq edilməsinə və mütəmadi
+olaraq qiymətləndirilməsinə maliyyə institutunun icra orqanı cavabdehdir.
+15. Hədəf müştəri seqmenti
+15.1. Maliyyə institutu maliyyə məhsulunun xüsusiyyətini və mürəkkəbliyini
+nəzərə alaraq hər məhsul üzrə mümkün qədər detallı şəkildə istehlakçı hədəf müştəri
+seqmentini müəyyən edir.
+15.2. Maliyyə institutu müvafiq maliyyə məhsulunun istehlakçının kateqoriyasına,
+məqsəd və ehtiyaclarına uyğun olmayan istehlakçılar qruplarını da müəyyən edə bilər.
+15.3. Maliyyə institutu maliyyə məhsulunu hədəf müştəri seqmentinə daxil olan
+istehlakçıların kateqoriyasına, məqsədlərinə və ehtiyaclarına uyğun hazırlayır. Maliyyə
+məhsulunun hədəf müştəri seqmentinə uyğunluğunu müəyyən edərkən maliyyə institutu
+müvafiq hədəf müştəri seqmentinə daxil olan istehlakçıların məlumatlılıq səviyyəsini və
+onların maliyyə savadlılığını nəzərə alır.
+15.4. Hədəf müştəri seqmentinin müəyyən edilməsi üçün meyarlar maliyyə
+məhsulunun istehlakçıya uyğun olub-olmamasını müəyyən etmək imkanı verməlidir.
+15.5. Maliyyə məhsulu ilə bağlı hədəf müştəri seqmentinə dair məlumat maliyyə
+məhsulunun təsdiq edilməsi qərarına əlavə olunur.
+15.6. Maliyyə institutu hədəf müştəri seqmentinə uyğun olan və uyğun olmayan
+istehlakçılarla bağlanılan müqavilələrinin qeydiyyatını aparır.
+15.7. Maliyyə institutu maliyyə məhsullarının dizaynında və hazırlanmasında
+iştirak edən əməkdaşlarının maliyyə məhsulları, habelə hədəf müştəri seqmentinə daxil
+olan istehlakçıların kateqoriyası, məqsəd və ehtiyaclarını düzgün başa düşmək üçün
+lazımi bilik, bacarıqlara və təcrübəyə malik olmasını təmin edir.
+16. Məhsulun monitorinqi
+16.1. Maliyyə institutu aşağıdakıları təmin etmək məqsədilə istehlakçılara təqdim
+edilən maliyyə məhsullarını daimi olaraq monitorinq edir:
+18
+--- page 19 ---
+16.1.1. məhsulların xüsusiyyətlərinə, faydalarına (üstünlüklərinə), təminatına və
+şərtlərinə əhəmiyyətli təsir göstərə biləcək hal və hadisələrin müəyyən edilməsi;
+16.1.2. məhsulların hədəf müştəri seqmentinə daxil olan istehlakçıların
+kateqoriyalarına, məqsəd və ehtiyaclarına uyğunluğunun qiymətləndirilməsi;
+16.1.3. məhsulların təqdim edilməsinin hədəf müştəri seqmenti ilə
+məhdudlaşdığının və ya hədəf müştəri seqmentindən kənar istehlakçılara təqdimedilmə
+dərəcəsinin qiymətləndirilməsi.
+16.2. Maliyyə institutu bu Rəhbərliyin 16.1-ci bəndində nəzərdə tutulan
+monitorinqin keçirilmə dövriliyini məhsulun həcmi, mürəkkəbliyi, habelə qanunvericilikdə
+baş verən dəyişikliklər kimi faktorları nəzərə alaraq müəyyən edir.
+16.3. Maliyyə məhsulunun hədəf müştəri seqmentinə daxil olan istehlakçılara
+mənfi təsir göstərməsi və ya onların kateqoriyasına, məqsəd və ehtiyaclarına uyğun
+olmadığı aşkarlandıqda maliyyə institutu istehlakçılara dəyə biləcək maddi zərərin
+qarşısını almaq və ya azaltmaq, həmçinin məhsulun təqdim edilən hədəf müştəri
+seqmentinə daxil olan istehlakçıların kateqoriyasına, məqsəd və ehtiyaclarına uyğun
+gəlməsini təmin etmək üçün tədbirlər görür.
+16.4. Maliyyə institutu vasitəçilərin fəaliyyətinin məhsulun təsdiqi prosesinə
+uyğunluğunu, o cümlədən məhsulların hədəf müştəri seqmentinə uyğun istehlakçılara
+təqdim edilməsini monitorinq edir. Monitorinq tədbirləri məhsulların təqdim edilməsi
+formasının xüsusiyyətləri və tətbiq olunan qanunvericiliyin tələbləri nəzərə alınmaqla
+ağlabatan olmalıdır.
+17. Maliyyə məhsulunun təqdim edilməsi
+17.1. Maliyyə institutu maliyyə məhsulunun istehlakçıya kim tərəfindən və hansı
+vasitələrlə təqdim edilməsini müəyyən (təsdiq) edərkən hədəf müştəri seqmentini, habelə
+məhsulun xüsusiyyətlərini, risklərini, xarakterini və mürəkkəbliyini nəzərə alır.
+17.2. Maliyyə institutu maliyyə məhsulunu vasitəçidən istifadə etməklə
+istehlakçılara təqdim etdikdə o, aşağıdakıları təmin etmək məqsədilə vasitəçini məhsulun
+təqdim edildiyi müddətdə zəruri olan məlumatlarla təchiz edir:
+17.2.1. vasitəçi maliyyə məhsulu və hədəf müştəri seqmentini başa düşə bilsin;
+19
+--- page 20 ---
+17.2.2. vasitəçi hədəf müştəri seqmentinə daxil olmayan istehlakçıları müəyyən
+edə bilsin;
+17.2.3. vasitəçi istehlakçıların maraqlarını nəzərə alaraq maliyyə məhsullarını
+təqdim edə bilsin.
+4-cü Fəsil. Xidmət keyfiyyəti və əlçatanlığı
+18. Həssas istehlakçılar üçün əlçatanlıq
+18.1. Maliyyə institutu öz maliyyə məhsullarını hazırlayarkən həssas
+istehlakçıların məhsulların istifadəsi ilə əlaqədar ehtiyaclarını nəzərə alır, məhsullarını
+həssas istehlakçıların istifadəsinə uyğun halda təqdim edir, xidmət göstərdiyi məkanları
+və xidmətləri əlçatanlıq tələblərinə uyğun vəziyyətə gətirir. Bunun üçün maliyyə institutu
+tərəfindən azı aşağıdakılar təmin edilir:
+18.1.1. maliyyə institutunun aidiyyəti əməkdaşlarına həssas istehlakçılara
+davranış qaydaları ilə bağlı müvafiq təlimlərin keçirilməsi;
+18.1.2. təqdim edilən məhsulların əlçatanlığı, istifadəsi və təhlükəsizliyi barədə
+həssas istehlakçıların məlumatlandırılması;
+18.1.3. məlumatlandırıcı lövhələrdə (elektron lövhələr (ekranlar) daxil) yazıların
+və simvolların adekvat böyüklükdə olması, oxunaqlı yazı şriftlərindən istifadə olunması,
+mümkün olduğu qədər yazı və simvolların qabarıq formada verilməsi;
+18.1.4. məhsullara aid şərtlər, müqavilələr və digər zəruri məlumatların internet
+səhifəsində, mobil tətbiqində və digər elektron platformalarında səsli və işarət dili ilə
+təchiz edilmiş video formatlarında yayımlanması imkanının nəzərdən keçirilməsi;
+18.1.5. müqavilələrin, hesabdan çıxarışların və digər sənədlərin oxunması, FİN
+nömrəsi və ya digər şifrə xarakterli məlumatların təqdim olunması tələb olunduğu
+təqdirdə, bunların həssas istehlakçılara onların tələbinə uyğun və təhlükəsizlik tədbirləri
+nəzərə alınmaqla Breyl əlifbası, səsli məlumatlandırma, işarət dili ilə təmin edilmiş video
+formatlar və bu qəbildən olan digər vasitələrlə təqdim olunması imkanının nəzərdən
+keçirilməsi;
+18.1.6. həssas istehlakçıların sağlamlıq vəziyyəti ilə bağlı məxfiliyin qorunması.
+18.2. Maliyyə institutu maliyyə məhsullarından istifadə edən və istifadə etmək
+20
+--- page 21 ---
+istəyən həssas istehlakçıların və onlarla aparılan əməliyyatların uçotunu aparır və 5
+(beş) il müddətində saxlayır.
+19. Ofis və maddi təchizat
+19.1. Maliyyə institutu maliyyə məhsullarının təqdim edildiyi ofislərdə istehlakçıların
+rahat və təhlükəsiz hərəkətini, hava temperaturunun mövsümə uyğun tənzimlənməsini,
+habelə istehlakçılarla qarşılıqlı əlaqə üçün zəruri olan inventar və mebellə təchiz
+edilməsini təmin edir.
+19.2. Maliyyə institutu ofislərdə maliyyə məhsullarını təqdim etdiyi halda
+aşağıdakıları təmin edir:
+19.2.1. bu Rəhbərliyin 8.1-ci bəndində nəzərdə tutulmuş məlumatların
+açıqlanmasını;
+19.2.2. istehlakçılarla birbaşa əlaqədə olan şəxslərin adı və soyadını əks
+etdirən vizual alətlərlə təchiz edilməsini;
+19.2.3. ofisdə ofisin təyinatına (məsələn, sığorta hadisələrinin tənzimlənməsi)
+və əməkdaşlarının səlahiyyətlərinə uyğun olaraq, xidmətlərin göstərilməsi imkanının
+təmin edilməsini.
+19.3. Maliyyə institutu maliyyə məhsullarını alan həssas istehlakçılar üçün zəruri
+olduqda müqavilənin mətninin böyüdülməsi, bu Rəhbərliyin 8-ci hissəsində müəyyən
+edilmiş məlumatların iri şriftlə çap etdirilməsi, habelə həssas istehlakçıların digər
+istehlakçılarla bərabər şəkildə məlumatlar almasına və xidmətlərdən istifadə etməsinə
+maneə törədən digər əngəllərin aradan qaldırılmasını təmin edir.
+19.4. Maliyyə institutunun inzibati binalarında xidmətlər fiziki məhdudiyyəti olan
+istehlakçılar üçün maliyyə institutunun əməkdaşlarından kənar əlavə şəxslərin köməyinə
+ehtiyac duymayacaq şəkildə göstərilir.
+19.5. Xidmət növbəliliyində fiziki məhdudiyyəti olan şəxslərə, azyaşlı uşaqlı
+şəxslərə və yaşlı şəxslərə öncəlik verilir.
+20. Ödəniş terminalları və internet (mobil) bankçılıq
+21
+--- page 22 ---
+20.1. Maliyyə institutu istehlakçıların fiziki ödəniş terminalları (POS-terminal və
+s.) ilə əməliyyat aparılması nəzərdə tutulan ofislərini azı bir ədəd görmə məhdudiyyətli
+istehlakçıların istifadəsi üçün uyğun olan fiziki ödəniş terminalları ilə təmin edir.
+20.2. Mümkün olduqda görmə məhdudiyyətli olmasını maliyyə institutuna bildirən
+həssas istehlakçının internet bankçılıqdan istifadəsi zamanı tək istifadəlik şifrələrin səsli
+ekran oxuyucu proqramlara inteqrasiya oluna bilinməsi təmin edilir Bu zaman
+təhlükəsizlik riskləri müştəriyə əvvəlcədən bildirilir.
+20.3. Maliyyə institutlarının rəsmi internet səhfələrində və mobil tətbiqlərində
+görmə məhdudiyyətli istehlakçılar üçün müyəssərliyin təmin edilməsi üçün müvafiq
+imkanlar yaradılır.
+21. İstehlakçılarla birbaşa əlaqədə olan şəxslər
+21.1. Maliyyə institutunun istehlakçılarla birbaşa əlaqədə olan əməkdaşlarıəmək
+müqaviləsi və maliyyə institutunun daxili sənədləri ilə müəyyən edilmiş öhdəliklərin yerinə
+yetirilməsi üçün zəruri olan məlumatları, o cümlədən bu Rəhbərliyin 8-ci hissəsində
+müəyyən edilmiş məlumatları bilməli və həmin məlumatları istehlakçılara aydın formada
+təqdim etməyi bacarmalıdırlar.
+21.2. Maliyyə institutu istehlakçılarla birbaşa əlaqədə olan əməkdaşları tərəfindən
+bu Rəhbərliyin 8-ci hissəsində nəzərdə tutulmuş məlumatların əldə edilməsi, öyrənilməsi
+və yenilənməsi məqsədilə onlara təlimlərin keçirilməsini və həmin əməkdaşların ümumi
+peşəkarlıq səviyyəsinin yüksəldilməsinə yönəlmiş digər tədbirlərin görülməsini təmin edir.
+21.3. Bu Rəhbərliyin 21.2-ci bəndində nəzərdə tutulmuş təlimlər maliyyə
+institutunun tədrisin təşkili qaydalarına uyğun olaraq həyata keçirilir və həmin qaydalarda
+aşağıdakılar əks etdirilir:
+21.3.1. istehlakçılarla birbaşa əlaqədə olan vəzifələrin müəyyənedilmə
+meyarları;
+21.3.2. istehlakçılarla birbaşa əlaqədə olan əməkdaşların tədrisinin həyata
+keçirilməsi qaydası;
+21.3.3. istehlakçılarla birbaşa əlaqədə olan əməkdaşların müvafiq təlim və
+öyrənmə tədbirlərinin keçirilmə tezliyinə dair tələblər;
+22
+--- page 23 ---
+21.3.4. istehlakçılarla birbaşa əlaqədə olan əməkdaşların vəzifələrinin icra
+edilməsi keyfiyyətinin qiymətləndirilməsinə imkan verən kvalifikasiyasının yoxlanılması
+qaydası;
+21.3.5. istehlakçılarla birbaşa əlaqədə olan əməkdaşların təlim nəticələrinin
+qeydə alınması qaydası və üsulu.
+21.4. Maliyyə institutu əməkdaşını bu Rəhbərliyin 21.2-ci bəndində nəzərdə
+tutulmuş təlimlərdən keçdikdən sonra istehlakçılarla birbaşa əlaqədə olan işə cəlb edə
+bilər.
+22. Müştəri məmnuniyyəti sorğularının keçirilməsi
+22.1. Kredit təşkilatları, sığortaçılar, investisiya şirkətləri, ödəniş təşkilatları və
+elektron pul təşkilatları istehlakçıya xidmət mərkəzlərində və telefon vasitəsi ilə xidmət
+göstərdikdən sonra xidmət keyfiyyətinin səviyyəsinin ölçülməsi üçün qiymətləndirmə
+aparır.
+22.2. Qiymətləndirmə xidmət mərkəzləri, SMS, elektron poçt, mobil tətbiq və ya
+digər rəqəmsal kanallar vasitəsilə aparılır. Qiymətləndirmə 5 ballıq şkala əsasında (1 bal
+– ən aşağı, 5 bal – ən yüksək səviyyə olmaqla) aparılır.
+22.3. Qiymətləndirmə sorğusu xidmət göstərildikdən sonra 24 saat ərzində
+istehlakçıya təqdim edilir və sorğuda “Sizə göstərilmiş xidmət keyfiyyətinin 5 ballıq şkala
+əsasında qiymətləndirilməsi xahiş olunur (1 – çox pis, 2 – pis, 3 – kafi, 4 – yaxşı, 5 – əla)”
+ifadəsi əks olunur.
+22.4. Qiymətləndirmə nəticələri qeydiyyata alınır və azı 5 (beş) il müddətində
+saxlanılır.
+5-ci Fəsil. Biznes davranışı
+23. İstehlakçılarla əlaqə
+23.1. İstehlakçıya telefon zəngi etdikdə maliyyə institutunun əməkdaşı və təmsilçi
+aşağıdakıları ardıcıl olaraq təmin edir:
+23
+--- page 24 ---
+23.1.1. özünün adını və soyadını, vəzifəsini, habelə təmsil etdiyi maliyyə
+institutunun adını bildirir;
+23.1.2. razılıq verildiyi təqdirdə telefon zənginin qeydə alınanacağını və azı
+3 (üç) il ərzində saxlanılacağını bildirir;
+23.1.3. olduqda telefon zənginin edilməsini yönəldən maliyyə institutunun
+adını bildirir;
+23.1.4. telefon zənginin davam etməsini istəyib-istəmədiyini müəyyənləşdirir
+və razılıq olmadıqda əlaqəni dərhal dayandırır.
+23.2. Maliyyə institutu telefonla əlaqə saxlayarkən maliyyə məhsullarını təqdim
+etmək istədikdə istehlakçının ayrıca razılığını alır, razılıq verilmədikdə isə əlaqəni dərhal
+dayandırır.
+23.3. Razılıq alınmalı hallar üzrə müştərinin susması razılığın verildiyini əks
+etdirmir.
+23.4. Maliyyə institutu istehlakçı tərəfindən edilən zənglərdə məhsulların təqdim
+edilmə vaxtlarına uyğun olaraq operatorla əlaqəyə girmək imkanını təmin edir.
+23.5. Danışıqların qeydə alınması və saxlanması üçün istehlakçının razılığı əldə
+edilməklə istehlakçı ilə aparılan bütün telefon danışıqları qeydə alınır və azı 3 (üç) il
+müddətində saxlanılır.
+24. Əməliyyatların təhlükəsizliyinin təmin edilməsi
+24.1. Maliyyə institutu əməliyyatların icrası zamanı mövcud qanunvericiliyə
+uyğunluğu təmin etməli, müştəri məlumatlarının qorunması və ödəniş əməliyyatlarının
+təhlükəsizliyi üzrə qanunvericiliyin tələblərinə riayət etməlidir.
+24.2. Əməliyyatlarının təhlükəsizliyinin təmin edilməsi məqsədilə maliyyə institutu
+əməliyyatlar zamanı effektiv təhlükəsizlik tədbirlərindən (müştəri məlumatlarının
+qorunması, müştəri əməliyyatlarının təsdiqi üçün şəxsin dürüst müəyyənləşdirilməsi
+tədbirləri və s.) istifadə edir və müştərilərə təhlükəsiz xidmət göstərmək üçün təhlükəsizlik
+tədbirlərinin daimi əsasda tələblərə uyğunluğunu təmin edir.
+24.3. Maliyyə institutları məlumat və əməliyyatların təhlükəsizliyini təmin etmək
+üçün aşağıdakıları həyata keçirir:
+24
+--- page 25 ---
+24.3.1. istehlakçılar virtual dələduzluq və digər təhlükələr barədə müntəzəm
+olaraq məlumatlandırılır və təhlükəsizlik tədbirləri barədə istehlakçılar üçün
+maarifləndirmə işləri həyata keçirilir;
+24.3.2. maliyyə əməliyyatları müntəzəm olaraq izlənilir, qeyri-adi və şübhəli
+fəaliyyətlərə qarşı dərhal tədbirlər görülür;
+24.3.3. məlumatların və əməliyyatların təhlükəsizliyini təmin etmək
+məqsədilə müntəzəm olaraq monitorinqlər aparılır və yenilənmələr olduqda istehlakçılara
+zəruri məlumatlar təqdim edilir.
+25. Bildirişlərin alınmasından imtina
+25.1. Maliyyə institutu istehlakçıya reklam, təbliğat və təşviqat, habelə məhsul və
+xidmət təklifi üzrə bildirişlərin alınmasından asanlıqla imtina etmək imkanını təmin edir.
+25.2. Maliyyə institutu istehlakçıya ünvanlanan bildirişlərdə bu Rəhbərliyin 25.1-ci
+bəndində nəzərdə tutulmuş imkan barədə məlumat verir və ya hər hansı digər effektiv
+formada istehlakçının diqqətini cəlb edilməsini təmin edir.
+26. Çaşdırıcı elementlər
+26.1. Maliyyə institutu maliyyə məhsullarını təqdim edərkən çaşdırıcı elementlərin
+istifadəsinə yol vermir.
+26.2. Siyahısı yalnız sadalananlarla məhdudlaşdırmamaqla aşağıdakılar çaşdırıcı
+elementlər hesab olunur:
+26.2.1. maliyyə məhsulu üzrə ödənişlərin, xərc və tətbiq edilə bilən cərimələrin,
+gecikdirilmə faizlərinin gizlədilməsi və ya aydın şəkildə təqdim edilməməsi;
+26.2.2. istehlakçının cəlb edilməsindən sonra ona daha əlverişsiz şərtlərlə
+təqdim edilməsi ilə nəticələnən maliyyə məhsulunun əlverişli şərtlərlə reklamı, təbliğatı və
+təşviqatı;
+26.2.3. istehlakçının aydın şəkildə verilmiş razılığı olmadan maliyyə məhsulunun
+alınması və ya şəxsi kabinetin açılması prosesinə əlavə məhsulların, habelə razılıq
+xanaların və ödənişlər üçün bank hesablarının (kartların) avtomatik daxil edilməsi və (və
+ya) seçilməsi;
+25
+--- page 26 ---
+26.2.4. maliyyə məhsulları üçün sınaq müddətlərin təklif edildiyi hallarda
+istehlakçıya ləğvetmə imkanı barədə aydın və əlçatan formada məlumat verilmədən
+məhsulun avtomatik yenilənməsi və ya onun ləğv edilməsi prosesinin olmaması və ya
+əhəmiyyətli dərəcədə mürəkkəb olması;
+26.2.5. istehlakçıların natamam və yanlış müqayisəsinə səbəb olan maliyyə
+məhsulunun faydaları (üstünlükləri), şərtləri və xərcləri barədə məlumatların yanlış
+təsəvvür yaradan formada ifadə edilməsi;
+26.2.6. istehlakçının daxil olduğu öhdəliklərin tam başa düşməsinin
+çətinləşdirilməsinə səbəb olan maliyyə məhsulunun əhəmiyyətli şərtlərinin (məsələn, faiz,
+gecikdirmə faizləri, xərc və tətbiq edilə bilən cərimələrin) gizlədilməsi və ya mürəkkəb
+hüquqi dildə yazılması;
+26.2.7. istehlakçılar tərəfindən maliyyə məhsulu şərtlərininin nəzərdən
+keçirilməsi və təhlil edilməsi üçün az vaxt vermək məqsədilə manipulyasiyaların edilməsi,
+davamlı bilidirşlərin göndərilməsi və taymerlərin (gerisayım) istifadə edilməsi;
+26.2.8. istehlakçıların maliyyə məhsullarına asanlıqla abunə olmasını və ya əldə
+edilməsini təmin edən, lakin onlardan imtina (ləğv) etmək üçün mürəkkəb sistem və ya
+əngəlləri yaradan prosesin (məs. müqavilənin məsafədən bağlanılması, lakin yalnız
+filialda xitam verilməsi) formalaşdırılması.
+27. İstehlakçıların maarifləndirilməsi
+27.1. Kredit təşkilatları, sığortaçılar, investisiya şirkətləri, ödəniş təşkilatları və
+elektron pul təşkilatları istehlakçıların məlumatlılığının artırılması, onların məruz qaldığı
+risklərinin azaldılması və məlumatlı maliyyə qərarların qəbul etməsinə dəstək olması,
+habelə maliyyə istehlakçıların rifahını yaxşılaşdırmaq istiqamətində müsbət addımlar
+atması üçün zəruri bilik və bacarıqların formalaşdırılması məqsədilə davamlı xarakter
+daşıyan maarifləndirmə proqramları həyata keçirir.
+27.2. Bu Rəhbərliyin 27.1-ci bəndində müəyyən edilmiş maliyyə institutları
+mümkün olduqda maarifləndirmə proqramlarını ictimaiyyətə təqdim etməmişdən öncə
+proqramların məzmunu və təqdimedilmə üsullarının hədəf müştəri seqmentinə və
+proqramın məqsədlərinə uyğunluğunu təmin etmək məqsədli ilə testlər keçirir.
+26
+--- page 27 ---
+27.3. Maarifləndirmə proqramlarının təsir dairəsi və əhatə səviyyəsi nəzərə
+alınmaqla onların illik qiymətləndirilməsi aparılır və qiymətləndirmənin nəticələrinə uyğun
+olaraq zəruri hallarda proqramlar təkmilləşdirilir.
+27.4. Maarifləndirmə proqramlarının intensivliyi müştəri sayından və təqdim
+edilən maliyyə məhsulunun xüsusiyyətlərindən və mürəkkəbliyindən asılı olaraq müəyyən
+edilir.
+27.5. Maarifləndirmə proqramlarında reklam və marketinq xarakterli məlumatlar
+əks olunmur, məlumatlar obyektiv formada təqdim edilir və istehlakçıların müvafiq risklər
+barədə məlumatlı olması təmin edilir.
+27.6. Maarifləndirmə proqramları təlimlər, rəsmi internet səhifəsi, mobil tətbiqlər,
+sosial şəbəkələr (mövcud olduqda), media və s. vasitəsilə həyata keçirilir.
+27.7. Maliyyə institutları öz müştərilərinin maarifləndirmə məlumatlarına çıxışını
+təmin etməklə maarifləndirmə proqramlarını digər maliyyə institutları və assosiasiyaları
+ilə birgə həyata keçirə bilər.
+28. Reklam
+28.1. Maliyyə institutunun reklam fəaliyyəti “Reklam haqqında” Azərbaycan
+Respublikası Qanununun tələblərinə cavab verməlidir.
+28.2. İnvestisiya fondlarının reklam fəaliyyəti, həmçinin “İnvestisiya fondları
+haqqında” Azərbaycan Respublikası Qanununun 33-cü maddəsinin tələblərinə cavab
+verməlidir.
+28.3. Maliyyə institutu reklam və satış materiallarına dair aşağıdakıları təmin edir:
+28.3.1. reklam olunan maliyyə məhsulu ilə bağlı əhəmiyyətli məlumatların aydın
+şəkildə təqdim edilməsini və reklamın məzmunu, formatı və dizaynı ilə heç bir şəkildə
+gizlədilməməsini və pərdələnməməsini;
+28.3.2. reklamda istifadə olunan məlumatların oxunaqlı olması üçün kifayət
+ölçüdə olmasını və istehlakçını çaşdırmamasını;
+28.3.3. kredit müqavilələrində güzəşt müddəti və ya müddətə bağlı olan güzəştli
+faizlər tətbiq olunduqda reklam və satış materialında qeyd olunan müddət və həmin
+müddətdən sonra tətbiq olunan faizlərin göstərilməsini;
+27
+--- page 28 ---
+28.3.4. reklamda və satış materiallarında istifadə olunan akronimlərin izahının
+verilməsini.
+28.4. Maliyyə institutu maliyyə məhsulunun yalnız tamamilə ödənişsiz (əvəzsiz)
+olduğu halda, reklam və satış materiallarında onu ödənişsiz məhsul kimi təsvir edə bilər.
+28.5. Maliyyə institutunun bütün reklam və satış materiallarında onun fəaliyyətinə
+Mərkəzi Bank tərəfindən nəzarət edildiyi qeyd olunur.
+6-cı Fəsil. Xidmət alanların şikayətlərinin daxili həlli
+29. Şikayətlərə baxılmasına dair daxili qaydalar
+29.1. Maliyyə institutu xidmət alanların şikayətlərinə baxılmasına dair daxili
+qaydalar qəbul edir. Qaydalar maliyyə institutunun Direktorlar Şurası (Müşahidə Şurası)
+tərəfindən təsdiq edilir və maliyyə institutunun bütün aidiyyəti əməkdaşlarının
+məlumatlandırılması təmin edilir. Bu qaydalar xidmət alan yönümlü tərtib edilir və
+şikayətin maliyyə institutu daxilində sürətli baxılmasını təmin edir.
+29.2. Qaydalar hazırlanarkən vətəndaşların müraciətləri haqqında
+qanunvericiliyin tələbləri nəzərə alınmalıdır.
+29.3. Qaydalarda azı aşağıdakılarla bağlı prosedurlar əhatə olunur:
+29.3.1. şikayətlərin qəbul edilməsi, qeydiyyatının aparılması və şikayətlərin
+izlənilməsi ilə bağlı xüsusi qeydiyyat nömrəsinin verilməsi;
+29.3.2. xüsusi qeydiyyat nömrəsi vasitəsilə şikayətlərin statusunun izlənməsi
+imkanının təmin edilməsi;
+29.3.3. şikayətlərin araşdırılması və şikayətlərə baxılmasının koordinasiyası;
+29.3.4. şikayətlər üzrə qərarın qəbul edilməsi və cavablandırılması;
+29.3.5. şikayətlərin araşdırılmasının nəticəsinə əsasən xidmət alana dəymiş
+maddi zərərin ödənilməsi;
+29.3.6. şikayətlərə dair hesabatlılıq sistemi, hesabatlılıqla bağlı səlahiyyət və
+vəzifə bölgüsü;
+28
+--- page 29 ---
+29.3.7. aidiyyəti qanunvericilik, xidmət alanlarla davranış qaydaları və
+şikayətlərə baxılması ilə bağlı maliyyə institutunun əməkdaşlarının maarifləndirilməsinin
+aparılması, dövriliyi və nəticələri üzrə tədbirlərin görülməsi.
+30. Şikayətlərə baxılması işinin təşkili
+30.1. Xidmət alanların şikayətlərinin qəbulu üçün maksimal çıxış imkanları
+yaradılır, müraciət vasitələri məhdudlaşdırılmır. Şikayətlər şifahi (maliyyə institutuna
+birbaşa yaxınlaşmaqla, telefon vasitəsilə) və (və ya) yazılı (kağız daşıyıcıda birbaşa
+təqdim etməklə, poçt ünvanına göndərməklə, elektron formada, faks vasitəsilə, elektron
+poçt ünvanına göndərməklə, internet səhifəsində “müraciət” bölməsində, rəsmi sosial
+media hesablarında qeyd etməklə və (və ya) mövcud olduqda digər formada) formalarda
+qəbul edilə bilər.
+30.2. Maliyyə institutu həssas istehlakçıların şikayətlərinin qəbulu üçün onların
+ehtiyaclarına uyğun gələn müraciət vasitələrini tətbiq edir.
+30.3. Şikayət etmək üçün mümkün müraciət üsulları və əlaqə məlumatları azı
+aşağıdakı formalardan istifadə edilməklə açıqlanır:
+30.3.1. məlumat, hesabdan çıxarış, reklam və ya yaddaş vərəqələrində
+“Suallarınız və ya şikayətləriniz olduğu halda (telefon nömrəsi göstərilir) zəng edin,
+elektron poçt ünvanına (elektron poçt ünvanı göstərilir) göndərin və ya müraciət (poçt
+ünvanı göstərilir) edin” formatında məlumatların açıqlanması (bu zaman şikayətlərə
+baxılması funksiyasının əlaqə məlumatları göstərilir);
+30.3.2. “Çağrı Mərkəzləri” (və ya qaynar xətt) vasitəsilə şikayətlərə baxılması
+funksiyasının əlaqə məlumatlarının avtomatlaşdırılmış formada bildirilməsi və ya birbaşa
+zəng imkanının yaradılması;
+30.3.3. xidmət alanlarla bağlanmış müqavilələrdə şikayətlərə baxılması
+funksiyasının əlaqə məlumatlarının qeyd olunması.
+30.4. Maliyyə institutu azı aşağıdakı məlumatların öz rəsmi internet səhifəsində,
+mobil tətbiqlərində, xidmət terminallarında və maliyyə məhsulunun təqdim edildiyi
+ofislərdə açıqlanmasını təmin edir:
+30.4.1. şikayət etmək üçün mümkün müraciət üsulları;
+30.4.2. xidmət alan tərəfindən maliyyə institutuna şikayətin verilməsi qaydası;
+29
+--- page 30 ---
+30.4.3. şikayətlərin cavablandırılması müddətləri;
+30.4.4. şikayətlərlə bağlı maliyyə institutunun qərarları ilə razılaşmadıqda
+növbəti mərhələlər barədə məlumatlar, o cümlədən Mərkəzi Bankın əlaqə məlumatları
+(Əlavə 5).
+30.5. Xidmət alanlara məlumatlar bu Rəhbərliyin 13-cü hissəsinə uyğun olaraq
+açıqlanır.
+30.6. Şikayətlərə baxılması funksiyasının əlaqə məlumatları və həmin
+məlumatlarda dəyişikliklər bu Rəhbərliyin 8.1-ci bəndində nəzərdə tutulmuş məlumatların
+açıqlanması mənbələrində əks olunur. Əlaqə məlumatlarına şikayətlərə baxılması
+funksiyasının və ya məsul şəxsin telefon nömrəsi, elektron poçt ünvanı və digər əlaqə
+məlumatları aiddir.
+31. Şikayətlərə baxılması funksiyasının fəaliyyəti
+31.1. Hər bir maliyyə institutu şikayət edən xidmət alanlarla münasibətlərin
+tənzimlənməsi, onların hüquqlarının qorunması və şikayətlərə baxılması prosesinin idarə
+edilməsi məqsədilə müstəqil şikayətlərə baxılması funksiyasını formalaşdırır.
+31.2. Şikayətlərə baxılması funksiyası maliyyə institutunun əməliyyatlarının
+həcminə və xidmət alanların sayına uyğun olaraq yaradılan struktur bölmə və ya təyin
+olunan məsul şəxs tərəfindən icra edilir. Şikayətlərə baxılması funksiyanının fəaliyyətinə
+nəzarət icra orqanının üzvü (təkbaşına icra orqanının rəhbəri) tərəfindən həyata keçirilir.
+31.3. İcra orqanı şikayətlərə baxılması funksiyasının fəaliyyətinin effektiv şəkildə
+həyata keçirilməsi üçün şikayətlərə baxılması funksiyasına müvafiq şərait yaradır, zəruri
+insan və digər resurslarla (İT sistemləri, zəruri informasiya mənbələrinə çıxış və s.) təmin
+edir, habelə şikayətlərə baxılması funksiyası ilə digər aidiyyəti struktur bölmələr arasında
+operativ məlumat mübadiləsinin aparılmasını təmin edir.
+31.4. Şikayətlərə baxılması funksiyasını icra edən struktur bölmənin əməkdaşları
+və ya məsul şəxs öz vəzifə və səlahiyyətlərini yerinə yetirmək üçün müvafiq sahə üzrə
+bilik və təcrübəyə malik olur və bank tərəfindən onlar üçün mütəmadi təlim və seminarlar
+təşkil edilir. Maraqlar münaqişəsinin qarşısının alınması üçün şikayətlərə baxılması
+funksiyasının rəhbərinin və ya məsul şəxsin biznes əməliyyatlarından kənar olması və
+şikayətlərin araşdırılması üçün kifayət qədər səlahiyyətə malik olması təmin edilir.
+30
+--- page 31 ---
+31.5. Maliyyə institutu şikayətlərə baxılması funksiyasının fəaliyyətinin azı ildə bir
+dəfə daxili audit xidməti tərəfindən yoxlanılmasını, yoxlamanın nəticələri barədə
+hesabatın Müşahidə Şurası və Audit Komitəsinə (olduqda), surətinin icra orqanına təqdim
+edilməsini təmin edir.
+31.6. Şikayətlərə baxılması funksiyası azı aşağıdakı vəzifələri yerinə yetirir:
+31.6.1. xidmət alanlardan daxil olan şikayətlərə baxır və müvafiq qaydada
+cavablandırır;
+31.6.2. xidmət alanların məlumatlandırılması məqsədilə şikayətlərə baxılma
+prosesini, o cümlədən xidmət alanların hüquq və öhdəliklərini əhatə edən sənədləri
+hazırlayır və əlçatanlığını təmin edir;
+31.6.3. şikayətlərin xarakterindən asılı olaraq xidmət alanlarla şifahi danışıqlar
+aparır və görüşlər təşkil edir, məsləhət və izahlar verir;
+31.6.4. şikayətlərin araşdırılması məqsədilə aidiyyəti struktur bölmələrlə operativ
+məlumat mübadiləsi aparır, sorğular verir, aidiyyəti sənədləri tələb edir və onlardan yazılı
+və şifahi məlumatlar alır;
+31.6.5. xidmət alanlarla əlaqədə olan əməkdaşlara şikayətlərin toplanması və
+şikayətlərə baxılması funksiyasına ötürülməsi, xidmət alanlarla davranış və digər
+mövzularda təlimlərin keçirilməsini təmin edir;
+31.6.6. xidmət alanlardan daxil olan şikayətlərin reyestrini aparır və reyestrdə olan
+məlumatları daxil olma dövrünə və xarakterinə (cavablandırılmış, hazırda baxılan və ya
+baxılmamış saxlanılmış şikayətlərin sayı və onların məhsul və xidmətlər, habelə şikayətin
+spesifik məzmunu və s. üzrə bölgüsü) uyğun icmallaşdırır;
+31.6.7. xidmət alanların şikayətlərinin əsas səbəblərinə dair statistikanın
+aparılmasını və ümumiləşdirilməsini təmin edir;
+31.6.8. öz fəaliyyətinin nəticələri barədə hesabatları azı rübdə bir dəfə, əhəmiyyətli
+pozuntular baş verdiyi halda isə növbədənkənar əsasda maliyyə institutunun Müşahidə
+Şurasına və icra orqanına təqdim edir;
+31.6.9. xidmət alanların hüquqlarının, qanuni mənafelərinin və xidmət alanlarla
+münasibətlərdə etik davranış qaydalarının pozulması hallarının aradan qaldırılması
+istiqamətində icra orqanına, habelə Müşahidə Şurasına müvafiq təkliflər hazırlayır;
+31
+--- page 32 ---
+31.6.10. xidmət alanların şikayətləri ilə əlaqədar Mərkəzi Bankın sorğularının
+araşdırılması və cavablandırılması işini təşkil edir və rüblük əsasda, növbəti ayın
+sonundan gec olmayaraq Mərkəzi Banka hesabatlar təqdim edir;
+31.6.11. xidmət alanların maliyyə savadlılığı istiqamətində maliyyə institutu
+tərəfindən həyata keçirilən tədbirlərdə iştirak edir.
+32. Şikayətlərə baxılması
+32.1. Maliyyə institutu şikayətlərə müvafiq olaraq “Vətəndaşların müraciətləri
+haqqında” və “Ödəniş xidmətləri və ödəniş sistemləri haqqında” Azərbaycan
+Respublikasının qanunları ilə müəyyən edilmiş müddətlərdən gec olmayaraq baxır və
+cavablandırır. Maliyyə institutuna daxil olan şikayətlər növbəti iş günündən gec olmayaraq
+şikayətlərə baxılması funksiyasına icraya yönəldilir.
+32.2. Maliyyə institutunun hərəkət və ya hərəkətsizliyindən şikayət edilən vəzifəli
+şəxsləri (korrupsiya və ya korrupsiyaya şərait yaradan hallarda həmçinin onların birbaşa
+rəhbərləri) şikayətlərin baxılmasında iştirak etmirlər. Şikayətdə maliyyə institutunda
+korrupsiya və ya korrupsiyaya şərait yaradan hallarla bağlı məlumatlar olduqda dərhal bu
+barədə icra orqanına məlumat verilir və maliyyə institutunun daxili nəzarət sistemi
+vasitəsilə müvafiq araşdırmalar aparılaraq qanunvericiliyə müvafiq tədbirlər görülür.
+32.3. Xidmət alanların şikayətləri ilə bağlı Mərkəzi Bankın sorğularına maliyyə
+institutu tərəfindən ən geci 7 (yeddi) iş günü ərzində araşdırılaraq Mərkəzi Banka və ya
+Mərkəzi Bankın sorğusunda göstərildiyi halda, bu Rəhbərliyin 32.1-ci bəndinə uyğun
+olaraq, xidmət alana cavab verilir.
+32.4. Maliyyə institutu tərəfindən xidmət alana dəymiş maddi zərərin ödənilməsi
+məqsədilə təklif etdiyi kompensasiya məbləği, onun verilməsi müddəti, kompensasiyanın
+hesablanması metodologiyası və xidmət alan tərəfindən kompensasiya ödənişinin qəbul
+və ya imtina edilməsi üçün atılacaq addımlar dəqiq və aydın şəkildə davamlı daşıyıcıda
+xidmət alana bildirilir. Kompensasiya ödənişinin qəbulu və ya imtinası ilə bağlı xidmət alan
+tərəfindən qərarın qəbul edilməsi üçün maliyyə institutu tərəfindən müəyyən edilən
+müddət 10 (on) iş günündən az olmamalıdır.
+32
+--- page 33 ---
+32.5. Maliyyə institutu tərəfindən şikayətin təmin olunmasından və ya xidmət alan
+tərəfindən tələb olunan kompensasiya məbləğinin ödənilməsindən imtina edildikdə və ya
+tələb olunandan az kompensasiya təklif edildikdə bunun səbəbləri, habelə xidmət alanın
+şikayətinə baxılması üçün sonrakı müraciət imkanları, o cümlədən müvafiq hallarda bank
+ombudsmanına, Mərkəzi Banka, məhkəməyə və ya digər qurumlara müraciət etmə
+qaydası barədə xidmət alan məlumatlandırılır.
+33. Şikayətlərin qeydiyyatı və xidmət alanlar tərəfindən izlənilməsinin təmin
+edilməsi
+33.1. Daxil olmuş bütün şikayətlər qeydiyyata alınır və qeydə alınmış hər bir
+şikayətə xüsusi qeydiyyat nömrəsi verilir. Maliyyə institutu şikayəti təqdim edən şəxsə
+şikayətin baxılmağa qəbul olunmasını təsdiq edən sənədi (şikayətin xidmət alanda qalan
+nüsxəsində müvafiq qeyd aparılmaqla, arayış təqdim edilməklə və s.) və ya SMS bildirişi
+verir.
+33.2. Maliyyə institutu tərəfindən qeydə alınmış şikayətlərin bu Rəhbərliyə 4
+nömrəli Əlavədə müəyyən edilmiş formaya uyğun reyestri aparılır.
+33.3. Maliyyə institutu şikayətlərin əsasları və xarakterinin müəyyən edilməsi,
+effektiv təsnifləşdirilməsi və tənzimlənməsi məqsədilə reyestrdə zəruri məlumatları əks
+etdirir. Qeydə alınmış şikayətlər, habelə onlarla bağlı sənəd və yazışmalar
+qanunvericilikdə və Mərkəzi Bankın normativ xarakterli aktlarında fərqli müddət müəyyən
+edilmədiyi halda, reyestrdə azı 5 (beş) il müddətində saxlanılır.
+33.4. Reyestrdə olan məlumatlar daxil olduğu dövrə (yarımillik əsasda) və
+şikayətlərin xarakterinə (cavablandırılmış, hazırda baxılan və ya təmin edilməsindən
+imtina edilmiş şikayətlərin sayı və onların məhsul və xidmətlər, o cümlədən şikayətin
+spesifik məzmunu üzrə bölgüsü) uyğun olaraq icmallaşdırılır, yarımillik əsasda maliyyə
+institutunun internet səhifəsində yaradılmış “müraciətlər” bölməsində yerləşdirilir və ən
+azı 3 (üç) il müddətində həmin bölmədə saxlanılır.
+33.5. Maliyyə institutu tarixlər göstərilməklə şikayətlərə baxılma prosesinin
+statusu (azı “şikayət qeydə alındı”, “şikayətə baxılır”, “şikayət cavablandırıldı”) üzrə
+xidmət alanı davamlı daşıyıcıda məlumatlandırır.
+33
+--- page 34 ---
+34. Hesabatlılıq
+34.1. Qeydə alınmış şikayətlər şikayətlərə baxılması funksiyası tərəfindən təhlil
+edilir, şikayətlərin səbəbləri araşdırılır, nəticələri barədə hesabatlar hazırlanır.
+34.2. Hesabat ən azı aşağıdakı məlumatları əhatə edir:
+34.2.1. xidmət alan barədə məlumatları;
+34.2.2. şikayətlərin sayını və səbəblərini;
+34.2.3. şikayətlərin maliyyə məhsulu üzrə bölgüsünü;
+34.2.4. cavablandırılmış, baxılmaqda olan və ya baxılmadan saxlanılmış
+şikayətlərin sayını;
+34.2.5. kompensasiya ödənilmiş şikayətlərin sayını və kompensasiya
+məbləğlərini;
+34.2.6. bu Rəhbərliyin 34.2.1-34.2.5-ci yarımbəndləri üzrə məlumatların ötən
+dövrlərlə (aylıq, rüblük və illik əsasda) müqayisəli təhlilini;
+34.2.7. çatışmazlıqların aradan qaldırılması istiqamətində görüləcək tədbirləri
+(tədbirlər maliyyə məhsulunun təqdim edilmə prosesini, məhsulların növlərini, xidmət
+alanlarla kommunikasiya vasitələrini, reklam məlumatlarını və bu kimi proses, məhsul və
+məlumatların dəyişdirilməsi və digər məsələləri əhatə edir).
+34.3. Hesabatlar ən azı rübdə bir dəfə maliyyə institutunun Direktorlar Şurası
+(Müşahidə Şurası), habelə şikayətlərə baxılmasına dair daxili qaydalarda nəzərdə
+tutulmuş dövrilikdə icra orqanı tərəfindən müzakirə edilir və müvafiq qərarlar qəbul edilir.
+Hesabat rüb başa çatdıqdan sonra 20 (iyirmi) gün müddətində Mərkəzi Banka təqdim
+olunur.
+Mərkəzi Bankın sədri Taleh Kazımov
+34
+--- page 35 ---
+“Maliyyə institutlarının bazar davranışlarına dair
+Metodoloji Rəhbərliy”ə Əlavə 1
+Bank məhsulları və ödəniş xidmətləri
+1. Kredit məhsulları üzrə məlumatların açıqlanması
+1.1. Maliyyə institutu kredit məhsullarının təqdim edildiyi bütün yerlərdə, rəsmi
+internet səhifəsində, mobil tətbiqlərində və digər elektron platformalarda bu Rəhbərliyin
+8.1.3-cü, 8.1.4-cü və 8.1.6-cı yarımbəndlərində nəzərdə tutulmuş məlumatlarla yanaşı
+karta bağlı maliyyə məhsulu üzrə aşağıdakı məlumatları xüsusi olaraq vurğulayır və
+açıqlanan məlumatlarla müqayisədə əhəmiyyətli dərəcədə oxunan və görünən edir:
+1.1.1. malların alınması və ya xidmətlərin göstərilməsi ilə əlaqədar təqdim
+edilən kartlarda kredit xəttinin olması (faiz göstərilməklə);
+1.1.2. tətbiq olunduqda güzəşt müddətinin bitməsi və ya hissə-hissə ödənişlərin
+gecikdirilməsi halında borcun üzərinə faizlərin hesablanması;
+1.1.3. tətbiq olunduqda yarana biləcək öhdəliklərin digər hesablardan tutulması;
+1.1.4. tətbiq olunduqda vəsaitlərin əlavə ödəniş tələb edilmədən yalnız kartın
+debit funksiyasının istifadəsi zamanı mümkün olması;
+1.1.5. ödəniş zamanı borcların silinmə ardıcıllığı;
+1.1.6. istehlakçının kartla bağlı məxfi məlumatlarının qorunması öhdəliyi;
+1.1.7. kartın istifadəsi ilə bağlı risklər, habelə kartın istifadə qaydasının
+pozulması və təhlükəsizlik tələblərinə riayət edilmədiyi halda məsuliyyət bölgüsü;
+1.2. İstehlakçılara təqdim edilən kredit və kart məhsulları üzrə reklam və satış
+materiallarında, rəsmi internet səhifəsində, mobil tətbiqlərdə, elektron portallarda,
+müqavilələrdə və açıqlanması tələb olunan bütün məlumatlarda faizlərin hansı müddətlə
+(məsələn, aylıq) əlaqələndirilməsindən asılı olmayaraq hər bir halda illik faiz dərəcəsi və
+faktiki illik faiz dərəcəsi qeyd edilir və faizlərə dair məlumat eyni ölçüdə və görünüşdə
+verilir.
+35
+--- page 36 ---
+1.3. Bu Rəhbərliyin 12-ci hissəsinə uyğun olaraq, maliyyə institutu istehlakçının
+maraqlandığı karta bağlı maliyyə məhsulları üzrə bu Əlavənin 1.1-ci bəndində müəyyən
+edilmiş məlumatları aydın şəkildə izah edir.
+2. Hesabdan çıxarış
+2.1. Maliyyə institutu istehlakçıya məxsus bütün hesablardan, o cümlədən
+kreditin verildiyi hesab üzrə ayrılıqda istehlakçının tələbi ilə ona çıxarış verir.
+2.2. Maliyyə institutu hesabdan çıxarışı və istehlakçıya əvvəllər təqdim edilmiş
+hesabdan çıxarışın kağız və ya digər davamlı daşıyıcıda olan surətini istehlakçının
+sorğusu daxil olduğu gündən ağlabatan müddət ərzində, lakin 3 (üç) iş günündən gec
+olmayaraq ona təqdim edir.
+2.3. Maliyyə institutu ödəniş hesabı istisna olmaqla hesabdan çıxarışda azı
+aşağıdakı məlumatları açıqlayır:
+2.3.1. istehlakçının adı, soyadı və atasının adı;
+2.3.2. maliyyə institutunun adı, VÖEN-i və ünvanı;
+2.3.3. hesabdan çıxarışın aid olduğu dövr;
+2.3.4. əvvəlki çıxarışın tarixi və həmin tarixə olan balans;
+2.3.5. çıxarış tarixinə olan cari balans;
+2.3.6. əvvəlki çıxarışda qeyd edilən hər hansı məlumata edilmiş düzəlişlər;
+2.3.7. hesab üzrə əməliyyatın maliyyə institutu ilə dəqiqləşdirilməsi və ya şikayətin
+verilməsi qaydası;
+2.3.8. Mərkəzi Banka və mübahisələrin həlli ilə məşğul olan qurumlara
+müraciətlərin edilməsi üsulları və ünvanı.
+2.4. Maliyyə institutu əmanət hesabı üzrə bu Əlavənin 2.3-cü bəndində müəyyən
+edilmiş məlumatlarla yanaşı, hesabdan çıxarışda həmçinin aşağıdakı məlumatları
+açıqlayır:
+2.4.1. hesab üzrə hər bir əməliyyatın məbləği, tarixi və mahiyyəti, eləcə də tətbiq
+olunan hər hansı əməliyyat haqqı, ödəniş və ya məzənnə;
+2.4.2. cari illik faiz dərəcəsi və hesabat dövrü ərzində bununla bağlı edilmiş hər
+hansı dəyişikliklər barədə məlumat;
+36
+--- page 37 ---
+2.4.3. hesabda olan vəsait üzrə hesablanmış faizlər və onların hesablandığı tarix;
+2.4.4. əmanətin sığorta təminatı altında olub-olmaması.
+2.5. Maliyyə institutu kreditin verildiyi hesab üzrə çıxarışda bu Əlavənin 2.3-cü
+bəndində müəyyən edilmiş məlumatlarla yanaşı həmçinin, ödəniş qrafikində həyata
+keçirilməli olan ödənişlər, belə ödənişlərin müddətləri, ödənişlərin strukturu, o cümlədən
+illik faiz dərəcəsi üzrə hesablanmış faizlər və tətbiq olunan digər əlavə xərclər açıqlanır.
+2.6. Maliyyə institutu ödəniş hesabı üzrə hesabdan çıxarışda “Ödəniş xidmətləri
+və ödəniş sistemləri haqqında” Azərbaycan Respublikası Qanununun 17-ci maddəsində
+nəzərdə tutulmuş məlumatları açıqlayır.
+2.7. Maliyyə məhsulu üzrə açıqlanması tələb olunan məlumatlardan daha az
+əhəmiyyətə malik olan və (və ya) özündə hər hansı maliyyə məhsulunun reklamını və ya
+təkliflərini (məsələn, kredit xəttinin limitinin artırılmasını) əks etdirməyən digər məlumatlar
+hesabdan çıxarışa daxil edilə bilər.
+2.8. Hesabdan çıxarışda əks olunan məlumatlar onun aid olduğu dövrü əhatə
+edir.
+3. Borcun məbləği və ödənişi barədə məlumat
+3.1. Maliyyə institutu istehlakçının müraciəti əsasında istehlak krediti
+müqaviləsi üzrə öhdəliklərin tam icrası üçün tələb olunan vəsaiti və həmin vəsaiti təşkil
+edən bütün məbləğləri ayrı-ayrılıqda göstərməklə yazılı formada açıqlayır.
+3.2. Açıqlanan məlumata istehlak krediti üzrə borcu ödəmək üçün tələb
+olunan vəsaitin ödəmə tarixinə görə dəyişə biləcəyi ilə bağlı xəbərdarlıq daxil edilir.
+3.3. Maliyyə institutu açıqlanan məlumatları sorğu daxil olduğu tarixdən ən
+geci 3 (üç) iş günü ərzində təqdim edir.
+3.4. Malların alınması və ya xidmətlərin göstərilməsi ilə əlaqədar təqdim
+edilən karta bağlı məhsullar üzrə ödənişin son tarixindən ən azı 24 saat əvvəl
+istehlakçının mobil telefon nömrəsinə (mövcud olduqda) SMS vasitəsi ilə bildiriş
+göndərilir. Bildirişdə ödənişin son tarixi və gecikmə halında hesablanacaq faizlər göstərilir.
+4. Kredit məhsullarının istehlakçıya uyğunluğu
+37
+--- page 38 ---
+4.1. Maliyyə institutu kredit məhsullarının təqdim olunmasından əvvəl
+ağlabatan dərəcədə istehlakçının ehtiyaclarına, məqsəd və maliyyə imkanlarına
+uyğunluğunu müəyyən edir.
+4.2. Kredit məhsullarının istehlakçıya uyğunluğunu müəyyən etmək üçün
+maliyyə institutu aşağıdakıları həyata keçirir:
+4.2.1. istehlakçının ehtiyaclarını, məqsəd və maliyyə imkanlarını (bundan sonra
+“istehlakçının vəziyyəti”) müəyyənləşdirmək üçün ağlabatan araşdırmaları aparır;
+4.2.2. istehlakçının maliyyə vəziyyətini və ödəmə qabiliyyətini təhlil edir;
+4.2.3. istehlakçının vəziyyətinə, o cümlədən onun risk profilinə uyğun olan kredit
+məhsulunu müəyyən edir.
+4.3. Maliyyə institutu istehlakçının müraciət etdiyi maliyyə məhsulunun ona
+uyğun olmadığını aşkar etdikdə istehlakçıya aşağıdakı məlumatları əks etdirən məsləhət
+verir və ya kreditin verilməsindən imtina edir:
+4.3.1. kredit məhsulunun istehlakçının vəziyyətinə uyğun olmadığının
+əsaslandırılması;
+4.3.2. istehlakçıya uyğun olan kredit məhsulu.
+4.4. Maliyyə institutu məsləhəti əks etdirən sənədi imzalayır (məsləhətin
+verilmə tarixi göstərilməklə) və kredit məhsulunu təqdim etməzdən öncə onun surətini
+davamlı daşıyıcıda istehlakçıya təqdim edir.
+4.5. Maliyyə institutu məsləhəti əks etdirən sənədin əvvəlində aşağıdakı
+məzmunda bildiriş yerləşdirir:
+Diqqət: Bu sənəd təklif olunan kredit məhsulunun sizin ehtiyaclarınıza, məqsəd
+və maliyyə imkanlarınıza uyğun hesab edilməsinin səbəblərini əks etdirən
+sənəddir.
+4.6. Maliyyə institutu bu Əlavənin 4-cü hissəsi üzrə öhdəliklərin yerinə
+yetirilməsini təmin etmək üçün yazılı siyasət və prosedurlar hazırlayır və tətbiq edir.
+4.7. Bu Əlavənin 4-cü hissəsi Mərkəzi Bankın 10 yanvar 2024-cü il tarixli
+Qərarı ilə təsdiq edilmiş “Ödəniş təşkilatları və elektron pul təşkilatları tərəfindən
+fəaliyyətin təşkili və həyata keçirilməsi Qaydası”nın 9.1-ci yarımbəndində nəzərdə
+tutulmuş kreditlərə tətbiq edilmir.
+38
+--- page 39 ---
+4.8. Kreditlər üzrə müraciətlərin reyestri aparılır və kreditin verilməsindən
+imtina edildikdə, bank kredit üçün müraciət edən şəxsə onun sorğusu əsasında imtinanın
+səbəblərini göstərməklə aydın şəkildə yazılı cavab verir.
+5. Bankomatlarla bağlı əlçatanlıq
+5.1. Maliyyə institutu bankomatların fiziki məhdudiyyətli istehlakçılar üçün
+əlçatan olmasını təmin edir.
+5.2. Bankomatların ekranları və onların yerləşdiyi yerlər fiziki məhdudiyyətli
+istehlakçılar tərəfindən rahat oxunması üçün işıqlandırılır.
+5.3. Maliyyə institutunun baş ofisində, o cümlədən region mərkəzlərində ən azı
+bir ədəd olmaqla, bankomatların azı 5%-i və onların yerləşdiyi yerlərin aşağıdakı
+imkanlara malik olması təmin edilir:
+5.3.1. klaviatura düymələri telefon standartlarına uyğun şəkildə yerləşdirilir. Bu
+zaman ölçülər və aralarındakı məsafələr bir-biri ilə təsadüfən qarışıq salınmayacaq
+şəkildə yerləşdirilir. Düymələrin istifadəsi (onların kliklənməsi) həssas istehlakçılara əlavə
+fiziki güc zərurəti yaratmayacaq formada nəzərdə tutulur. Klaviaturadakı 5 rəqəminin
+telefon standartlarına uyğun olaraq, digərlərindən qabarıq şəkildə müəyyən edilməsi;
+5.3.2. görmə məhdudiyyətli həssas istehlakçılar üçün qulaqlıq imkanları ilə təchiz
+olunur, qulaqlıq taxıldığı anda səsli menyu işləməyə başlayır və ekranın sönməsi təmin
+edilir, qulaqlıq çıxarıldıqda isə avtomatik dayanır;
+5.3.3. bankomatın klaviaturasının müvafiq düymələri qabardılmış və
+toxunulduğunda digər düymələrdən fərqləndirilən şəkildə, habelə Breyl əlifbası ilə təchiz
+edilir;
+5.3.4. icra edilmiş yanlış əməliyyatlar zamanı siqnal və ya vibrasiya vasitəsilə
+xəbərdarlıq sistemi ilə təchiz edilir;
+5.3.5. səsli menyularda standart olaraq azı balans sorğulama, nağd pul çəkmə,
+kredit kartı üzrə borcun ödənilməsi və məlumat əldə etməsinin prioritet olması;
+5.3.6. əməliyyatlar üzrə çıxarış, qəbz və bu qəbildən olan sənədlərin Breyl
+əlifbası ilə də tərtib olunması imkanının olması;
+39
+--- page 40 ---
+5.3.7. əlil arabası ilə bankomata çatmaq və oradan geri qayıtmaq üçün
+bankomatın önündə adekvat manevr sahəsinin mövcud olması;
+5.3.8. bankomatların əlil arabasında olan şəxsin istifadəsi üçün uyğun
+hündürlükdə olması.
+5.4. Fiziki məhdudiyyətli istehlakçılar üçün nəzərdə tutulmuş bankomatların
+yerləşmə yerləri ilə bağlı maliyyə institutunun internet səhifələri və mobil tətbiqlərində səsli
+və yazılı ətraflı məlumatlar yerləşdirilir.
+6. Maliyyə çətinliyi ilə üzləşən istehlakçılara yardım
+6.1. Maliyyə institutu istehlak kredit müqaviləsi üzrə maliyyə çətinliyi ilə
+üzləşən istehlakçıların erkən aşkar edilməsi üçün proseslər və siyasətlər qəbul edir.
+6.2. Maliyyə institutu istehlak kredit müqaviləsi ilə əlaqədar hər hansı məcburi
+icraat tədbirlərini başlamamışdan əvvəl istehlakçının vəziyyəti nəzərə alınmaqla ona
+güzəştlərin (istehlak kredit müqaviləsinin müddətinin uzadılması, ödənişlərin təxirə
+salınması, faiz dərəcəsinə yenidən baxılması və s.) verilməsi imkanlarını dəyərləndirə
+bilər.
+7. İstehlak kreditinin yenidən maliyyələşdirilməsi
+7.1. Maliyyə institutu istehlak kreditinin (Mülki Məcəllənin 746.2.8-ci maddəsində
+nəzərdə tutulmuş hal istisna olmaqla) bir hissəsini və ya hamısını yenidən
+maliyyələşdirdikdə (restrukturizasiya etdikdə) bu Rəhbərliyin tələbləri yenidən
+maliyyələşdirmə (restrukturizasiya olunan) müqaviləsinə də tətbiq olunur.
+8. Borcun yığılması
+8.1. Maliyyə institutu maliyyə məhsulu ilə bağlı ödənilməli olan vəsaiti tələb
+edərkən və ya yığarkən istehlakçıya qarşı fiziki zorakılıq, məcburiyyət, güclü təsir, kobud
+və ya nalayiq ifadələr, təzyiq, hədə-qorxu, ədalətsiz davranış və ya hər hansı oxşar digər
+davranış tətbiq etməməlidir.
+40
+--- page 41 ---
+8.2. Maliyyə institutu aşağıdakılara və onlarla məhdudlaşdırılmadan oxşar
+hallara yol vermir:
+8.2.1. borcun xarakteri, məbləği və ya hüquqi statusu barədə istehlakçıya yalan
+və ya aldadıcı məlumatların verilməsi;
+8.2.2. istehlakçıdan ödəniş tələb edən şəxsin statusu barədə yalan və ya
+aldadıcı məlumatların verilməsi;
+8.2.3. ödəniş tələbinin icra edilməməsinin istehlakçı üçün yaradacağı nəticələr
+barədə yalan və ya aldadıcı məlumatların verilməsi;
+8.2.4. bu Əlavənin 8.3-cü bəndi istisna olmaqla, istehlakçının ödənilməmiş
+borcu olduğunun üçüncü şəxsə açıqlanması və ya belə məlumatın açıqlanması ilə bağlı
+hədələnməsi.
+8.3. Maliyyə institutu borc barədə məlumatı borc yığan üçüncü şəxslərə yalnız
+həmin şəxslər tərəfindən bu Əlavənin 8-ci hissəsinə və digər tələblərinə maliyyə institutu
+kimi əməl edəcəyi şərti ilə və istehlakçının razılığı alınmaqla açıqlaya bilər. Maliyyə
+institutu onun adından borc yığan üçüncü şəxslərin borcun yığılmasından irəli gələn
+hərəkətlərinə görə məsuliyyət daşıyır.
+9. Kreditlə əlaqədar bağlanmış sığorta müqaviləsinin ləğv edilməsi
+9.1. Kredit müqaviləsinə vaxtından əvvəl xitam verildikdə maliyyə institutu
+istehlakçıya kreditlə əlaqədar bağlanmış sığorta müqaviləsinə xitam verilməsi və qalıq
+sığorta haqqının geri qaytarılması ilə bağlı prosedurları izah edən və davamlı daşıyıcıda
+əks etdirilən məlumat verir.
+9.2. Kredit verən maliyyə institutu vasitəsilə bağlanmış sığorta müqaviləsinin
+xitam verilməsinə əsaslar yarandıqda maliyyə institutu bu barədə sığortaçıya mümkün ən
+qısa müddət ərzində davamlı daşıyıcıda məlumat verir.
+10. Ödəniş alətinin məhdudlaşdırılması və bloklaşdırılması
+10.1. Maliyyə institutu istehlakçı tərəfindən ödəniş alətinin “Ödəniş xidmətləri
+və ödəniş sistemləri haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq
+41
+--- page 42 ---
+günün 24 (iyirmi dörd) saatı müddətində azı telefon vasitəsi ilə dərhal bloklaşdırılması
+imkanını yaradır.
+10.2. Maliyyə institutu ödəniş alətinin telefon (zəng) vasitəsilə sürətli
+bloklaşdırılması üçün bloklaşdırma menyusuna birbaşa (digər menyulara keçmədən)
+çıxış imkanını yaradır və bu vasitə ilə bloklaşdırmanın dərhal həyata keçirilməsini təmin
+edir.
+10.3. Hüquqi aktlarda nəzərdə tutulmuş hallar nəzərə alınmaqla maliyyə
+institutu maliyyə xidməti göstərilən mobil tətbiqlərdə istehlakçılara aşağıdakı
+əməliyyatlara da qadağanın qoyulması imkanını yaradır:
+10.3.1. vəsaitlərin nağdlaşdırılması;
+10.3.2. elektron ticarət üzrə nağdsız hesablaşmalar (o cümlədən vəsaitlərin digər
+bank hesablarına köçürülməsi);
+10.3.3. nağdsız hesablaşmalar.
+10.4. Bu Əlavənin 10.3.1-10.3.3-cü bəndlərində nəzərdə tutulmuş qadağanın
+tətbiqi və aradan qaldırılması azı gücləndirilmiş müştəri autentifikasiyası vasitəsi ilə
+həyata keçirilir. Maliyyə institutu qadağanın tətbiqi və aradan qaldırılması üçün əlavə
+müştəri autentifikasiyası vasitəsi tətbiq edə bilər.
+10.5. Bu Əlavənin 10.3-cü bəndində nəzərdə tutulmuş qadağadan istifadə
+edildiyi halda qadağa dərhal tətbiq edilir.
+10.6. Gücləndirilmiş müştəri autentifikasiyası dedikdə autentifikasiya
+məlumatlarının məxfiliyini qorumaq üçün hazırlanmış və yalnız müştərinin və ya müştəri
+olmaq istəyən fiziki şəxsin “bildiyi” (şifrə, pin, suallar toplusu və s.), “sahib olduğu” (mobil
+telefon tətbiqi, OTP, TOTP, elektron imza, token və s.) və ya ona “məxsus olan” (üz
+tanınması, səs tanınması, barmaq izi və s.) müstəqil elementlərin iki və ya daha çoxunun
+istifadəsinə əsaslanan autentifikasiya (şəxsin dürüst müəyyənləşdirilməsi) başa düşülür.
+Elementlərin müstəqilliyi dedikdə bir elementin ələ keçirilməsi halının digər elementin
+təhlükəsizliyinə xələl gətirməməsi nəzərdə tutulur.
+42
+--- page 43 ---
+11. Kredit məhsulları üzrə reklam
+11.1. İstehlak kreditinin hər hansı xərci ilə bağlı məlumat verildikdə kreditin
+ümumi xərcinə daxil olan istənilən xərclər, o cümlədən faktiki illik faiz dərəcəsi reklam və
+satış materiallarının əsas hissəsində yerləşdirilir və faiz dərəcələri ilə eyni ölçüdə və
+görünüşdə olur.
+11.2. İpoteka krediti üzrə reklam və satış materiallarının əsas hissəsində
+aşağıdakı redaksiyada xəbərdarlıq qeyd olunur:
+Diqqət: İpoteka krediti üzrə borc qaytarılmadıqda girov qoyulmuş ev (əmlak)
+itirilə bilər.
+11.3. İstehlakçıya təqdim edilən kreditinin reklam və satış materiallarında
+aşağıdakı redaksiyada xəbərdarlıq qeyd olunur:
+Diqqət: Kreditin qaytarılmaması və ya gecikdirilməsi kredit tarixçəsinə mənfi təsir
+edərək növbəti kreditlərin alınmasını çətinləşdirə bilər.
+11.4. Vaxtından əvvəl icrası zamanı kompensasiya məbləğinin ödənilməsini
+tələb edən kreditin reklam və satış materiallarında aşağıdakı redaksiyada xəbərdarlıq
+qeyd olunur:
+Diqqət: Krediti vaxtından əvvəl qaytardığınız halda, sizdən əlavə haqq tələb oluna
+bilər.
+12. Əmanət məhsulları üzrə reklam
+12.1. Əmanət məhsullarının reklam və satış materiallarının əsas hissəsində
+aşağıdakılar təmin olunur:
+12.1.1. faiz dərəcələrinin sabit və ya dəyişkən olduğu qeyd olunur;
+12.1.2. reklam olunan faiz dərəcəsi illik faiz dərəcəsi ilə bir yerdə verilir və bu
+məlumatlar eyni ölçüdə və görünüşdə olur;
+12.1.3. reklam olunan faiz dərəcəsinə hüququn əldə olunması üzrə minimal
+müddət və (və ya) minimal məbləğ (tətbiq olunduqda) qeyd olunur;
+43
+--- page 44 ---
+12.1.4. tətbiq olunan vergilər qeyd olunur.
+12.2. Əmanət məhsulları üzrə faiz dərəcələri reklam və satış materiallarında
+dəqiq ifadə edilməli və aldadıcı olmamalıdır.
+12.3. Vaxtından əvvəl tələb edildikdə faizləri dəyişən əmanət məhsullarının
+reklam və satış materiallarında aşağıdakı redaksiyada xəbərdarlıq qeyd olunur:
+Diqqət: Əmanəti vaxtından əvvəl tələb etdiyiniz halda, faiz dərəcəsi dəyişə və ya
+faizlər ödənilməyə bilər.
+44
+--- page 45 ---
+“Maliyyə institutlarının bazar davranışlarına dair
+Metodoloji Rəhbərliyi”nə Əlavə 2
+Sığorta məhsulları
+1. Sığorta məhsulları üzrə məlumatların açıqlanması
+1.1. Maliyyə institutu maliyyə məhsullarının təqdim edildiyi bütün yerlərdə, rəsmi
+internet səhifəsində, mobil tətbiqlərində və digər elektron platformalarda bu Rəhbərliyin
+8.1-ci bəndində nəzərdə tutulmuş məlumatlarla yanaşı aşağıdakı məlumatları da
+açıqlayır:
+1.1.1. sığorta hadisəsi barədə məlumatın verilməsi və sığorta tələbinin irəli
+sürülməsi qaydası, müddəti və əlaqə vasitəsi;
+1.1.2. tətbiq olunduqda azadolma məbləği və gözləmə müddətləri, habelə onların
+növləri, tətbiq edildiyi hallar, məbləğlər (məbləğ aralığı) və digər şərtlər;
+1.1.3. sığorta tələblərinin tənzimlənməsi qaydası, proseduru və zərərlərin
+qiymətləndirilməsi müddətləri;
+1.1.4. sığorta tələbinin tənzimlənməsi prosesinin hər bir mərhələsi ilə bağlı
+istehlakçının məlumatlandırılması qaydası;
+1.1.5. sığorta ödənişinin verilməsindən imtina olunduğu halda istehlakçıların
+hüquqları.
+1.2. Maliyyə institutu sığorta müqaviləsi bağlanarkən istehlakçının tələbi ilə
+sığortaçının kənar auditor tərəfindən təsdiqlənmiş maliyyə vəziyyəti haqqında hesabatı
+və fəaliyyətinin illik yekunlarına dair maliyyə nəticələrini ona təqdim edir.
+2. Sığorta müqavilələri üzrə məlumatların verilməsi
+2.1. “Kredit müqavilələri üzrə borcalanın həyatının ölüm halından və əmək
+qabiliyyətinin itirilməsi hallarından sığortası Qaydası”nda nəzərdə tutulmuş hal istisna
+olmaqla maliyyə institutu sığorta müqaviləsindən imtina etmək, yaxud müqaviləni
+məzmunu dəyişdirilmiş şəkildə bağlamaq qərarına təsir göstərə bilən hallar barədə
+məlumatları istehlakçıdan davamlı daşıyıcıda tələb edir.
+45
+--- page 46 ---
+2.2. Maliyyə institutu Mülki Məcəllənin 911.2-ci maddəsinə uyğun olaraq
+məlumatların verilməməsinin hüquqi nəticələri barədə istehlakçıya izah verir.
+2.3. Tətbiq olunduqda maliyyə institutu əmlak sığortası müqaviləsi
+bağlamamışdan əvvəl istehlakçıya zərər dəymiş əmlakın təmir və ya bərpasına maliyyə
+institutunun müəyyən etdiyi şəxslərin cəlb etmək hüququnun mövcud olduğu izah olunur.
+3. Sığorta müqaviləsinin yekun versiyası
+3.1. Sığorta müqaviləsinin və sığorta şəhadətnaməsinin yekun redaksiyasına
+müvafiq olaraq Mülki Məcəllənin 900-cu və 902-ci maddələrində nəzərdə tutulmuş
+məlumatlar daxil edilir.
+3.2. Sığorta müqaviləsində (tətbiq olunduqda şəhadətnamədə) istisna olunan
+risklər və sığorta ödənişindən imtina əsasları müstəqil bölmələrdə ardıcıl yerləşdirilir və
+bu bölmələrdə olan məlumatlar tünd şriftlə müqavilənin (şəhadətnamənin) mətnindən
+fərqləndirilir.
+3.3. İstisna olunan risklərin və sığorta ödənişindən imtina əsaslarının digər
+bölmələrdə yerləşdirilməsinə yol verilmir.
+4. Hesabdan çıxarış
+4.1. Maliyyə institutu yığım məqsədli həyat sığortası üzrə ayrılıqda istehlakçının
+tələbi ilə ona hesabdan çıxarış verir.
+4.2. Maliyyə institutu hesabdan çıxarışı və istehlakçıya əvvəllər təqdim edilmiş
+hesabdan çıxarışın kağız və ya digər davamlı daşıyıcıda olan surətini istehlakçının
+sorğusu daxil olduğu gündən ağlabatan müddət ərzində, lakin 3 (üç) iş günündən gec
+olmayaraq ona təqdim edir.
+4.3. Maliyyə institutu hesabdan çıxarışda aşağıdakı məlumatları açıqlayır:
+4.3.1. istehlakçının soyadı, adı və atasının adı;
+4.3.2. maliyyə institutunun adı, VÖEN-i və ünvanı;
+4.3.3. hesabdan çıxarışın aid olduğu dövr;
+4.3.4. əvvəlki çıxarışın tarixi və həmin tarixə olan balans;
+4.3.5. çıxarış tarixinə olan cari balans;
+46
+--- page 47 ---
+4.3.6. hesab üzrə hər bir əməliyyatın məbləği, tarixi və mahiyyəti, eləcə də tətbiq
+olunan hər hansı xidmət haqqı, ödəniş və ya məzənnə;
+4.3.7. vəsaitlər fərqli valyutada olduqda onların məbləği;
+4.3.8. əvvəlki çıxarışda qeyd edilən hər hansı məlumata edilən düzəlişlər;
+4.3.9. cari illik faiz dərəcəsi və hesabat dövrü ərzində bununla bağlı edilmiş hər
+hansı dəyişikliklər barədə məlumat;
+4.3.10. hesabda olan vəsait üzrə hesablanmış faizlər və onların hesablandığı
+tarix;
+4.3.11. hesab üzrə əməliyyatın maliyyə institutu ilə dəqiqləşdirilməsi və ya
+şikayətin verilməsi qaydası;
+4.3.12. Mərkəzi Banka və mübahisələrin həlli ilə məşğul olan qurumlara
+müraciətlərin edilməsi üsulları və ünvanı.
+4.4. Hesabdan çıxarışa maliyyə məhsulu üzrə açıqlanması tələb olunan
+məlumatlardan daha az əhəmiyyətə malik olan və (və ya) özündə hər hansı maliyyə
+məhsulunun reklamını və ya təkliflərini əks etdirməyən digər məlumatlar da daxil edilə
+bilər.
+4.5. Hesabdan çıxarışda əks olunan məlumatlar onun aid olduğu dövrü əhatə
+edir.
+5. Sığorta tələblərinin tənzimlənməsi
+5.1. Sığortaçı sığorta tələblərinin effektiv, ədalətli və sürətli tənzimlənməsi üçün
+tələbin tənzimlənməsi üzrə bütün mərhələlərini ardıcıllıqla özündə əhatə edən daxili
+qayda və prosedurlara malik olur. Sığorta tələbinin tənzimlənməsinin hər bir mərhələsi
+üzrə məsul olan struktur bölmə və mərhələnin ehtimal olunan maksimum bitmə
+müddətləri daxil prosedur və qaydalarda əks olunur.
+5.2. Sığorta hadisəsi baş verdikdə sığortaçı tərəfindən aşağıdakılar təmin edilir:
+5.2.1. sığorta tələblərini qanunvericilikdə müəyyən edilmiş müddətdə və
+obyektiv şəkildə araşdırmaq;
+5.2.2. sığorta tələblərinin irəli sürülməsi üçün istehlakçıya izah və məsləhətlər,
+habelə sığorta tələblərinin gedişatı barədə məlumat vermək;
+47
+--- page 48 ---
+5.2.3. istehlakçını sığorta tələbini irəli sürməkdən yayındırmamaq;
+5.2.4. sığorta tələbini qiymətləndirərkən yalnız sığorta ödənişinin verilməsi
+barədə qərar qəbul etmək üçün qanunvericilikdə və sığorta qaydalarında nəzərdə
+tutulmuş məlumatları tələb etmək və məlumat tələb edərkən istehlakçıya məlumatın tələb
+olunma səbəbləri barədə izah vermək;
+5.2.5. zərərin qiymətləndirilməsi hallarında tərəflər arasında razılıq əldə
+edilmədikdə zərərin miqdarının qiymətləndirilməsi və müstəqil ekspertin cəlb edilməsi
+qaydası barədə məlumat vermək;
+5.2.6. sığorta ödənişinin qanunvericiliyə uyğun olaraq, mümkün ən qısa müddət
+ərzində həyata keçirmək;
+5.2.7. sığorta ödənişindən imtina edildikə aşağıdakı məlumatlar daxil olmaqla
+istehlakçıya əsaslandırılmış bildiriş vermək:
+5.2.7.1. sığorta tələbinin sığortaçı tərəfindən qəbul edilməyən hissələri;
+5.2.7.2. imtina haqqında qərarın səbəbləri;
+5.2.7.3. sığortaçının qərar verilərkən istifadə etdiyi məlumatların, o cümlədən
+üçüncü şəxslərin təqdim etdiyi sənəd və məlumatların istehlakçı tərəfindən əldə etmək
+hüququ barədə məlumat;
+5.2.7.4. bu Rəhbərliyin 5 nömrəli Əlavəsində göstərilən məlumatları.
+5.3. Sığorta hadisəsi hesab edilə bilən hadisə barədə məlumat aldıqda, habelə
+hadisə yerinə gəldikdə sığortaçı dərhal sığortalıya (müvafiq hallarda sığorta olunana və
+faydalanan şəxsə) aşağıdakı məlumatları şifahi və davamlı daşıyıcıda təqdim edir:
+5.3.1. hadisənin sığorta hadisəsi hesab edilməsi, zərərin qiymətləndirilməsi və
+sığorta ödənişinin alınması üçün qanunvericilikdə və sığorta müqaviləsində nəzərdə
+tutulmuş hərəkətlər və təqdim edilməli olan sənədlər;
+5.3.2. qanunvericilikdə və sığorta müqaviləsində nəzərdə tutulan sığorta
+ödənişinin verilməsi forması və tətbiq olunduğu halda, həmin formanın dəyişdirilməsi
+qaydası;
+5.3.3. tərəflərin hüquq və vəzifələri.
+5.4. Sığorta ödənişi barədə qərar qəbul edildikdən sonra sığortaçı sığorta
+ödənişinin hesablanması barədə aşağıdakıları əks etdirən və davamlı daşıyıcıda olan
+məlumatları mümkün ən qısa müddət ərzində istehlakçıya təqdim edir:
+48
+--- page 49 ---
+5.4.1. şəxsi sığorta üzrə sığorta ödənişinin məbləğini;
+5.4.2. əmlak sığortası üzrə müvafiq hallarda sığorta ödənişinin məbləğini,
+sığorta ödənişi qismində istehlakçıya verilən əmlakın və ya görülməli təmir işlərinin
+siyahısı və məbləğini (təmir müəssisəsi göstərilməklə);
+5.4.3. tibbi sığorta üzrə müraciət olunmuş tibb müəssisəsinin və ya aptek
+təşkilatının adı, müraciət etmə tarixi, istifadə olunmuş xidmət və alınmış dərman
+vasitələrini, həmin müəssisə və təşkilat tərəfindən sığortaçıya irəli sürülmüş məbləğ və
+sığorta müqaviləsi üzrə sığorta məbləğinin qalığını;
+5.4.4. sığorta ödənişinin hesablanması qaydasını;
+5.4.5. sığorta ödənişi hesablanarkən istinad olunan qanunvericilik norması və
+sığorta müqaviləsinin şərtlərini;
+5.4.6. sığorta ödənişi hesablanarkən köhnəlmə əmsalı tətbiq edildikdə onun
+hesablanması qaydası.
+5.5. Sığorta müqaviləsi üzrə sığortalı olmayan istehlakçıya (faydalanan şəxsə)
+sığorta ödənişi verilərkən sığortaçı sığortalıya davamlı daşıyıcıda sığorta ödənişinin
+məbləği və ödənişin həyata keçirilməsi forması barədə məlumat verir. Tətbiq olunduqda
+sığorta ödənişinin sığortalının növbəti sığorta müqavilələrinə təsiri barədə də məlumat
+verilir.
+5.6. Avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə
+hadisə yerinə çıxan sığortaçının əməkdaşının üzərində “İcbari sığortalar haqqında”
+Azərbaycan Respublikası Qanununun 58.2-ci maddəsində nəzərdə tutulumuş protokolun
+forması olur və hadisə iştirakçılarına təqdim edilir. Sığortaçının əməkdaşı qeyd olunan
+protokolun doldurulması qaydası barədə məlumat verir və doldurulmasında yardımçı olur.
+Protokol tərtib edildiyi halda, sığorta hadisəsi hesab edilə bilən halın baş verməsi faktını
+təsdiqləyən səlahiyyətli orqan tərəfindən verilən yol-nəqliyyat hadisəsi haqqında arayışın
+tələb olunmadığı barədə tərəflərə məlumat verilir.
+49
+--- page 50 ---
+“Maliyyə institutlarının bazar davranışlarına dair
+Metodoloji Rəhbərliyi”nə Əlavə 3
+İnvestisiya xidmətləri
+1. İnvestisiya risklərinin açıqlanması
+1.1. İnvestisiya xidmətləri göstərən maliyyə institutları təqdim edilməsi
+qanunvericiliklə müəyyən edilmiş məlumatlarla yanaşı, xidmət alanlara investisiya
+xidmətlərinin göstərilməsindən əvvəl aşağıdakı məlumatları açıqlayır:
+1.1.1. təklif etdiyi investisiya xidməti və qiymətli kağızlar və törəmə maliyyə
+alətləri ilə əməliyyatlarla bağlı risklər və onların nəticələri;
+1.1.2. təklif etdiyi investisiya strategiyalarının və ticarət sistemlərinin
+(platformalarının) riskləri və nəticələri;
+1.1.3. marja ticarəti xidməti təklif etdiyi halda "Marja ticarəti üzrə risk
+məlumatlandırma sənədi" də daxil olmaqla açılmış və bağlanmış mövqelərə dair yarana
+biləcək risklər.
+2. İnvestisiya xidməti göstərən maliyyə institutlarının əlavə öhdəlikləri
+2.1. İnvestisiya xidmətləri göstərən maliyyə institutları qanunla nəzərdə tutulmuş
+hallarda xidmət alanlarla müqavilə bağlanmazdan əvvəl xidmət alanların maliyyə
+vəziyyəti və investisiya məqsədləri barədə məlumat, habelə investisiya təcrübəsi və riskə
+münasibətini qiymətləndirmək məqsədilə məlumat toplayır və bu məlumatların müvafiq
+qaydada saxlanmasını təmin edir.
+2.2. Fərdi investorun portfelinin idarə edilməsi və ya investisiya məsləhətinin
+verilməsi üzrə xidmət göstərən maliyyə institutları xidmət alanların təqdim etdiyi
+məlumatlar əsasında xidmət alanlara məsləhət görülən qiymətli kağızların və maliyyə
+məhsullarının uyğunluğunu təmin edir.
+2.3. İnvestisiya xidmətlərinin göstərilməsinə dair müqavilədə xidmət alanlara
+münasibətdə daha əlverişli şərtlərin nəzərdə tutulduğu hal istisna olmaqla, xidmət alanlar
+50
+--- page 51 ---
+onların hesabındakı istifadə olunmayan vəsaitlərin ödənilməsini və ya digər investisiya
+şirkətinə (investisiya xidmətlərinin təklif edən banklara) köçürülməsini tələb etdikdə
+investisiya xidməti göstərən maliyyə institutları aşağıdakıları təmin edir:
+2.3.1. ödəniş və ya köçürmənin ən geci 3 (üç) iş günü ərzində həyata keçirilməsini;
+2.3.2. əməliyyat xərclərinin ağlabatan və maliyyə institutu tərəfindən çəkilən faktiki
+xərclərə uyğun olmasını;
+2.3.3. prosedurların aydın və asan başa düşülən olmasını. Bu prosedurlar xidmət
+alanların hesablarını bağlamaq və ya əməliyyatları tamamlamaq üçün tələb olunan bütün
+mərhələləri əhatə etməlidir.
+2.4. İnvestisiya xidməti göstərən maliyyə institutları xidmət alanların qeydiyyat
+məlumatlarını daim cari məlumatlara uyğun saxlayır və bu qeydiyyat məlumatlarını tam
+və asanlıqla əlçatan edir.
+2.5. Xidmət alanların qeydiyyatı aşağıdakı məlumatları əhatə edir:
+2.5.1. xidmət alanların eyniləşdirilməsi, əlaqə məlumatları və profili üçün tələb
+olunan bütün sənədlərin davamlı daşıyıcıda olan surətini;
+2.5.2. xidmət alana təqdim olunan bütün müqavilə bildirişləri və dövri hesabatları;
+2.5.3. xidmət alana verilən məsləhət və maliyyə məhsullarına dair bütün
+məlumatların təfərrüatlarını;
+2.5.4. xidmət alanla aparılan bütün yazışmaları;
+2.5.5. məsləhət və maliyyə məhsullarının təqdim edilməsi üçün xidmət alan
+tərəfindən təqdim olunan bütün sənədləri.
+2.6. “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikası Qanununun
+33-cü maddəsində nəzərdə tutulmuş razılıq (icazə) ayrıca sənəd formasında tərtib edilir.
+Həmin Qanunun 33.1-ci maddəsində nəzərdə tutulmuş icazədə azı vəsaitlərin verilməsi
+nəzərdə tutulan şəxslər və istifadə məqsədləri, 33.2-ci maddəsində nəzərdə tutulmuş
+yazılı razılıqda isə müştəri aktivlərinin hansı öhdəliklərlə yüklənilməsi və razılığın qüvvədə
+olma müddəti aydın və birmənalı şəkildə göstərilir və müştəriyə izah olunur.
+51
+--- page 52 ---
+3. İnvestisiya xidmətləri üzrə reklam
+3.1. İstehlakçının yatırdığı investisiyanın bütünlüklə və ya bir hissəsinin itirilməsi
+riskini ehtiva edən investisiya xidmətlərinin reklam və satış materiallarında aşağıdakı
+redaksiyada xəbərdarlıq qeyd olunur:
+Diqqət: Bazar şəraitindən və investisiya nəticələrindən asılı olaraq investisiya
+etdiyiniz vəsaiti bütünlüklə və ya bir hissəsini itirə bilərsiniz.
+3.2. Dəyəri və ya gəliri sabit olmayan və dəyişən investisiya məhsullarının
+reklam və satış materiallarında aşağıdakı redaksiyada xəbərdarlıq qeyd olunur:
+Diqqət: Bazar şəraitindən və investisiya nəticələrindən asılı olaraq
+investisiyanızın dəyəri həm arta, həm də azala bilər.
+3.3. Nominal məbləği və ya dəyəri xarici valyutada ifadə olunan investisiya
+məhsullarının reklam və satış materiallarında aşağıdakı redaksiyada xəbərdarlıq qeyd
+olunur:
+Diqqət: (Maliyyə məhsulunun adı) valyuta məzənnəsinin təsirinə məruz qala bilər.
+3.4. İnvestisiya edilmiş vəsaitlərə müəyyən müddətdə sərəncam verilməsinə və
+ya onların qaytarılmasına məhdudiyyəti nəzərdə tutan investisiya məhsulunun reklam və
+satış materiallarında aşağıdakı redaksiyada xəbərdarlıq qeyd olunur:
+Diqqət: İnvestisiya etdiyiniz halda, vəsaitinizə çıxış imkanınız (tarix və ya müddət)
+məhdudlaşdırılacaqdır.
+3.5. Maliyyə institutu reklam və satış materiallarında investisiya məhsulunun və
+(və ya) öz fəaliyyətinin əvvəlki göstəriciləri barədə məlumat verdiyi halda həmin
+məlumatların aşağıdakılara uyğunluğu təmin edilir:
+52
+--- page 53 ---
+3.5.1. əvvəlki göstəricilər və maliyyə məhsulunun gələcək gəlirliliyi baxımından
+çaşdırıcı xarakter daşımır;
+3.5.2. əvvəlki göstəricilər reklam edilən oxşar məhsula əsaslanır;
+3.5.3. təşviq edilən investisiya məhsulunun uğurunu şişirdən və ya
+uğursuzluğunu gizlədən formada təqdim edilmir;
+3.5.4. reklam və satış materiallarında mənbəyi göstərilir;
+3.5.5. real nəticələrə əsaslanır;
+3.5.6. əvvəlki göstəricilər son dövrləri əhatə edir;
+3.5.7. əməliyyat xərcləri, faiz dərəcələri və vergiləri özündə ehtiva edir;
+3.5.8. investisiya məsləhəti olmadığı qeyd olunur.
+53
+--- page 54 ---
+“Maliyyə institutlarının bazar davranışlarına dair
+Metodoloji Rəhbərliyi”nə Əlavə 4
+Şikayətlərin reyestrinin aparılması Forması
+Maliyyə institutu tərəfindən qəbul edilmiş şikayət azı aşağıdakı kateqoriyalara uyğun
+qeydə alınır:
+1. Şikayətin qəbulu üzrə ümumi məlumatlar;
+2. Müraciət edən şəxs barədə məlumatlar;
+3. Maliyyə məhsulu barədə məlumatlar;
+4. Şikayətin növü və məzmunu barədə məlumatlar;
+5. Yekun nəticə.
+1. Şikayətin qəbulu üzrə ümumi məlumatlar:
+• Şikayətin qəbul olunma tarixi və xüsusi qeydiyyat nömrəsi;
+• Təqdimetmə vasitələri;
+• Əvvəlki müraciətlərlə (əgər varsa) bağlı əldə edilmiş məlumatlar;
+• Həyata keçirilən fəaliyyətlərin izlənməsi;
+• İşin bitmə tarixi.
+2. Müraciət edən şəxs barədə məlumatlar:
+Müraciət edən şəxsin adı ( müraciət edən fiziki şəxs olduqda onun soyadı, adı, atasının
+adı, müraciət edən hüquqi şəxs olduqda onun adı, təşkilati-hüquqi forması, VÖEN-i);
+• Müraciət edən şəxsin əlaqə məlumatları (ünvan, telefon nömrəsi, e-poçt və s.);
+• Fiziki və ya hüquqi şəxs olması;
+• Sosial status (əlilliyi olan şəxs, veteran, tələbə, şəhid ailəsi və s.); *
+• Yaş;*
+54
+--- page 55 ---
+• Cins.*
+*Bu məlumatlardan maliyyə institutu tərəfindən şikayət haqqında məlumatlılığı artırmaq məqsədilə müvafiq
+qruplara hədəflənən maarifləndirmə siyasətinin həyata keçirilməsi üçün istifadə edilə bilər.
+Məhsullar barədə məlumatlar:
+3.1 Banklar və bank olmayan kredit təşkilatları üçün nümunə:
+Kredit:
+• İstehlak krediti;
+• Avtomobil krediti;
+• İpoteka krediti;
+• Biznes krediti;
+• Digər.
+Bank hesabı və bank əmanəti:
+• Bank hesabı;
+• Tələbli əmanət;
+• Müddətli əmanət;
+• Digər.
+Digər bank əməliyyatları:
+• Təcili pul köçürmələri;
+• Valyuta mübadiləsi;
+• Onlayn bankçılıq;
+• Kredit kartları;
+• Debet kartları;
+• Digər.
+3.2. Sığortaçılar üçün nümunə:
+55
+--- page 56 ---
+İcbari sığorta:
+• Avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası;
+• Daşınmaz əmlakın icbari sığortası;
+• Daşınmaz əmlakın istismarı ilə bağlı mülki məsuliyyətin icbari sığortası;
+• İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin
+itirilməsi hallarından icbari sığorta;
+• Digər.
+Könüllü sığorta:
+• Avtonəqliyyat vasitələrinin könüllü sığortası;
+• Əmlakın yanğından və digər risklərdən sığortası;
+• Kredit risklərinin sığortası;
+• Fərdi qəza sığortası;
+• Mülki məsuliyyətin sığortası;
+• Tibbi sığorta;
+• Səfər sığortası;
+• Kənd təsərrüfatı bitkilərinin sığortası;
+• Kənd təsərrüfatı heyvanlarının sığortası;
+• Həyatın ölüm halından sığortası;
+• Həyatın yaşam (yığım) sığortası;
+• Digər.
+3.3. İnvestisiya şirkətləri üçün nümunə:
+İnvestisiya xidmətləri:
+• Qiymətli kağızlar və ya törəmə maliyyə alətləri ilə aparılan əməliyyatlarla bağlı müştəri
+sifarişlərinin qəbulu və icra edilməsi;
+• Fərdi investorların portfelinin idarə edilməsi;
+56
+--- page 57 ---
+• İnvestisiya məsləhətlərinin verilməsi;
+• Qiymətli kağızların öhdəlik götürmədən yerləşdirilməsi və anderraytinqi;
+• Qiymətli kağızların öhdəlik götürməklə yerləşdirilməsi və anderraytinqi;
+• Mərkəzi depozitarın və fond birjasının üzvü qismində öz hesabına qiymətli kağızlar və
+ya törəmə maliyyə alətləri ilə əməliyyatlar aparılması;
+• Marja ticarəti;
+• Digər.
+3.4. Ödəniş xidməti təchizatçıları üçün nümunə:
+• ödəniş hesabı üzrə pul vəsaitinin nağd formada mədaxili və (və ya) məxarici
+əməliyyatlarının aparılması;
+• kredit köçürməsi, birbaşa debitləşmə, ödəniş kartı və ya digər oxşar ödəniş alətləri ilə
+ödəniş əməliyyatlarının icrası;
+• ödəniş alətlərinin emissiyası və (və ya) ödəniş əməliyyatının ekvayrinqi;
+• elektron pulun emissiyası və elektron pul ilə ödəniş əməliyyatlarının icrası;
+• digər
+4. Şikayətin növü və məzmunu barədə məlumatlar:
+4.1. Bank, bank olmayan kredit təşkilatları, kredit ittfaqları üçün:
+• Kreditin verilməsindən imtina;
+• Kredit üzrə güzəşt tətbiq edilməsindən imtina;
+• Kreditin qanunsuz rəsmiləşdirilməsi;
+• Kredit üzrə borcun düzgün hesablanmaması;
+• Əmanətin geri qaytarılmaması;
+• Əmanət faizlərinin düzgün hesablanmaması;
+• SSRİ əmanətləri;
+• MKR-ə və ya kredit bürosuna məlumatın düzgün yerləşdirilməməsi;
+57
+--- page 58 ---
+• MKR-dən və ya kredit bürosundan məlumatın silinməməsi;
+• Zaminliyin xitamı;
+• Qanunsuz zaminliyin rəsmiləşdirilməsi;
+• Fişinq əməliyyatları;
+• Borcun düzgün hesablanmaması;
+• Akseptsiz tutulma;
+• Bank sirri;
+• Nağdlaşdırma limiti;
+• Digər.
+4.2. Sığortaçılar üçün:
+• Əmlaka dəymiş zərərin düzgün qiymətləndirilməməsi;
+• Sığorta ödənişinin verilməsindən imtina edilməsi;
+• Sığorta ödənişinin gec verilməsi;
+• Sığorta ödənişinin verilməsində çətinliklər (əlavə sənəd tələb edilməsi və s.);
+• Digər.
+4.3. Ödəniş sistemləri və xidmətləri üçün:
+• Komisyon muzd;
+• Fişinq;
+• Onlayn bankçılıq;
+• Təcili pul köçürmələri;
+• Qəbul istəyi;
+• Digər.
+4.4. İnvestisiya şirkətləri üçün:
+• Səhm;
+• İstiqraz;
+• Portfel idarəetməsi;
+58
+--- page 59 ---
+• Digər.
+5. Yekun nəticə:
+Nəticə aşağıdakılar üzrə qruplaşdırılır:
+• İstehlakçıya izahat verilmişdir;
+• İstehlakçının şikayəti qismən təmin edilmişdir;
+• İstehlakçının şikayətinin həlli maliyyə institunun səlahiyyətləri çərçivəsində
+olmadığından digər quruma (qurumun adı qeyd olunmaqla) yönləndirilmişdir;
+• İstehlakçının şikayəti təmin edilmişdir;
+• İstehlakçının şikayəti təmin edilməmişdir;
+• Baxılmaqdadır;
+• Şikayət baxılmamış saxlanılmışdır.
+59
+--- page 60 ---
+“Maliyyə institutlarının bazar davranışlarına dair
+Metodoloji Rəhbərliyi”nə Əlavə 5
+Hara şikayət etmək olar?
+Maliyyə institutuna
+• Əgər bizdən şikayətiniz varsa, ilk növbədə bizimlə (xidmət olunduğunuz maliyyə
+institutu) əlaqə saxlayın.
+• Narazılığınızın səbəbi və problemin mahiyyəti haqqında bildirin (yazılı (kağız və ya
+elektron müraciət) formada müraciət etmək daha məqsədəuyğundur).
+• Müraciətinizə müvafiq olaraq “Vətəndaşların müraciətləri haqqında” və “Ödəniş
+xidmətləri və ödəniş sistemləri haqqında” Azərbaycan Respublikasının qanunlarında
+müəyyən edilmiş müddətlərdə (müddət göstərilməklə) baxılır və cavablandırılır.
+• Adınızdan digər şəxsin müraciət etməsini istəyirsinizsə, o zaman bunu
+rəsmiləşdirməlisiniz. Belə ki, müraciət edəcəyiniz qurum(lar)a müraciət nümayəndə
+vasitəsilə təqdim edildikdə müraciətə nümayəndənin səlahiyyətlərini təsdiqləyən sənədlər
+əlavə edilməlidir.
+Azərbaycan Respublikasının Mərkəzi Bankına
+• Şikayətin nəticələri ilə razılaşmadığınız təqdirdə 966 “Qaynar xətt” vasitəsilə, şəxsi qəbul
+və ya rəsmi qaydada (yazılı (poçt, elektron müraciət, telegram və digər vasitələrdən
+istifadə edərək) olaraq) Azərbaycan Respublikasının Mərkəzi Bankına (Mərkəzi Bank)
+müraciət edə bilərsiniz. Mərkəzi Bank tərəfindən şikayətinizin təmin olunması və ya
+müraciətinizlə əlaqədar sizə müvafiq izahatın verilməsi ilə bağlı tədbirlər görülür.
+• Mərkəzi Bank tərəfindən şikayətiniz “Vətəndaşların müraciətləri haqqında” Azərbaycan
+Respublikasının Qanununda müəyyən edilmiş müddətlərdə (müddət göstərilməklə)
+baxılır və cavablandırılır.
+Bank Ombudsmanı, mediator (mediasiya təşkilatı) və ya məhkəməyə
+• Mərkəzi Bank və ya maliyyə institutunun cavabları sizi qane etməzsə, Bank
+Ombudsmanı, mediator (maliyyə institutu ilə əvvəlcədən razılaşdırılmış və ya maliyyə
+60
+--- page 61 ---
+institutu tərəfindən sizə təklif olunan mediasiya təşkilatı) və (və ya) məhkəməyə müraciət
+edə bilərsiniz.
+• Bank Ombudsmanı banklarla onların fiziki şəxs müştəriləri arasında yaranan
+mübahisələrin araşdırılması üzrə Azərbaycan Banklar Assosiasiyasının nəzdində daimi
+fəaliyyət göstərən orqandır və ərizəçi qismində fiziki şəxs çıxış etdikdə müqavilələrin
+bağlanması, dəyişdirilməsi, icrası və ya xitam verilməsi ilə bağlı yaranan mülki hüquqi
+mübahisələrə baxa bilər. Bank Ombudsmanı hüquqi şəxslərin və sahibkarlıq fəaliyyəti
+həyata keçirən fiziki şəxslərin müraciətlərinə baxmaq səlahiyyətinə malik deyil.
+• Qanunvericiliyə müvafiq qaydada məhkəməyə müraciət edə bilərsiniz.
+Qeyd: Azərbaycan Respublikasının Konstitusiyasına görə sizin bütün hallarda məhkəmə
+müdafiənizə təminat verilir. Ona görə də şikayətin maliyyə institutuna, Azərbaycan
+Respublikasının Mərkəzi Bankına, mediatora və ya Bank Ombudsmanına verilib-
+verilməməsindan asılı olmayaraq siz şikayətinizi birbaşa məhkəməyə vermək hüququna
+maliksiniz.
+61
+--- page 62 ---
+“Maliyyə institutlarının bazar davranışlarına dair
+Metodoloji Rəhbərliyi”nə Əlavə 6
+Sığorta müqaviləsi üzrə standart məlumatlandırma forması
+Sığortaçının adı
+1.
+Sığortaçının ünvanı
+2.
+Sığorta növü Məsələn, əmlak sığortası
+3.
+Sığorta təminatının müddəti
+4.
+Sığorta məbləği _________ manat/dollar/digər xarici valyuta
+5.
+6.
+S ığorta ödənişinin verilməsi üsulu
+7. Təminat verilən risklər
+8. İstisnalar
+9. Ödənişdən imtina əsasları
+Sığorta haqqı və onun ödənilmə Sığorta haqqı:
+10.
+qaydası Sığorta haqqı aşağıdakı tarixlərədək ödənilir:
+Sığorta haqqının vaxtında
+11.
+ödənilməməsinin nəticəsi
+Risk barədə yanlış məlumat
+12.
+verilməsinin nəticəsi
+İstehlakçının sığorta müqaviləsinə
+vaxtından əvvəl xitam vermək
+13.
+hüququnun həyata keçirildiyi müddət
+və şərtlər
+Bu Formada verilən məlumatların Məlumatlar __ ____ 20__- __ il tarixinədək
+14.
+qüvvədə olduğu müddət qüvvədədir.
+Bu Formada verilən məlumatların Aşağıdakılara müraciət edə bilərsiniz:
+qanuna uyğun olmadığını müəyyən ● sığortaçıya (əlaqə vasitələri göstərilməklə);
+etdikdə və ya onun hüquqları ● Azərbaycan Respublikasının Mərkəzi Bankına;
+15.
+pozulduqda istehlakçının öz ● mediatora (mediasiya təşkilatına);
+hüquqlarının müdafiəsi üçün ata ● məhkəməyə.
+biləcəyi addımlar
+Azərbaycan Respublikası Mərkəzi 966 Qaynar xəttə daxil olan zənglər iş günlərində
+16.
+Bankının qaynar xətti fasiləsiz olaraq saat 09:00-dan 18:00-dək qəbul edilir.
+İstehlakçının bu Formanı əldə Ad, soyad:______________
+etməsinin təsdiqi İmza:________
+17.
+Tarix:________
+62
+
+=== tables_0.txt ===
+--- page 33 table 1 ---
+33.4. Reyestrdə olan məlumatlar daxil olduğu dövrə (yarımillik əsasda) və
+şikayətlərin xarakterinə (cavablandırılmış, hazırda baxılan və ya təmin edilməsindən
+imtina edilmiş şikayətlərin sayı və onların məhsul və xidmətlər, o cümlədən şikayətin
+spesifik məzmunu üzrə bölgüsü) uyğun olaraq icmallaşdırılır, yarımillik əsasda maliyyə
+institutunun internet səhifəsində yaradılmış “müraciətlər” bölməsində yerləşdirilir və ən
+azı 3 (üç) il müddətində həmin bölmədə saxlanılır.
+33.5. Maliyyə institutu tarixlər göstərilməklə şikayətlərə baxılma prosesinin
+statusu (azı “şikayət qeydə alındı”, “şikayətə baxılır”, “şikayət cavablandırıldı”) üzrə
+xidmət alanı davamlı daşıyıcıda məlumatlandırır.
+--- page 62 table 1 ---
+1. | Sığortaçının adı | 
+2. | Sığortaçının ünvanı | 
+3. | Sığorta növü | Məsələn, əmlak sığortası
+4. | Sığorta təminatının müddəti | 
+5. | Sığorta məbləği | _________ manat/dollar/digər xarici valyuta
+6. | S ığorta ödənişinin verilməsi üsulu | 
+7. | Təminat verilən risklər | 
+8. | İstisnalar | 
+9. | Ödənişdən imtina əsasları | 
+10. | Sığorta haqqı və onun ödənilmə qaydası | Sığorta haqqı: Sığorta haqqı aşağıdakı tarixlərədək ödənilir:
+11. | Sığorta haqqının vaxtında ödənilməməsinin nəticəsi | 
+12. | Risk barədə yanlış məlumat verilməsinin nəticəsi | 
+13. | İstehlakçının sığorta müqaviləsinə vaxtından əvvəl xitam vermək hüququnun həyata keçirildiyi müddət və şərtlər | 
+14. | Bu Formada verilən məlumatların qüvvədə olduğu müddət | Məlumatlar __ ____ 20__- __ il tarixinədək qüvvədədir.
+15. | Bu Formada verilən məlumatların qanuna uyğun olmadığını müəyyən etdikdə və ya onun hüquqları pozulduqda istehlakçının öz hüquqlarının müdafiəsi üçün ata biləcəyi addımlar | Aşağıdakılara müraciət edə bilərsiniz: ● sığortaçıya (əlaqə vasitələri göstərilməklə); ● Azərbaycan Respublikasının Mərkəzi Bankına; ● mediatora (mediasiya təşkilatına); ● məhkəməyə.
+16. | Azərbaycan Respublikası Mərkəzi Bankının qaynar xətti | 966 Qaynar xəttə daxil olan zənglər iş günlərində fasiləsiz olaraq saat 09:00-dan 18:00-dək qəbul edilir.
+17. | İstehlakçının bu Formanı əldə etməsinin təsdiqi | Ad, soyad:______________ İmza:________ Tarix:________

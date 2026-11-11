@@ -1,0 +1,75 @@
+{
+ "data": {
+  "train_labels": "/content/azd/main/runs/nonllm_inputs/train_labels.csv",
+  "source": "main: /content/azd/main/annotation/claims/claims_random.csv; gold /content/azd/main/annotation/reference/reference_R1.csv (506 rows); train_on=merged",
+  "n_not_training_target": 40,
+  "n_train_label_unassessable": 2,
+  "n_no_train_label": 38,
+  "n_gold_unassessable_not_scored": 1,
+  "clusters": "/content/azd/main/sampling/clusters.csv",
+  "n_claims": 2020,
+  "train_label_counts": {
+   "SUPPORTED": 1565,
+   "NOT_IN_SOURCE": 394,
+   "None": 38,
+   "CONTRADICTED": 4,
+   "MISREPRESENTED": 17,
+   "UNASSESSABLE": 2
+  },
+  "n_clusters": 59
+ },
+ "edits": {},
+ "e5": {
+  "e5_file": "/content/azd/main/runs/main_inputs/e5_edits.csv",
+  "e5_rows": 300,
+  "e5_by_fold": {
+   "2": 62,
+   "3": 60,
+   "0": 64,
+   "4": 58,
+   "1": 56
+  },
+  "e5_sha256": "bd8fd663e1ab446befb02ff5cd67f8aeff96e6e4dd483837feee133b88a7f80c"
+ },
+ "model": "FacebookAI/xlm-roberta-base",
+ "model_revision": "e73636d4f797dec63c3081bb6ed5c7b0bb3f2089",
+ "top_k": 3,
+ "conditions": [
+  "C0"
+ ],
+ "system": "S2_xlmr",
+ "device": "cuda",
+ "folds_sha256": "0441512b9c3ee0d9ffe10b1669bff7e2d4d88e83b646f1736ff430a37d4d1a2e",
+ "label_set": [
+  "SUPPORTED",
+  "MISREPRESENTED",
+  "NOT_IN_SOURCE"
+ ],
+ "inner_scoring": "macro-F1 over label_set",
+ "lr_grid": [
+  1e-05,
+  2e-05,
+  3e-05
+ ],
+ "epochs": 3,
+ "batch": 16,
+ "micro_batch": 16,
+ "max_len": 512,
+ "max_steps": 0,
+ "seeds": [
+  1,
+  2,
+  3
+ ],
+ "select_seed": 1,
+ "outer_folds": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "total_seconds": 2353.4,
+ "python": "3.13.16",
+ "written": "2026-11-11 05:25:31"
+}

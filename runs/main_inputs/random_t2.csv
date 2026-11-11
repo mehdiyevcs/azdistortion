@@ -1,0 +1,423 @@
+claim_id,report_id,ann_id,part,sample,has_t2,claim_text
+R0005-C01,R0005,CBAR-5397,headline,random,1,AMB yerli banklara kapitalını Bazel III standartlarına uyğunlaşdırmaq üçün 1 il vaxt verib.
+R0005-C02,R0005,CBAR-5397,lead,random,1,Azərbaycan Mərkəzi Bankı (AMB) yerli banklara kapitalını Bazel III standartlarına uyğunlaşdırmaq üçün 1 il vaxt verib.
+R0005-C03,R0005,CBAR-5397,body,random,1,AMB İdarə Heyətinin ötən il dekabrın 16-da qəbul etdiyi qərarla “Bank kapitalının və onun adekvatlığının hesablanması Qaydaları”nda dəyişikliklər edilib.
+R0005-C04,R0005,CBAR-5397,body,random,1,Bu addım “2024 – 2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası”ndan irəli gələrək bank sektorunda maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılması məqsədilə atılıb.
+R0005-C05,R0005,CBAR-5397,body,random,1,"Dəyişikliklərlə bank kapitalının strukturu, kapital adekvatlığı əmsalları, kapital buferləri və bir sıra digər tələblər və tənzimləmələr Bazel III standartlarına uyğunlaşdırılıb."
+R0005-C06,R0005,CBAR-5397,body,random,1,"Yeni kapital buferlərinin tətbiqi bankların mümkün itkilərə qarşı dayanıqlılığını artırmaqla risklərin daha düzgün qiymətləndirilməsinə və bank kapitalının keyfiyyətinin yüksəldilməsinə, habelə iqtisadiyyatın dayanıqlı maliyyələşdirilməsi proseslərinin əlavə dəstəklənməsinə şərait yaradacaq."
+R0005-C07,R0005,CBAR-5397,body,random,1,"Kapital tələblərinin Bazel III standartlarına uyğunlaşmadırılması prosesinin başa çatdırılması prudensial siyasətin və nəzarət çərçivəsinin güclənməsini təmin etməklə yanaşı, bank sektorunun beynəlxalq investorlar üçün cəlbediciliyinə müsbət töhfə verəcək."
+R0005-C08,R0005,CBAR-5397,body,random,1,"Yeni kapital strukturuna adaptasiyası, bankdaxili qayda və prosedurlarının yeni requlyativ tələblərə uyğunlaşdırılması, eləcə də sektorda zəruri təlimlərin keçirilməsi və yeni yanaşmaların prudensial hesabatlığa inteqrasiyası üçün banklara 1 illik keçid dövrü verilib."
+R0005-C09,R0005,CBAR-5397,body,random,1,Yeni tələblərə 1 yanvar 2027-ci ildən tam riayət olunması banklardan tələb ediləcək.
+R0006-C01,R0006,CBAR-5397,headline,random,1,AMB yerli banklara kapitalını Bazel III standartlarına uyğunlaşdırmaq üçün 1 il vaxt verib.
+R0006-C02,R0006,CBAR-5397,headline,random,1,AMB yerli banklara kapitalını Bazel III standartlarına uyğunlaşdırmaq üçün 1 il vaxt verib.
+R0006-C03,R0006,CBAR-5397,body,random,1,"AMB-nin İdarə Heyətinin ötən il dekabrın 16-da qəbul etdiyi qərarla ""Bank kapitalının və onun adekvatlığının hesablanması Qaydaları""nda dəyişikliklər edilib."
+R0006-C04,R0006,CBAR-5397,body,random,1,"Bu addım ""2024 – 2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası""ndan irəli gələrək atılıb."
+R0006-C05,R0006,CBAR-5397,body,random,1,Bu addım bank sektorunda maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılması məqsədilə atılıb.
+R0006-C06,R0006,CBAR-5397,body,random,1,"Dəyişikliklərlə bank kapitalının strukturu, kapital adekvatlığı əmsalları, kapital buferləri və bir sıra digər tələblər və tənzimləmələr Bazel III standartlarına uyğunlaşdırılıb."
+R0006-C07,R0006,CBAR-5397,body,random,1,"Yeni kapital buferlərinin tətbiqi bankların mümkün itkilərə qarşı dayanıqlılığını artırmaqla risklərin daha düzgün qiymətləndirilməsinə və bank kapitalının keyfiyyətinin yüksəldilməsinə, habelə iqtisadiyyatın dayanıqlı maliyyələşdirilməsi proseslərinin əlavə dəstəklənməsinə şərait yaradacaq."
+R0006-C08,R0006,CBAR-5397,body,random,1,"Kapital tələblərinin Bazel III standartlarına uyğunlaşmadırılması prosesinin başa çatdırılması prudensial siyasətin və nəzarət çərçivəsinin güclənməsini təmin etməklə yanaşı, bank sektorunun beynəlxalq investorlar üçün cəlbediciliyinə müsbət töhfə verəcək."
+R0006-C09,R0006,CBAR-5397,body,random,1,"Yeni kapital strukturuna adaptasiya, bankdaxili qayda və prosedurların uyğunlaşdırılması, təlimlərin keçirilməsi və yeni yanaşmaların prudensial hesabatlığa inteqrasiyası üçün banklara 1 illik keçid dövrü verilib."
+R0006-C10,R0006,CBAR-5397,body,random,1,Yeni tələblərə 1 yanvar 2027-ci ildən tam riayət olunması banklardan tələb ediləcək.
+R0011-C01,R0011,CBAR-5446,headline,random,1,İnvestisiya şirkətləri tərəfindən həyata keçirilən anderraytinqin təşkili üzrə Təlimat təsdiqlənib.
+R0011-C02,R0011,CBAR-5446,lead,random,1,Azərbaycan Mərkəzi Bankının (AMB) İdarə Heyəti “İnvestisiya şirkətləri tərəfindən həyata keçirilən anderraytinqin təşkili üzrə Təlimat”ı təsdiqləyib.
+R0011-C03,R0011,CBAR-5446,body,random,1,Banker.az bu barədə AMB-yə istinadən xəbər verir.
+R0011-C04,R0011,CBAR-5446,body,random,1,"Təlimat “İnvestisiya şirkətləri və banklar tərəfindən investisiya xidmətlərinin (əməliyyatlarının) həyata keçirilməsi Qaydası”nın 17.2.9-cu yarımbəndinə uyğun olaraq tərtib edilən daxili qaydaların hazırlanmasına, həmçinin kütləvi təklif üsulu ilə yerləşdirilən qiymətli kağızların anderraytinqinin həyata keçirilməsinə dair digər metodoloji əsasları müəyyən edir."
+R0011-C05,R0011,CBAR-5446,body,random,1,"Təlimatın məqsədi emitentin maliyyə vəziyyəti, korporativ idarəetməsi, riskləri və onların idarə edilməsi barədə potensial investorların hərtərəfli məlumatlandırılmasını təmin etməkdir."
+R0011-C06,R0011,CBAR-5446,body,random,1,Təlimat anderraytinq fəaliyyətini 4 əsas mərhələ üzrə strukturlaşdırır və hər bir mərhələ üzrə metodoloji yanaşmaları müəyyən edir.
+R0011-C07,R0011,CBAR-5446,body,random,1,Qeyd edilən metodoloji yanaşmalar yerli qanunvericilik tələbləri nəzərə alınmaqla beynəlxalq təcrübəyə əsaslanır.
+R0012-C01,R0012,CBAR-5446,headline,random,1,İnvestisiya şirkətləri tərəfindən həyata keçirilən anderraytinqin təşkili üzrə Təlimat təsdiqlənib.
+R0012-C02,R0012,CBAR-5446,lead,random,1,"Azərbaycan Mərkəzi Bankının (AMB) İdarə Heyəti ""İnvestisiya şirkətləri tərəfindən həyata keçirilən anderraytinqin təşkili üzrə Təlimat""ı təsdiqləyib."
+R0012-C03,R0012,CBAR-5446,body,random,1,"Təlimat ""İnvestisiya şirkətləri və banklar tərəfindən investisiya xidmətlərinin (əməliyyatlarının) həyata keçirilməsi Qaydası""nın 17.2.9-cu yarımbəndinə uyğun olaraq tərtib edilən daxili qaydaların hazırlanmasına, həmçinin kütləvi təklif üsulu ilə yerləşdirilən qiymətli kağızların anderraytinqinin həyata keçirilməsinə dair digər metodoloji əsasları müəyyən edir."
+R0012-C04,R0012,CBAR-5446,body,random,1,"Təlimatın məqsədi emitentin maliyyə vəziyyəti, korporativ idarəetməsi, riskləri və onların idarə edilməsi barədə potensial investorların hərtərəfli məlumatlandırılmasını təmin etməkdir."
+R0012-C05,R0012,CBAR-5446,body,random,1,Təlimat anderraytinq fəaliyyətini 4 əsas mərhələ üzrə strukturlaşdırır.
+R0012-C06,R0012,CBAR-5446,body,random,1,Təlimat hər bir mərhələ üzrə metodoloji yanaşmaları müəyyən edir.
+R0012-C07,R0012,CBAR-5446,body,random,1,Qeyd edilən metodoloji yanaşmalar yerli qanunvericilik tələbləri nəzərə alınmaqla beynəlxalq təcrübəyə əsaslanır.
+R0023-C01,R0023,CBAR-5483,headline,random,1,Azərbaycan banklarında stres-testlərin aparılması üzrə yeni vahid tənzimləmə çərçivəsi qəbul edilib.
+R0023-C02,R0023,CBAR-5483,lead,random,1,Azərbaycan Mərkəzi Bankının (AMB) İdarə Heyəti “Banklarda stres-testlərin aparılması Qaydası”nı təsdiq edib.
+R0023-C03,R0023,CBAR-5483,body,random,1,Qaydanın məqsədi “2024 – 2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası”ndan irəli gələrək bank sektorunda maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılmasıdır.
+R0023-C04,R0023,CBAR-5483,body,random,1,"Qayda mütərəqqi beynəlxalq təcrübə, o cümlədən Bazel Komitəsinin və Avropa Bank Nəzarəti Orqanının prinsipləri nəzərə alınmaqla hazırlanıb."
+R0023-C05,R0023,CBAR-5483,body,random,1,"Bu Qaydaya uyğunlaşdırma istiqamətində “Banklarda korporativ idarəetmə Standartları”nda, “Banklarda kredit risklərinin idarə edilməsi Qaydası”nda, “Banklarda likvidlik riskinin idarə edilməsi Qaydası”nda, “Banklarda əməliyyat risklərinin idarə edilməsi Qaydası”nda və “Banklarda bazar risklərinin idarə edilməsi Qaydası”nda dəyişikliklər də təsdiq edilib."
+R0023-C06,R0023,CBAR-5483,body,random,1,"Yeni Qaydada banklarda stres-testləşmənin əsas prinsipləri və proqramların tərkibi, modelləşdirmə üsulları və stres-test modellərinin validasiyası üzrə tələblər, həssaslıq və ssenari təhlillərinin əhatəsi, əsas risk növləri (likvidlik, kredit, bazar və əməliyyat) üzrə stres-testlərə və risklərarası qarşılıqlı təsirlərə dair tələblər, habelə stres-test nəticələrinin Mərkəzi Banka hesabatlıq məsələləri öz əksini tapıb."
+R0023-C07,R0023,CBAR-5483,body,random,1,Qaydada həmçinin bank daxilində və nəzarət prosesi çərçivəsində stres-test modelinin keyfiyyətinin və adekvatlığının qiymətləndirilməsinin təşkili üçün istifadə edilə bilən suallar da əhatə edilib.
+R0023-C08,R0023,CBAR-5483,body,random,1,"Yeni Qayda stres-testlərin keçirilməsi və nəticələrin qiymətləndirilməsi üzrə vahid və sistematik tənzimləmə çərçivəsi yaratmaqla, bankların fərdi dayanıqlılığının və bütövlükdə sektorun riskə davamlılığının kompleks qiymətləndirilməsini təmin edəcək."
+R0024-C01,R0024,CBAR-5483,headline,random,1,Azərbaycan banklarında stres-testlərin aparılması üzrə yeni vahid tənzimləmə çərçivəsi qəbul edilib.
+R0024-C02,R0024,CBAR-5483,lead,random,1,"Azərbaycan Mərkəzi Bankının (AMB) İdarə Heyəti ""Banklarda stres-testlərin aparılması Qaydası""nı təsdiq edib."
+R0024-C03,R0024,CBAR-5483,body,random,1,"Məqsəd ""2024 – 2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası""ndan irəli gələrək bank sektorunda maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılmasıdır."
+R0024-C04,R0024,CBAR-5483,body,random,1,"Qayda mütərəqqi beynəlxalq təcrübə, o cümlədən Bazel Komitəsinin və Avropa Bank Nəzarəti Orqanının prinsipləri nəzərə alınmaqla hazırlanıb."
+R0024-C05,R0024,CBAR-5483,body,random,1,"Bu Qaydaya uyğunlaşdırma istiqamətində ""Banklarda korporativ idarəetmə Standartları""nda, ""Banklarda kredit risklərinin idarə edilməsi Qaydası""nda, ""Banklarda likvidlik riskinin idarə edilməsi Qaydası""nda, ""Banklarda əməliyyat risklərinin idarə edilməsi Qaydası""nda və ""Banklarda bazar risklərinin idarə edilməsi Qaydası""nda dəyişikliklər də təsdiq edilib."
+R0024-C06,R0024,CBAR-5483,body,random,1,"Yeni Qaydada banklarda stres-testləşmənin əsas prinsipləri və proqramların tərkibi, modelləşdirmə üsulları və stres-test modellərinin validasiyası üzrə tələblər, həssaslıq və ssenari təhlillərinin əhatəsi, əsas risk növləri (likvidlik, kredit, bazar və əməliyyat) üzrə stres-testlərə və risklərarası qarşılıqlı təsirlərə dair tələblər, habelə stres-test nəticələrinin Mərkəzi Banka hesabatlıq məsələləri öz əksini tapıb."
+R0024-C07,R0024,CBAR-5483,body,random,1,Qaydada həmçinin bank daxilində və nəzarət prosesi çərçivəsində stres-test modelinin keyfiyyətinin və adekvatlığının qiymətləndirilməsinin təşkili üçün istifadə edilə bilən suallar da əhatə edilib.
+R0024-C08,R0024,CBAR-5483,body,random,1,"Yeni Qayda stres-testlərin keçirilməsi və nəticələrin qiymətləndirilməsi üzrə vahid və sistematik tənzimləmə çərçivəsi yaratmaqla, bankların fərdi dayanıqlılığının və bütövlükdə sektorun riskə davamlılığının kompleks qiymətləndirilməsini təmin edəcək."
+R0030-C01,R0030,CBAR-5514,headline,random,1,Mərkəzi Bank kreditlərlə bağlı yeni qayda tətbiq edib.
+R0030-C02,R0030,CBAR-5514,headline,random,1,Yeni qayda 1 oktyabrdan qüvvəyə minəcək.
+R0030-C03,R0030,CBAR-5514,lead,random,1,Azərbaycan Mərkəzi Bankı məsafədən verilən istehlak kreditləri üzrə yeni təhlükəsizlik tələbləri tətbiq edib.
+R0030-C04,R0030,CBAR-5514,lead,random,1,Banklar və bank olmayan kredit təşkilatları (BOKT) müştərilərə onlayn kredit rəsmiləşdirilməsini və kredit limitinin məsafədən artırılmasını bloklamaq imkanı yaratmalıdır.
+R0030-C05,R0030,CBAR-5514,body,random,1,AMB-nin İdarə Heyəti 28 aprel 2026-cı il tarixdə qərar verib.
+R0030-C06,R0030,CBAR-5514,body,random,1,Dəyişikliklər 2026-cı il oktyabrın 1-dən qüvvəyə minəcək.
+R0030-C07,R0030,CBAR-5514,body,random,1,Vətəndaşlar yazılı müraciət əsasında öz adlarına məsafədən istehlak krediti müqaviləsinin bağlanmasına və ya kredit limitinin artırılmasına bütün satış kanalları üzrə məhdudiyyət qoya biləcəklər.
+R0030-C08,R0030,CBAR-5514,body,random,1,"Bu məhdudiyyət yalnız müştərinin fiziki iştirakı, gücləndirilmiş elektron imzası və ya gücləndirilmiş müştəri autentifikasiyası ilə təqdim olunan müraciət əsasında ləğv edilə biləcək."
+R0030-C09,R0030,CBAR-5514,body,random,1,"Banklar və BOKT-lar onlayn kredit verməzdən əvvəl müştərinin belə bir məhdudiyyət tətbiq edib-etmədiyini həm öz sistemləri, həm də kredit bürolarının informasiya sistemləri vasitəsilə yoxlamalıdırlar."
+R0030-C10,R0030,CBAR-5514,body,random,1,Məhdudiyyət mövcud olduqda məsafədən kredit rəsmiləşdirilməsi və ya kredit limitinin artırılması qadağan ediləcək.
+R0030-C11,R0030,CBAR-5514,body,random,1,"Məhdudiyyət qoymuş şəxsin adından məsafədən kredit və ya limit artırılması müraciəti daxil olduqda, maliyyə təşkilatı müştərini dərhal SMS və ya mobil tətbiq vasitəsilə məlumatlandırmalıdır."
+R0030-C12,R0030,CBAR-5514,body,random,1,Gün ərzində verilən və ya artırılan vəsait minimum əmək haqqının iki mislinədək olduqda kredit vəsaiti müqavilə bağlandıqdan 2 saat sonra təqdim ediləcək.
+R0030-C13,R0030,CBAR-5514,body,random,1,Gün ərzində verilən və ya artırılan vəsait minimum əmək haqqının iki mislini aşdıqda kredit vəsaiti 24 saat sonra təqdim ediləcək.
+R0030-C14,R0030,CBAR-5514,body,random,1,"Əgər bank və ya BOKT müştərinin tətbiq etdiyi məhdudiyyəti nəzərə almadan məsafədən kredit verərsə və ya kredit limitini artırarsa, müqavilədə borcalanın həmin kredit üzrə öhdəlikdən azad edilməsi barədə müddəa nəzərdə tutulmalıdır."
+R0045-C01,R0045,CBAR-5535,headline,random,1,Mərkəzi Bank tərəfindən “Maliyyə institutlarının bazar davranışına dair Metodoloji Rəhbərlik” təsdiq edilib.
+R0045-C02,R0045,CBAR-5535,lead,random,1,Mərkəzi Bankın İdarə Heyəti tərəfindən “Maliyyə institutlarının bazar davranışına dair Metodoloji Rəhbərlik” sənədi təsdiqlənib.
+R0045-C03,R0045,CBAR-5535,body,random,1,"Sözügedən sənədin əsas məqsədi maliyyə institutlarında bazar davranışı prinsiplərinin tətbiqinə, istehlakçıların hüquq və qanuni mənafelərinin qorunması səviyyəsinin artırılmasına, həmçinin bu sahədə effektiv idarəetmə, daxili nəzarət və risklərin idarə olunması mexanizmlərinin formalaşdırılmasına metodoloji dəstək göstərməkdir."
+R0045-C04,R0045,CBAR-5535,body,random,1,"Sənəd banklar, xarici bankların yerli filialları, bank olmayan kredit təşkilatları, kredit ittifaqları, sığortaçılar, təkrarsığortaçılar, sığorta vasitəçiləri, investisiya şirkətləri, investisiya fondları, investisiya fondlarının idarəçiləri, ödəniş təşkilatları və elektron pul təşkilatlarını əhatə edir."
+R0045-C05,R0045,CBAR-5535,body,random,1,"Metodoloji rəhbərlikdə maliyyə məhsullarının hazırlanması və istehlakçılara təqdim edilməsi, satış sonrası xidmət, müştərilərlə kommunikasiya, eləcə də biznes prosesləri və idarəetmə prinsipləri ilə bağlı əsas metodoloji yanaşmalar müəyyən edilir."
+R0045-C06,R0045,CBAR-5535,body,random,1,"Sənəddə bazar davranışı prinsipləri, istehlakçı yönümlü korporativ mədəniyyətin formalaşdırılması, maraqlar münaqişəsinin idarə olunması, müqavilə bağlanmazdan əvvəl məlumatların açıqlanması, məhsulların hədəf müştəri seqmentinə uyğunluğunun təmin edilməsi, xidmət keyfiyyəti və əlçatanlığı kimi digər zəruri məsələlər üzrə metodoloji yanaşmalar əksini tapır."
+R0048-C01,R0048,CBAR-5546,headline,random,1,Mərkəzi Bank sistem əhəmiyyətli bankların qiymətləndirilməsi qaydalarını dəyişib.
+R0048-C02,R0048,CBAR-5546,lead,random,1,"Azərbaycanda bankların sistem əhəmiyyətli bank kimi qiymətləndirilməsi meyarları, eləcə də bank kapitalının və kapital adekvatlığının hesablanması qaydaları dəyişdirilib."
+R0048-C03,R0048,CBAR-5546,body,random,1,Azərbaycan Mərkəzi Bankı sistem əhəmiyyətli bankların müəyyənləşdirilməsi zamanı istifadə olunan bəzi indikatorların hesablanma yanaşmalarını yeniləyib.
+R0048-C04,R0048,CBAR-5546,body,random,1,Azərbaycan Mərkəzi Bankı qiymətləndirmə prosesini banklara risk əsaslı nəzarət tsikli ilə əlaqələndirib.
+R0048-C05,R0048,CBAR-5546,body,random,1,“Maliyyə institutlarında yerləşdirilən aktivlər” indikatorunun hesablanması zamanı bankların tənzimləyici qurumda yerləşdirdiyi aktivlər nəzərə alınmayacaq.
+R0048-C06,R0048,CBAR-5546,body,random,1,“Ödəniş sistemləri vasitəsilə aparılan əməliyyatlar” indikatoru üzrə AZİPS sistemi vasitəsilə yalnız müştəri köçürmələri və banklararası ödəniş əməliyyatları hesablamaya daxil ediləcək.
+R0048-C07,R0048,CBAR-5546,body,random,1,Bundan sonra sistem əhəmiyyətli bankların siyahısı hər il sentyabrın 1-dək Mərkəzi Bankın İdarə Heyətinin qərarı ilə təsdiqlənəcək.
+R0048-C08,R0048,CBAR-5546,body,random,1,Bank kapitalının adekvatlığı qaydalarında da yeni yanaşma müəyyən edilib.
+R0048-C09,R0048,CBAR-5546,body,random,1,"Bank ilk dəfə sistem əhəmiyyətli bankların siyahısına daxil edilərsə və ya daha yüksək sistem əhəmiyyətlilik qrupuna keçirilərsə, onun üçün artırılmış “sistem əhəmiyyətli bank kapital buferi” tələbi siyahının təsdiqləndiyi ildən sonrakı ilin yanvarın 1-dən qüvvəyə minəcək."
+R0048-C10,R0048,CBAR-5546,body,random,1,Bankın sistem əhəmiyyətli banklar siyahısından çıxarılması və ya daha aşağı sistem əhəmiyyətlilik qrupuna keçirilməsi yalnız ardıcıl iki il üzrə aparılan hesablamalarla təsdiqləndikdən sonra mümkün olacaq.
+R0048-C11,R0048,CBAR-5546,body,random,1,Azaldılmış kapital buferi tələbi sistem əhəmiyyətli bankların yeni siyahısının təsdiqindən dərhal sonra tətbiq ediləcək.
+R0048-C12,R0048,CBAR-5546,body,random,1,"Mərkəzi Bank bildirir ki, dəyişikliklər hazırlanarkən bir sıra Avropa ölkələrinin təcrübəsi və digər beynəlxalq yanaşmalar nəzərə alınıb."
+R0048-C13,R0048,CBAR-5546,body,random,1,Yeni qaydaların məqsədi sistem əhəmiyyətli bankların qiymətləndirilməsində daha dəqiq və effektiv yanaşmaların tətbiqidir.
+R0049-C01,R0049,CBAR-5547,headline,random,1,Azərbaycanda bazar üçün vacib sığortaçılar yeni qayda ilə seçiləcək.
+R0049-C02,R0049,CBAR-5547,lead,random,1,Azərbaycan Mərkəzi Bankı sistem əhəmiyyətli sığortaçıların müəyyən edilməsi meyarlarını yeniləyib.
+R0049-C03,R0049,CBAR-5547,body,random,1,Dəyişiklik Mərkəzi Bankın İdarə Heyətinin 28 iyul 2026-cı il tarixli qərarı ilə təsdiqlənib.
+R0049-C04,R0049,CBAR-5547,body,random,1,"Yeni qaydalara əsasən, sığorta şirkətlərinin sistem əhəmiyyətliliyi altı əsas indikator üzrə qiymətləndiriləcək."
+R0049-C05,R0049,CBAR-5547,body,random,1,Ən böyük xüsusi çəki — 30% — şirkətin cəmi aktivlərinə verilib.
+R0049-C06,R0049,CBAR-5547,body,random,1,Ölkə daxilindən qəbul edilən təkrarsığorta haqlarının çəkisi 25% müəyyən edilib.
+R0049-C07,R0049,CBAR-5547,body,random,1,Sığortaçının maliyyə institutlarında yerləşdirdiyi aktivlərin çəkisi 15% müəyyən edilib.
+R0049-C08,R0049,CBAR-5547,body,random,1,"Qiymətli kağızların dövriyyəsi, sığorta predmetlərinin sayı və sığorta portfelinin çeşidliliyi indikatorlarının hər birinə 10% çəki verilib."
+R0049-C09,R0049,CBAR-5547,body,random,1,Qiymətləndirmə zamanı əsasən sığortaçının son üç il üzrə göstəricilərinin orta səviyyəsi sığorta bazarının müvafiq göstəriciləri ilə müqayisə ediləcək.
+R0049-C10,R0049,CBAR-5547,body,random,1,Hesablamanın nəticəsində sistem əhəmiyyətlilik indeksi 15% və ya daha yüksək olan şirkətlər sistem əhəmiyyətli sığortaçı hesab ediləcək.
+R0049-C11,R0049,CBAR-5547,body,random,1,Üç ildən az fəaliyyət göstərən sığorta şirkətləri üzrə şirkətin faktiki fəaliyyət göstərdiyi illərin hesabatları nəzərə alınacaq.
+R0049-C12,R0049,CBAR-5547,body,random,1,Yalnız təkrarsığorta fəaliyyəti ilə məşğul olan şirkətlər üçün sığorta predmetlərinin sayı indikatoru tətbiq edilməyəcək.
+R0049-C13,R0049,CBAR-5547,body,random,1,Yalnız təkrarsığorta fəaliyyəti ilə məşğul olan şirkətlər üçün həmin indikatorun 10%-lik çəkisi portfelin çeşidliliyi göstəricisinə əlavə olunacaq.
+R0049-C14,R0049,CBAR-5547,body,random,1,Mərkəzi Bank sistem əhəmiyyətli sığortaçıların siyahısını hər il sentyabrın 1-dək təsdiqləyəcək.
+R0049-C15,R0049,CBAR-5547,body,random,1,Qərar qəbul edildikdən sonra şirkətlərə beş iş günü ərzində məlumat veriləcək.
+R0049-C16,R0049,CBAR-5547,body,random,1,Müştərək sığortaçılar sistem əhəmiyyətli sığortaçıların müəyyən edilməsi prosesində iştirak etməyəcək.
+R0060-C01,R0060,DVX-4541,headline,random,1,Vergi Məcəlləsinə və 16 qanuna dəyişikliklər üçüncü oxunuşda qəbul edilib.
+R0060-C02,R0060,DVX-4541,lead,random,1,"Milli Məclis vergi siyasəti, vergi inzibatçılığı və vergi dərəcələrinin müəyyən edilməsi ilə bağlı Vergi Məcəlləsinə və 16 qanuna dəyişiklikləri üçüncü oxunuşda qəbul edib."
+R0060-C03,R0060,DVX-4541,body,random,1,Parlamentin bugünkü plenar iclasında Vergi Məcəlləsi və 16 qanunda dəyişiklik layihəsi müzakirə olunub.
+R0060-C04,R0060,DVX-4541,body,random,1,Vergi Məcəlləsinə dəyişiklik layihəsi 3 blokdan ibarətdir.
+R0060-C05,R0060,DVX-4541,body,random,1,Vergi Məcəlləsinə dəyişiklik layihəsi ümumilikdə 45 əsas maddə üzrə dəyişikliklərdən ibarətdir.
+R0060-C06,R0060,DVX-4541,body,random,1,Vergi Məcəlləsinə dəyişiklik layihəsi 145 dəyişiklikdən ibarətdir.
+R0060-C07,R0060,DVX-4541,body,random,1,Qiymətləndirmənin nəticələrinə dair arayış müvafiq icra hakimiyyəti orqanına cari ilin may ayının 1-dək təqdim edilir.
+R0060-C08,R0060,DVX-4541,body,random,1,Müvafiq icra hakimiyyəti orqanı arayışı Milli Məclisə cari ilin may ayının 15-dən gec olmayaraq təqdim edir.
+R0060-C09,R0060,DVX-4541,body,random,1,"Dəyişikliklər paketinin əsas istiqamətləri investisiya mühitinin və sahibkarlıq fəaliyyətinin təşviq edilməsi, sahibkarlıq subyektlərinin vergi yükünün azaldılması, vergi daxilolmalarının və büdcə gəlirlərinin tənzimlənməsi, vergi nəzarəti mexanizminin təkmilləşdirilməsi və kölgə iqtisadiyyatına qarşı mübarizədir."
+R0060-C10,R0060,DVX-4541,body,random,1,"""Sosial sığorta haqqında"" qanuna təklif edilən dəyişikliklər sahibkarların sosial sığorta yükünün optimallaşdırılması, Naxçıvan Muxtar Respublikasında (MR) ödənilən məcburi dövlət sosial sığorta haqlarının subsidiyalaşdırılması istiqamətlərini əhatə edir."
+R0060-C11,R0060,DVX-4541,body,random,1,Dəyişikliklər paketinin layihəsi müzakirələrdən sonra səsə qoyularaq üçünü oxunuşda qəbul edilib.
+R0138-C01,R0138,CBAR-5397,headline,random,1,Qaydalar dəyişdi.
+R0138-C02,R0138,CBAR-5397,lead,random,1,Azərbaycan Mərkəzi Bankı yerli banklara kapitalını Bazel III standartlarına uyğunlaşdırmaq üçün 1 il vaxt verib.
+R0138-C03,R0138,CBAR-5397,lead,random,1,"Qurumun dekabrın 16-da qəbul etdiyi qərarla ""Bank kapitalının və onun adekvatlığının hesablanması Qaydaları"" dəyişdirilib."
+R0138-C04,R0138,CBAR-5397,body,random,1,"Bu addım ""2024-2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası"" çərçivəsində bank sektorunun dayanıqlığının gücləndirilməsi və beynəlxalq standartlara uyğunluğun artırılması məqsədini daşıyır."
+R0138-C05,R0138,CBAR-5397,body,random,1,"Dəyişikliklərlə bank kapitalının strukturu, kapital adekvatlığı əmsalları, kapital buferləri və digər tələblər Bazel III standartlarına uyğunlaşdırılıb."
+R0138-C06,R0138,CBAR-5397,body,random,1,"Banklara yeni qaydalara uyğunlaşmaq, daxili prosedurlarını yeniləmək və təlimlər keçmək üçün 1 illik keçid dövrü verilib."
+R0138-C07,R0138,CBAR-5397,body,random,1,1 yanvar 2027-ci ildən bu tələblərə tam riayət edilməlidir.
+R0139-C01,R0139,CBAR-5397,headline,random,1,Bank kapitalı və onun adekvatlığı üzrə prudensial çərçivə Bazel III standartlarına uyğunlaşdırılıb.
+R0139-C02,R0139,CBAR-5397,body,random,1,Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 16 dekabr 2025-ci il tarixli qərarı ilə “Bank kapitalının və onun adekvatlığının hesablanması Qaydaları”nda dəyişikliklər edilib.
+R0139-C03,R0139,CBAR-5397,body,random,1,Dəyişikliklər bank sektorunda maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılması məqsədilə edilib.
+R0139-C04,R0139,CBAR-5397,body,random,1,"Dəyişikliklərlə bank kapitalının strukturu, kapital adekvatlığı əmsalları, kapital buferləri və bir sıra digər tələblər və tənzimləmələr Bazel III standartlarına uyğunlaşdırılıb."
+R0139-C05,R0139,CBAR-5397,body,random,1,"Yeni kapital buferlərinin tətbiqi bankların mümkün itkilərə qarşı dayanıqlılığını artırmaqla risklərin daha düzgün qiymətləndirilməsinə və bank kapitalının keyfiyyətinin yüksəldilməsinə, habelə iqtisadiyyatın dayanıqlı maliyyələşdirilməsi proseslərinin əlavə dəstəklənməsinə şərait yaradacaq."
+R0139-C06,R0139,CBAR-5397,body,random,1,"Kapital tələblərinin Bazel III standartlarına uyğunlaşmadırılması prosesinin başa çatdırılması prudensial siyasətin və nəzarət çərçivəsinin güclənməsini təmin etməklə yanaşı, bank sektorunun beynəlxalq investorlar üçün cəlbediciliyinə müsbət töhfə vermiş olacaq."
+R0139-C07,R0139,CBAR-5397,body,random,1,"Yeni kapital strukturuna adaptasiyası, bankdaxili qayda və prosedurlarının yeni requlyativ tələblərə uyğunlaşdırılması, eləcə də sektorda zəruri təlimlərin keçirilməsi və yeni yanaşmaların prudensial hesabatlığa inteqrasiyası üçün banklara 1 illik keçid dövrü verilib."
+R0139-C08,R0139,CBAR-5397,body,random,1,Yeni tələblərə 01.01.2027-ci il tarixindən etibarən tam riayət olunması banklardan tələb ediləcək.
+R0143-C01,R0143,CBAR-5446,headline,random,1,“İnvestisiya şirkətləri tərəfindən həyata keçirilən anderraytinqin təşkili üzrə Təlimat” təsdiqlənib.
+R0143-C02,R0143,CBAR-5446,body,random,1,Mərkəzi Bankın İdarə Heyəti tərəfindən “İnvestisiya şirkətləri tərəfindən həyata keçirilən anderraytinqin təşkili üzrə Təlimat” təsdiqlənib.
+R0143-C03,R0143,CBAR-5446,body,random,1,Təlimat “İnvestisiya şirkətləri və banklar tərəfindən investisiya xidmətlərinin (əməliyyatlarının) həyata keçirilməsi Qaydası”nın 17.2.9-cu yarımbəndinə uyğun olaraq tərtib edilən daxili qaydaların hazırlanmasına dair metodoloji əsasları müəyyən edir.
+R0143-C04,R0143,CBAR-5446,body,random,1,Təlimat kütləvi təklif üsulu ilə yerləşdirilən qiymətli kağızların anderraytinqinin həyata keçirilməsinə dair digər metodoloji əsasları müəyyən edir.
+R0143-C05,R0143,CBAR-5446,body,random,1,"Təlimatın məqsədi emitentin maliyyə vəziyyəti, korporativ idarəetməsi, riskləri və onların idarə edilməsi barədə potensial investorların hərtərəfli məlumatlandırılmasını təmin etməkdir."
+R0143-C06,R0143,CBAR-5446,body,random,1,Təlimat anderraytinq fəaliyyətini 4 əsas mərhələ üzrə strukturlaşdırır.
+R0143-C07,R0143,CBAR-5446,body,random,1,Təlimat hər bir mərhələ üzrə metodoloji yanaşmaları müəyyən edir.
+R0143-C08,R0143,CBAR-5446,body,random,1,Qeyd edilən metodoloji yanaşmalar yerli qanunvericilik tələbləri nəzərə alınmaqla beynəlxalq təcrübəyə əsaslanır.
+R0152-C01,R0152,CBAR-5483,headline,random,1,Banklarda stres-testlərin aparılması üzrə yeni vahid tənzimləmə çərçivəsi qəbul edilib.
+R0152-C02,R0152,CBAR-5483,lead,random,1,Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyəti tərəfindən “Banklarda stres-testlərin aparılması Qaydası” təsdiq edilib.
+R0152-C03,R0152,CBAR-5483,lead,random,1,Qayda “2024 – 2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası”ndan irəli gələrək bank sektorunda maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılması məqsədilə təsdiq edilib.
+R0152-C04,R0152,CBAR-5483,body,random,1,"Bu Qayda mütərəqqi beynəlxalq təcrübə, o cümlədən Bazel Komitəsinin və Avropa Bank Nəzarəti Orqanının prinsipləri nəzərə alınmaqla hazırlanıb."
+R0152-C05,R0152,CBAR-5483,body,random,1,"Bu Qaydaya uyğunlaşdırma istiqamətində “Banklarda korporativ idarəetmə Standartları”nda, “Banklarda kredit risklərinin idarə edilməsi Qaydası”nda, “Banklarda likvidlik riskinin idarə edilməsi Qaydası”nda, “Banklarda əməliyyat risklərinin idarə edilməsi Qaydası”nda və “Banklarda bazar risklərinin idarə edilməsi Qaydası”nda dəyişikliklər də təsdiq edilib."
+R0152-C06,R0152,CBAR-5483,body,random,1,"Yeni Qaydada banklarda stres-testləşmənin əsas prinsipləri və proqramların tərkibi, modelləşdirmə üsulları və stres-test modellərinin validasiyası üzrə tələblər, həssaslıq və ssenari təhlillərinin əhatəsi, əsas risk növləri (likvidlik, kredit, bazar və əməliyyat) üzrə stres-testlərə və risklərarası qarşılıqlı təsirlərə dair tələblər, habelə stres-test nəticələrinin Mərkəzi Banka hesabatlıq məsələləri öz əksini tapıb."
+R0152-C07,R0152,CBAR-5483,body,random,1,Qaydada həmçinin bank daxilində və nəzarət prosesi çərçivəsində stres-test modelinin keyfiyyətinin və adekvatlığının qiymətləndirilməsinin təşkili üçün istifadə edilə bilən suallar da əhatə edilib.
+R0152-C08,R0152,CBAR-5483,body,random,1,"Yeni Qayda stres-testlərin keçirilməsi və nəticələrin qiymətləndirilməsi üzrə vahid və sistematik tənzimləmə çərçivəsi yaratmaqla, bankların fərdi dayanıqlılığının və bütövlükdə sektorun riskə davamlılığının kompleks qiymətləndirilməsini təmin edəcəkdir."
+R0153-C01,R0153,CBAR-5483,headline,random,1,Banklarda stres-testlərin aparılması üzrə yeni vahid tənzimləmə çərçivəsi qəbul edilib.
+R0153-C02,R0153,CBAR-5483,body,random,1,Azərbaycan Respublikası Mərkəzi Bankının (AMB) İdarə Heyəti tərəfindən “Banklarda stres-testlərin aparılması Qaydası” təsdiq edilib.
+R0153-C03,R0153,CBAR-5483,body,random,1,Qayda “2024 – 2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası”ndan irəli gələrək bank sektorunda maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılması məqsədilə təsdiq edilib.
+R0153-C04,R0153,CBAR-5483,body,random,1,"Bu qayda mütərəqqi beynəlxalq təcrübə, o cümlədən Bazel Komitəsinin və Avropa Bank Nəzarəti Orqanının prinsipləri nəzərə alınmaqla hazırlanıb."
+R0153-C05,R0153,CBAR-5483,body,random,1,"Bu qaydaya uyğunlaşdırma istiqamətində “Banklarda korporativ idarəetmə Standartları”nda, “Banklarda kredit risklərinin idarə edilməsi Qaydası”nda, “Banklarda likvidlik riskinin idarə edilməsi Qaydası”nda, “Banklarda əməliyyat risklərinin idarə edilməsi Qaydası”nda və “Banklarda bazar risklərinin idarə edilməsi Qaydası”nda dəyişikliklər də təsdiqlənib."
+R0153-C06,R0153,CBAR-5483,body,random,1,"Yeni qaydada banklarda stres-testləşmənin əsas prinsipləri və proqramların tərkibi, modelləşdirmə üsulları və stres-test modellərinin validasiyası üzrə tələblər, həssaslıq və ssenari təhlillərinin əhatəsi, əsas risk növləri (likvidlik, kredit, bazar və əməliyyat) üzrə stres-testlərə və risklərarası qarşılıqlı təsirlərə dair tələblər, habelə stres-test nəticələrinin Mərkəzi Banka hesabatlıq məsələləri öz əksini tapıb."
+R0153-C07,R0153,CBAR-5483,body,random,1,"Qaydada, həmçinin bank daxilində və nəzarət prosesi çərçivəsində stres-test modelinin keyfiyyətinin və adekvatlığının qiymətləndirilməsinin təşkili üçün istifadə edilə bilən suallar da əhatə edilib."
+R0153-C08,R0153,CBAR-5483,body,random,1,"Yeni qayda stres-testlərin keçirilməsi və nəticələrin qiymətləndirilməsi üzrə vahid və sistematik tənzimləmə çərçivəsi yaratmaqla, bankların fərdi dayanıqlılığının və bütövlükdə sektorun riskə davamlılığının kompleks qiymətləndirilməsini təmin edəcəkdir."
+R0162-C01,R0162,CBAR-5514,headline,random,1,В Азербайджане изменятся правила онлайн-кредитования.
+R0162-C02,R0162,CBAR-5514,headline,random,1,Граждане смогут добровольно запретить дистанционные кредиты.
+R0162-C03,R0162,CBAR-5514,lead,random,1,Центральный банк Азербайджана внес изменения в правила управления кредитными рисками.
+R0162-C04,R0162,CBAR-5514,lead,random,1,Изменения в правила управления кредитными рисками направлены на усиление защиты потребителей и снижение рисков при предоставлении дистанционных финансовых услуг.
+R0162-C05,R0162,CBAR-5514,body,random,1,Новые правила вступят в силу с октября 2026 года.
+R0162-C06,R0162,CBAR-5514,body,random,1,Новые правила позволят гражданам добровольно запретить оформление потребительских кредитов и увеличение кредитных лимитов дистанционным способом.
+R0162-C07,R0162,CBAR-5514,body,random,1,Любой гражданин сможет подать соответствующее заявление через Азербайджанское кредитное бюро.
+R0162-C08,R0162,CBAR-5514,body,random,1,После заявления все кредитные организации будут обязаны отказать в оформлении онлайн-кредитов на имя этого человека.
+R0162-C09,R0162,CBAR-5514,body,random,1,"Граждане смогут установить подобное ограничение только в отношении конкретного банка или иной кредитной организации, клиентами которой они являются."
+R0162-C10,R0162,CBAR-5514,body,random,1,Перед выдачей дистанционного кредита финансовые учреждения будут обязаны проверить наличие такого запрета.
+R0162-C11,R0162,CBAR-5514,body,random,1,"Если ограничение действует, оформить кредит онлайн будет невозможно."
+R0162-C12,R0162,CBAR-5514,body,random,1,Нововведением станет введение обязательного «периода ожидания» при дистанционном кредитовании.
+R0162-C13,R0162,CBAR-5514,body,random,1,"Если сумма кредита не превышает двух минимальных заработных плат, средства будут перечислены через два часа после одобрения."
+R0162-C14,R0162,CBAR-5514,body,random,1,При более крупной сумме кредита деньги будут зачисляться не ранее чем через 24 часа.
+R0162-C15,R0162,CBAR-5514,body,random,1,В 2024–2025 годах в результате кибермошенничества и хакерских атак граждане Азербайджана потеряли около 22 миллионов манатов.
+R0162-C16,R0162,CBAR-5514,body,random,1,В 2024–2025 годах количество мошеннических операций с банковскими картами достигло примерно 17 тысяч.
+R0163-C01,R0163,CBAR-5514,headline,random,1,Azərbaycanda onlayn kreditləşmə üzrə yeni qaydalar tətbiq olunur.
+R0163-C02,R0163,CBAR-5514,headline,random,1,Vətəndaşlar şəxsi iştirak olmadan kreditlərin rəsmiləşdirilməsini qadağan edə biləcəklər.
+R0163-C03,R0163,CBAR-5514,lead,random,1,Azərbaycan Mərkəzi Bankı kredit risklərinin idarə olunması qaydalarına dəyişiklik etdi.
+R0163-C04,R0163,CBAR-5514,lead,random,1,Dəyişikliklərlə məsafədən istehlak kreditlərinin rəsmiləşdirilməsində vətəndaşların müdafiəsi gücləndirilib.
+R0163-C05,R0163,CBAR-5514,body,random,1,Vətəndaşlar banka müraciət edərək onlayn rejimdə istehlak krediti müqaviləsinin bağlanmasını və ya kredit limitinin artırılmasını qadağan edə biləcəklər.
+R0163-C06,R0163,CBAR-5514,body,random,1,"Bu qadağanı yalnız müştərinin şəxsən müraciəti, gücləndirilmiş elektron imza və ya gücləndirilmiş autentifikasiya ilə ləğv etmək mümkün olacaq."
+R0163-C07,R0163,CBAR-5514,body,random,1,"Banklar onlayn kredit verməzdən və ya kredit limitini artırmazdan əvvəl belə qadağanın olub-olmadığını həm öz informasiya sistemlərində, həm də kredit bürolarında yoxlamalı olacaq."
+R0163-C08,R0163,CBAR-5514,body,random,1,"Məhdudiyyət qoyulubsa, kreditin məsafədən rəsmiləşdirilməsi mümkün olmayacaq."
+R0163-C09,R0163,CBAR-5514,body,random,1,"Qadağa qoymuş müştərinin adından onlayn kredit üçün sorğu daxil olarsa, bank onu dərhal SMS və ya mobil tətbiq vasitəsilə məlumatlandırmalıdır."
+R0163-C10,R0163,CBAR-5514,body,random,1,"Bir gün ərzində verilmiş və ya artırılmış kreditin ümumi məbləği iki minimum əməkhaqqını aşmırsa, vəsait rəsmiləşdirmədən ən azı iki saat sonra köçürüləcək."
+R0163-C11,R0163,CBAR-5514,body,random,1,"Məbləğ bu həddi aşarsa, vəsait yalnız 24 saat sonra əlçatan olacaq."
+R0163-C12,R0163,CBAR-5514,body,random,1,"Yeni tələblər təkcə banklara deyil, həm də bank olmayan kredit təşkilatlarına şamil olunur."
+R0163-C13,R0163,CBAR-5514,body,random,1,Dəyişikliklər Azərbaycan Mərkəzi Bankı tərəfindən aprelin 28-də təsdiq edilib.
+R0163-C14,R0163,CBAR-5514,body,random,1,Dəyişikliklər oktyabrın 1-dən qüvvəyə minəcək.
+R0164-C01,R0164,CBAR-5514,headline,random,1,Mərkəzi Bank kredit götürmək qaydalarını dəyişir.
+R0164-C02,R0164,CBAR-5514,body,random,1,Banklarda kredit risklərinin idarə edilməsi qaydalarında dəyişiklik edilib.
+R0164-C03,R0164,CBAR-5514,body,random,1,Mərkəzi Bankın sədri Taleh Kazımov müvafiq qərar imzalayıb.
+R0164-C04,R0164,CBAR-5514,body,random,1,"Qərara əsasən, bank müştərinin yazılı müraciəti ilə ona istehlak krediti müqaviləsinin məsafədən bağlanılmasına və ya kredit limitinin artırılması ilə bağlı müqaviləyə məsafədən dəyişiklik edilməsinə bütün satış kanalları vasitəsilə məhdudiyyət qoymaq imkanı yaratmalıdır."
+R0164-C05,R0164,CBAR-5514,body,random,1,"Müvafiq məhdudiyyət həmin müştərinin bankda fiziki iştirakı, gücləndirilmiş elektron imzası və ya gücləndirilmiş müştəri autentifikasiyası yolu ilə təqdim etdiyi yazılı müraciəti əsasında aradan qaldırıla biləcək."
+R0164-C06,R0164,CBAR-5514,body,random,1,"Bank istehlak kreditinin verilməsi zamanı borcalanın tətbiq etdiyi məhdudiyyətin olmamasını öz informasiya sistemi vasitəsi ilə müəyyən etdikdə, məhdudiyyətin olub-olmamasını kredit bürosunun informasiya sistemi vasitəsilə də yoxlamalı və nəzərə almalıdır."
+R0164-C07,R0164,CBAR-5514,body,random,1,İstehlak krediti üzrə müvafiq məhdudiyyətin mövcud olduğu şəxslə istehlak krediti müqaviləsinin məsafədən bağlanmasına və ya kredit limitinin artırılması ilə bağlı müqaviləyə məsafədən dəyişiklik edilməsinə yol verilməyəcək.
+R0164-C08,R0164,CBAR-5514,body,random,1,Bank məhdudiyyəti tətbiq etmiş şəxsdən istehlak krediti müqaviləsinin məsafədən bağlanması və ya kredit limitinin artırılması ilə bağlı müqaviləyə məsafədən dəyişiklik edilməsi üçün müraciət aldıqda bu barədə müştərini mobil tətbiq və ya SMS məlumatlandırma vasitəsi ilə dərhal məlumatlandıracaq.
+R0164-C09,R0164,CBAR-5514,body,random,1,Gün ərzində verilən və ya artırılan vəsaitin məbləği minimum əmək haqqının 2 mislinədək və ya onun ekvivalentinədək olduqda vəsaitlər müqavilə bağlandığı və ya müqaviləyə dəyişiklik edildiyi andan 2 saat sonra veriləcək.
+R0164-C10,R0164,CBAR-5514,body,random,1,Gün ərzində verilən və ya artırılan vəsaitin məbləği minimum əmək haqqının 2 mislindən və ya onun ekvivalentindən çox olduqda vəsaitlər müqavilə bağlandığı və ya müqaviləyə dəyişiklik edildiyi andan 24 saat sonra veriləcək.
+R0164-C11,R0164,CBAR-5514,body,random,1,İstehlak krediti müqaviləsinə kreditin verildiyi və ya kredit limitinin artırıldığı halda borclunun verilmiş (artırılmış) kredit üzrə öhdəlikdən azad edilməsi ilə bağlı müddəa daxil edilməlidir.
+R0164-C12,R0164,CBAR-5514,body,random,1,Məsafədən rəsmiləşdirildiyi halda borcalanın tətbiq etdiyi məhdudiyyətin olub-olmaması barədə məlumat da kredit dosyesi ümumi sənədlər siyahısına daxil ediləcək.
+R0164-C13,R0164,CBAR-5514,body,random,1,Yuxarıda sözügedən bütün qaydalar bank olmayan kredit təşkilatlarına şamil ediləcək.
+R0164-C14,R0164,CBAR-5514,body,random,1,Qərar aprelin 28-də imzalanıb.
+R0164-C15,R0164,CBAR-5514,body,random,1,Qərar oktyabrın 1-də qüvvəyə minəcək.
+R0171-C01,R0171,CBAR-5535,headline,random,1,Mərkəzi Bank “Maliyyə institutlarının bazar davranışına dair Metodoloji Rəhbərlik” sənədini təsdiq edib.
+R0171-C02,R0171,CBAR-5535,body,random,1,Mərkəzi Bankın İdarə Heyəti tərəfindən “Maliyyə institutlarının bazar davranışına dair Metodoloji Rəhbərlik” sənədi təsdiqlənib.
+R0171-C03,R0171,CBAR-5535,body,random,1,"Sözügedən sənədin əsas məqsədi maliyyə institutlarında bazar davranışı prinsiplərinin tətbiqinə, istehlakçıların hüquq və qanuni mənafelərinin qorunması səviyyəsinin artırılmasına, həmçinin bu sahədə effektiv idarəetmə, daxili nəzarət və risklərin idarə olunması mexanizmlərinin formalaşdırılmasına metodoloji dəstək göstərməkdir."
+R0171-C04,R0171,CBAR-5535,body,random,1,"Sənəd banklar, xarici bankların yerli filialları, bank olmayan kredit təşkilatları, kredit ittifaqları, sığortaçılar, təkrarsığortaçılar, sığorta vasitəçiləri, investisiya şirkətləri, investisiya fondları, investisiya fondlarının idarəçiləri, ödəniş təşkilatları və elektron pul təşkilatlarını əhatə edir."
+R0171-C05,R0171,CBAR-5535,body,random,1,"Metodoloji rəhbərlikdə maliyyə məhsullarının hazırlanması və istehlakçılara təqdim edilməsi, satış sonrası xidmət, müştərilərlə kommunikasiya, eləcə də biznes prosesləri və idarəetmə prinsipləri ilə bağlı əsas metodoloji yanaşmalar müəyyən edilir."
+R0171-C06,R0171,CBAR-5535,body,random,1,"Sənəddə bazar davranışı prinsipləri, istehlakçı yönümlü korporativ mədəniyyətin formalaşdırılması, maraqlar münaqişəsinin idarə olunması, müqavilə bağlanmazdan əvvəl məlumatların açıqlanması, məhsulların hədəf müştəri seqmentinə uyğunluğunun təmin edilməsi, xidmət keyfiyyəti və əlçatanlığı kimi digər zəruri məsələlər üzrə metodoloji yanaşmalar əksini tapır."
+R0171-C07,R0171,CBAR-5535,body,random,1,"Metodoloji rəhbərliyin tətbiqinin maliyyə institutlarında istehlakçılarla münasibətlərdə şəffaflığın, məsuliyyətli davranışın və xidmət keyfiyyətinin daha da yüksəldilməsinə, maliyyə bazarlarına etimadın möhkəmləndirilməsinə və maliyyə sektorunun dayanıqlı inkişafının təşviqinə töhfə verməsi gözlənilir."
+R0172-C01,R0172,CBAR-5535,headline,random,1,“Maliyyə institutlarının bazar davranışına dair Metodoloji Rəhbərlik” sənədi təsdiqlənib.
+R0172-C02,R0172,CBAR-5535,body,random,1,Azərbaycan Mərkəzi Bankının İdarə Heyəti tərəfindən “Maliyyə institutlarının bazar davranışına dair Metodoloji Rəhbərlik” sənədi təsdiqlənib.
+R0172-C03,R0172,CBAR-5535,body,random,1,"Sənədin əsas məqsədi maliyyə institutlarında bazar davranışı prinsiplərinin tətbiqinə, istehlakçıların hüquq və qanuni mənafelərinin qorunması səviyyəsinin artırılmasına, həmçinin bu sahədə effektiv idarəetmə, daxili nəzarət və risklərin idarə olunması mexanizmlərinin formalaşdırılmasına metodoloji dəstək göstərməkdir."
+R0172-C04,R0172,CBAR-5535,body,random,1,"Sənəd banklar, xarici bankların yerli filialları, bank olmayan kredit təşkilatları, kredit ittifaqları, sığortaçılar, təkrarsığortaçılar, sığorta vasitəçiləri, investisiya şirkətləri, investisiya fondları, investisiya fondlarının idarəçiləri, ödəniş təşkilatları və elektron pul təşkilatlarını əhatə edir."
+R0172-C05,R0172,CBAR-5535,body,random,1,"Metodoloji rəhbərlikdə maliyyə məhsullarının hazırlanması və istehlakçılara təqdim edilməsi, satış sonrası xidmət, müştərilərlə kommunikasiya, eləcə də biznes prosesləri və idarəetmə prinsipləri ilə bağlı əsas metodoloji yanaşmalar müəyyən edilir."
+R0172-C06,R0172,CBAR-5535,body,random,1,"Sənəddə bazar davranışı prinsipləri, istehlakçı yönümlü korporativ mədəniyyətin formalaşdırılması, maraqlar münaqişəsinin idarə olunması, müqavilə bağlanmazdan əvvəl məlumatların açıqlanması, məhsulların hədəf müştəri seqmentinə uyğunluğunun təmin edilməsi, xidmət keyfiyyəti və əlçatanlığı kimi digər zəruri məsələlər üzrə metodoloji yanaşmalar əksini tapır."
+R0172-C07,R0172,CBAR-5535,body,random,1,"Metodoloji rəhbərliyin tətbiqinin maliyyə institutlarında istehlakçılarla münasibətlərdə şəffaflığın, məsuliyyətli davranışın və xidmət keyfiyyətinin daha da yüksəldilməsinə, maliyyə bazarlarına etimadın möhkəmləndirilməsinə və maliyyə sektorunun dayanıqlı inkişafının təşviqinə töhfə verməsi gözlənilir."
+R0173-C01,R0173,CBAR-5535,headline,random,1,“Maliyyə institutlarının bazar davranışına dair Metodoloji Rəhbərlik” təsdiqlənib.
+R0173-C02,R0173,CBAR-5535,body,random,1,Azərbaycan Mərkəzi Bankının (AMB) İdarə Heyəti tərəfindən “Maliyyə institutlarının bazar davranışına dair Metodoloji Rəhbərlik” sənədi təsdiq olunub.
+R0173-C03,R0173,CBAR-5535,body,random,1,"Sənədin əsas məqsədi maliyyə institutlarında bazar davranışı prinsiplərinin tətbiqinə, istehlakçıların hüquq və qanuni mənafelərinin qorunması səviyyəsinin artırılmasına, həmçinin bu sahədə effektiv idarəetmə, daxili nəzarət və risklərin idarə olunması mexanizmlərinin formalaşdırılmasına metodoloji dəstək göstərməkdir."
+R0173-C04,R0173,CBAR-5535,body,random,1,"Sənəd banklar, xarici bankların yerli filialları, bank olmayan kredit təşkilatları, kredit ittifaqları, sığortaçılar, təkrarsığortaçılar, sığorta vasitəçiləri, investisiya şirkətləri, investisiya fondları, investisiya fondlarının idarəçiləri, ödəniş təşkilatları və elektron pul təşkilatlarını əhatə edir."
+R0173-C05,R0173,CBAR-5535,body,random,1,"Metodoloji rəhbərlikdə maliyyə məhsullarının hazırlanması və istehlakçılara təqdim edilməsi, satışsonrası xidmət, müştərilərlə kommunikasiya, eləcə də biznes prosesləri və idarəetmə prinsipləri ilə bağlı əsas metodoloji yanaşmalar müəyyən edilir."
+R0173-C06,R0173,CBAR-5535,body,random,1,"Sənəddə bazar davranışı prinsipləri, istehlakçı yönümlü korporativ mədəniyyətin formalaşdırılması, maraqlar münaqişəsinin idarə olunması, müqavilə bağlanmazdan əvvəl məlumatların açıqlanması, məhsulların hədəf müştəri seqmentinə uyğunluğunun təmin edilməsi, xidmət keyfiyyəti və əlçatanlığı kimi digər zəruri məsələlər üzrə metodoloji yanaşmalar əksini tapır."
+R0173-C07,R0173,CBAR-5535,body,random,1,"Metodoloji rəhbərliyin tətbiqinin maliyyə institutlarında istehlakçılarla münasibətlərdə şəffaflığın, məsuliyyətli davranışın və xidmət keyfiyyətinin daha da yüksəldilməsinə, maliyyə bazarlarına etimadın möhkəmləndirilməsinə və maliyyə sektorunun dayanıqlı inkişafının təşviqinə töhfə verməsi gözlənilir."
+R0177-C01,R0177,CBAR-5546,headline,random,1,Bankların sistem əhəmiyyətliliyinin qiymətləndirilməsi qaydaları dəyişib.
+R0177-C02,R0177,CBAR-5546,headline,random,1,Kapital adekvatlığı qaydaları dəyişib.
+R0177-C03,R0177,CBAR-5546,body,random,1,“Bankın sistem əhəmiyyətli bank kimi qiymətləndirilməsi Meyarları”nda dəyişikliklər təsdiq edilib.
+R0177-C04,R0177,CBAR-5546,body,random,1,“Bank kapitalının və onun adekvatlığının hesablanması Qaydaları”nda dəyişikliklər təsdiq edilib.
+R0177-C05,R0177,CBAR-5546,body,random,1,Dəyişikliklər sistem əhəmiyyətli bankların qiymətləndirilməsi zamanı istifadə olunan bəzi indikatorlar üzrə cari yanaşmanın təkmilləşdirilməsi və tətbiqi prosesinin optimallaşdırılması məqsədilə təsdiq edilib.
+R0177-C06,R0177,CBAR-5546,body,random,1,"Dəyişikliklər indikatorlar üzrə hesablama yanaşmalarının təkmilləşdirilməsi, meyarların banklara nəzarət tsikli ilə əlaqələndirilməsi və kapital buferində artım və ya azalma hallarında qüvvəyə minmə müddəti ilə bağlı yeni yanaşmanın müəyyən edilməsi ilə əlaqədar olub."
+R0177-C07,R0177,CBAR-5546,body,random,1,Bir sıra Avropa ölkələrinin təcrübələri və digər beynəlxalq yanaşmalar nəzərə alınmaqla meyarlara dəyişikliklər hazırlanıb.
+R0177-C08,R0177,CBAR-5546,body,random,1,“Maliyyə institutlarında yerləşdirilən aktivlər” indikatorunun əhatə dairəsi dəqiqləşdirilərək bankların tənzimləyici qurumda yerləşdirdiyi aktivlər nəzərə alınmayacaq.
+R0177-C09,R0177,CBAR-5546,body,random,1,“Ödəniş sistemləri vasitəsilə aparılan əməliyyatlar” indikatoru üzrə hesablamalarda AZİPS sistemi üzrə bankların yalnız müştəri köçürmələri və banklararası ödəniş əməliyyatları nəzərə alınacaq.
+R0177-C10,R0177,CBAR-5546,body,random,1,Sistem əhəmiyyətli bankların siyahısı hər il sentyabrın 1-nə qədər Mərkəzi Bankın İdarə Heyətinin qərarı ilə təsdiq ediləcək.
+R0177-C11,R0177,CBAR-5546,body,random,1,Bank siyahıya daxil edildikdə və ya qrupu artırıldıqda “sistem əhəmiyyətli bank kapital buferi” üzrə yeni artırılmış tələb siyahının təsdiq edildiyi ildən sonrakı ilin yanvarın 1-dən qüvvəyə minəcək.
+R0177-C12,R0177,CBAR-5546,body,random,1,Bankın siyahıdan çıxarılması və ya qrupunun aşağı salınması yalnız ardıcıl 2 il üzrə aparılmış hesablamalar nəticəsində təsdiq edildiyi halda mümkündür.
+R0177-C13,R0177,CBAR-5546,body,random,1,“Sistem əhəmiyyətli bank kapital buferi” üzrə azaldılmış tələb sistem əhəmiyyətli bankların siyahısının təsdiq edildiyi andan dərhal sonra qüvvəyə minəcək.
+R0177-C14,R0177,CBAR-5546,body,random,1,Qaydalara edilmiş dəyişiklik sistem əhəmiyyətli bankların qiymətləndirilməsi zamanı daha effektiv yanaşmaların tətbiqinə və qiymətləndirmə prosesinin təkmilləşdirilməsinə xidmət edəcək.
+R0178-C01,R0178,CBAR-5547,headline,random,1,Sistem əhəmiyyətli sığortaçı kimi qiymətləndirilmə üzrə meyarlarda dəyişikliklər təsdiqlənib.
+R0178-C02,R0178,CBAR-5547,body,random,1,Sığorta sektorunda sistem əhəmiyyətli sığortaçıların qiymətləndirilməsi zamanı istifadə olunan yanaşmanın təkmilləşdirilməsi məqsədilə “Sığortaçının sistem əhəmiyyətli sığortaçı kimi qiymətləndirilməsi Meyarları”nda dəyişikliklər təsdiq edilib.
+R0178-C03,R0178,CBAR-5547,body,random,1,"Yeni çərçivə sığortaçıların maliyyə sisteminə mümkün təsir kanallarını daha dolğun əhatə etmək məqsədilə ölçü, şaxələnmə və əvəzolunmazlıq kateqoriyaları əsasında formalaşdırılıb."
+R0178-C04,R0178,CBAR-5547,body,random,1,"Yeni çərçivə sistem əhəmiyyətliliyin sığorta sistemi, maliyyə sistemi və ümumi iqtisadi münasibətlər üzrə üç səviyyədə qiymətləndirilməsini nəzərdə tutur."
+R0178-C05,R0178,CBAR-5547,body,random,1,"Bu yanaşma sığortaçıların yalnız sektor daxilindəki rolunu deyil, eyni zamanda onların maliyyə bazarları və real iqtisadiyyatla qarşılıqlı əlaqələrini də nəzərə almağa imkan verir."
+R0178-C06,R0178,CBAR-5547,body,random,1,"Qiymətləndirmənin 3 kateqoriya – ölçü, şaxələnmə və əvəzolunmazlıq kateqoriyaları üzrə aparılması müəyyən olunub."
+R0178-C07,R0178,CBAR-5547,body,random,1,Əvvəlki metodologiyada mövcud olan mürəkkəblik kateqoriyası ləğv edilib.
+R0178-C08,R0178,CBAR-5547,body,random,1,Kateqoriyalar üzrə yeni indikatorlar və xüsusi çəkilər müəyyən edilib.
+R0178-C09,R0178,CBAR-5547,body,random,1,Qiymətli kağızların dövriyyəsi göstəricisi ilk dəfə metodologiyaya daxil edilib.
+R0178-C10,R0178,CBAR-5547,body,random,1,Təkrarsığorta fəaliyyəti ilə əlaqədar sığortaçıların yalnız ölkə daxilindən qəbul etdikləri risklər üzrə hesablanmış təkrarsığorta haqlarının nəzərə alınması müəyyən edilib.
+R0178-C11,R0178,CBAR-5547,body,random,1,Təkrarsığorta haqları göstəricisinin çəkisi artırılıb.
+R0178-C12,R0178,CBAR-5547,body,random,1,Sistem əhəmiyyətliliyi indeksi 15 faiz bəndinə çatan və ya bunu keçən sığortaçılar sistem əhəmiyyətli sığortaçı kimi qiymətləndirilir.
+R0178-C13,R0178,CBAR-5547,body,random,1,Müstəsna olaraq təkrarsığorta fəaliyyəti ilə məşğul olan təkrarsığortaçılar üçün “sığorta predmetlərinin sayı” göstəricisi tətbiq olunmur.
+R0178-C14,R0178,CBAR-5547,body,random,1,“Sığorta predmetlərinin sayı” göstəricisinin çəkisi eyni kateqoriyadakı digər göstəriciyə əlavə olunur.
+R0178-C15,R0178,CBAR-5547,body,random,1,Sistem əhəmiyyətli sığortaçıların siyahısı hər il 1 sentyabr tarixinədək Mərkəzi Bankın İdarə Heyətinin qərarı ilə təsdiq edilir.
+R0178-C16,R0178,CBAR-5547,body,random,1,"Dəyişikliklər Mərkəzi Bankın bank sektoru üzrə tətbiq etdiyi sistem əhəmiyyətlilik metodologiyası ilə uzlaşdırılmaqla, sistem əhəmiyyətli maliyyə institutlarının müəyyən edilməsinə və vahid yanaşmanın formalaşdırılmasına xidmət edir."
+R0187-C01,R0187,DVX-4532,headline,random,1,İlham Əliyev bu qanuna dəyişiklikləri təsdiqlədi.
+R0187-C02,R0187,DVX-4532,lead,random,1,Prezident İlham Əliyev Milli Məclisin qəbul etdiyi Vergi Məcəlləsinə və 16 qanuna dəyişiklikləri təsdiqləyib.
+R0187-C03,R0187,DVX-4532,lead,random,1,Milli Məclis dəyişiklikləri dekabrın 9-da qəbul etmişdir.
+R0187-C04,R0187,DVX-4532,body,random,1,"Dəyişikliklər paketinin əsas istiqamətləri investisiya mühitinin və sahibkarlıq fəaliyyətinin təşviq edilməsi, sahibkarlıq subyektlərinin vergi yükünün azaldılması, vergi daxilolmalarının və büdcə gəlirlərinin tənzimlənməsi, vergi nəzarəti mexanizminin təkmilləşdirilməsi və kölgə iqtisadiyyatına qarşı mübarizədir."
+R0187-C05,R0187,DVX-4532,body,random,1,"""Sosial sığorta haqqında"" qanuna təklif edilən dəyişikliklər sahibkarların sosial sığorta yükünün optimallaşdırılması və Naxçıvan Muxtar Respublikasında ödənilən məcburi dövlət sosial sığorta haqlarının subsidiyalaşdırılmasını əhatə edir."
+R0188-C01,R0188,DVX-4532,headline,random,1,Prezident Vergi Məcəlləsinə və 16 qanuna dəyişiklikləri təsdiqləyib.
+R0188-C02,R0188,DVX-4532,lead,random,1,Milli Məclis dekabrın 9-da Vergi Məcəlləsinə və 16 qanuna dəyişiklikləri qəbul edib.
+R0188-C03,R0188,DVX-4532,body,random,1,"Dəyişikliklər ""Milli Məclis deputatının statusu haqqında"", ""Sosial sığorta haqqında"", ""Hərbi qulluqçuların dövlət icbari şəxsi sığortası haqqında"", ""Məhkəmə və hüquq mühafizə orqanları işçilərinin dövlət icbari şəxsi sığortası haqqında"", ""Tibbi sığorta haqqında"", ""Dövlət rüsumu haqqında"", ""Şəkərli diabet xəstəliyinə tutulmuş şəxslərə dövlət qayğısı haqqında"", ""Azərbaycan Respublikasının diplomatik nümayəndəliklərində və konsulluqlarında xidmət keçən diplomatik xidmət orqanı əməkdaşlarının dövlət icbari şəxsi sığortası haqqında"", ""Hemofiliya və talassemiya irsi qan xəstəliklərinə düçar olmuş şəxslərə dövlət qayğısı haqqında"", ""Sığorta fəaliyyəti haqqında"", ""İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta haqqında"", ""Dağınıq skleroz xəstəliyinə tutulmuş şəxslərə dövlət qayğısı haqqında"", ""Uşaqların icbari dispanserizasiyası haqqında"", ""Gömrük tarifi haqqında"", ""Nağdsız hesablaşmalar haqqında"" və ""Əlilliyi olan şəxslərin hüquqları haqqında"" qanunlara aiddir."
+R0188-C04,R0188,DVX-4532,body,random,1,"Dəyişikliklər paketinin əsas istiqamətləri investisiya mühitinin və sahibkarlıq fəaliyyətinin təşviq edilməsi, sahibkarlıq subyektlərinin vergi yükünün azaldılması, vergi daxilolmalarının və büdcə gəlirlərinin tənzimlənməsi, vergi nəzarəti mexanizminin təkmilləşdirilməsi və kölgə iqtisadiyyatına qarşı mübarizədir."
+R0188-C05,R0188,DVX-4532,body,random,1,"""Sosial sığorta haqqında"" qanuna təklif edilən dəyişikliklər sahibkarların sosial sığorta yükünün optimallaşdırılması və Naxçıvan Muxtar Respublikasında ödənilən məcburi dövlət sosial sığorta haqlarının subsidiyalaşdırılmasını əhatə edir."
+R0189-C01,R0189,DVX-4532,headline,random,1,Vergi ödəyiciləri vergi öhdəliyinin yaranmasına səbəb olan halları könüllü bəyan edəcəklər.
+R0189-C02,R0189,DVX-4532,body,random,1,Könüllü açıqlama sisteminin əhatəsi genişləndiriləcək.
+R0189-C03,R0189,DVX-4532,body,random,1,Bu məsələ Prezident İlham Əliyevin təsdiqlədiyi Vergi Məcəlləsində dəyişiklik edilməsi barədə Qanunda öz əksini tapıb.
+R0189-C04,R0189,DVX-4532,body,random,1,"Könüllü açıqlama səyyar vergi yoxlaması və ya üfüqi monitorinq başa çatdıqdan sonra yoxlama (monitorinq) zamanı aşkar edilməyən və vergi öhdəliyinin, habelə məcburi dövlət sosial sığorta, işsizlikdən sığorta və icbari tibbi sığorta haqları üzrə öhdəliyin yaranmasına səbəb olan halların vergi ödəyiciləri tərəfindən vergi orqanlarına könüllü olaraq bəyan edilməsi hesab ediləcək."
+R0189-C05,R0189,DVX-4532,body,random,1,Səyyar vergi yoxlamasının keçirilməsindən asılı olmayaraq həmin halların Vergi Məcəlləsində göstərilən 3 illik müddətdən əvvəlki dövrlər üzrə könüllü olaraq bəyan edilməsi könüllü açıqlama hesab ediləcək.
+R0189-C06,R0189,DVX-4532,body,random,1,Mövcud qanunvericilikdə vergi ödəyiciləri tərəfindən vergilərin könüllü şəkildə bəyan edilməsi imkanı yalnız səyyar vergi yoxlaması ilə əhatə olunmuş son 3 illik dövr üzrə mümkündür.
+R0189-C07,R0189,DVX-4532,body,random,1,"Səyyar yoxlama ilə əhatə olunmayan, habelə 3 ildən artıq müddət keçmiş dövrlər üzrə vergi ödəyicisinin gəlirlərini könüllü bəyan etmək imkanları yoxdur."
+R0189-C08,R0189,DVX-4532,body,random,1,Könüllü bəyan etmək imkanlarının olmaması vergi ödəyicilərinin konstitusion hüquqlarının və vəzifələrinin icrası ilə uzlaşmır.
+R0189-C09,R0189,DVX-4532,body,random,1,Bu səbəbdən könüllü açıqlama mexanizminin əhatəsi genişləndiriləcək.
+R0190-C01,R0190,DVX-4532,headline,random,1,Könüllü açıqlamanın əhatə müddəti artırılır.
+R0190-C02,R0190,DVX-4532,body,random,1,Sahibkarlar üçün daha əlverişli biznes mühitinin yaradılması və vergi inzibatçılığının sadələşdirilməsi ölkəmizdə aparılan vergi siyasətinin başlıca priotetlərindəndir.
+R0190-C03,R0190,DVX-4532,body,random,1,Vergi Məcəlləsinə edilən dəyişikliklərdən biri könüllü açıqlamanın əhatə dairəsinin genişləndirilməsi ilə bağlıdır.
+R0190-C04,R0190,DVX-4532,body,random,1,"Hazırda qüvvədə olan qanunvericiliyə əsasən, səyyar vergi yoxlaması başa çatdıqdan sonra aşkar edilməyən və vergi və sığorta haqları üzrə öhdəliyin yaranmasına səbəb olan hallar ödəyicilər tərəfindən vergi orqanlarına könüllü şəkildə bəyan edilə bilər."
+R0190-C05,R0190,DVX-4532,body,random,1,"Könüllü açıqlandığı halda təqdim edilmiş hesabat üzrə vergiödəyicisi tərəfindən yalnız hesablanmış vergi məbləği, məcburi dövlət sosial sığorta, işsizlikdən sığorta və icbari tibbi sığorta haqları ödənilir."
+R0190-C06,R0190,DVX-4532,body,random,1,Hazırda vergiödəyicilərinə yalnız səyyar vergi yoxlaması ilə əhatə olunmuş dövr üzrə vergilərin könüllü şəkildə bəyan edilməsi imkanı verilib.
+R0190-C07,R0190,DVX-4532,body,random,1,"Səyyar yoxlama ilə əhatə olunmayan, 3 ildən artıq müddət keçmiş dövrlər üzrə vergiödəyicisinin gəlirlərini könüllü bəyan etmək hüququ mövcud qanunvericiliklə məhdudlaşdırılır."
+R0190-C08,R0190,DVX-4532,body,random,1,Könüllü açıqlama mexanizminin əhatəsinin genişləndirilməsi nəzərdə tutulur.
+R0190-C09,R0190,DVX-4532,body,random,1,"2026-cı ildən etibarən səyyar vergi yoxlamasının keçirilməsindən asılı olmayaraq, vergi və sığorta öhdəliklərini yaradan halların vergiödəiciləri tərəfindən 3 illik müddətdən əvvəlki dövrlər üzrə də könüllü şəkildə bəyan edilməsi mümkün olacaq."
+R0191-C01,R0191,DVX-4541,headline,random,1,Bu şəxslər gələn ildən daha çox vergi ödəyəcək.
+R0191-C02,R0191,DVX-4541,lead,random,1,"Sabit qəbz və ailə kəndli təsərrüfatları üçün mövcud rejim saxlanılsa da, dərəcələr artırılacaq."
+R0191-C03,R0191,DVX-4541,lead,random,1,Dəyişikliklərin gələn ildən qüvvəyə minməsi nəzərdə tutulur.
+R0191-C04,R0191,DVX-4541,lead,random,1,Sabit qəbzdə regional əmsallarda 3 faizlik dərəcə 5 faizə çatdırılacaq.
+R0191-C05,R0191,DVX-4541,lead,random,1,Sabit qəbzdə regional əmsallarda 5 faizlik dərəcələr 8 faizə çatdırılacaq.
+R0191-C06,R0191,DVX-4541,body,random,1,"Toylarda, şənliklərdə və digər tədbirlərdə aparıcılıq, çalğıçılıq, rəqqaslıq, aşıqlıq, məzhəkəçilik və fərdi foto, audio-video xidmətləri sahəsində fəaliyyət üçün ödəniş minimum aylıq əməkhaqqının 5 faizi miqdarından 8 faizədək artırılır."
+R0191-C07,R0191,DVX-4541,body,random,1,Digər sabit qəbz tələb olunan fəaliyyət növlərində dərəcələr 3 faizdən 5 faizə çatdırılır.
+R0191-C08,R0191,DVX-4541,body,random,1,"Bakı şəhərində (kənd və qəsəbələr daxil olmaqla) 2,0 əmsalından istifadə edilir."
+R0191-C09,R0191,DVX-4541,body,random,1,"Abşeron rayonunda, Sumqayıt və Gəncə şəhərlərində 1,5 əmsalından istifadə edilir."
+R0191-C10,R0191,DVX-4541,body,random,1,"Digər şəhər və rayonlarda 1,0 əmsalından istifadə edilir."
+R0191-C11,R0191,DVX-4541,body,random,1,Bərbər fəaliyyəti ilə məşğul olanlar əvvəl Bakıda 24 manat ödəyirdi.
+R0191-C12,R0191,DVX-4541,body,random,1,Bərbər fəaliyyəti ilə məşğul olanlar 2026-ci ildən etibarən Bakıda 40 manat ödəyəcəklər.
+R0191-C13,R0191,DVX-4541,body,random,1,Bərbərlərin aylıq ödənişində Bakı şəhərində 16 manat artım qeydə alınacaq.
+R0191-C14,R0191,DVX-4541,body,random,1,Minimum əməkhaqqı 400 manatdır.
+R0191-C15,R0191,DVX-4541,body,random,1,"Gözlənilir ki, yeni dərəcələr sabit qəbzin tətbiq edildiyi sahələrdə xərcləri artıracaq."
+R0192-C01,R0192,DVX-4541,headline,random,1,Gələn ildən bu sahələrdə vergi və güzəştlər tətbiq ediləcək.
+R0192-C02,R0192,DVX-4541,body,random,1,2026-cı il dövlət büdcəsi zərfinə daxil olan Vergi Məcəlləsində dəyişiklik edilməsi barədə qanun layihəsi Milli Məclisdə üçüncü oxunuşda qəbul edilib.
+R0192-C03,R0192,DVX-4541,body,random,1,Qanun layihəsi parlamentin bugünkü plenar iclasında müzakirəyə çıxarılıb.
+R0192-C04,R0192,DVX-4541,body,random,1,Vergi Məcəlləsinə dəyişiklik layihəsi 3 blokdan ibarətdir.
+R0192-C05,R0192,DVX-4541,body,random,1,Dəyişiklik layihəsi ümumilikdə 45 əsas maddə üzrədir.
+R0192-C06,R0192,DVX-4541,body,random,1,Dəyişiklik layihəsi 145 dəyişiklikdən ibarətdir.
+R0192-C07,R0192,DVX-4541,body,random,1,Naxçıvan Muxtar Respublikasında fəaliyyət göstərən sahibkarlıq subyektlərinə işğaldan azad edilmiş ərazilər üzrə tətbiq edilən eyni vergi güzəştləri veriləcək.
+R0192-C08,R0192,DVX-4541,body,random,1,Naxçıvandakı sahibkarlıq subyektlərinə güzəştlər 2026-cı il yanvarın 1-dən etibarən 10 il müddətində verilir.
+R0192-C09,R0192,DVX-4541,body,random,1,Azərbaycan Respublikasının ərazisində istehsal olunan yük avtomobillərinin satışı və onların ehtiyat hissələrinin idxalı ƏDV-dən azad olunacaq.
+R0192-C10,R0192,DVX-4541,body,random,1,Yalnız elektrik mühərriki ilə işləyən avtomobillərin idxalı və satışına tətbiq olunan ƏDV azadolması ləğv edilir.
+R0192-C11,R0192,DVX-4541,body,random,1,"01.01.2027-ci il tarixədək oturacaqsız, tutacaqsız və monitoru quraşdırılmamış yalnız elektrik mühərriki ilə işləyən avtobusların idxalı və satışı ƏDV-dən azad olunur."
+R0192-C12,R0192,DVX-4541,body,random,1,"Azərbaycanda istehsal olunan minik avtomobillərinin satışının ƏDV-dən azad edilməsi güzəşti 2027-ci il yanvarın 1-dən 7 il müddətinə tam istehsal sənaye yığımı, eyni zamanda boya və qaynaq əməliyyatlarının yerinə yetirilməsi şərti ilə verilir."
+R0192-C13,R0192,DVX-4541,body,random,1,Naxçıvan MR-də minik avtomobillərinin istehsalını həyata keçirən vergi ödəyicilərinə münasibətdə mövcud güzəşt şərtləri 2030-cu il yanvarın 1-dək saxlanılır.
+R0192-C14,R0192,DVX-4541,body,random,1,Kənd təsərrüfatı sahəsinə verilən güzəştlər balıqçılığa da şamil edilir.
+R0192-C15,R0192,DVX-4541,body,random,1,İctimai iaşə fəaliyyəti sahəsinə ƏDV güzəşti 2026-cı il yanvarın 1-dən 3 il müddətinə verilir.
+R0192-C16,R0192,DVX-4541,body,random,1,İctimai iaşə fəaliyyəti ilə məşğul olan şəxslərin POS-terminal vasitəsilə nağdsız ödəmələr əsasında formalaşan dövriyyəsinin 50 faizi ƏDV tutulan ümumi dövriyyələrindən çıxılır.
+R0192-C17,R0192,DVX-4541,body,random,1,Sadələşdirilmiş vergi ödəyən ictimai iaşə şəxslərinin nağdsız dövriyyəsi 6% dərəcə ilə sadələşdirilmiş vergiyə cəlb olunur.
+R0192-C18,R0192,DVX-4541,body,random,1,Rüsumsuz ticarət mağazalarına satılan mallar ƏDV-yə və aksizə 0 (sıfır) dərəcə ilə cəlb edilir.
+R0192-C19,R0192,DVX-4541,body,random,1,Fiziki şəxslər tərəfindən xaricdən əldə edilən dividend gəlirləri üzrə vergi dərəcəsi 14%-dən 5%-ə endirilir.
+R0192-C20,R0192,DVX-4541,body,random,1,Kənd təsərrüfatında istifadə olunan orqanomineral gübrələrin də idxalı və satışı ƏDV-dən azad edilir.
+R0192-C21,R0192,DVX-4541,body,random,1,"Dövlət-özəl tərəfdaşlığı layihəsi çərçivəsində tikinti işlərinə cəlb edilmiş podratçılara layihənin dəyərinə aid edilən texnikanın, texnoloji avadanlıqların və qurğuların idxalı üzrə ƏDV güzəşti verilir."
+R0192-C22,R0192,DVX-4541,body,random,1,Media subyektlərinə tətbiq olunan vergi güzəştləri daha 3 il müddətinə uzadılır.
+R0192-C23,R0192,DVX-4541,body,random,1,Heydər Əliyev adına Neft Emalı Zavodunun yenidən qurulması və modernizasiyası layihəsi çərçivəsində avadanlıqların və materialların idxalının ƏDV-dən azad edilməsi müddəti daha 3 il artırılır.
+R0192-C24,R0192,DVX-4541,body,random,1,Gəmiqayırma və gəmi təmiri müəssisələri tərəfindən həmin fəaliyyətin məqsədləri üçün bütün növ malların idxalı 01.05.2026-cı ildən 3 il müddətinə ƏDV-dən azad edilir.
+R0192-C25,R0192,DVX-4541,body,random,1,"Proqressiv gəlir vergisi dərəcələri aylıq gəlirin məbləğindən asılı olaraq 7% (2026-cı ildə 3%, 2027-ci ildə 5%), 10% və 14% dərəcələri ilə tətbiq olunur."
+R0192-C26,R0192,DVX-4541,body,random,1,Sosial sığorta haqları dərəcələri əmək haqqının 8000 manatdan yuxarı hissəsinə görə 4 faiz azaldılaraq 25%-dən 21%-ə endirilir.
+R0192-C27,R0192,DVX-4541,body,random,1,"Sosial sığorta haqqı işçi üzrə 10%, işəgötürən üzrə 11% təşkil edir."
+R0192-C28,R0192,DVX-4541,body,random,1,Tibbi sığorta haqqı dərəcələri əmək haqqının 2500 manatdan yuxarı hissəsinə görə 4%-dən 1%-ə endirilir.
+R0192-C29,R0192,DVX-4541,body,random,1,"Tibbi sığorta haqqı işçi və işəgötürən üzrə 0,5% təşkil edir."
+R0192-C30,R0192,DVX-4541,body,random,1,Kvadrisikllər və mobil cihazlar aksizli malların siyahısına əlavə olunur və aksizə cəlb edilir.
+R0192-C31,R0192,DVX-4541,body,random,1,Mobil cihazların hər ədədinə görə 20 manat məbləğində aksiz vergisi müəyyən edilir.
+R0192-C32,R0192,DVX-4541,body,random,1,Fiziki şəxslər tərəfindən şəxsi məqsədlər üçün təqvim ili ərzində 1 ədəd mobil cihazın gətirilməsi gömrük ödənişlərindən azad olunur.
+R0192-C33,R0192,DVX-4541,body,random,1,Aksizli mallar üzrə hesablanmış aksiz məbləğinin icbari tibbi sığorta fonduna ödənilən hissəsi ləğv edilir və dövlət büdcəsinin gəlirlərinə aid edilir.
+R0192-C34,R0192,DVX-4541,body,random,1,Yanacağa görə müəyyən edilmiş icbari tibbi sığorta haqqı ləğv edilir.
+R0192-C35,R0192,DVX-4541,body,random,1,Vergi Məcəlləsində müəyyən edilmiş yol vergisinin dərəcəsi artırılır.
+R0192-C36,R0192,DVX-4541,body,random,1,"Neft-qaz sahəsində mədən və aksiz vergiləri topdansatış qiymətindən faizlə deyil, istehsal həcmindən asılı olaraq sabit məbləğdə hesablanır."
+R0192-C37,R0192,DVX-4541,body,random,1,"İçməli spirt, araq, konyak və energetik içkilər üzrə aksiz hər litrinə 0,2 manat artırılır."
+R0192-C38,R0192,DVX-4541,body,random,1,"Siqarilla və siqaret üzrə aksiz min ədədinə 9,5 manat artırılır."
+R0192-C39,R0192,DVX-4541,body,random,1,"Tündləşdirilməmiş alkoqollu içkilər üzrə aksiz hər litrinə 0,1 manat artırılır."
+R0192-C40,R0192,DVX-4541,body,random,1,"İstehsal buraxılış tarixindən 7 ildən çox ötmüş benzin mühərrikli minik avtomobillərinə münasibətdə yüksəldici əmsal 1,2-dən 1,5-ə artırılır."
+R0192-C41,R0192,DVX-4541,body,random,1,"İstehsal buraxılış tarixindən 7 ildən çox ötmüş dizel mühərrikli minik avtomobillərinə münasibətdə yüksəldici əmsal 1,5-dən 2-yə artırılır."
+R0192-C42,R0192,DVX-4541,body,random,1,"Təhsil, tibb, mədəniyyət və idman sahəsində fəaliyyət göstərən vergi ödəyicilərinə 100 faiz həddində tətbiq edilən əmlak vergisi güzəşti 75 faiz həddində tətbiq olunur."
+R0192-C43,R0192,DVX-4541,body,random,1,Dövlət büdcəsindən ayrılan və aktivlərə aid edilən vəsait hesabına alınan əsas vəsaitlərə və qeyri-maddi aktivlərə görə hesablanmış amortizasiya məbləği qədər vəsait vergi ödəyicisinin gəlirlərinə və xərclərinə aid edilir.
+R0192-C44,R0192,DVX-4541,body,random,1,Subsidiya hesabına alınan əsas vəsaitlərə və qeyri-maddi aktivlərə görə tam məbləğdə amortizasiya hesablanır və həmin məbləğ qədər subsidiya gəlir hesab edilir.
+R0192-C45,R0192,DVX-4541,body,random,1,Amortizasiya olunmayan aktivlərin alınması və ya quraşdırılması məqsədilə ayrılan subsidiya gəlir və ya zərər kimi nəzərə alınmır.
+R0192-C46,R0192,DVX-4541,body,random,1,"Aktivlərə aid edilən subsidiya hesabına mallar (işlər, xidmətlər) alınarkən ödənilmiş ƏDV məbləği əvəzləşdirilmir."
+R0192-C47,R0192,DVX-4541,body,random,1,Könüllü açıqlama sisteminin əhatəsi genişləndirilir.
+R0192-C48,R0192,DVX-4541,body,random,1,Vergi ödəyiciləri vergi və sığorta öhdəliyinin yaranmasına səbəb olan halları 3 illik müddətdən əvvəlki dövrlər üzrə könüllü olaraq bəyan edə bilir.
+R0192-C49,R0192,DVX-4541,body,random,1,Fiziki şəxslərin kirayə haqqı gəlirləri üzrə vergi dərəcəsi 14%-dən 10%-ə endirilir.
+R0192-C50,R0192,DVX-4541,body,random,1,200 min manatlıq dövriyyə həddi pərakəndə ticarət və vergi orqanında uçotda olmayan şəxslərə göstərilən xidmətlər üzrə nağdsız ödəmələrə münasibətdə 2 dəfə artırılır.
+R0192-C51,R0192,DVX-4541,body,random,1,ƏDV qeydiyyat həddi 400 min manata çatdırılır.
+R0192-C52,R0192,DVX-4541,body,random,1,"Bərbərxanalar, gözəllik salonları və kosmetoloji mərkəzlər tərəfindən göstərilən xidmətlərə görə ""ƏDV gerial"" mexanizmi tətbiq olunur."
+R0192-C53,R0192,DVX-4541,body,random,1,Vergi uçotuna alınmadan qanunsuz sahibkarlıq fəaliyyətinə görə tətbiq olunan 40 manat maliyyə sanksiyası 200 manata qaldırılır.
+R0192-C54,R0192,DVX-4541,body,random,1,"Elektron audit vergi nəzarət tədbiri ləğv edilir və ""Üfüqi monitorinq"" nəzarət sistemi tətbiq olunur."
+R0192-C55,R0192,DVX-4541,body,random,1,"""Üfüqi monitorinq"" nəzarət sisteminə qəbul edilmiş vergi ödəyicilərinə balansda olan əsas vəsaitlər üzrə amortizasiyanın azalan qalıq, yaxud düz xətt metodu ilə hesablanması ilə bağlı seçim hüququ verilir."
+R0192-C56,R0192,DVX-4541,body,random,1,"İşğaldan azad edilmiş ərazilərdə fəaliyyət göstərən, lakin mərkəzləşdirilmiş qaydada uçota alınan hüquqi və fiziki şəxslər də işğaldan azad edilmiş ərazinin rezidenti hesab edilir və güzəştlərdən yararlanır."
+R0193-C01,R0193,DVX-4541,headline,random,1,Dövlət sektoru üzrə istehsalat qəzaları ilə bağlı sığorta ödənişini edəcək qurum müəyyənləşib.
+R0193-C02,R0193,DVX-4541,body,random,1,Dövlət sektorunda çalışan şəxslərin istehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığortalanması Dövlət Sosial Müdafiə Fondu (DSMF) vasitəsilə həyata keçiriləcək.
+R0193-C03,R0193,DVX-4541,body,random,1,Bu barədə Trend-ə Əmək və Əhalinin Sosial Müdafiəsi Nazirliyindən məlumat verilib.
+R0193-C04,R0193,DVX-4541,body,random,1,“İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta haqqında” və “Sığorta fəaliyyəti haqqında” qanunlarda dəyişiklik edilib.
+R0193-C05,R0193,DVX-4541,body,random,1,Hazırda bütün işçilərin qeyd edilən icbari sığortalanması özəl sığorta şirkətləri vasitəsilə həyata keçirilir.
+R0193-C06,R0193,DVX-4541,body,random,1,"Yeni dəyişikliklər ikili sistemin tətbiqini, yəni dövlət sektorunda çalışanların icbari sığortalanmasının DSMF, digər subyektlərdə çalışanların isə özəl sığorta şirkətləri vasitəsilə həyata keçirilməsini nəzərdə tutur."
+R0193-C07,R0193,DVX-4541,body,random,1,"Yeni dəyişikliklər müvafiq hallarda sığorta ödənişlərinin dövlət və bələdiyyə sektoru üzrə DSMF, digər sahələr üzrə özəl sığorta şirkətləri vasitəsilə həyata keçirilməsini nəzərdə tutur."
+R0194-C01,R0194,DVX-4543,headline,random,1,Enerji içkilərinin aksiz dərəcəsi artırılır.
+R0194-C02,R0194,DVX-4543,body,random,1,Azərbaycan Respublikasında istehsal olunan energetik içkilər üzrə aksiz dərəcələri artırılacaq.
+R0194-C03,R0194,DVX-4543,body,random,1,Bu məsələ Prezident İlham Əliyevin təsdiqlədiyi Vergi Məcəlləsində dəyişiklik edilməsi barədə Qanunda öz əksini tapıb.
+R0194-C04,R0194,DVX-4543,body,random,1,"Energetik içkilərin hər litrinə aksiz dərəcəsi 0,2 manat artırılacaq."
+R0194-C05,R0194,DVX-4543,body,random,1,"Energetik içkilərin hər litrinə 3,3 manat aksiz dərəcəsi tətbiq ediləcək."
+R0195-C01,R0195,DVX-4543,headline,random,1,Yük avtomobillərinin ehtiyat hissələrinin idxalı ƏDV və rüsumlardan azad edilir.
+R0195-C02,R0195,DVX-4543,body,random,1,Hüquqi şəxslər tərəfindən istehsal məqsədilə yük avtomobillərinin ehtiyat hissələrinin idxalı 2026-cı il yanvarın 1-dən 7 il müddətinə ƏDV-dən azad ediləcək.
+R0195-C03,R0195,DVX-4543,body,random,1,Bu məsələ Prezident İlham Əliyevin təsdiqlədiyi Vergi Məcəlləsində dəyişiklik edilməsi barədə Qanunda öz əksini tapıb.
+R0195-C04,R0195,DVX-4543,body,random,1,"Mövcud qanunvericiliyə əsasən, hüquqi şəxslər tərəfindən istehsal məqsədilə avtobusların ehtiyat hissələrinin idxalı 2025-ci il yanvarın 1-dən 8 il müddətinə ƏDV-dən azaddır."
+R0195-C05,R0195,DVX-4543,body,random,1,Hüquqi şəxslər tərəfindən istehsal məqsədilə yük avtomobillərinin ehtiyat hissələrinin idxalı 2026-cı il yanvarın 1-dən 7 il müddətinə gömrük rüsumlarından azad ediləcək.
+R0196-C01,R0196,DVX-4543,headline,random,1,Bir sıra texnikaların ehtiyat hissələrinin idxalı gömrük rüsumlarından azad edilir.
+R0196-C02,R0196,DVX-4543,body,random,1,Gömrük rüsumlarından azad edilən malların siyahısı genişləndiriləcək.
+R0196-C03,R0196,DVX-4543,body,random,1,Bu məsələ Prezident İlham Əliyevin təsdiqlədiyi “Gömrük tarifi haqqında” Qanunda dəyişiklik edilməsi barədə Qanunda öz əksini tapıb.
+R0196-C04,R0196,DVX-4543,body,random,1,İdxal Baş Prokurorluğun verdiyi təsdiqedici sənəd əsasında gömrük rüsumlarından azad ediləcək.
+R0196-C05,R0196,DVX-4543,body,random,1,"Müdafiə və dövlət təhlükəsizliyi məqsədləri üçün istifadə olunan bütün növ texnika və texniki vasitələrin, onların ehtiyat hissələrinin, xüsusi proqram təminatlarının və silah-sursatın idxalı da gömrük rüsumlarından azad ediləcək."
+R0197-C01,R0197,DVX-4543,headline,random,1,Evlərini kirayə verən şəxslərdən vergi tutulacaq.
+R0197-C02,R0197,DVX-4543,body,random,1,Bu gündən fiziki şəxslərə məxsus yaşayış sahələrinin fiziki şəxslərə kirayəyə verilməsindən əldə olunan gəlirlərdən ödəmə mənbəyində 10 faiz dərəcə ilə vergi tutulacaq.
+R0197-C03,R0197,DVX-4543,body,random,1,Mehmanxanalar və mehmanxana tipli obyektlərdə yerləşən yerləşmə vasitələri vergi tutulmasından istisna olunur.
+R0197-C04,R0197,DVX-4543,body,random,1,Bu məsələ Prezident İlham Əliyevin təsdiqlədiyi Vergi Məcəlləsində dəyişiklik edilməsi barədə Qanunda öz əksini tapıb.
+R0197-C05,R0197,DVX-4543,body,random,1,İcarəyə münasibətdə vergi dərəcəsi 14 faizdir.
+R0197-C06,R0197,DVX-4543,body,random,1,Kirayəyə münasibətdə vergi dərəcəsi 10 faizdir.
+R0197-C07,R0197,DVX-4543,body,random,1,İcarə (kirayə) haqqı vergi ödəyicisi kimi uçotda olmayan fiziki şəxs tərəfindən ödənildikdə icarəyə (kirayəyə) verən özü və ya onun təyin etdiyi vergi agenti vergini ödəyəcək.
+R0197-C08,R0197,DVX-4543,body,random,1,İcarəyə (kirayəyə) verən vergi uçotuna alınıb bəyannamə verəcək.
+R0197-C09,R0197,DVX-4543,body,random,1,Daha əvvəl icarə haqqı vergi ödəyicisi kimi uçotda olmayan fiziki şəxs tərəfindən ödənildikdə icarəyə verən özü və ya onun təyin etdiyi vergi agenti 14 faiz dərəcə ilə vergini özü ödəyir və vergi uçotuna alınıb bəyannamə verirdi.
+R0197-C10,R0197,DVX-4543,body,random,1,Dəyişikliklər 2026-cı il 1 yanvar tarixindən qüvvəyə minib.
+R0239-C01,R0239,EMSMN-9043,headline,random,1,Bu şəxslərin maaşı artacaq.
+R0239-C02,R0239,EMSMN-9043,lead,random,1,Azərbaycan Prezidenti Əmək Məcəlləsində dəyişiklikləri təsdiq edib.
+R0239-C03,R0239,EMSMN-9043,lead,random,1,"Yeni dəyişikliklərə əsasən, minimum əmək haqqı məbləğinə ildə ən azı bir dəfə baxılacaq."
+R0239-C04,R0239,EMSMN-9043,lead,random,1,Yeni dəyişiklik ilə minimum əmək haqqı artımında dövrülük təmin olunacaq.
+R0239-C05,R0239,EMSMN-9043,lead,random,1,Bu artımların həmçinin qanunla tənzimlənməsi anlamına da gəlir.
+R0239-C06,R0239,EMSMN-9043,body,random,1,Dövlət büdcəsindən maliyyələşdirilən sahələrdə çalışan işçilərin aylıq tarif (vəzifə) maaşları minimum əmək haqqı artırılandan bir ay müddətində yeni məbləğə uyğunlaşdırılaraq artırılır.
+R0239-C07,R0239,EMSMN-9043,body,random,1,"Bura sosial, elm, mədəniyyət, gənclər və idman, kənd təsərrüfatı, ekologiya və ətraf mühitin mühafizəsi, mənzil-kommunal, nəqliyyat və rabitə, meliorasiya, su təsərrüfatı və balıqartırma sahələrində çalışan dövlət qulluqçusu statusu olmayan işçilərin vəzifə maaşları daxildir."
+R0239-C08,R0239,EMSMN-9043,body,random,1,Cədvəldə maaşlar 19 dərəcə üzrə müəyyənləşdirilir.
+R0239-C09,R0239,EMSMN-9043,body,random,1,Hazırda ən aşağı maaş 400 manatdır.
+R0239-C10,R0239,EMSMN-9043,body,random,1,Hazırda ən yüksək maaş 1150 manatdır.
+R0239-C11,R0239,EMSMN-9043,body,random,1,Minimum əmək haqqının dövrü olaraq artırılması praktik olaraq bütün dərəcələr üzrə artımlara səbəb olacaq.
+R0239-C12,R0239,EMSMN-9043,body,random,1,"Minimum əmək haqqında gözlənilən artımlar həm dövlət, həm özəl sektorda maaş artımlarına səbəb olacaq."
+R0239-C13,R0239,EMSMN-9043,body,random,1,Hər iki sektorda minimum əmək haqqından az maaş təklif etmək qanunvericiliklə qadağandır.
+R0239-C14,R0239,EMSMN-9043,body,random,1,Minimum əmək haqqının artırılması 700 min vətəndaşın maaşlarının artmasına səbəb olur.
+R0240-C01,R0240,EMSMN-9043,headline,random,1,Prezident təsdiq etdi.
+R0240-C02,R0240,EMSMN-9043,lead,random,1,Prezident İlham Əliyev Əmək Məcəlləsində dəyişiklikləri təsdiq edib.
+R0240-C03,R0240,EMSMN-9043,lead,random,1,"Yeni dəyişikliklərə əsasən, minimum əməkhaqqı məbləğinə ildə ən azı bir dəfə baxılacaq."
+R0240-C04,R0240,EMSMN-9043,lead,random,1,Yeni dəyişiklik ilə minimum əməkhaqqı artımında dövrülük təmin olunacaq.
+R0240-C05,R0240,EMSMN-9043,lead,random,1,Bu artımların həmçinin qanunla tənzimlənməsi anlamına da gəlir.
+R0240-C06,R0240,EMSMN-9043,body,random,1,Dövlət büdcəsindən maliyyələşdirilən sahələrdə çalışan işçilərin aylıq tarif (vəzifə) maaşları minimum əməkhaqqı artırılandan bir ay müddətində yeni məbləğə uyğunlaşdırılaraq artırılır.
+R0240-C07,R0240,EMSMN-9043,body,random,1,"Bura sosial, elm, mədəniyyət, gənclər və idman, kənd təsərrüfatı, ekologiya və ətraf mühitin mühafizəsi, mənzil-kommunal, nəqliyyat və rabitə, meliorasiya, su təsərrüfatı və balıqartırma sahələrində çalışan dövlət qulluqçusu statusu olmayan işçilərin vəzifə maaşları daxildir."
+R0240-C08,R0240,EMSMN-9043,body,random,1,Cədvəldə maaşlar 19 dərəcə üzrə müəyyənləşdirilir.
+R0240-C09,R0240,EMSMN-9043,body,random,1,Hazırda ən aşağı maaş 400 manatdır.
+R0240-C10,R0240,EMSMN-9043,body,random,1,Hazırda ən yüksək maaş 1 150 manatdır.
+R0240-C11,R0240,EMSMN-9043,body,random,1,Minimum əməkhaqqının dövrü olaraq artırılması praktik olaraq bütün dərəcələr üzrə artımlara səbəb olacaq.
+R0240-C12,R0240,EMSMN-9043,body,random,1,"Minimum əməkhaqqıda gözlənilən artımlar həm dövlət, həm özəl sektorda maaş artımlarına səbəb olacaq."
+R0240-C13,R0240,EMSMN-9043,body,random,1,Hər iki sektorda minimum əməkhaqqıdan az maaş təklif etmək qanunvericiliklə qadağandır.
+R0240-C14,R0240,EMSMN-9043,body,random,1,Minimum əməkhaqqının artırılması 700 min vətəndaşımızın maaşlarının artmasına səbəb olur.
+R0241-C01,R0241,EMSMN-9043,headline,random,1,Azərbaycan Respublikasının Əmək Məcəlləsində dəyişiklik edilməsi haqqında Azərbaycan Respublikasının Qanunu qəbul edilib.
+R0241-C02,R0241,EMSMN-9043,body,random,1,Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 16-cı bəndini rəhbər tutaraq qərara alır.
+R0241-C03,R0241,EMSMN-9043,body,random,1,Əmək Məcəlləsinin 36-cı maddəsinin 1-ci hissəsi üzrə dəyişiklik edilir.
+R0241-C04,R0241,EMSMN-9043,body,random,1,“b” bəndində “orqanı” sözü “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilsin.
+R0241-C05,R0241,EMSMN-9043,body,random,1,“c” bəndində “orqanları” sözü “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilsin.
+R0241-C06,R0241,EMSMN-9043,body,random,1,155-ci maddənin 6-cı hissəsinə ikinci cümlə əlavə edilsin.
+R0241-C07,R0241,EMSMN-9043,body,random,1,Minimum əmək haqqının məbləğinə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təklifləri əsasında müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən ildə bir dəfədən az olmayaraq yenidən baxılır.
+R0241-C08,R0241,EMSMN-9043,body,random,1,261-ci maddənin 3-cü hissəsində “orqanları” sözü “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilsin.
+R0242-C01,R0242,EMSMN-9043,headline,random,1,Əmək Məcəlləsinə minimum əməkhaqqı məbləğinə hər il azı bir dəfə yenidən baxılmasına dair əlavə edilib.
+R0242-C02,R0242,EMSMN-9043,body,random,1,Prezident İlham Əliyevin təsdiq etdiyi yeni Qanunla Məcəllədə minimum əməkhaqqının məbləğinə baxılmasının dövriliyini təmin edən dəyişiklik olunub.
+R0242-C03,R0242,EMSMN-9043,body,random,1,Prezident 2026-cı il 13 fevral tarixli 354-VIIQD nömrəli Qanunun tətbiqi barədə Fərman imzalayıb.
+R0242-C04,R0242,EMSMN-9043,body,random,1,Prezident 1999-cu il 15 aprel tarixli 122 nömrəli Fərmanda dəyişiklik edilməsi haqqında Fərman imzalayıb.
+R0242-C05,R0242,EMSMN-9043,body,random,1,"Sosial islahatlar nəticəsində minimum əməkhaqqının 3,1 dəfə artırılmasına imkan yaranıb."
+R0242-C06,R0242,EMSMN-9043,body,random,1,Əmək Məcəlləsinə minimum əməkhaqqının məbləğinə Nazirlər Kabinetinin təklifləri əsasında Prezident tərəfindən ildə bir dəfədən az olmayaraq yenidən baxılmasını nəzərdə tutan cümlə əlavə edilib.
+R0242-C07,R0242,EMSMN-9043,body,random,1,Həmin dəyişiklik əmək sahəsində milli qanunvericiliyin beynəlxalq standartlara uyğun təkmilləşdirilməsində daha bir addımdır.
+R0242-C08,R0242,EMSMN-9043,body,random,1,Həmin dəyişiklik minimum əməkhaqqı məbləğində ardıcıl artım dinamikasının qarşıdakı dövrdə də uğurla davam etməsinə imkan yaradır.
+R0242-C09,R0242,EMSMN-9043,body,random,1,Minimum əməkhaqqı “Yaşayış minimumu haqqında” Qanuna uyğun olaraq ixtisassız əməyə və xidmətə görə aylıq əməkhaqqının ən aşağı səviyyəsini müəyyən edən sosial normativdir.
+R0242-C10,R0242,EMSMN-9043,body,random,1,Aylıq iş vaxtı normasını işləmiş və əmək funksiyasını yerinə yetirmiş işçinin aylıq əməkhaqqı dövlət tərəfindən müəyyən edilmiş minimum əməkhaqqı məbləğindən aşağı ola bilməz.
+R0242-C11,R0242,EMSMN-9043,body,random,1,"Məcəllədə, həmçinin bəzi texniki dəyişikliklər də edilib."

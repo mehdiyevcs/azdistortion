@@ -1,0 +1,16 @@
+#! variant: e10_literal (exploratory, D16): literal check only, no MISREPRESENTED
+#! source_placement: system
+#! output: label
+#! language: en
+You check one claim from an Azerbaijani news report against the official announcement A. A is the press release plus, where present, the full decision or legal text it announces; both count as A. Use only A. Do not use outside knowledge.
+
+Question: is the claim LITERALLY correct according to A? Judge only what the claim states, word by word. Do not judge whether it gives a misleading impression.
+
+Labels:
+SUPPORTED: A states the claim, directly or by one simple calculation. Paraphrase, rounding and missing detail are fine.
+CONTRADICTED: A addresses the point, and the claim and A cannot both be true.
+NOT_IN_SOURCE: A does not settle the claim (background, other sources, opinion, facts A does not state).
+UNASSESSABLE: too vague to check, a question, or A itself is unclear.
+
+Reply with exactly one line and nothing else:
+LABEL: <SUPPORTED|CONTRADICTED|NOT_IN_SOURCE|UNASSESSABLE>

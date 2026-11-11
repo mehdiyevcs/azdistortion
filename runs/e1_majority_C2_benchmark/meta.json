@@ -1,0 +1,14 @@
+{
+ "run_id": "e1_majority_C2_benchmark",
+ "system": "S0_majority",
+ "condition": "C2",
+ "sample": "benchmark",
+ "n": 1573,
+ "model_id": "majority:SUPPORTED",
+ "source_file": "runs/nonllm_benchmark/predictions_majority.csv",
+ "source_sha256": "89a0a6fed147940d6a44913a67117a5cc6f1952223b5a2f0adf9281026c1f3bc",
+ "predictions_sha256": "55f3a91f4165eb4d530eef213ecc7255f8d55df45a0d31fcf574b4ad2d184fd8",
+ "cost": 0.0,
+ "finished": "2026-11-11 12:33:35",
+ "note": ""
+}

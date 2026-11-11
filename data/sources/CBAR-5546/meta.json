@@ -1,0 +1,17 @@
+{
+ "ann_id": "CBAR-5546",
+ "t1_files": [
+  "data/raw/announcements/CBAR-5546/text_0.txt"
+ ],
+ "t2_files": [
+  "data/raw/announcements/CBAR-5546-DEC/text_0.txt",
+  "data/raw/announcements/CBAR-5546-DEC/tables_0.txt"
+ ],
+ "has_t2": 1,
+ "t2_status": "yes",
+ "t1_is_act": 0,
+ "sha256_T1": "61cddc6251f521c22aced912c36dffc49a3a7a47b420cc9e4201dc329f130d60",
+ "sha256_T2": "6b23227f0dddcd8545405d8b2019afd44a9c793ac3c02939da3b3518ea6e42ba",
+ "chars_T1": 3290,
+ "chars_T2": 9246
+}

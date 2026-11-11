@@ -1,0 +1,13 @@
+{
+ "e5_model": "intfloat/multilingual-e5-base",
+ "e5_revision": "d128750597153bb5987e10b1c3493a34e5a4502a",
+ "device": "mps",
+ "topn": 5,
+ "bm25": {
+  "k1": 1.2,
+  "b": 0.75,
+  "tokens": "sys_common.toks"
+ },
+ "chunker": "sys_common.chunk(min_words=6, max_words=120)",
+ "n_claims": 949
+}

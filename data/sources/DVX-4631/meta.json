@@ -1,0 +1,16 @@
+{
+ "ann_id": "DVX-4631",
+ "t1_files": [
+  "data/raw/announcements/DVX-4631/text_0.txt"
+ ],
+ "t2_files": [
+  "data/raw/announcements/DVX-4631-DEC/text_0.txt"
+ ],
+ "has_t2": 1,
+ "t2_status": "yes",
+ "t1_is_act": 1,
+ "sha256_T1": "b07a33f95ad987cfe8f0a84fdde2f13bda9faca41ca82ffd8c47b9b7fb57ddcf",
+ "sha256_T2": "562786b7968d337c47619b7ed95340b1bdca8cc3c7ef03f7c7c77fab2127d7b2",
+ "chars_T1": 9259,
+ "chars_T2": 8867
+}

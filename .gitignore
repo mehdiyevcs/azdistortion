@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+# caches written by the collection and run scripts
+data/news_cache/
+data/raw/
+data/ann_cache/
+logs/

@@ -1,0 +1,8 @@
+predictor,OR,lo,hi,ci_rule
+rewritten,17.02696198844869,1.0,80.34398306326412,degenerate reps at OR = 1
+part_headline,0.5816006878990377,0.15057439035043582,4.572047369511053,degenerate reps at OR = 1
+part_lead,7.05336372820454,0.2563950732421879,64.5581285013249,non-degenerate reps only (descriptive)
+outlet_general portal,0.5924215862674518,0.05562894621792947,8.153520348616697,non-degenerate reps only (descriptive)
+outlet_finance portal,0.13461529692699847,0.02711328075162339,0.5618855050028491,non-degenerate reps only (descriptive)
+issuer_DVX,0.5336163428260129,0.03804300031559253,13.037749829672329,non-degenerate reps only (descriptive)
+issuer_EMSMN,0.7180584108907241,0.040011936427417016,7.348518799534593,non-degenerate reps only (descriptive)

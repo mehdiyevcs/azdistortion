@@ -1,0 +1,105 @@
+claim_id,report_id,ann_id,part,sample,has_t2,claim_text
+R0120-C01,R0120,EMSMN-9107,headline,random,0,Tərtərdə şəhid ailələrinə və əlilliyi olan şəxslərə mənzil verildi.
+R0120-C02,R0120,EMSMN-9107,lead,random,0,Əmək və Əhalinin Sosial Müdafiəsi Nazirliyi tərəfindən Tərtər rayonunda da bu kateqoriyaya aid vətəndaşlara 25 mənzil təqdim edilib.
+R0120-C03,R0120,EMSMN-9107,body,random,0,Nihad Muxtarlı şəhid ailələrinin və müharibə ilə əlaqədar əlilliyi olan şəxslərin sosial dəstək tədbirləri ilə əhatə olunduqlarını vurğulayıb.
+R0120-C04,R0120,EMSMN-9107,body,random,0,Şəhid ailələrinin və müharibə ilə əlaqədar əlilliyi olan şəxslərin mənzillə təminatı proqramı 5 dəfə genişlənib.
+R0120-C05,R0120,EMSMN-9107,body,random,0,Müharibədən sonrakı dövrdə onlara 7300-ə yaxın mənzil və fərdi ev təqdim edilib.
+R0120-C06,R0120,EMSMN-9107,body,random,0,Ümumilikdə isə ötən illər ərzində 16 mindən çox mənzil və fərdi ev təqdim edilib.
+R0120-C07,R0120,EMSMN-9107,body,random,0,"Şəhid ailələri və müharibə ilə əlaqədar əlilliyi olan şəxslərə yönələn sosial ödənişlərin artırılması, onların digər dəstək tədbirləri ilə əhatə olunması sahəsində aparılan işlərdən bəhs olunub."
+R0121-C01,R0121,EMSMN-9107,headline,random,0,Tərtərdə şəhid ailələri və qazilərə daha 25 mənzil verilib.
+R0121-C02,R0121,EMSMN-9107,lead,random,0,Tərtərdə şəhid ailələrinə və müharibə ilə əlaqədar əlilliyi olan şəxslərə daha 25 mənzil verilib.
+R0121-C03,R0121,EMSMN-9107,body,random,0,"Bu barədə ""Report""a Əmək və Əhalinin Sosial Müdafiəsi Nazirliyindən məlumat verilib."
+R0121-C04,R0121,EMSMN-9107,body,random,0,Tərtərdə yeni inşa olunmuş yaşayış binasından mənzillərin təqdim edilməsi tədbirində nazirliyin Aparat rəhbərinin müavini Nihad Muxtarlı iştirak edib.
+R0121-C05,R0121,EMSMN-9107,body,random,0,Şəhid ailələrinin və müharibə ilə əlaqədar əlilliyi olan şəxslərin mənzillə təminatı proqramı 5 dəfə genişlənib.
+R0121-C06,R0121,EMSMN-9107,body,random,0,Müharibədən sonrakı dövrdə onlara 7300-ə yaxın mənzil və fərdi ev təqdim edilib.
+R0121-C07,R0121,EMSMN-9107,body,random,0,Ümumilikdə ötən illər ərzində 16 mindən çox mənzil və fərdi ev təqdim edilib.
+R0121-C08,R0121,EMSMN-9107,body,random,0,"Şəhid ailələri və müharibə ilə əlaqədar əlilliyi olan şəxslərə yönələn sosial ödənişlərin artırılması, onların digər dəstək tədbirləri ilə əhatə olunması sahəsində aparılan işlərdən bəhs olunub."
+R0247-C01,R0247,EMSMN-9107,headline,random,0,Bir qrup vətəndaşa mənzillər verildi.
+R0247-C02,R0247,EMSMN-9107,lead,random,0,Tərtərdə şəhid ailələrinə və müharibə əlillərinə daha 25 mənzil verilib.
+R0247-C03,R0247,EMSMN-9107,body,random,0,Bu barədə Əmək və Əhalinin Sosial Müdafiəsi Nazirliyi məlumat yayıb.
+R0247-C04,R0247,EMSMN-9107,body,random,0,Tərtərdə yeni inşa olunmuş yaşayış binasından mənzillərin təqdim edilməsi tədbirində nazirliyin Aparat rəhbərinin müavini Nihad Muxtarlı iştirak edib.
+R0247-C05,R0247,EMSMN-9107,body,random,0,Nihad Muxtarlı şəhid ailələrinin və müharibə ilə əlaqədar əlilliyi olan şəxslərin sosial dəstək tədbirləri ilə əhatə olunduqlarını vurğulayıb.
+R0247-C06,R0247,EMSMN-9107,body,random,0,Dövlətimizin başçısının göstərişi ilə şəhid ailələrinin və müharibə ilə əlaqədar əlilliyi olan şəxslərin mənzillə təminatı proqramı 5 dəfə genişlənib.
+R0247-C07,R0247,EMSMN-9107,body,random,0,Müharibədən sonrakı dövrdə onlara 7300-ə yaxın mənzil və fərdi ev təqdim edilib.
+R0247-C08,R0247,EMSMN-9107,body,random,0,Ümumilikdə isə ötən illər ərzində 16 mindən çox mənzil və fərdi ev təqdim edilib.
+R0247-C09,R0247,EMSMN-9107,body,random,0,"Təqdimat zamanı şəhid ailələri və müharibə ilə əlaqədar əlilliyi olan şəxslərə yönələn sosial ödənişlərin artırılması, onların digər dəstək tədbirləri ilə əhatə olunması sahəsində aparılan işlərdən bəhs olunub."
+R0248-C01,R0248,EMSMN-9107,headline,random,0,Tərtərdə şəhid ailələrinə və əlilliyi olan şəxslərə daha 25 mənzil verilib.
+R0248-C02,R0248,EMSMN-9107,body,random,0,Əmək və Əhalinin Sosial Müdafiəsi Nazirliyi tərəfindən Tərtər rayonunda da bu kateqoriyaya aid vətəndaşlara 25 mənzil təqdim edilib.
+R0248-C03,R0248,EMSMN-9107,body,random,0,Bu barədə APA-ya ƏƏSMN-dən məlumat verilib.
+R0248-C04,R0248,EMSMN-9107,body,random,0,Tərtərdə yeni inşa olunmuş yaşayış binasından mənzillərin təqdim edilməsi tədbirində Əmək və Əhalinin Sosial Müdafiəsi Nazirliyinin Aparat rəhbərinin müavini Nihad Muxtarlı iştirak edib.
+R0248-C05,R0248,EMSMN-9107,body,random,0,Şəhid ailələrinin və müharibə ilə əlaqədar əlilliyi olan şəxslərin mənzillə təminatı proqramı 5 dəfə genişlənib.
+R0248-C06,R0248,EMSMN-9107,body,random,0,Müharibədən sonrakı dövrdə onlara 7300-ə yaxın mənzil və fərdi ev təqdim edilib.
+R0248-C07,R0248,EMSMN-9107,body,random,0,Ümumilikdə isə ötən illər ərzində 16 mindən çox mənzil və fərdi ev təqdim edilib.
+R0248-C08,R0248,EMSMN-9107,body,random,0,"Şəhid ailələri və müharibə ilə əlaqədar əlilliyi olan şəxslərə yönələn sosial ödənişlərin artırılması, onların digər dəstək tədbirləri ilə əhatə olunması sahəsində aparılan işlərdən bəhs olunub."
+R0076-C01,R0076,DVX-4760,headline,random,0,"Dövlət əhaliyə dörd ay ərzində 70.5 mln. manat ""keşbek"" qaytarıb."
+R0076-C02,R0076,DVX-4760,headline,random,0,Bu illik 26% artımdır.
+R0076-C03,R0076,DVX-4760,lead,random,0,2026-cı ilin yanvar – aprel ayları ərzində ölkə ərazisində ödənilmiş ƏDV-nin müvəkkil banklar tərəfindən istehlakçılara qaytarılmış həcmi 70.45 milyon manat olub.
+R0076-C04,R0076,DVX-4760,body,random,0,Hesabat müddətində xarici vətəndaşlar tərəfindən respublika ərazisində fərdi istehlak üçün alınmış mallara görə dövlət büdcəsindən qaytarılmış ƏDV-nin (“tax free”) məbləği 2.76 milyon manat təşkil edib.
+R0076-C05,R0076,DVX-4760,body,random,0,2025-ci ilin yanvar-aprel ayları ərzində müvəkkil banklar tərəfindən istehlakçılara qaytarılmış ƏDV 55.97 milyon manatdan çox olub.
+R0076-C06,R0076,DVX-4760,body,random,0,Bina tikintisi ilə məşğul olan şəxslərdən nağdsız qaydada alınmış yaşayış və qeyri-yaşayış sahələrinə görə ödənilmiş ƏDV-nin fiziki şəxs olan istehlakçılara “ƏDV geri al” layihəsi çərcivəsində qaytarılan həcmi yanvar-aprel aylarıında 10.74 milyon manatdan çox təşkil edib.
+R0077-C01,R0077,DVX-4760,headline,random,0,Azərbaycanda 4 ayda vətəndaşlara geri qaytarılmış ƏDV-nin məbləği açıqlanıb.
+R0077-C02,R0077,DVX-4760,lead,random,0,"Bu ilin yanvar-aprel aylarında Azərbaycanda ödənilmiş ƏDV-nin 70 milyon 452,1 min manatlıq hissəsi fiziki şəxs olan istehlakçılara geri qaytarılıb."
+R0077-C03,R0077,DVX-4760,body,random,0,"""Report"" bu barədə İqtisadiyyat Nazirliyi yanında Dövlət Vergi Xidmətinə istinadən xəbər verir."
+R0077-C04,R0077,DVX-4760,body,random,0,"4 ayda xarici vətəndaşların ölkə ərazisində fərdi istehlak üçün aldığı mallara görə dövlət büdcəsindən qaytarılmış ƏDV-nin (""tax free"") məbləği 2 milyon 758,4 min manat təşkil edib."
+R0208-C01,R0208,DVX-4760,headline,random,0,"Dörd ayda dövlət büdcəsindən fiziki və hüquqi şəxslərə 96,5 milyon manat geri qaytarılıb."
+R0208-C02,R0208,DVX-4760,body,random,0,"Bu ilin yanvar-aprel ayları ərzində dövlət büdcəsindən fiziki və hüquqi şəxslərə ümumilikdə 96 milyon 494,7 min manat məbləğində vəsait geri qaytarılıb."
+R0208-C03,R0208,DVX-4760,body,random,0,Məlumat Maliyyə Nazirliyinə istinadən verilib.
+R0208-C04,R0208,DVX-4760,body,random,0,"Geri qaytarılan vəsaitlər fiziki şəxslərin pərakəndə ticarət və ictimai iaşə sahəsində aldıqları mallara, mədəniyyət (teatr, kino, muzey, konsert), tibbi xidmətlərə, o cümlədən işğaldan azad edilmiş ərazilərdəki mehmanxana xidmətlərinə, habelə əcnəbilər tərəfindən ölkə ərazisində istehsal və kommersiya məqsədi daşımayan malların alınmasına ödənilmiş ƏDV-nin qaytarılmasına aiddir."
+R0208-C05,R0208,DVX-4760,body,random,0,"Bina tikintisi fəaliyyəti ilə məşğul olan şəxslərdən nağdsız qaydada alınmış yaşayış və qeyri-yaşayış sahələrinə görə ödənilmiş ƏDV-nin bir hissəsi, həmçinin artıq ödənilmiş digər vergilər, dövlət rüsumu, faizlər və maliyyə sanksiyaları da geri qaytarılıb."
+R0209-C01,R0209,DVX-4760,headline,random,0,İstehlakçılara 70 mln. manatdan çox ƏDV geri qaytarılıb.
+R0209-C02,R0209,DVX-4760,body,random,0,"Bu ilin yanvar – aprel aylarında ödənilmiş ƏDV-nin müvəkkil banklar tərəfindən istehlakçılara qaytarılmış həcmi 70 milyon 452,1 min manat olub."
+R0209-C03,R0209,DVX-4760,body,random,0,Bu barədə Dövlət Vergi Xidmətindən məlumat verilib.
+R0209-C04,R0209,DVX-4760,body,random,0,"Hesabat dövründə xarici vətəndaşlar tərəfindən respublika ərazisində fərdi istehlak üçün alınmış mallara görə dövlət büdcəsindən qaytarılmış ƏDV-nin (“tax free”) məbləği 2 milyon 758,4 min manat təşkil edib."
+R0097-C01,R0097,EMSMN-8683,headline,random,0,"Dövlət Sosial Müdafiə Fondunun 2026-cı il üzrə xərcləri 8,5 milyard manata yaxın məbləğdə təsdiqləndi."
+R0097-C02,R0097,EMSMN-8683,lead,random,0,Milli Məclis Dövlət Sosial Müdafiə Fondunun 2026-cı il üzrə büdcəsini birinci oxunuşda qəbul edib.
+R0097-C03,R0097,EMSMN-8683,body,random,0,Sənəd parlamentin bu gün keçirilən iclasında müzakirəyə çıxarılıb.
+R0097-C04,R0097,EMSMN-8683,body,random,0,Fondun 2026-cı il üzrə xərcləri 8 milyard 483 milyon 70 min manat məbləğində müəyyən edilir.
+R0097-C05,R0097,EMSMN-8683,body,random,0,Xərclərin maliyyələşmə mənbələrindən biri Dövlət Sosial Müdafiə Fondunun 2026-cı il büdcəsinin gəlirləri 8 milyard 323 milyon 100 min manat məbləğindədir.
+R0097-C06,R0097,EMSMN-8683,body,random,0,Xərclərin maliyyələşmə mənbələrindən biri Fondun 2026-cı il yanvarın 1-nə yaradılmış ehtiyatından 2026-cı ilin xərclərinin maliyyələşdirilməsinə yönəldilən 160 milyon manata yaxın vəsaitdir.
+R0097-C07,R0097,EMSMN-8683,body,random,0,"Dövlət Sosial Müdafiə Fondunun hesablarında qalan sərbəst vəsait ""Sosial sığorta haqqında"" Qanuna uyğun olaraq növbəti ilin xərclərinin maliyyələşdirilməsinə və (və ya) müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən investisiyaya yönəldiləcək."
+R0097-C08,R0097,EMSMN-8683,body,random,0,Büdcə ili ərzində dövlət büdcəsindən maliyyələşən təşkilatlara nəzərdə tutulmuş məcburi dövlət sosial sığorta haqları üzrə vəsaitlər tam məbləğdə daxil olmadıqda Fondun büdcəsinin balanslaşdırılması məqsədilə dövlət büdcəsinin öhdəliklərinin maliyyələşdirilməsi üçün ayrılan vəsaitin məbləği nəzərdə tutulmuş və faktiki hesablanmış məcburi dövlət sosial sığorta haqları arasındakı fərq qədər artırılacaq.
+R0097-C09,R0097,EMSMN-8683,body,random,0,Məcburi dövlət sosial sığorta haqları artıq daxil olduqda isə ayrılan vəsaitin məbləği nəzərdə tutulmuş və faktiki hesablanmış məcburi dövlət sosial sığorta haqları arasındakı fərq qədər azaldılacaq.
+R0230-C01,R0230,EMSMN-8683,headline,random,0,Nazir pensiyalarla bağlı mühüm açıqlamalar verib.
+R0230-C02,R0230,EMSMN-8683,lead,random,0,Milli Məclisin plenar iclasında “Dövlət sosial müdafiə fondunun 2026-cı il büdcəsi haqqında” qanun layihəsinin müzakirəsi davam edir.
+R0230-C03,R0230,EMSMN-8683,body,random,0,Əmək və əhalinin sosial müdafiəsi naziri Anar Əliyev iclasda çıxış edib.
+R0230-C04,R0230,EMSMN-8683,body,random,0,"2026-cı il üzrə əmək pensiyalarının maliyyələşdirilməsi üçün ayrılan vəsait 2025-ci ilin təsdiqlənmiş xərcləri ilə müqayisədə 782,4 milyon manat artımla nəzərdə tutulub."
+R0230-C05,R0230,EMSMN-8683,body,random,0,"2026-cı il üzrə əmək pensiyalarının maliyyələşdirilməsi üçün ayrılan vəsait 2025-ci ilin təsdiqlənmiş xərcləri ilə müqayisədə 10,9% artımla nəzərdə tutulub."
+R0230-C06,R0230,EMSMN-8683,body,random,0,"Bunun 81,2%-i indeksasiya xərclərinin payına düşür."
+R0230-C07,R0230,EMSMN-8683,body,random,0,"Bunun 635,6 milyon manatı indeksasiya xərclərinin payına düşür."
+R0230-C08,R0230,EMSMN-8683,body,random,0,"2026-cı il üzrə indeksasiyanın təqribən 9,2% səviyyəsində olması proqnozlaşdırılır."
+R0230-C09,R0230,EMSMN-8683,body,random,0,"2026-cı il üzrə orta pensiyanın məbləğinin 9,2% artması proqnozlaşdırılır."
+R0230-C10,R0230,EMSMN-8683,body,random,0,Orta pensiyanın məbləğinin 590 manata çatması proqnozlaşdırılır.
+R0230-C11,R0230,EMSMN-8683,body,random,0,Yaşa görə pensiyanın məbləğinin 629 manata çatması proqnozlaşdırılır.
+R0230-C12,R0230,EMSMN-8683,body,random,0,Fondun 2026-cı il üzrə ümumi xərclərinin 8 milyard 483 milyon manat həcmində olması proqnozlaşdırılır.
+R0230-C13,R0230,EMSMN-8683,body,random,0,"Fondun ümumi xərclərinin 96,6%-i əhaliyə ödənişlərin payına düşür."
+R0230-C14,R0230,EMSMN-8683,body,random,0,Fondun ümumi xərclərinin 8 milyard 196 milyon manatı əhaliyə ödənişlərin payına düşür.
+R0230-C15,R0230,EMSMN-8683,body,random,0,Bu göstərici 2024-cü illə müqayisədə 1 milyard 534 milyon manat çoxdur.
+R0230-C16,R0230,EMSMN-8683,body,random,0,Bu göstərici 2025-ci illə müqayisədə 788 milyon manat çoxdur.
+R0230-C17,R0230,EMSMN-8683,body,random,0,Bu məbləğin 7 milyard 993 milyon manatı əmək pensiyalarının payına düşür.
+R0230-C18,R0230,EMSMN-8683,body,random,0,"Bu məbləğin 203,6 milyon manatı sosial sığorta hesabına verilən müavinət xərclərinin payına düşür."
+R0230-C19,R0230,EMSMN-8683,body,random,0,Azərbaycan Həmkarlar İttifaqları Konfederasiyası xətti ilə sığortaolunanların və əmək pensiyaçılarının sanatoriya-kurort müalicəsi və sağlamlaşdırma tədbirlərinin həyata keçirilməsi məqsədilə Fondun 2026-cı il büdcəsində 25 milyon manat vəsait nəzərdə tutulub.
+R0231-C01,R0231,EMSMN-8683,headline,random,0,Gələn il pensiya ödənişləri 8 milyard manata çatdırılacaq.
+R0231-C02,R0231,EMSMN-8683,body,random,0,Dövlət Sosial Müdafiə Fondunun 2026-cı il üzrə ümumi xərclərinin 8 milyard 483 milyon manat həcmində olması proqnozlaşdırılır.
+R0231-C03,R0231,EMSMN-8683,body,random,0,"Ümumi xərclərin 96,6% və ya 8 milyard 196 milyon manatı əhaliyə ödənişlərin payına düşür."
+R0231-C04,R0231,EMSMN-8683,body,random,0,Əmək və əhalinin sosial müdafiəsi naziri Anar Əliyev bunu Milli Məclisin plenar iclasında 2026-cı il Dövlət sosial müdafiə fondunun və İşsizlikdən sığorta fondunun büdcəsi haqqında qanun layihələrinin müzakirəsi zamanı deyib.
+R0231-C05,R0231,EMSMN-8683,body,random,0,Bu göstərici 2024-cü illə müqayisədə 1 milyard 534 milyon manat çoxdur.
+R0231-C06,R0231,EMSMN-8683,body,random,0,Bu göstərici 2025-ci illə müqayisədə 788 milyon manat çoxdur.
+R0231-C07,R0231,EMSMN-8683,body,random,0,Bu məbləğin 7 milyard 993 milyon manatı əmək pensiyalarının payına düşür.
+R0231-C08,R0231,EMSMN-8683,body,random,0,"Bu məbləğin 203,6 milyon manatı sosial sığorta hesabına verilən müavinət xərclərinin payına düşür."
+R0231-C09,R0231,EMSMN-8683,body,random,0,"2026-cı il üzrə əmək pensiyalarının maliyyələşdirilməsi üçün ayrılan vəsait 2025-ci ilin təsdiqlənmiş xərcləri ilə müqayisədə 782,4 milyon manat və ya 10,9% artımla nəzərdə tutulmuşdur."
+R0231-C10,R0231,EMSMN-8683,body,random,0,"Artımın 81,2%-i və ya 635,6 milyon manatı indeksasiya xərclərinin payına düşür."
+R0231-C11,R0231,EMSMN-8683,body,random,0,Digər hissəsi yeni təyin olunan və yenidən hesablanan pensiyaların məbləğlərinin maliyyələşdiriməsi ilə bağlı xərclərin payına düşür.
+R0231-C12,R0231,EMSMN-8683,body,random,0,"2026-cı il üzrə indeksasiyanın təqribən 9,2% səviyyəsində olması proqnozlaşdırılır."
+R0231-C13,R0231,EMSMN-8683,body,random,0,"Orta pensiyanın məbləğinin 9,2% artaraq 590 manata çatması proqnozlaşdırılır."
+R0231-C14,R0231,EMSMN-8683,body,random,0,Yaşa görə pensiyanın məbləğinin 629 manata çatması proqnozlaşdırılır.
+R0231-C15,R0231,EMSMN-8683,body,random,0,Azərbaycan Həmkarlar İttifaqları Konfederasiyası xətti ilə sığortaolunanların və əmək pensiyaçılarının sanatoriya-kurort müalicəsi və sağlamlaşdırma tədbirlərinin həyata keçirilməsi məqsədilə Fondun 2026-cı il büdcəsində 25 milyon manat vəsait nəzərdə tutulmuşdur.
+R0232-C01,R0232,EMSMN-8683,body,random,0,"Dövlət Sosial Müdafiə Fondunun gələn ilə proqnozlaşdırılan ümumi xərclərinin 96,6%-ni və ya 8,2 milyard manatını əhaliyə ödənişlər təşkil edəcək."
+R0232-C02,R0232,EMSMN-8683,body,random,0,Milli Məclisin Əmək və sosial siyasət komitəsinin sədri Musa Quliyev bunu parlamentin bugünkü plenar iclasında deyib.
+R0232-C03,R0232,EMSMN-8683,body,random,0,"Əmək pensiyalarının orta aylıq məbləğinin 2025-ci ildə 540,3 manat təşkil edəcəyi gözlənilir."
+R0232-C04,R0232,EMSMN-8683,body,random,0,"Əmək pensiyalarının orta aylıq məbləğinin 2026-cı ildə 590,17 manat olacağı proqnozlaşdırılır."
+R0232-C05,R0232,EMSMN-8683,body,random,0,"Yaşa görə pensiyanın orta aylıq məbləği cari ildə 576,02 manatdır."
+R0232-C06,R0232,EMSMN-8683,body,random,0,"Növbəti ildə yaşa görə pensiyanın orta aylıq məbləğinin 53,03 manat artması proqnozlaşdırılır."
+R0232-C07,R0232,EMSMN-8683,body,random,0,"Növbəti ildə yaşa görə pensiyanın orta aylıq məbləğinin 629,05 manata yüksəlməsi proqnozlaşdırılır."
+R0232-C08,R0232,EMSMN-8683,body,random,0,"Cari ildə əvəzetmə əmsalı 49,05 % olacaq."
+R0232-C09,R0232,EMSMN-8683,body,random,0,"Növbəti ildə əvəzetmə əmsalı 50,41 % olacaq."
+R0232-C10,R0232,EMSMN-8683,body,random,0,Əvəzetmə əmsalı Beynəlxalq Əmək Təşkilatının sosial təminatın minimum normaları haqqında müvafiq konvensiyasına cavab verəcək.

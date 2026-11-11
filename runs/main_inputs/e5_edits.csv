@@ -1,0 +1,301 @@
+claim_id,report_id,ann_id,part,sample,has_t2,claim_text
+B001-CON,R0029,CBAR-5513,body,edit,0,Müraciətlər sentyabrın 25-nə qədər qəbul ediləcək.
+B001-MIS,R0029,CBAR-5513,body,edit,0,Müraciətlər avqustun 25-nə qədər qəbul ediləcək və təmin olunacaq.
+B002-CON,R0169,CBAR-5534,body,edit,0,Sənəddə 10 etik prinsip əks olunub.
+B002-MIS,R0169,CBAR-5534,body,edit,0,Sənəddə hər peşəkar üçün məcburi olan 8 etik prinsip əks olunub.
+B003-CON,R0008,CBAR-5399,lead,edit,0,"Azərbaycan Mərkəzi Bankının (AMB) İdarə Heyətinin 6 fevral 2026-cı il tarixli qərarı ilə ""AtaSığorta"" ASC-yə müvəqqəti inzibatçı təyin olunub."
+B003-MIS,R0008,CBAR-5399,lead,edit,0,"Azərbaycan Mərkəzi Bankının (AMB) İdarə Heyətinin 6 yanvar 2026-cı il tarixli qərarı ilə ""AtaSığorta"" ASC-yə səhmdarların hüquqlarının qorunması üçün müvəqqəti inzibatçı təyin olunub."
+B004-CON,R0030,CBAR-5514,body,edit,1,Gün ərzində verilən və ya artırılan vəsait minimum əmək haqqının iki mislini aşdıqda kredit vəsaiti 2 saat sonra təqdim ediləcək.
+B004-MIS,R0030,CBAR-5514,body,edit,1,"Gün ərzində verilən və ya artırılan vəsait minimum əmək haqqının iki mislini aşdıqda kredit vəsaiti 24 saat sonra təqdim ediləcək, yəni müqavilə də 24 saat sonra bağlanacaq."
+B005-CON,R0010,CBAR-5424,body,edit,0,"Yubiley və xatirə pul nişanlarının satışı, eləcə də Mərkəzi Bankın onlayn satış sistemi vasitəsilə alınmış pul nişanlarının təhvili 2 martdan etibarən Bankın Bakı şəhəri, Bülbül prospekti 27 ünvanında yerləşən Nağd pul ofisində həyata keçiriləcək."
+B005-MIS,R0010,CBAR-5424,body,edit,0,"Yubiley və xatirə pul nişanlarının satışı, eləcə də pul nişanlarının təhvili 2 martdan etibarən Bankın Bakı şəhəri, Rəşid Behbudov küçəsi 90 ünvanında yerləşən inzibati binasında həyata keçiriləcək."
+B006-CON,R0143,CBAR-5446,body,edit,1,Təlimat anderraytinq fəaliyyətini 3 əsas mərhələ üzrə strukturlaşdırır.
+B006-MIS,R0143,CBAR-5446,body,edit,1,Təlimat anderraytinq fəaliyyətinin 4 əsas mərhələ üzrə strukturlaşdırılmasını məcburi edir.
+B007-CON,R0165,CBAR-5531,body,edit,0,Faiz dəhlizinin bütün parametrləri artırılıb.
+B007-MIS,R0165,CBAR-5531,body,edit,0,Faiz dəhlizinin bütün parametrləri ilin sonunadək dəyişməz saxlanılacaq.
+B008-CON,R0152,CBAR-5483,lead,edit,1,Qayda “2024 – 2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası”ndan irəli gələrək bank sektorunda maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılması məqsədilə Maliyyə Nazirliyi tərəfindən təsdiq edilib.
+B008-MIS,R0152,CBAR-5483,lead,edit,1,Qayda “2024 – 2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası”ndan irəli gələrək bank sektorunda stres-testləri Mərkəzi Bankın aparması yolu ilə maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılması məqsədilə təsdiq edilib.
+B009-CON,R0150,CBAR-5462,body,edit,0,Lisenziya Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 18 aprel 2026-cı il tarixli qərarı ilə ləğv edilib.
+B009-MIS,R0150,CBAR-5462,body,edit,0,"Lisenziya Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 17 aprel 2026-cı il tarixli qərarı ilə ləğv edilib, yəni Mərkəzi Bank Cəmiyyətə sanksiya tətbiq edib."
+B010-CON,R0025,CBAR-5494,body,edit,0,“Paysis” Məhdud Məsuliyyətli Cəmiyyətinə 11 iyul 2023-cü il tarixli EPT-007 nömrəli elektron pul təşkilatı fəaliyyətini həyata keçirmək hüququ verən lisenziya verilmişdi və ləğv edilib.
+B010-MIS,R0025,CBAR-5494,body,edit,0,“Paysis” Məhdud Məsuliyyətli Cəmiyyətinə 11 iyul 2024-cü il tarixli EPT-007 nömrəli fəaliyyətini həyata keçirmək hüququ verən lisenziya verilmişdi və ləğv edilib.
+B011-CON,R0006,CBAR-5397,body,edit,1,Yeni tələblərə 1 yanvar 2026-cı ildən tam riayət olunması banklardan tələb ediləcək.
+B011-MIS,R0006,CBAR-5397,body,edit,1,Yeni tələblərə 1 yanvar 2027-ci ildən tam riayət olunması sistem əhəmiyyətli banklardan tələb ediləcək.
+B012-CON,R0177,CBAR-5546,body,edit,1,Bankın siyahıdan çıxarılması və ya qrupunun aşağı salınması yalnız ardıcıl 3 il üzrə aparılmış hesablamalar nəticəsində təsdiq edildiyi halda mümkündür.
+B012-MIS,R0177,CBAR-5546,body,edit,1,Bankın siyahıdan çıxarılması və ya qrupunun aşağı salınması ardıcıl 2 il üzrə aparılmış hesablamalar nəticəsində təsdiq edildiyi halda məcburidir.
+B013-CON,R0001,CBAR-5365,body,edit,0,"Faiz dəhlizinin parametrləri ilə bağlı növbəti qərar proqnoz və faktiki inflyasiyanın istiqaməti nəzərə alınmadan, yalnız makroiqtisadi təhlillərin yenilənmiş nəticələri əsasında veriləcəkdir."
+B013-MIS,R0001,CBAR-5365,body,edit,0,"Faiz dəhlizinin parametrləri ilə bağlı növbəti qərar Maliyyə Nazirliyi ilə razılaşdırılaraq proqnoz və faktiki inflyasiyanın istiqaməti, habelə makroiqtisadi təhlillərin yenilənmiş nəticələri əsasında veriləcəkdir."
+B014-CON,R0022,CBAR-5477,body,edit,0,"Elektron müraciət imkanlarından istifadə etməkdə çətinlik çəkən şəxslər AMB-nin 2 və 5 saylı ""ASAN xidmət"" mərkəzlərində fəaliyyət göstərən vətəndaş qəbulu bölmələrinə müraciət etməklə vəsaitlərin müvafiq bank hesablarına köçürülməsi üzrə müraciətlərini təqdim edə bilməyəcəklər."
+B014-MIS,R0022,CBAR-5477,body,edit,0,"Elektron müraciət imkanlarından istifadə etməkdə çətinlik çəkən şəxslər AMB-nin 2 və 5 saylı ""ASAN xidmət"" mərkəzlərində fəaliyyət göstərən vətəndaş qəbulu bölmələrinə müraciət etməklə vəsaitlərin müvafiq bank hesablarına köçürülməsi üzrə müraciətlərini təqdim etməli olacaqlar."
+B015-CON,R0147,CBAR-5456,body,edit,0,Yenilənmiş 100 manatlıq kağız pul nişanı hazırda tədavüldə olan eyni nominallı pul nişanı ilə paralel olaraq dövriyyədə olmayacaq.
+B015-MIS,R0147,CBAR-5456,body,edit,0,"Yenilənmiş 100 manatlıq kağız pul nişanı hazırda tədavüldə olan eyni nominallı pul nişanı ilə paralel olaraq dövriyyədə olacaq, yəni köhnə 100 manatlıq tədricən dövriyyədən çıxarılacaq."
+B016-CON,R0176,CBAR-5536,body,edit,0,Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2026-cı il 4 iyul tarixli qərarı ilə lisenziya ləğv edilib.
+B016-MIS,R0176,CBAR-5536,body,edit,0,Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2026-cı il 4 avqust tarixli qərarı ilə şirkətin bütün lisenziyaları ləğv edilib.
+B017-CON,R0049,CBAR-5547,body,edit,1,"Qiymətli kağızların dövriyyəsi, sığorta predmetlərinin sayı və sığorta portfelinin çeşidliliyi indikatorlarının hər birinə 15% çəki verilib."
+B017-MIS,R0049,CBAR-5547,body,edit,1,"Qiymətli kağızların dövriyyəsi, sığorta predmetlərinin sayı və sığorta portfelinin çeşidliliyi indikatorlarının hər birinə bütün sığortaçılar üçün 10% çəki verilib."
+B018-CON,R0180,CBAR-5559,body,edit,0,Uçot dərəcəsi 6% səviyyəsində sabit saxlanılıb.
+B018-MIS,R0180,CBAR-5559,body,edit,0,Uçot dərəcəsi Mərkəzi Bank sədrinin qərarı ilə 6.5% səviyyəsində sabit saxlanılıb.
+B019-CON,R0159,CBAR-5511,body,edit,0,İllik baza inﬂyasiya 6.6% təşkil edib.
+B019-MIS,R0159,CBAR-5511,body,edit,0,"İllik baza inﬂyasiya 5.6% təşkil edib, buna görə də faiz dəhlizinin parametrləri dəyişməz saxlanılıb."
+B020-CON,R0161,CBAR-5513,body,edit,0,Müraciətlər 25 iyul 2026-cı il tarixinədək qəbul ediləcək.
+B020-MIS,R0161,CBAR-5513,body,edit,0,Müraciətlər 25 avqust 2026-cı il tarixinədək qəbul ediləcək və sınağa buraxılacaq.
+B021-CON,R0170,CBAR-5534,body,edit,0,Kodeks “2027–2029-cu illər üçün Maliyyə sektorunun inkişafı strategiyası” çərçivəsində maliyyə sektorunda peşəkarlığın artırılması və etik davranış standartlarının vahidləşdirilməsi məqsədilə hazırlanıb.
+B021-MIS,R0170,CBAR-5534,body,edit,0,Kodeks “2024–2026-cı illər üçün Maliyyə sektorunun inkişafı strategiyası” çərçivəsində hazırlanıb və maliyyə sektorunda peşəkarlığın artırılmasını və etik davranış standartlarının vahidləşdirilməsini təmin edəcək.
+B022-CON,R0140,CBAR-5399,body,edit,0,Azərbaycan Respublikası Maliyyə Nazirliyinin 06.01.2026-cı il tarixli Qərarı ilə müvəqqəti inzibatçı təyin olunub.
+B022-MIS,R0140,CBAR-5399,body,edit,0,Azərbaycan Respublikası Mərkəzi Bankının (AMB) İdarə Heyətinin 06.01.2026-cı il tarixli Qərarı ilə sığorta şirkətlərinə müvəqqəti inzibatçı təyin olunub.
+B023-CON,R0163,CBAR-5514,body,edit,1,"Məbləğ bu həddi aşarsa, vəsait yalnız 48 saat sonra əlçatan olacaq."
+B023-MIS,R0163,CBAR-5514,body,edit,1,"Məbləğ bu həddi aşarsa, banklar vəsaiti yalnız 24 saat sonra əlçatan edəcək."
+B024-CON,R0142,CBAR-5424,body,edit,0,"Təslim prosesi həftənin 2-ci, 3-cü və 4-cü günləri saat 10:00-dan 18:00-dək aparılacaq."
+B024-MIS,R0142,CBAR-5424,body,edit,0,"Təslim prosesi həftənin 2-ci, 3-cü və 4-cü günləri saat 10:00-dan 12:00-dək aparılacaq, yəni milli pul nişanlarının dəyişdirilməsi də yalnız bu saatlarda mümkün olacaq."
+B025-CON,R0011,CBAR-5446,body,edit,1,Təlimat anderraytinq fəaliyyətini 5 əsas mərhələ üzrə strukturlaşdırır və hər bir mərhələ üzrə metodoloji yanaşmaları müəyyən edir.
+B025-MIS,R0011,CBAR-5446,body,edit,1,Təlimat anderraytinq fəaliyyətini 4 əsas mərhələ üzrə strukturlaşdırır və hər bir mərhələ üzrə metodoloji yanaşmaları beynəlxalq təcrübəyə əsasən müəyyən edir.
+B026-CON,R0165,CBAR-5531,body,edit,0,Cari ilin ötən dövründə Mərkəzi Bankın valyuta ehtiyatları 3.2 mlrd. ABŞ dolları məbləğində və ya 19.5% artıb.
+B026-MIS,R0165,CBAR-5531,body,edit,0,"Cari ilin ötən dövründə Mərkəzi Bankın valyuta ehtiyatları 2.2 mlrd. ABŞ dolları məbləğində və ya 19.5% artıb, yəni Mərkəzi Bank manatın ucuzlaşmasının qarşısını almaq üçün müdaxilə edib."
+B027-CON,R0024,CBAR-5483,body,edit,1,"Məqsəd ""2025 – 2027-ci illərdə maliyyə sektorunun inkişaf Strategiyası""ndan irəli gələrək bank sektorunda maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılmasıdır."
+B027-MIS,R0024,CBAR-5483,body,edit,1,"Qayda ""2024 – 2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası""ndan irəli gələrək bank sektorunda maliyyə dayanıqlılığının gücləndirilməsini və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılmasını artıq təmin edib."
+B028-CON,R0148,CBAR-5462,body,edit,0,Ləğv edilən lisenziya 000301 nömrəlidir.
+B028-MIS,R0148,CBAR-5462,body,edit,0,Mərkəzi Bankın öz qərarı ilə ləğv etdiyi lisenziya 000300 nömrəlidir.
+B029-CON,R0025,CBAR-5494,body,edit,0,Lisenziya “Ödəniş xidmətləri və ödəniş sistemləri haqqında” Azərbaycan Respublikası Qanununun 54.1.3-cü maddəsinə əsasən ləğv edilib.
+B029-MIS,R0025,CBAR-5494,body,edit,0,"Lisenziya “Ödəniş xidmətləri və ödəniş sistemləri haqqında” Azərbaycan Respublikası Qanununun 54.1.1-ci maddəsinə əsasən ləğv edilib, yəni o, verildiyi gündən etibarsız sayılır."
+B030-CON,R0006,CBAR-5397,body,edit,1,"AMB-nin İdarə Heyətinin ötən il dekabrın 26-da qəbul etdiyi qərarla ""Bank kapitalının və onun adekvatlığının hesablanması Qaydaları""nda dəyişikliklər edilib."
+B030-MIS,R0006,CBAR-5397,body,edit,1,"AMB-nin İdarə Heyətinin ötən il dekabrın 16-da qəbul etdiyi qərarla xarici bankların yerli filialları üçün ""Bank kapitalının və onun adekvatlığının hesablanması Qaydaları""nda dəyişikliklər edilib."
+B031-CON,R0177,CBAR-5546,body,edit,1,Bank siyahıya daxil edildikdə və ya qrupu artırıldıqda “sistem əhəmiyyətli bank kapital buferi” üzrə yeni artırılmış tələb siyahının təsdiq edildiyi andan dərhal sonra qüvvəyə minəcək.
+B031-MIS,R0177,CBAR-5546,body,edit,1,Bank siyahıya daxil edildikdə və ya qrupu artırıldıqda bütün sistem əhəmiyyətli banklar üçün “sistem əhəmiyyətli bank kapital buferi” üzrə yeni artırılmış tələb siyahının təsdiq edildiyi ildən sonrakı ilin yanvarın 1-dən qüvvəyə minəcək.
+B032-CON,R0001,CBAR-5365,body,edit,0,Faiz dəhlizinin parametrləri ilə bağlı qərarların 2026-cı il üzrə ictimaiyyətə açıqlanması qrafiki 2026-cı ilin birinci rübündə yayımlanacaqdır.
+B032-MIS,R0001,CBAR-5365,body,edit,0,Mərkəzi Bankın İdarə Heyətinin qərarlarının 2026-cı il üzrə ictimaiyyətə açıqlanması qrafiki ilin sonunadək yayımlanacaqdır.
+B033-CON,R0151,CBAR-5477,body,edit,0,Elektron müraciət imkanlarından istifadə etməkdə çətinlik çəkən şəxslər Mərkəzi Bankın yalnız 1 saylı “ASAN xidmət” mərkəzində fəaliyyət göstərən vətəndaş qəbulu bölməsinə müraciət etməklə vəsaitlərin müvafiq bank hesablarına köçürülməsi üzrə müraciətlərini təqdim edə biləcəklər.
+B033-MIS,R0151,CBAR-5477,body,edit,0,Elektron müraciət imkanlarından istifadə etməkdə çətinlik çəkən şəxslər 2 və 5 saylı “ASAN xidmət” mərkəzlərinin öz vətəndaş qəbulu bölmələrinə müraciət etməklə vəsaitlərin müvafiq bank hesablarına köçürülməsi üzrə müraciətlərini təqdim edə biləcəklər.
+B034-CON,R0147,CBAR-5456,body,edit,0,"2024-cü ildən yenilənmiş 1, 5, 10, 20 və 50 manatlıq kağız pul nişanları tədavülə buraxılıb."
+B034-MIS,R0147,CBAR-5456,body,edit,0,"2021-ci ildən yenilənmiş 1, 5, 10, 20 və 50 manatlıq kağız pul nişanları tədavülə buraxılıb, yəni yenilənmə prosesi bununla başa çatıb."
+B035-CON,R0175,CBAR-5536,body,edit,0,“Modenis” MMC-nin lisenziyası Azərbaycan Respublikası Nazirlər Kabinetinin 04 avqust 2026-cı il tarixli qərarı ilə ləğv edilib.
+B035-MIS,R0175,CBAR-5536,body,edit,0,"“Modenis” MMC-nin lisenziyası Mərkəzi Bankın İdarə Heyətinin 04 avqust 2026-cı il tarixli qərarı ilə ləğv edilib, buna görə hüquqi varisi “Mpay” MMC də fəaliyyətini dayandırmalıdır."
+B036-CON,R0178,CBAR-5547,body,edit,1,"Qiymətləndirmənin 4 kateqoriya – ölçü, şaxələnmə, əvəzolunmazlıq və mürəkkəblik kateqoriyaları üzrə aparılması müəyyən olunub."
+B036-MIS,R0178,CBAR-5547,body,edit,1,"Sığortaçı və bankların qiymətləndirilməsinin 3 kateqoriya – ölçü, şaxələnmə və əvəzolunmazlıq kateqoriyaları üzrə aparılması müəyyən olunub."
+B037-CON,R0181,CBAR-5559,body,edit,0,Faiz dəhlizinin yuxarı həddi 8% səviyyəsində sabit saxlanılıb.
+B037-MIS,R0181,CBAR-5559,body,edit,0,Faiz dəhlizinin yuxarı həddi ilin sonunadək 7.5% səviyyəsində sabit saxlanılıb.
+B038-CON,R0159,CBAR-5511,body,edit,0,2026-cı ilin mayında 12 aylıq inﬂyasiya 6.6% təşkil edib.
+B038-MIS,R0159,CBAR-5511,body,edit,0,2026-cı ilin mayında 12 aylıq inﬂyasiya 5.6% təşkil edib və cari ildə hədəf daxilində qalacaq.
+B039-CON,R0029,CBAR-5513,headline,edit,0,Xüsusi tənzimləmə rejiminin 3-cü dövründə iştirakla bağlı müraciətlərin qəbuluna hələ başlanılmayıb.
+B039-MIS,R0029,CBAR-5513,headline,edit,0,Xüsusi tənzimləmə rejiminin 3-cü dövründə iştiraka başlanılıb.
+B040-CON,R0170,CBAR-5534,body,edit,0,Sənəddə 9 peşəkar davranış qaydası əks olunub.
+B040-MIS,R0170,CBAR-5534,body,edit,0,Sənəddə nəzarət subyektləri üçün məcburi 6 peşəkar davranış qaydası əks olunub.
+B041-CON,R0162,CBAR-5514,body,edit,1,При более крупной сумме кредита деньги будут зачисляться не ранее чем через 48 часов.
+B041-MIS,R0162,CBAR-5514,body,edit,1,При более крупной сумме любого кредита деньги будут зачисляться не ранее чем через 24 часа.
+B042-CON,R0141,CBAR-5424,body,edit,0,"Milli pul nişanlarının dəyişdirilməsi ilə bağlı xidməti 2 martdan etibarən operator bankların (""Azərbaycan Beynəlxalq Bankı"" və ""Kapital Bank"" ASC-lər) ölkə ərazisində fəaliyyət göstərən filial və şöbələri ödənişli həyata keçirəcək."
+B042-MIS,R0141,CBAR-5424,body,edit,0,"Milli pul nişanlarının dəyişdirilməsi üçün 2 martdan etibarən operator bankların (""Azərbaycan Beynəlxalq Bankı"" və ""Kapital Bank"" ASC-lər) ölkə ərazisində fəaliyyət göstərən filial və şöbələrinə müraciət edilməlidir, xidmət ödənişsizdir."
+B043-CON,R0011,CBAR-5446,body,edit,1,"Təlimat “İnvestisiya şirkətləri və banklar tərəfindən investisiya xidmətlərinin (əməliyyatlarının) həyata keçirilməsi Qaydası”nın 17.2.9-cu yarımbəndinə uyğun olaraq emitentlər tərəfindən tərtib edilən daxili qaydaların hazırlanmasına, həmçinin kütləvi təklif üsulu ilə yerləşdirilən qiymətli kağızların anderraytinqinin həyata keçirilməsinə dair digər metodoloji əsasları müəyyən edir."
+B043-MIS,R0011,CBAR-5446,body,edit,1,"Təlimat “İnvestisiya şirkətləri və banklar tərəfindən investisiya xidmətlərinin (əməliyyatlarının) həyata keçirilməsi Qaydası”nın 17.2.9-cu yarımbəndinə uyğun olaraq həm investisiya şirkətləri, həm də banklar tərəfindən tərtib edilən daxili qaydaların hazırlanmasına, həmçinin kütləvi təklif üsulu ilə yerləşdirilən qiymətli kağızların anderraytinqinin həyata keçirilməsinə dair digər metodoloji əsasları müəyyən edir."
+B044-CON,R0165,CBAR-5531,body,edit,0,Rezident fiziki şəxslərin əmanətlərinin dollarlaşma səviyyəsi 2026-cı ilin iyununda 26.5%-ə enib.
+B044-MIS,R0165,CBAR-5531,body,edit,0,"Rezident fiziki şəxslərin əmanətlərinin dollarlaşma səviyyəsi 2026-cı ilin iyununda 25.6%-ə enib, yəni əmanətlərin dörddə biri manatla saxlanılır."
+B045-CON,R0023,CBAR-5483,body,edit,1,Qaydanın məqsədi “2024 – 2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası”ndan irəli gələrək sığorta sektorunda maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılmasıdır.
+B045-MIS,R0023,CBAR-5483,body,edit,1,"Qaydanın məqsədi “2024 – 2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası”ndan irəli gələrək bank sektorunda maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılmasıdır, yəni Bazel Komitəsinin qaydaları banklara birbaşa tətbiq ediləcək."
+B046-CON,R0150,CBAR-5462,body,edit,0,Ləğv edilən lisenziya 10 noyabr 2019-cu il tarixlidir.
+B046-MIS,R0150,CBAR-5462,body,edit,0,Ləğvetmə prosesi artıq yekunlaşmış Cəmiyyətin lisenziyası 10 noyabr 2009-cu il tarixlidir.
+B047-CON,R0154,CBAR-5494,body,edit,0,"Ləğv edilən lisenziya 11 iyun 2024-cü il tarixli, EPT-007 nömrəli elektron pul təşkilatı fəaliyyətini həyata keçirmək hüququ verən lisenziyadır."
+B047-MIS,R0154,CBAR-5494,body,edit,0,"Ləğv edilən lisenziyalardan biri 11 iyul 2024-cü il tarixli, EPT-007 nömrəli elektron pul təşkilatı fəaliyyətini həyata keçirmək hüququ verən lisenziyadır."
+B048-CON,R0006,CBAR-5397,body,edit,1,"Yeni kapital strukturuna adaptasiya, bankdaxili qayda və prosedurların uyğunlaşdırılması, təlimlərin keçirilməsi və yeni yanaşmaların prudensial hesabatlığa inteqrasiyası üçün banklara 2 illik keçid dövrü verilib."
+B048-MIS,R0006,CBAR-5397,body,edit,1,"Yeni kapital strukturuna adaptasiya, bankdaxili qayda və prosedurların uyğunlaşdırılması, təlimlərin keçirilməsi və yeni yanaşmaların prudensial hesabatlığa inteqrasiyası üçün banklara və onların müştərilərinə 1 illik keçid dövrü verilib."
+B049-CON,R0177,CBAR-5546,body,edit,1,Sistem əhəmiyyətli bankların siyahısı hər il martın 1-nə qədər Mərkəzi Bankın İdarə Heyətinin qərarı ilə təsdiq ediləcək.
+B049-MIS,R0177,CBAR-5546,body,edit,1,"Sistem əhəmiyyətli bankların siyahısı hər il sentyabrın 1-nə qədər Mərkəzi Bankın İdarə Heyətinin qərarı ilə təsdiq ediləcək, yəni banklar bu barədə ən gec sentyabrın 1-də xəbərdar ediləcək."
+B050-CON,R0001,CBAR-5365,body,edit,0,2025-ci ilin yanvar-noyabr aylarında mübadilə şöbələri tərəfindən nağd xarici valyutanın alışı satışını 593 mln. ABŞ dolları üstələyib.
+B050-MIS,R0001,CBAR-5365,body,edit,0,2025-ci ilin yanvar-noyabr aylarında nağd xarici valyutanın alışı satışını 393 mln. ABŞ dolları üstələyib.
+B051-CON,R0075,DVX-4759,headline,edit,0,Naxçıvanda vergi daxilolmaları 5 %-ə yaxın artıb.
+B051-MIS,R0075,DVX-4759,headline,edit,0,"Naxçıvanda vergi daxilolmaları 3 %-ə yaxın artıb, yəni artım əsasən dövlət sektorunun hesabına olub."
+B052-CON,R0184,DVX-4424,body,edit,0,"2025-ci ilin yanvar - oktyabr aylarında yaşayış və qeyri-yaşayış sahələrinin alışı zamanı ödənilmiş ƏDV-nin müvəkkil banklar tərəfindən qaytarılmış həcmi 36 milyon 269,1 min manat təşkil edib."
+B052-MIS,R0184,DVX-4424,body,edit,0,"2025-ci ilin yanvar - oktyabr aylarında daşınmaz əmlakın alışı zamanı ödənilmiş ƏDV-nin müvəkkil banklar tərəfindən qaytarılmış həcmi 26 milyon 269,1 min manat təşkil edib."
+B053-CON,R0185,DVX-4469,body,edit,0,"Bu, vergi yükünün təxminən 50 faiz azalması deməkdir."
+B053-MIS,R0185,DVX-4469,body,edit,0,"Bu, kirayə ödəyən vətəndaşlar üçün vergi yükünün təxminən 30 faiz azalması deməkdir."
+B054-CON,R0074,DVX-4648,body,edit,0,"İcbari tibbi sığorta haqları üzrə daxilolmaların həcmi 163,3 milyon manatdan az olub."
+B054-MIS,R0074,DVX-4648,body,edit,0,"İcbari tibbi sığorta haqları üzrə daxilolmaların həcmi 163,3 milyon manatdan çox olub, yəni 8,2 faiz artıb."
+B055-CON,R0084,DVX-5037,body,edit,0,"Vergi daxilolmaları proqnozu 813,4 milyon manat üstələyib."
+B055-MIS,R0084,DVX-5037,body,edit,0,"Vergi daxilolmaları 913,4 milyon manat çox olub."
+B056-CON,R0080,DVX-4954,body,edit,0,"İlin ilk yeddi ayında xarici vətəndaşların Azərbaycanda fərdi istehlak məqsədilə aldıqları mallara görə “tax free” sistemi çərçivəsində dövlət büdcəsindən 7 milyon 248,1 min manat ƏDV qaytarılıb."
+B056-MIS,R0080,DVX-4954,body,edit,0,"İlin ilk yeddi ayında xarici vətəndaşların Azərbaycanda aldıqları mallara görə “tax free” sistemi çərçivəsində dövlət büdcəsindən 5 milyon 248,1 min manat ƏDV qaytarılıb."
+B057-CON,R0227,DVX-5080,body,edit,0,Qəbul ediləcəyi təqdirdə bu Qanun 2028-ci il yanvarın 1-dən qüvvəyə minəcək.
+B057-MIS,R0227,DVX-5080,body,edit,0,Qəbul ediləcəyi təqdirdə bu Qanun bütün texnologiyalar parkı rezidentlərinə münasibətdə 2027-ci il yanvarın 1-dən qüvvəyə minəcək.
+B058-CON,R0215,DVX-4894,body,edit,0,"Məcburi dövlət sosial sığorta haqları üzrə qeyri-büdcə təşkilatları üzrə daxilolmalar 2 milyard 244,9 milyon manatdan az olub."
+B058-MIS,R0215,DVX-4894,body,edit,0,"Məcburi dövlət sosial sığorta haqları üzrə qeyri-büdcə təşkilatlarına daxilolmalar 2 milyard 244,9 milyon manatdan çox olub."
+B059-CON,R0192,DVX-4541,body,edit,1,İctimai iaşə fəaliyyəti sahəsinə ƏDV güzəşti 2026-cı il yanvarın 1-dən 5 il müddətinə verilir.
+B059-MIS,R0192,DVX-4541,body,edit,1,İctimai iaşə fəaliyyəti sahəsinə ƏDV güzəşti 2026-cı il yanvarın 1-dən 3 il müddətinə avtomatik verilir.
+B060-CON,R0197,DVX-4543,body,edit,1,Kirayəyə münasibətdə vergi dərəcəsi 14 faizdir.
+B060-MIS,R0197,DVX-4543,body,edit,1,Kirayəyə münasibətdə vergi dərəcəsi kirayəçidən asılı olmayaraq 10 faizdir.
+B061-CON,R0076,DVX-4760,lead,edit,0,2026-cı ilin yanvar – aprel ayları ərzində ölkə ərazisində ödənilmiş ƏDV-nin müvəkkil banklar tərəfindən istehlakçılara qaytarılmış həcmi 75.45 milyon manat olub.
+B061-MIS,R0076,DVX-4760,lead,edit,0,2026-cı ilin yanvar – aprel ayları ərzində ölkə ərazisində bütün mallara görə ödənilmiş ƏDV-nin müvəkkil banklar tərəfindən istehlakçılara qaytarılmış həcmi 70.45 milyon manat olub.
+B062-CON,R0069,DVX-4576,body,edit,0,Bu il 31 yanvar tarixi iş günüdür.
+B062-MIS,R0069,DVX-4576,body,edit,0,Hər il 31 yanvar tarixi iş günü deyil.
+B063-CON,R0078,DVX-4872,lead,edit,0,"İndiyə qədər Naxçıvan Muxtar Respublikasında ""ƏDV geri al"" layihəsi çərçivəsində istehlakçılara 3,9 milyon manat ƏDV məbləği geri qaytarılıb."
+B063-MIS,R0078,DVX-4872,lead,edit,0,"İndiyə qədər Naxçıvan Muxtar Respublikasında ""ƏDV geri al"" layihəsi çərçivəsində ticarət obyektləri istehlakçılara 4,9 milyon manat ƏDV məbləği geri qaytarıb."
+B064-CON,R0083,DVX-5030,body,edit,0,Hər iki şirkətin ƏDV məqsədləri üçün qeydiyyatı 1 noyabr 2026-cı il tarixindən qüvvəyə minib.
+B064-MIS,R0083,DVX-5030,body,edit,0,"Hər iki şirkətin ƏDV məqsədləri üçün qeydiyyatı 1 oktyabr 2026-cı il tarixindən qüvvəyə minib, yəni bu tarixdən onların xidmətlərinə görə ödənişlərdən ƏDV tutulmur."
+B065-CON,R0219,DVX-4982,body,edit,0,Ödənilən vergilərin 73 faizi dövlət sektorunun payına düşüb.
+B065-MIS,R0219,DVX-4982,body,edit,0,Ödənilən vergilərin 73 faizi fərdi sahibkarların payına düşüb.
+B066-CON,R0199,DVX-4551,body,edit,0,Yaşayış və qeyri-yaşayış sahələrinə görə ödənilmiş ƏDV-nin 41 mln. manatdan çoxu vətəndaşlara qaytarılıb.
+B066-MIS,R0199,DVX-4551,body,edit,0,Yaşayış sahələrinə görə ödənilmiş ƏDV-nin 31 mln. manatdan çoxu vətəndaşlara qaytarılıb.
+B067-CON,R0188,DVX-4532,headline,edit,1,Prezident Vergi Məcəlləsinə və 26 qanuna dəyişiklikləri təsdiqləyib.
+B067-MIS,R0188,DVX-4532,headline,edit,1,Prezident Vergi Məcəlləsinə və 16 vergi qanununa dəyişiklikləri təsdiqləyib.
+B068-CON,R0212,DVX-4819,body,edit,0,"Qeyri-neft-qaz sektorundan daxilolmalar 7 milyard 187,7 milyon manat təşkil edib."
+B068-MIS,R0212,DVX-4819,body,edit,0,"Qeyri-neft-qaz sektorundan Dövlət Vergi Xidmətinə daxilolmalar 6 milyard 187,7 milyon manat təşkil edib."
+B069-CON,R0207,DVX-4759,body,edit,0,"Cari ilin yanvar – aprel aylarında Naxçıvan Muxtar Respublikası İqtisadiyyat Nazirliyi yanında Dövlət Vergi Xidmətinin xətti ilə büdcəyə 79,5 milyon manatdan az vergi daxil olub."
+B069-MIS,R0207,DVX-4759,body,edit,0,"Cari ilin yanvar – aprel aylarında Naxçıvan Muxtar Respublikası İqtisadiyyat Nazirliyi yanında Dövlət Vergi Xidmətinin xətti ilə büdcəyə 79,5 milyon manatdan artıq vergi daxil olub, yəni bu məbləğə işsizlikdən sığorta haqları da daxildir."
+B070-CON,R0184,DVX-4424,body,edit,0,"Bu ilin yanvar - oktyabr aylarında Azərbaycanda yaşayış və qeyri-yaşayış sahələrinə görə ödənilmiş ƏDV-nin 36,2 milyon manatdan çoxu vətəndaşlara qaytarılıb."
+B070-MIS,R0184,DVX-4424,body,edit,0,"Bu ilin yanvar - oktyabr aylarında Azərbaycanda yaşayış və qeyri-yaşayış sahələrinə görə ödənilmiş ƏDV vətəndaşlara qaytarılıb, məbləğ 26,2 milyon manatdan çox olub."
+B071-CON,R0185,DVX-4469,body,edit,0,Fiziki şəxslərə məxsus olan yaşayış sahələrinin fiziki şəxslərə kirayəyə verilməsindən əldə olunan gəlirlər üzrə vergi dərəcəsinin 14%-dən 7%-ə endirilməsi nəzərdə tutulur.
+B071-MIS,R0185,DVX-4469,body,edit,0,Fiziki şəxslərə məxsus olan yaşayış sahələrinin fiziki şəxslərə kirayəyə verilməsindən əldə olunan gəlirlər üzrə vergi dərəcəsi 14%-dən 10%-ə endiriləcək.
+B072-CON,R0206,DVX-4648,body,edit,0,"İcbari tibbi sığorta haqları üzrə proqnozdan 5,5 mln. manat az vəsait ödənilib."
+B072-MIS,R0206,DVX-4648,body,edit,0,"Bütün sığorta haqları üzrə proqnozdan əlavə 5,5 mln. manatdan artıq vəsait ödənilib."
+B073-CON,R0084,DVX-5037,body,edit,0,"2026-cı ilin yanvar–sentyabr aylarında məcburi dövlət sosial sığorta haqları üzrə daxilolmalar 5 milyard 159,7 milyon manat təşkil edib."
+B073-MIS,R0084,DVX-5037,body,edit,0,"2026-cı ilin yanvar–sentyabr aylarında dövlət büdcəsinə məcburi dövlət sosial sığorta haqları üzrə daxilolmalar 5 milyard 59,7 milyon manat təşkil edib."
+B074-CON,R0217,DVX-4954,body,edit,0,"2026-cı ilin yanvar – iyul aylarında ölkə vətəndaşları tərəfindən respublika ərazisində fərdi istehlak üçün alınmış mallara görə dövlət büdcəsindən qaytarılmış ƏDV-nin (“Tax free”) məbləği 5 milyon 248,1 min manat təşkil edib."
+B074-MIS,R0217,DVX-4954,body,edit,0,"2026-cı ilin yanvar – iyul aylarında xarici vətəndaşlar tərəfindən respublika ərazisində fərdi istehlak üçün alınmış mallara görə dövlət büdcəsindən qaytarılmış ƏDV-nin (“Tax free”) məbləği 5 milyon 248,1 min manat təşkil edib, yəni xarici vətəndaşlar istənilən mala görə ƏDV-ni geri ala bilir."
+B075-CON,R0227,DVX-5080,body,edit,0,Güzəşt 2026-cı il yanvarın 1-dən 10 il müddətinə tətbiq olunacaq.
+B075-MIS,R0227,DVX-5080,body,edit,0,Güzəşt 2027-ci il yanvarın 1-dən 10 il müddətinə investisiya məbləğinin tam həcminə tətbiq olunacaq.
+B076-CON,R0215,DVX-4894,body,edit,0,"Vergi daxilolmaları proqnoza nisbətən 217,7 milyon manat azdır."
+B076-MIS,R0215,DVX-4894,body,edit,0,"Vergi daxilolmaları illik proqnoza nisbətən 217,7 milyon manat çoxdur."
+B077-CON,R0192,DVX-4541,body,edit,1,Naxçıvan MR-də minik avtomobillərinin istehsalını həyata keçirən vergi ödəyicilərinə münasibətdə mövcud güzəşt şərtləri 2028-ci il yanvarın 1-dək saxlanılır.
+B077-MIS,R0192,DVX-4541,body,edit,1,Naxçıvan MR-də avtomobil istehsalını həyata keçirən vergi ödəyicilərinə münasibətdə mövcud güzəşt şərtləri 2030-cu il yanvarın 1-dək saxlanılır.
+B078-CON,R0197,DVX-4543,body,edit,1,İcarəyə münasibətdə vergi dərəcəsi 10 faizdir.
+B078-MIS,R0197,DVX-4543,body,edit,1,İcarəyə münasibətdə icarəçi tərəfindən ödənilən vergi dərəcəsi 14 faizdir.
+B079-CON,R0077,DVX-4760,headline,edit,0,Azərbaycanda 6 ayda vətəndaşlara geri qaytarılmış ƏDV-nin məbləği açıqlanıb.
+B079-MIS,R0077,DVX-4760,headline,edit,0,"Azərbaycanda 4 ayda vətəndaşlara geri qaytarılmış ƏDV-nin məbləği açıqlanıb, yəni istənilən alışa görə ödənilmiş ƏDV geri alına bilər."
+B080-CON,R0069,DVX-4576,body,edit,0,Hesablanmış torpaq vergisi üzrə bəyannamə hesabat ilindən sonrakı ilin martın 31-dən gec olmayaraq müvafiq vergi orqanına təqdim edilməlidir.
+B080-MIS,R0069,DVX-4576,body,edit,0,Hesablanmış vergi üzrə bəyannamə hesabat ilindən sonrakı ilin yanvarın 31-dən gec olmayaraq müvafiq vergi orqanına təqdim edilməlidir.
+B081-CON,R0078,DVX-4872,body,edit,0,"Bu, ötən ilin eyni dövrü ilə müqayisədə 24,2 % azdır."
+B081-MIS,R0078,DVX-4872,body,edit,0,"Bu, ötən illə müqayisədə 24,2 % çoxdur."
+B082-CON,R0222,DVX-5030,body,edit,0,Yalnız Spotify AB şirkətinin ƏDV məqsədləri üçün qeydiyyatı 2026-cı il oktyabrın 1-dən qüvvəyə minib.
+B082-MIS,R0222,DVX-5030,body,edit,0,Qlobal rəqəmsal xidmət təchizatçılarının ƏDV məqsədləri üçün qeydiyyatı 2026-cı il oktyabrın 1-dən qüvvəyə minib.
+B083-CON,R0219,DVX-4982,body,edit,0,"Cari ilin yanvar-avqust aylarında Naxçıvan Muxtar Respublikasında işsizlikdən sığorta haqları üzrə daxilolmalar 4,2 milyon manat olub."
+B083-MIS,R0219,DVX-4982,body,edit,0,"Cari ilin yanvar-avqust aylarında Naxçıvan Muxtar Respublikasında işsizlərin ödədiyi sığorta haqları üzrə daxilolmalar 3,2 milyon manat olub."
+B084-CON,R0199,DVX-4551,body,edit,0,"2025-ci il ərzində yaşayış və qeyri-yaşayış sahələrinin nağdsız qaydada alışı zamanı ödənilmiş ƏDV-nin müvəkkil banklar tərəfindən qaytarılmış həcmi 41 milyon 366,9 min manat təşkil edib."
+B084-MIS,R0199,DVX-4551,body,edit,0,"2025-ci il ərzində yaşayış və qeyri-yaşayış sahələrinin alışı zamanı ödənilmiş ƏDV-nin müvəkkil banklar tərəfindən qaytarılmış həcmi 31 milyon 366,9 min manat təşkil edib, yəni mənzil alan hər kəs ƏDV-nin bir hissəsini geri alıb."
+B085-CON,R0189,DVX-4532,body,edit,1,Yalnız səyyar vergi yoxlaması keçirildikdə həmin halların Vergi Məcəlləsində göstərilən 3 illik müddətdən əvvəlki dövrlər üzrə könüllü olaraq bəyan edilməsi könüllü açıqlama hesab ediləcək.
+B085-MIS,R0189,DVX-4532,body,edit,1,Səyyar vergi yoxlamasının keçirilməsindən asılı olmayaraq həmin halların könüllü olaraq bəyan edilməsi könüllü açıqlama hesab ediləcək.
+B086-CON,R0212,DVX-4819,body,edit,0,İcbari tibbi sığorta üzrə daxilolmalar proqnoz göstəricisindən 11 milyon manatdan çox aşağıdır.
+B086-MIS,R0212,DVX-4819,body,edit,0,İcbari tibbi sığorta üzrə daxilolmalar hər ay proqnoz göstəricisindən 11 milyon manatdan çox yüksəkdir.
+B087-CON,R0075,DVX-4759,body,edit,0,"Ötən 4 ayda muxtar respublikada qeyri-dövlət sektorundan daxilolmalar 47,3 milyon manat təşkil edib."
+B087-MIS,R0075,DVX-4759,body,edit,0,"Ötən 4 ayda muxtar respublikada qeyri-dövlət sektorundan mənfəət vergisi üzrə daxilolmalar 57,3 milyon manat təşkil edib."
+B088-CON,R0182,DVX-4424,lead,edit,0,2025-ci ilin yanvar-oktyabr aylarında yaşayış və qeyri-yaşayış sahələrinin alışı zamanı ödənilmiş əlavə dəyər vergisinin (ƏDV) müvəkkil banklar vasitəsilə hüquqi şəxslərə qaytarılan ümumi məbləği 26 milyon 269.1 min manat təşkil edib.
+B088-MIS,R0182,DVX-4424,lead,edit,0,2025-ci ilin yanvar-oktyabr aylarında yaşayış və qeyri-yaşayış sahələrinin alışı zamanı ödənilmiş əlavə dəyər vergisinin (ƏDV) müvəkkil bankların vəsaiti hesabına vətəndaşlara qaytarılan ümumi məbləği 26 milyon 269.1 min manat təşkil edib.
+B089-CON,R0185,DVX-4469,body,edit,0,"Sahibkarlıq fəaliyyəti çərçivəsində icarəyə verilən, yaxud hüquqi şəxslərə kirayəyə verilən əmlaklar üçün isə 14%-lik vergi dərəcəsi 10%-ə endirilir."
+B089-MIS,R0185,DVX-4469,body,edit,0,"Vergi Məcəlləsinə edilmiş dəyişikliklə sahibkarlıq fəaliyyəti çərçivəsində icarəyə verilən, yaxud hüquqi şəxslərə kirayəyə verilən əmlaklar üçün 14%-lik vergi dərəcəsi dəyişməz saxlanılıb."
+B090-CON,R0205,DVX-4648,body,edit,0,"İşsizlikdən sığorta haqları üzrə daxilolmalar 47,3 milyon manata çatıb."
+B090-MIS,R0205,DVX-4648,body,edit,0,"İşsizlikdən sığorta haqları üzrə daxilolmalar 29,9 milyon manatı ötüb."
+B091-CON,R0084,DVX-5037,body,edit,0,"Qeyri-neft-qaz sektorundan daxilolmalar illik müqayisədə 14,6 faiz artıb."
+B091-MIS,R0084,DVX-5037,body,edit,0,"Qeyri-neft-qaz sektorundan vergi və sosial sığorta daxilolmaları illik müqayisədə 12,6 faiz artıb."
+B092-CON,R0218,DVX-4954,body,edit,0,"Hesabat dövründə xarici vətəndaşlar tərəfindən respublika ərazisində kommersiya məqsədilə alınmış mallara görə dövlət büdcəsindən qaytarılmış ƏDV-nin (“Tax free”) məbləği 5 milyon 248,1 min manat təşkil edib."
+B092-MIS,R0218,DVX-4954,body,edit,0,"Hesabat dövründə xarici vətəndaşlar tərəfindən respublika ərazisində fərdi istehlak üçün alınmış mal və xidmətlərə görə dövlət büdcəsindən qaytarılmış ƏDV-nin (“Tax free”) məbləği 5 milyon 248,1 min manat təşkil edib."
+B093-CON,R0079,DVX-4894,body,edit,0,"Qeyri-neft-qaz sektorundan büdcəyə proqnozdan əlavə 299,4 milyon manat vəsait ödənilib."
+B093-MIS,R0079,DVX-4894,body,edit,0,"Qeyri-neft-qaz sektorundan Dövlət Vergi Xidmətinə proqnozdan əlavə 199,4 milyon manat vəsait ödənilib."
+B094-CON,R0192,DVX-4541,body,edit,1,"Sosial sığorta haqqı işçi üzrə 10%, işəgötürən üzrə 13% təşkil edir."
+B094-MIS,R0192,DVX-4541,body,edit,1,"Sosial sığorta haqqı işçi üzrə 10%, işəgötürən üzrə 11% təşkil edir, yəni bu dərəcələr bütün işəgötürənlərə eyni şəkildə şamil olunur."
+B095-CON,R0195,DVX-4543,body,edit,1,Hüquqi şəxslər tərəfindən istehsal məqsədilə yük avtomobillərinin ehtiyat hissələrinin idxalı 2027-ci il yanvarın 1-dən 7 il müddətinə ƏDV-dən azad ediləcək.
+B095-MIS,R0195,DVX-4543,body,edit,1,Hüquqi şəxslər tərəfindən yük avtomobillərinin ehtiyat hissələrinin idxalı 2026-cı il yanvarın 1-dən 7 il müddətinə ƏDV-dən azad ediləcək.
+B096-CON,R0076,DVX-4760,body,edit,0,Hesabat müddətində Azərbaycan vətəndaşları tərəfindən respublika ərazisində fərdi istehlak üçün alınmış mallara görə dövlət büdcəsindən qaytarılmış ƏDV-nin (“tax free”) məbləği 2.76 milyon manat təşkil edib.
+B096-MIS,R0076,DVX-4760,body,edit,0,Hesabat müddətində xarici vətəndaşlar tərəfindən respublika ərazisində alınmış mallara görə dövlət büdcəsindən qaytarılmış ƏDV-nin (“tax free”) məbləği 2.76 milyon manat təşkil edib.
+B097-CON,R0069,DVX-4576,body,edit,0,"Məcəllənin 208.2-ci maddəsinə uyğun olaraq, müəssisələr torpaq vergisini torpaq sahələrinin ölçüsünə və tətbiq olunan vergi dərəcələrinə əsasən, aylıq qaydada hesablayırlar."
+B097-MIS,R0069,DVX-4576,body,edit,0,"Məcəllənin 208.2-ci maddəsinə uyğun olaraq, hüquqi və fiziki şəxslər torpaq vergisini torpaq sahələrinin ölçüsünə və tətbiq olunan vergi dərəcələrinə əsasən, illik qaydada hesablayırlar."
+B098-CON,R0078,DVX-4872,body,edit,0,"Geri qaytarılan məbləğin 1,8 milyon manatı bu ilin yanvar-may aylarının payına düşüb."
+B098-MIS,R0078,DVX-4872,body,edit,0,"Ticarət obyektlərinin geri qaytardığı məbləğin 0,8 milyon manatı bu ilin yanvar-may aylarının payına düşüb."
+B099-CON,R0220,DVX-5030,lead,edit,0,İqtisadiyyat Nazirliyi yanında Dövlət Vergi Xidməti yaratdığı elektron qeydiyyat sistemi vasitəsilə daha 3 xarici rəqəmsal xidmət təchizatçısını vergi uçotuna alıb.
+B099-MIS,R0220,DVX-5030,lead,edit,0,İqtisadiyyat Nazirliyi yanında Dövlət Vergi Xidməti tətbiq etdiyi yeni vergi mexanizmi çərçivəsində elektron qeydiyyat sistemi vasitəsilə daha 2 xarici rəqəmsal xidmət təchizatçısını vergi uçotuna alıb.
+B100-CON,R0219,DVX-4982,body,edit,0,"Bu ilin yanvar-avqust aylarında Naxçıvan Muxtar Respublikası İqtisadiyyat Nazirliyi yanında Dövlət Vergi Xidmətinin xətti ilə büdcəyə 152,3 milyon manatadək vergi daxil olub."
+B100-MIS,R0219,DVX-4982,body,edit,0,"Bu ilin yanvar-avqust aylarında Naxçıvan Muxtar Respublikasında büdcəyə 172,3 milyon manatadək vergi daxil olub."
+B101-CON,R0238,EMSMN-9040,body,edit,0,Üç yaşadək uşağı övladlığa götürən qadınların 3 yaşadək uşağa qulluğa görə tam ödənişli məzuniyyətdən istifadə etmək hüququ var.
+B101-MIS,R0238,EMSMN-9040,body,edit,0,Üç yaşadək uşağı övladlığa götürən qadınlar 3 yaşadək uşağa qulluğa görə qismən ödənişli məzuniyyətdən istifadə etməlidirlər.
+B102-CON,R0229,EMSMN-8637,body,edit,0,Bu ilin 10 ayı ərzində Dövlət Məşğulluq Agentliyinin icra etdiyi “İşəgötürənlə birgə işçilərin əməkhaqqının maliyyələşdirilməsi” proqramı çərçivəsində 2504 şəxs işlə təmin olunub.
+B102-MIS,R0229,EMSMN-8637,body,edit,0,Bu ilin 10 ayı ərzində Dövlət Məşğulluq Agentliyinin icra etdiyi proqramlar çərçivəsində 1504 şəxs işlə təmin olunub.
+B103-CON,R0267,EMSMN-9911,headline,edit,0,İşdən qanunsuz çıxarılmış 96 nəfər əvvəlki işlərinə bərpa etdirilib.
+B103-MIS,R0267,EMSMN-9911,headline,edit,0,İşdən qanunsuz çıxarılmış 69 nəfər Dövlət Əmək Müfəttişliyi Xidməti tərəfindən əvvəlki işlərinə bərpa edilib.
+B104-CON,R0244,EMSMN-9090,body,edit,0,Bununla da mart ayının bütün sosial ödənişlərini qrafikdən gec başa çatdırıb.
+B104-MIS,R0244,EMSMN-9090,body,edit,0,"Bununla da mart ayının bütün sosial ödənişlərini qrafikdən əvvəl başa çatdırıb, yəni bundan sonra ödənişlər hər ay qrafikdən əvvəl veriləcək."
+B105-CON,R0231,EMSMN-8683,body,edit,0,"Orta pensiyanın məbləğinin 9,2% artaraq 650 manata çatması proqnozlaşdırılır."
+B105-MIS,R0231,EMSMN-8683,body,edit,0,"Pensiyanın məbləğinin 9,2% artaraq 590 manata çatması proqnozlaşdırılır."
+B106-CON,R0266,EMSMN-9731,body,edit,0,İş vaxtı hər rejim üzrə işçilərin 40 faizindən az olmaması şərti ilə təşkil ediləcək.
+B106-MIS,R0266,EMSMN-9731,body,edit,0,İş vaxtı sınaq başa çatdıqdan sonra da hər rejim üzrə işçilərin 30 faizindən az olmaması şərti ilə təşkil ediləcək.
+B107-CON,R0105,EMSMN-8942,body,edit,0,Ötən il böyük əksəriyyəti gənclər olan 434 min şəxs peşəyönümlü xidmətlərlə əhatə olunub.
+B107-MIS,R0105,EMSMN-8942,body,edit,0,Ötən il 343 min gənc peşəyönümlü xidmətlərlə əhatə olunub.
+B108-CON,R0235,EMSMN-8933,body,edit,0,Ötən il Azərbaycanda əlilliyi olan daha 8500 şəxs işlə təmin edilib.
+B108-MIS,R0235,EMSMN-8933,body,edit,0,Ötən il Azərbaycanda əlilliyi olan daha 5800 şəxs işəgötürənlər tərəfindən işlə təmin edilib.
+B109-CON,R0249,EMSMN-9145,headline,edit,0,İşdən qanunsuz çıxarılmış 54 nəfər əvvəlki işlərinə bərpa etdirildi.
+B109-MIS,R0249,EMSMN-9145,headline,edit,0,"İşdən qanunsuz çıxarılmış 44 nəfər əvvəlki işlərinə bərpa etdirildi, yəni Xidmətə müraciət edən bütün işçilər işlərinə qaytarıldı."
+B110-CON,R0113,EMSMN-9067,body,edit,0,"Mart ayının müavinət və təqaüdlərinin qrafik üzrə, Novruz və Ramazan bayramlarından sonra ödənilməsi nəzərdə tutulub."
+B110-MIS,R0113,EMSMN-9067,body,edit,0,Müavinət və təqaüdlərin də qrafikdən əvvəl olmaqla ödənilməsi nəzərdə tutulub.
+B111-CON,R0132,EMSMN-9567,body,edit,0,"Havanın temperaturu 41 dərəcə selsidən çox olan hava şəraitində işçilərin həyat və sağlamlığının qorunması üçün zəruri tədbirlər görmək işəgötürənlərin vəzifəsi deyil, könüllü seçimidir."
+B111-MIS,R0132,EMSMN-9567,body,edit,0,Havanın temperaturu 41 dərəcə selsidən çox olan hava şəraitində işçilərin həyat və sağlamlığının qorunması üçün iş gününü hissələrə bölmək işəgötürənlərin əsas vəzifələrindən biridir.
+B112-CON,R0251,EMSMN-9196,body,edit,0,Bu il də əməyin mühafizəsi ilə bağlı daha 90 yeni dövlət standartlarının hazırlanaraq qəbul edilməsi nəzərdə tutulur.
+B112-MIS,R0251,EMSMN-9196,body,edit,0,Bu il də əməyin mühafizəsi ilə bağlı daha 60 yeni dövlət standartı hazırlanaraq qəbul ediləcək.
+B113-CON,R0260,EMSMN-9670,headline,edit,0,İşdən qanunsuz çıxarılmış 73 nəfər əvvəlki işlərinə bərpa etdirilib.
+B113-MIS,R0260,EMSMN-9670,headline,edit,0,İşdən qanunsuz çıxarılmış 63 nəfər işəgötürənlərin təşəbbüsü ilə əvvəlki işlərinə bərpa etdirilib.
+B114-CON,R0262,EMSMN-9672,body,edit,0,"Avqustun 15-də Bakı, Sumqayıt şəhərləri və Abşeron rayonunda, habelə Naxçıvan Muxtar Respublikasında qeydiyyatda olan şəxslərin avqust ayı üzrə pensiyaları ödənilib."
+B114-MIS,R0262,EMSMN-9672,body,edit,0,"Avqustun 14-də Bakı, Sumqayıt şəhərləri və Abşeron rayonunda, habelə Naxçıvan Muxtar Respublikasında qeydiyyatda olan şəxslərin avqust ayı üzrə pensiyaları ödənilib, yəni bu ərazilərdə yaşayan bütün pensiyaçılar pensiyanı həmin gün alıb."
+B115-CON,R0127,EMSMN-9286,body,edit,0,"Bakı və Sumqayıt şəhərləri, Abşeron rayonu, eyni zamanda Naxçıvan Muxtar Respublikası üzrə may ayının pensiyaları iyun ayında ödəniləcək."
+B115-MIS,R0127,EMSMN-9286,body,edit,0,"Bakı və Sumqayıt şəhərləri, Abşeron rayonu, eyni zamanda Naxçıvan Muxtar Respublikası üzrə may ayının bütün pensiyaları ödənilib."
+B116-CON,R0255,EMSMN-9351,body,edit,0,Onlara 2 mindən az reabilitasiya xidməti göstərilib.
+B116-MIS,R0255,EMSMN-9351,body,edit,0,Onların hər birinə 2 mindən çox reabilitasiya xidməti göstərilib.
+B117-CON,R0131,EMSMN-9485,headline,edit,0,Birgə maliyyələşmə proqramı üzrə 8500-dək şəxs işlə təmin edilib.
+B117-MIS,R0131,EMSMN-9485,headline,edit,0,Birgə maliyyələşmə proqramı üzrə 5800-dək gənc işlə təmin edilib.
+B118-CON,R0241,EMSMN-9043,body,edit,1,155-ci maddənin 6-cı hissəsinə üçüncü cümlə əlavə edilsin.
+B118-MIS,R0241,EMSMN-9043,body,edit,1,155-ci maddənin 6-cı hissəsinə minimum əməkhaqqına hökumət tərəfindən baxılmasına dair ikinci cümlə əlavə edilsin.
+B119-CON,R0120,EMSMN-9107,body,edit,0,Müharibədən sonrakı dövrdə onlara 9300-ə yaxın mənzil və fərdi ev təqdim edilib.
+B119-MIS,R0120,EMSMN-9107,body,edit,0,"Müharibədən sonrakı dövrdə onlara 7300-ə yaxın mənzil və fərdi ev təqdim edilib, buna görə də mənzil təminatı proqramı 5 dəfə genişlənib."
+B120-CON,R0233,EMSMN-8879,body,edit,0,Müharibə ilə əlaqədar əlilliyi olan vətəndaşlara ötən dövrdə 9700 avtomobil verilib.
+B120-MIS,R0233,EMSMN-8879,body,edit,0,Əlilliyi olan vətəndaşlara ötən dövrdə 7700 avtomobil verilib.
+B121-CON,R0238,EMSMN-9040,body,edit,0,"Övladlığa uşaq götürmüş şəxslər aylıq sosial müavinətlə təmin edilir, 3-18 yaşarası hər uşağa görə 200 manat."
+B121-MIS,R0238,EMSMN-9040,body,edit,0,"Övladlığa uşaq götürmüş şəxslər aylıq sosial müavinətlə təmin edilir, hər uşağa görə 240 manat."
+B122-CON,R0092,EMSMN-8637,headline,edit,0,Birgə maliyyələşmə proqramı üzrə 1405 şəxs işlə təmin edilib.
+B122-MIS,R0092,EMSMN-8637,headline,edit,0,Birgə maliyyələşmə proqramı üzrə sosial cəhətdən həssas qruplardan olan 1504 şəxs işlə təmin edilib.
+B123-CON,R0268,EMSMN-9911,body,edit,0,"Bu vəsaitlərin 20 faizi isə zərərə görə ödənc, müavinət və kompensasiyalardan ibarət olub."
+B123-MIS,R0268,EMSMN-9911,body,edit,0,"Bu vəsaitlərin 10 faizi isə Xidmətin təmin etdiyi zərərə görə ödənc, müavinət və kompensasiyalardan ibarət olub."
+B124-CON,R0246,EMSMN-9090,body,edit,0,"Dövlət Məşğulluq Agentliyi tərəfindən bu gün mart ayının müavinət, təqaüd və ünvanlı sosial yardımları da ödənilib."
+B124-MIS,R0246,EMSMN-9090,body,edit,0,"Dövlət Sosial Müdafiə Fondu tərəfindən bu gün mart ayının müavinət, təqaüd və ünvanlı sosial yardımları da ödənilib, yəni bayram münasibətilə əlavə ödəniş verilib."
+B125-CON,R0231,EMSMN-8683,body,edit,0,Bu göstərici 2024-cü illə müqayisədə 2 milyard 534 milyon manat çoxdur.
+B125-MIS,R0231,EMSMN-8683,body,edit,0,Bu göstərici 1 milyard 534 milyon manat çoxdur.
+B126-CON,R0266,EMSMN-9731,body,edit,0,Dəyişkən iş qrafiki 3 ay müddətində sınaq məqsədilə tətbiq olunacaq.
+B126-MIS,R0266,EMSMN-9731,body,edit,0,Dəyişkən iş qrafiki 2 aylıq sınaqdan sonra daimi olaraq tətbiq olunacaq.
+B127-CON,R0237,EMSMN-8942,headline,edit,0,"Ötən il 62,6 min gənc işlə təmin olunub."
+B127-MIS,R0237,EMSMN-8942,headline,edit,0,"Ötən il 72,6 min gənc məzun işlə təmin olunub."
+B128-CON,R0236,EMSMN-8933,body,edit,0,Elm və Təhsil Nazirliyinin tabeliyində Dövlət Məşğulluq Agentliyi ötən il əlilliyi olan daha 5800 şəxsi işlə təmin edib.
+B128-MIS,R0236,EMSMN-8933,body,edit,0,Əmək və Əhalinin Sosial Müdafiəsi Nazirliyinin tabeliyində Dövlət Məşğulluq Agentliyi ötən il əlilliyi olan daha 5800 şəxsi işə götürüb.
+B129-CON,R0250,EMSMN-9145,body,edit,0,Xidmətin gördüyü tədbirlər nəticəsində həmin 47 işçi yenidən əvvəlki işlərinə bərpa olunublar.
+B129-MIS,R0250,EMSMN-9145,body,edit,0,Xidmətin gördüyü tədbirlər nəticəsində həmin 44 işçi yenidən əvvəlki işlərinə bərpa olunublar və buna görə işəgötürənlər onlara 200 742 manat ödəyib.
+B130-CON,R0112,EMSMN-9067,lead,edit,0,"Qarşıdan gələn bayramlarla əlaqədar martda pensiya, müavinət və təqaüdlər qrafikdən sonra ödəniləcək."
+B130-MIS,R0112,EMSMN-9067,lead,edit,0,"Pensiya, müavinət və təqaüdlər qrafikdən əvvəl ödəniləcək."
+B131-CON,R0124,EMSMN-9196,body,edit,0,"Bu standartlar Avropa Şurasının ""Əməyin təhlükəsizliyi və gigiyenası haqqında"" 155 nömrəli Konvensiyasının tələblərinə uyğundur."
+B131-MIS,R0124,EMSMN-9196,body,edit,0,"Bu standartların bir qismi Beynəlxalq Əmək Təşkilatının ""Əməyin təhlükəsizliyi və gigiyenası haqqında"" 155 nömrəli Konvensiyasının tələblərinə uyğundur."
+B132-CON,R0260,EMSMN-9670,body,edit,0,"Bu vəsaitlərin 19 faizi zərərə görə ödənc, müavinət və kompensasiyalardan ibarət olub."
+B132-MIS,R0260,EMSMN-9670,body,edit,0,Bu vəsaitlərin 9 faizi müavinətlərdən ibarət olub.
+B133-CON,R0261,EMSMN-9672,lead,edit,0,Mərkəzi Bank respublika üzrə avqust ayının pensiya ödənişini yekunlaşdırıb.
+B133-MIS,R0261,EMSMN-9672,lead,edit,0,Əmək və Əhalinin Sosial Müdafiəsi Nazirliyi respublika üzrə avqust ayının pensiya ödənişini yekunlaşdırıb.
+B134-CON,R0253,EMSMN-9286,body,edit,0,"Mərkəzi Bank tərəfindən bu gün Bakı və Sumqayıt şəhərləri, Abşeron rayonu üzrə may ayının pensiyaları ödənilib."
+B134-MIS,R0253,EMSMN-9286,body,edit,0,"Dövlət Sosial Müdafiə Fondu tərəfindən bu gün Bakı və Sumqayıt şəhərləri, Abşeron rayonu üzrə may ayının pensiyaları ödənilib, yəni güzəştli şərtlərlə pensiya alanlar da pensiyasını alıb."
+B135-CON,R0255,EMSMN-9351,body,edit,0,"Səyyar xidmətlərdən yararlanmaq istəyən əlilliyi olan şəxs (və ya onun qanuni nümayəndəsi) Səhiyyə Nazirliyinin “142” Çağrı mərkəzinə, eləcə də DOST mərkəzləri və ya ərazi üzrə Tibbi-Sosial Ekspert Komissiyasına müraciət edir."
+B135-MIS,R0255,EMSMN-9351,body,edit,0,"Səyyar xidmətlərdən yararlanmaq istəyən şəxs (və ya onun qanuni nümayəndəsi) nazirliyin “142” Çağrı mərkəzinə, eləcə də DOST mərkəzləri və ya ərazi üzrə Tibbi-Sosial Ekspert Komissiyasına müraciət edir."
+B136-CON,R0131,EMSMN-9485,body,edit,0,Proqram üzrə bu il ümumilikdə 5800-dək şəxs iş yeri əldə edib.
+B136-MIS,R0131,EMSMN-9485,body,edit,0,Proqram üzrə ötən dövrdə ümumilikdə 5800-dək şəxs 190 işəgötürəndə iş yeri əldə edib.
+B137-CON,R0241,EMSMN-9043,body,edit,1,Azərbaycan Respublikasının Nazirlər Kabineti Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 16-cı bəndini rəhbər tutaraq qərara alır.
+B137-MIS,R0241,EMSMN-9043,body,edit,1,Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 16-cı bəndini rəhbər tutaraq minimum əməkhaqqının hər il artırılmasını qərara alır.
+B138-CON,R0120,EMSMN-9107,body,edit,0,Ümumilikdə isə ötən illər ərzində 10 minə yaxın mənzil və fərdi ev təqdim edilib.
+B138-MIS,R0120,EMSMN-9107,body,edit,0,Ümumilikdə isə ötən illər ərzində şəhid ailələrinə 16 mindən çox mənzil və fərdi ev təqdim edilib.
+B139-CON,R0233,EMSMN-8879,headline,edit,0,Şəhid ailələri və müharibə əlillərinə 26 min mənzil verilib.
+B139-MIS,R0233,EMSMN-8879,headline,edit,0,"Şəhid ailələri və müharibə əlillərinə 16 min mənzil verilib, yəni hamısı postmüharibə dövründə."
+B140-CON,R0106,EMSMN-9040,body,edit,0,Əlilliyi olan uşağı övladlığa götürən valideynlərin birinin hər hansı muzdlu işdən vergi tutulmalı olan aylıq gəliri 300 manat azaldılır.
+B140-MIS,R0106,EMSMN-9040,body,edit,0,Uşağı övladlığa götürən valideynlərin birinin hər hansı muzdlu işdən vergi tutulmalı olan aylıq gəliri 200 manat azaldılır.
+B141-CON,R0092,EMSMN-8637,body,edit,0,Proqram əsasında işlə təmin edilmiş şəxslərin 2 il ərzində əməkhaqlarının bir hissəsini Dövlət Məşğulluq Agentliyi maliyyələşdirir.
+B141-MIS,R0092,EMSMN-8637,body,edit,0,"Proqram əsasında işlə təmin edilmiş şəxslərin 1 il ərzində əməkhaqlarının bir hissəsini Dövlət Məşğulluq Agentliyi maliyyələşdirir, yəni bu müddətdə əməkhaqqının əsas yükünü dövlət daşıyır."
+B142-CON,R0269,EMSMN-9911,body,edit,0,Həmin vəsaitlərin 10 faizi isə əməkhaqqından ibarət olub.
+B142-MIS,R0269,EMSMN-9911,body,edit,0,"Ölkədə gecikdirilmiş vəsaitlərin 10 faizi isə zərərə görə ödənc, müavinət və kompensasiyalardan ibarət olub."
+B143-CON,R0246,EMSMN-9090,body,edit,0,"Martın 11-də Bakı, Sumqayıt şəhərləri, Abşeron rayonu, Naxçıvan Muxtar Respublikasında yaşayan pensiyaçıların və güzəştli şərtlərlə pensiya təyin edilmiş şəxslərin mart ayı üzrə pensiyaları qrafikdən əvvəl ödənilib."
+B143-MIS,R0246,EMSMN-9090,body,edit,0,"Martın 6-da Bakı, Sumqayıt şəhərləri, Abşeron rayonu, Naxçıvan Muxtar Respublikasında yaşayan pensiyaçıların və güzəştli şərtlərlə pensiya təyin edilmiş şəxslərin mart ayı üzrə pensiyaları banklar tərəfindən qrafikdən əvvəl ödənilib."
+B144-CON,R0230,EMSMN-8683,body,edit,0,Orta pensiyanın məbləğinin 640 manata çatması proqnozlaşdırılır.
+B144-MIS,R0230,EMSMN-8683,body,edit,0,Orta pensiyanın məbləği 590 manata çatdırılacaq.
+B145-CON,R0264,EMSMN-9731,body,edit,0,İşçilər ən azı 30 faiz olmaqla dörd müxtəlif iş rejimi üzrə bölüşdürüləcək.
+B145-MIS,R0264,EMSMN-9731,body,edit,0,İşçilərin ən azı 30 faizi üç müxtəlif iş rejimi üzrə bölüşdürüləcək.
+B146-CON,R0105,EMSMN-8942,headline,edit,0,Ötən il 80 mindən çox gənc işlə təmin edilib.
+B146-MIS,R0105,EMSMN-8942,headline,edit,0,Ötən il ölkədə ümumilikdə 72 mindən çox gənc işlə təmin edilib.
+B147-CON,R0235,EMSMN-8933,body,edit,0,Ümumilikdə son bir ildə əlilliyi olan 1500-dək şəxs peşə kurslarına cəlb olunub.
+B147-MIS,R0235,EMSMN-8933,body,edit,0,Ümumilikdə son bir ildə eşitmə əlilliyi olan 500-dək şəxs peşə kurslarına cəlb olunub.
+B148-CON,R0250,EMSMN-9145,body,edit,0,Dövlət Əmək Müfəttişliyi Xidməti yanvar-mart ayları ərzində işəgötürənlər tərəfindən sosial xarakterli ödənişlər olan 300 min 742 manat vəsaitin işçilərə ödənilməsinin gecikdirildiyini müəyyən edib.
+B148-MIS,R0250,EMSMN-9145,body,edit,0,Dövlət Əmək Müfəttişliyi Xidməti yanvar-mart ayları ərzində sosial müdafiə sistemi üzrə sosial xarakterli ödənişlər olan 200 min 742 manat vəsaitin işçilərə ödənilməsinin gecikdirildiyini müəyyən edib.
+B149-CON,R0112,EMSMN-9067,body,edit,0,"Martın 16-da Dövlət Sosial Müdafiə Fondu tərəfindən Bakı, Sumqayıt şəhərləri, Abşeron rayonu üzrə mart ayının pensiyalarının ödənilməsi nəzərdə tutulub."
+B149-MIS,R0112,EMSMN-9067,body,edit,0,"Martın 6-da Dövlət Sosial Müdafiə Fondu tərəfindən Bakı, Sumqayıt şəhərləri, Abşeron rayonu üzrə mart ayının pensiyalarının ödənilməsi qərara alınıb."
+B150-CON,R0251,EMSMN-9196,body,edit,0,AZS ISO 45001 standartı iş yerlərində rəhbərliyin əməyin mühafizəsi prosesinə birbaşa cəlb olunmasını və işçilərin təhlükəsizlik qərarlarında yaxından iştirakını tələb etmir.
+B150-MIS,R0251,EMSMN-9196,body,edit,0,AZS ISO 45001 standartı iş yerlərində rəhbərliyin əməyin mühafizəsi prosesinə birbaşa cəlb olunmasını və işçilərin qərarlarda yaxından iştirakını tələb edir.

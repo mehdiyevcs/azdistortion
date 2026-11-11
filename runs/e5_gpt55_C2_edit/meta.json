@@ -1,0 +1,19 @@
+{
+ "run_id": "e5_gpt55_C2_edit",
+ "system": "gpt55",
+ "condition": "C2",
+ "sample": "edit",
+ "merged": true,
+ "n": 300,
+ "n_called_C2": 54,
+ "n_copied_from_C1": 246,
+ "parts": [
+  "e5_gpt55_C2t2_edit",
+  "e5_gpt55_C1_edit"
+ ],
+ "raw": "runs/e5_gpt55_C2t2_edit/raw (C2 calls) and runs/e5_gpt55_C1_edit/raw (copied C1 calls)",
+ "prompt_sha256": "4cd86262bd9bc9af189a1211fd67319a072c2b650160dbe1d5f672c6c93fbba7",
+ "model_id": "gpt-5.5-2026-04-23",
+ "finished": "2026-11-10 13:11:43",
+ "note": "cost and minutes of this run = those of the C2t2 part; the copied rows were paid in the C1 run"
+}

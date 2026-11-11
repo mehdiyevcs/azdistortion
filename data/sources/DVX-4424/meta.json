@@ -1,0 +1,14 @@
+{
+ "ann_id": "DVX-4424",
+ "t1_files": [
+  "data/raw/announcements/DVX-4424/text_0.txt"
+ ],
+ "t2_files": [],
+ "has_t2": 0,
+ "t2_status": "no",
+ "t1_is_act": 0,
+ "sha256_T1": "04f9cfdc13a45bed5aed2d5dec524dce76a755b238a51ac188924916b077ba6b",
+ "sha256_T2": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+ "chars_T1": 712,
+ "chars_T2": 0
+}

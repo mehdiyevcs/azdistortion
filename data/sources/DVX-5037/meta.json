@@ -1,0 +1,14 @@
+{
+ "ann_id": "DVX-5037",
+ "t1_files": [
+  "data/raw/announcements/DVX-5037/text_0.txt"
+ ],
+ "t2_files": [],
+ "has_t2": 0,
+ "t2_status": "no",
+ "t1_is_act": 0,
+ "sha256_T1": "5b8d3b4d2dbd422ba10bfe745a3ac0198d1324526044a3c61b1ce47a494a0665",
+ "sha256_T2": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+ "chars_T1": 3053,
+ "chars_T2": 0
+}

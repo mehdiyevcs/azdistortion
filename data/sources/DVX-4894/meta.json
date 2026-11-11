@@ -1,0 +1,14 @@
+{
+ "ann_id": "DVX-4894",
+ "t1_files": [
+  "data/raw/announcements/DVX-4894/text_0.txt"
+ ],
+ "t2_files": [],
+ "has_t2": 0,
+ "t2_status": "no",
+ "t1_is_act": 0,
+ "sha256_T1": "483085f2be93d1629ea2f0e0c18255e604fffefd021e83008321a38bc9bbb4b5",
+ "sha256_T2": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+ "chars_T1": 2910,
+ "chars_T2": 0
+}

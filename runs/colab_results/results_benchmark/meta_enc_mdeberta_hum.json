@@ -1,0 +1,64 @@
+{
+ "data": {
+  "train_labels": "/content/azd/main/runs/nonllm_inputs/train_labels.csv",
+  "source": "main: /content/azd/main/annotation/claims/claims_benchmark.csv; gold /content/azd/main/annotation/reference/reference_R1.csv (506 rows); train_on=human",
+  "n_not_training_target": 1422,
+  "n_train_label_unassessable": 6,
+  "n_no_train_label": 46,
+  "n_gold_unassessable_not_scored": 4,
+  "clusters": "/content/azd/main/sampling/clusters.csv",
+  "n_claims": 1573,
+  "train_label_counts": {
+   "SUPPORTED": 1136,
+   "None": 46,
+   "MISREPRESENTED": 18,
+   "NOT_IN_SOURCE": 362,
+   "UNASSESSABLE": 6,
+   "CONTRADICTED": 5
+  },
+  "n_clusters": 85
+ },
+ "edits": {},
+ "e5": {},
+ "model": "microsoft/mdeberta-v3-base",
+ "model_revision": "a0484667b22365f84929a935b5e50a51f71f159d",
+ "top_k": 3,
+ "conditions": [
+  "C2"
+ ],
+ "system": "S2_mdeberta_hum",
+ "device": "cuda",
+ "folds_sha256": "1bfbbfd6aac8e644fa1e0db5ab424591ac152a0dbd791ee717d613f9330085cb",
+ "label_set": [
+  "SUPPORTED",
+  "MISREPRESENTED",
+  "NOT_IN_SOURCE"
+ ],
+ "inner_scoring": "macro-F1 over label_set",
+ "lr_grid": [
+  1e-05,
+  2e-05,
+  3e-05
+ ],
+ "epochs": 3,
+ "batch": 16,
+ "micro_batch": 16,
+ "max_len": 512,
+ "max_steps": 0,
+ "seeds": [
+  1,
+  2,
+  3
+ ],
+ "select_seed": 1,
+ "outer_folds": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "total_seconds": 196.0,
+ "python": "3.13.16",
+ "written": "2026-11-10 21:56:09"
+}

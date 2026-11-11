@@ -1,0 +1,18 @@
+{
+ "ann_id": "DVX-4541",
+ "t1_files": [
+  "data/raw/announcements/DVX-4541/text_0.txt"
+ ],
+ "t2_files": [
+  "data/raw/announcements/DVX-4541-DEC/text_0.txt",
+  "data/raw/announcements/DVX-4541-DEC/text_1.txt",
+  "data/raw/announcements/DVX-4541-DEC/tables_1_checked.txt"
+ ],
+ "has_t2": 1,
+ "t2_status": "yes",
+ "t1_is_act": 0,
+ "sha256_T1": "48342b119fdb489b399ab958fd792529c044685363dfaa92fdcd3f66c264a72f",
+ "sha256_T2": "d600d8ae770ecd831fdb57c887e8afa25454b405c957d3a77071896b6ddc20cc",
+ "chars_T1": 3748,
+ "chars_T2": 95247
+}

@@ -1,0 +1,1628 @@
+[Study note: this is the consolidated text frozen on 2026-11-09. It also includes amendments of 4 August 2026 (decision 35/2) and 18 August 2026 (decision 36/2), made after the news reports. Those later amendments change points 2.1.4, 2.1.5.6, 2.1.5.9, 2.1.13, 5.4-4 and Annex 4, not the provisions of decision 18/11 announced on 25 June 2026.]
+
+=== text_0_nostrike.txt ===
+--- page 1 ---
+AZƏRBAYCAN RESPUBLİKASI MƏRKƏZİ BANKININ İDARƏ HEYƏTİNİN
+QƏRA RI
+№ 46/4
+Bakı şəhəri 21 sentyabr 2023-cü il
+“Banklarda kredit risklərinin idarə edilməsi Qaydası”nın təsdiq edilməsi barədə
+“Banklar haqqında” Azərbaycan Respublikası Qanununun 34.5-ci maddəsinə və
+“Azərbaycan Respublikasının Mərkəzi Bankı haqqında” Azərbaycan Respublikası
+Qanununun 22.1.17-ci maddəsinə əsasən Azərbaycan Respublikası Mərkəzi Bankının
+İdarə Heyəti
+Q Ə R A R A A L I R:
+1. “Banklarda kredit risklərinin idarə edilməsi Qaydası” təsdiq edilsin (əlavə
+olunur).
+2. “Banklarda kredit risklərinin idarə edilməsi Qaydaları”nın təsdiq edilməsi
+barədə” ləğv edilmiş Azərbaycan Respublikası Maliyyə Bazarlarına Nəzarət Palatasının
+2019-cu il 30 yanvar tarixli 1951100005 nömrəli Qərarı ləğv edilsin.
+3. Hüquq departamentinə (Rəna Məlikova) tapşırılsın ki, bu Qərarın 3 gün
+müddətində Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestrinə daxil
+edilməsi üçün Azərbaycan Respublikasının Ədliyyə Nazirliyinə təqdim olunmasını
+təmin etsin.
+Mərkəzi Bankın sədri Taleh Kazımov
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 2 ---
+“Təsdiq edilmişdir”
+Azərbaycan Respublikasının
+Mərkəzi Bankı
+Qərar № 46/4
+21 sentyabr 2023-cü il
+Banklarda kredit risklərinin idarə edilməsi Qaydası
+1. Ümumi müddəalar
+1.1. Bu Qayda “Banklar haqqında” Azərbaycan Respublikası Qanununun 34.5-ci
+maddəsinə uyğun olaraq hazırlanmışdır və banklarda kredit risklərinin idarə edilməsinə
+dair minimum tələbləri müəyyən edir.
+1.2. Banklarda kredit risklərinin idarə edilməsi bankın risklərin idarə edilməsi
+sisteminin tərkib hissəsidir.
+1.3. Banklarda kredit risklərinin idarə edilməsinin təşkilati strukturu “Banklarda
+korporativ idarəetmə Standartları” ilə tənzimlənir.
+2. Anlayışlar
+2.1. Bu Qaydada istifadə olunan anlayışlar aşağıdakı mənaları daşıyır:
+2.1.1. kredit riski – borcalanın, emitentin və ya kontragentin öz öhdəliyini müqavilə
+şərtlərinə uyğun olaraq icra edə bilməməsi nəticəsində itkinin yaranması riski;
+2.1.2. faktiki illik faiz dərəcəsi – kredit üzrə bu Qaydaya 2 nömrəli Əlavədə
+müəyyən edilən qaydada hesablanan illik faiz dərəcəsi;
+2.1.3. valyuta məzənnəsinin hedcinqi - mübadilə məzənnəsinin dəyişməsindən
+yarana biləcək itkinin azaldılması vasitəsi;
+2.1.4. qeyri-işlək kredit – Azərbaycan Respublikası Mərkəzi Bankının (bundan sonra
+– Mərkəzi Bank) normativ xarakterli aktlarına əsasən qeyri-standart aktiv kimi
+təsnifləşdirilmiş kredit;
+2.1.4-1. “yaşıl” kredit – mövcud və ya yeni “yaşıl” fəaliyyətlərin tam və ya qismən
+maliyyələşdirilməsi, o cümlədən yenidən maliyyələşdirilməsi məqsədilə verilən kredit;1
+2.1.4-2. “yaşıl” fəaliyyət – Azərbaycan Respublikası Nazirlər Kabinetinin 2026-cı il 1 may
+tarixli 126 nömrəli Qərarı ilə təsdiq edilmiş “Azərbaycan Respublikasının Milli Yaşıl
+Taksonomiyası”nda müəyyən edilmiş tələblərə uyğun fəaliyyət;2
+2.1.4-3. dayanıqlılıq profili – borcalanın fəaliyyəti zamanı onun ətraf mühitə və iqlimə və
+bunun nəticəsində cəmiyyətə təsirini ifadə edən göstəricilərin məcmusu;
+2.1.4-4. "dayanıqlılıqla əlaqəli” kredit – borcalanın müəyyənləşdirdiyi əsas dayanıqlılıq
+hədəfləri əsasında fəaliyyəti ölçülməklə verilən, dayanıqlılıq profilinin kredit müddəti ərzində
+yaxşılaşdırılmasına, dayanıqlılıq hədəflərinə nail olunmasına, habelə ətraf mühit və sosial cəhətdən
+dayanıqlı iqtisadi fəaliyyətlərin dəstəklənməsinə yönələn kredit məhsulu;
+2.1.4-5. “dayanıqlı” kredit - "yaşıl" və "dayanıqlılıqla əlaqəli" kredit;
+2.1.4-6. Əsas Fəaliyyət Göstəriciləri (ƏFG) – borcalanın dayanıqlılıq hədəflərinə nail olması
+üzrə əsas indikatorlar (1-ci və 2-ci dərəcəli istixana qazı emissiyalarının azaldılması və s.);
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 3 ---
+2.1.4-7. Əsas dayanıqlılıq hədəfləri (ƏDH) – borcalanın dayanıqlılıq profilinin
+yaxşılaşdırılması üçün ƏFG üzrə müəyyən edilmiş hədəflər (yenilənə bilən enerji mənbələrinin
+artırılması ilə 5 (beş) il ərzində istixana qazı emissiyalarının 30% azaldılması və s.);
+2.1.4-8. iqlim riski – iqlim dəyişmələri nəticəsində yaranan fiziki (ani baş verən təbiət
+hadisələrinin tezliyinin və kəskinliyinin artması (daşqın, meşə yanğınları, torpaq sürüşmələri,
+tufan və s.), eləcə də iqlim göstəricilərində tədricən baş verən dəyişikliklər (temperaturun artması,
+yağıntıların artması, dəniz səviyyəsinin qalxması və s.) nəticəsində yaranan) və keçid (aşağı
+karbon iqtisadiyyatına uyğunlaşma prosesində (hüquqi tənzimləmədə və texnoloji mühitdə baş
+verən dəyişikliklər və s.) yaranan) riskləri;
+2.1.5. davranış modeli - borcalana dair məlumatlar (dövriyyəsi, xərcləri və s.) əsasında onun
+proqnozlaşdırılmış gəlirinin müəyyənləşdirilməsi üçün tətbiq olunan metod; 3
+2.1.6. modelin validasiyası - ehtimal olunan nəticələri faktiki nəticələrlə müqayisə etməklə
+tətbiq olunan modelin adekvatlığının müəyyən edilməsi üçün həyata keçirilən qiymətləndirmə
+prosesi;
+2.1.7. stres-test – bir və ya bir neçə şokun bankın maliyyə vəziyyətinə potensial təsirinin
+qiymətləndirilməsi aləti.4
+2.2. Bu Qaydada istifadə olunmuş “istehlak krediti”, “biznes krediti”, “kənd təsərrüfatı
+krediti”, “restrukturizasiya”, “bazar qiyməti”, “borcun gəlirə nisbəti əmsalı (BGN əmsalı)
+anlayışları Mərkəzi Bankın İdarə Heyətinin 2022-ci il 22 iyul tarixli 29/1-1 nömrəli Qərarı ilə
+təsdiq edilmiş “Aktivlərin təsnifləşdirilməsi və mümkün zərərlərin ödənilməsi üçün xüsusi
+ehtiyatların yaradılması Qaydası”nda, “kredit tələbi”, “kreditin təminata olan nisbəti əmsalı”
+anlayışları Mərkəzi Bankın İdarə Heyətinin 2022-ci il 22 iyul tarixli 29/1-2 nömrəli Qərarı ilə
+təsdiq edilmiş “Kredit riskləri, o cümlədən iri kredit riskləri ilə bağlı prudensial normativ və
+tələblərə dair Qayda”da, “risk iştahası”, “risk profili”, “risk limiti” və “şok” anlayışları isə
+Mərkəzi Bankın İdarə Heyətinin 2023-cü il 28 avqust tarixli 41/1 nömrəli Qərarı ilə təsdiq edilmiş
+“Banklarda korporativ idarəetmə Standartları”nda müəyyən olunmuş mənaları ifadə edir.5
+3. Kredit risklərinin idarə edilməsi sistemi
+3.1. Banklarda kredit risklərinin idarə edilməsi sistemi aşağıdakı elementlərdən
+ibarətdir:
+3.1.1. kredit risklərinin idarə edilməsi siyasəti;
+3.1.2. kredit risklərinin qiymətləndirilməsi;
+3.1.3. təminatın qiymətləndirilməsi;
+3.1.4. kredit risklərinin monitorinqi;
+3.1.5. qeyri-işlək kreditlərin idarə edilməsi qaydası;
+3.1.6. stres-testin aparılması; 6
+3.1.7. hesabatlıq;
+3.1.8. kredit risklərinin idarə edilməsinin təşkilati strukturu.
+4. Kredit risklərinin idarə edilməsi siyasəti
+4.1 Bankın strategiyası, risk iştahası və risklərin idarə edilməsi siyasətinə müvafiq
+olaraq bankın Baş risk inzibatçısı tərəfindən kredit risklərinin idarə edilməsi siyasəti
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 4 ---
+hazırlanır. Bankın kredit risklərinin idarə edilməsi siyasəti bu Qaydaya və Mərkəzi
+Bankın müəyyən etdiyi digər prudensial tələblərə cavab verməklə yanaşı, onun
+əməliyyatlarının həcminə, mürəkkəbliyinə və risk profilinə adekvat olmalıdır.
+4.2. Kredit risklərinin idarə edilməsi siyasəti bankın kredit tələblərinin yaranması,
+investisiya əməliyyatlarının aparılması, yeni bank məhsulları ilə bağlı qərarların qəbul
+edilməsi, makroiqtisadi mühitin kreditlərin verilməsi ilə bağlı qərarlara təsiri
+istiqamətini müəyyən edir. Kredit risklərinin idarə edilməsi siyasətində ən azı
+aşağıdakılar öz əksini tapır:
+4.2.1. təminata dair minimum tələblər (qəbul edilən təminat növləri, dəyəri və s.);
+4.2.2. təminatsız, habelə xarici valyutada kreditlərin portfeldə maksimum həcmi və
+onların verilməsi ilə bağlı tələblər;
+4.2.3. kredit məhsulu üzrə kredit məbləğinin yuxarı həddi;
+4.2.4. kənd təsərrüfatı kreditləri üzrə şərtlər müəyyən edilərkən kənd təsərrüfatı
+subyektinin fəaliyyət tsikli və mövsümi xüsusiyyətləri;
+4.2.5. kredit portfelində qeyri-işlək kreditlərin yuxarı həddi;
+4.2.6. qeyri-işlək kreditlərin idarə edilməsi qaydası;
+4.2.7. bankın investisiya əməliyyatları ilə bağlı tələbləri;
+4.2.8. daxili risk reytinqi sistemi və hər bir risk dərəcəsi üzrə meyarlar;
+4.2.9. bankın yeni fəaliyyət istiqaməti və yeni məhsulunun təqdim edilməsi ilə bağlı
+tələblər;
+4.2.10. törəmə maliyyə alətlərinin növləri və kontragentlər ilə bağlı meyarlar;
+4.2.11. ən azı aşağıdakı istiqamətlər üzrə maksimum limitlər:
+4.2.11.1. BGN əmsalı (borcalan üzrə, kredit növləri üzrə və s.);
+4.2.11.2. bir borcalan və ya bir-biri ilə əlaqədar borcalanlar qrupu üzrə bankın kredit
+tələbinin yuxarı həddi;
+4.2.11.3. banka aidiyyəti olan şəxslər ilə aparılan əməliyyatların həcmi;
+4.2.11.4. kredit məhsulu, kreditin müddəti, iqtisadi sektor, coğrafi ərazi, bankın
+filialı üzrə kredit tələbinin həcmi;
+4.2.11.5. informasiya sistemləri vasitəsilə avtomatlaşdırılmış qaydada
+qiymətləndirilə bilən kreditin maksimum məbləği;
+4.2.11.6. kreditlərin ümumi həcminin depozitlərin ümumi həcminə nisbəti;
+4.2.11.7. təminat növləri, təminat növləri üzrə kreditin təminata olan nisbəti əmsalı
+və təminatsız kreditlər üzrə kredit tələbinin həcmi;
+4.2.11.8. digər maliyyə institutları üzrə kredit tələbinin həcmi;
+4.2.11.9. bankın investisiya etdiyi törəmə maliyyə alətlərinin həcmi;
+4.2.12. kredit tələbinin yaranması və kredit riskinin monitorinqi prosesində iştirak
+edən struktur bölmə və əməkdaşların səlahiyyət və məsuliyyət bölgüsü. Səlahiyyət və
+məsuliyyət bölgüsü borcalanın, emitentin və kontragentin riskliliyindən, habelə aparılan
+əməliyyatın məbləğindən asılı olaraq müəyyən edilir.
+4.3. Bankın strateji planında kənd təsərrüfatı sektorunun maliyyələşdirilməsi
+nəzərdə tutulduqda, kredit risklərinin idarə edilməsi siyasətində kənd təsərrüfatı
+kreditləri ilə bağlı ən azı kredit məbləğinin yuxarı həddi, təminata dair minimum
+tələblər, kredit risklərinin qiymətləndirilməsi, monitorinqi, o cümlədən monitorinq
+dövriliyi və kredit inzibatçılığına dair tələblər nəzərdə tutulmalıdır.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 5 ---
+4.3-1. Bankda kreditlərin verilməsi prosesində davranış modellərindən istifadə edildikdə
+kredit risklərinin idarə edilməsi siyasətində belə kreditlərlə bağlı bankın risk iştahası və risk
+limitlərinə dair tələblər nəzərdə tutulmalıdır.7
+4.4. Kredit risklərinin idarə edilməsi siyasəti və ona dəyişikliklər bankın Müşahidə
+Şurası tərəfindən təsdiqlənir və ən azı ildə bir dəfə yenidən nəzərdən keçirilir. Kredit
+risklərinin idarə edilməsi siyasətindən kənarlaşmalar olduqda, bu barədə bankın
+risklərin idarə edilməsi funksiyasını həyata keçirən struktur bölməsi tərəfindən RİK-ə və
+İdarə Heyətinə məlumat verilir.
+4.5. Kredit risklərinin idarə edilməsi siyasətində müəyyən edilmiş limitlərdən
+kənarlaşmalara yol verilməsi zərurəti yarandıqda, belə kənarlaşmalara RİK-in təklifi
+əsasında yalnız Müşahidə Şurasının qərarı ilə icazə verilə bilər.
+5. Kredit risklərinin qiymətləndirilməsi
+5.1. Bank kredit tələbinin yaranması, investisiya əməliyyatlarının aparılması, habelə
+yeni bank məhsullarının təqdim edilməsi zamanı kredit risklərini qiymətləndirir.
+5.2. Borcalan üzrə kredit risklərinin qiymətləndirilməsi üçün onun ödəmə
+qabiliyyəti qiymətləndirilir. Bu zaman ən azı aşağıdakılar nəzərə alınır:
+5.2.1. istehlak kreditləri üzrə:
+5.2.1.1. borcalanın BGN əmsalı;
+5.2.1.2. borcalanın yaşı və iş təcrübəsi;
+5.2.1.3. kreditin məqsədi və onun ödənilməsi mənbəyi;
+5.2.1.4. borcalanın kredit tarixçəsi;
+5.2.1.5. kreditin təminata olan nisbəti əmsalı (kredit üzrə təminat olduqda);
+5.2.1.6. borcalanın əsas gəlirlərinin azalması halında borcun ödənilməsinin
+alternativ yolları;
+5.2.1.7. borcalanın xərclərinin səviyyəsi, habelə kreditin ödəmə müddətində
+borcalanın xərclərinin artması və ya azalması ehtimalları.
+5.2.2. digər kredit tələbləri (iri və orta sahibkarlara verilən biznes krediti, qarantiya,
+akkreditiv və s.) ilə bağlı bu Qaydanın 5.2.1.3 – 5.2.1.5-ci yarımbəndlərində qeyd olunan
+meyarlar ilə yanaşı aşağıdakılar nəzərə alınır:
+5.2.2.1. borcalanın müxtəlif ssenarilərdə pul axınlarının pisləşməsi halında borc
+öhdəliyinin ödənilməsi yolları;
+5.2.2.2. hüquqi şəxs olduqda, borcalanın səhmdarları (payçıları) və idarəetmə
+orqanının üzvləri barədə məlumatlar;
+5.2.2.3. borcalanın biznes təcrübəsi və onun fəaliyyət göstərdiyi sektorda mövqeyi;
+5.2.2.4. borcalanın maliyyə vəziyyəti (borcalan holdinq şirkəti və ya holdinq
+şirkətinin tərkibindəki şirkət olduqda konsolidasiya olunmuş əsasda baxılır). Bu zaman,
+borcalanın və ya emitentin maliyyə hesabatlarına (olduqda, auditor rəyi ilə birlikdə kənar
+auditor yoxlamasından keçmiş maliyyə hesabatları), vergi orqanlarına təqdim etdiyi
+hesabatlara, habelə borcalanın və ya emitentin biznes planına (yeni biznes növü və ya
+sahəsi yaradıldıqda) baxılır. Borcalanın maliyyə hesabatları kredit üzrə sifarişin təqdim
+edilməsi tarixindən ən azı son 2 (iki) illik dövrü (borcalanın fəaliyyətə başladığı müddət
+2 ildən az olduqda, fəaliyyət göstərdiyi dövrü) əhatə edir.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 6 ---
+5.2.3. kiçik sahibkarlara verilən biznes kreditləri bu Qaydanın 5.2.1.3-5.2.1.5-ci
+yarımbəndlərində qeyd olunan meyarlar ilə yanaşı ən azı bir illik dövriyyəsi və maliyyə
+hesabatları nəzərə alınır;
+5.2.4. xarici valyutada verilmiş kredit tələbləri üzrə bu Qaydanın 5.2.1-5.2.3-cü
+yarımbəndlərinin tələbləri ilə yanaşı, borcalanın məzənnə riskinə qarşı həssaslığı
+qiymətləndirilir. Bu zaman aşağıdakılar nəzərə alınır:
+5.2.4.1. borcalanın xarici valyutada olan pul axınları;
+5.2.4.2. borcalanın istifadə etdiyi valyuta məzənnəsinin hedcinq alətləri, habelə
+onların etibarlılıq müddəti;
+5.2.4.3. xarici valyutanın milli valyuta qarşısında dəyər qazanması halında
+borcalanın artmış kredit öhdəliyini ödəmə qabiliyyəti;
+5.2.4.4. borcalanın valyuta mövqeyi (borcalanın xarici valyutada olan tələb və
+öhdəlikləri arasındakı fərq).
+5.2.5. kredit borcalana xarici ölkədə istifadə məqsədilə verildiyi təqdirdə, bu
+Qaydanın 5.2.1-5.2.3-cü yarımbəndlərinin tələbləri ilə yanaşı, kreditin istifadə edildiyi
+ölkədə iqtisadi və siyasi amillərin onun ödəmə qabiliyyətinə təsiri, həmçinin, kredit
+müqaviləsi üzrə öhdəliklərin icrasında, habelə təminatın realizə edilməsində yarana
+biləcək risklər də nəzərə alınmalıdır.
+5.3. Bu Qaydanın 5.2-ci bəndinin tələbləri kontragentin və emitentin sahibkarlıq
+subyektlərinin bölgüsü üzrə növündən (kiçik, orta, iri sahibkar) asılı olaraq investisiya
+əməliyyatlarının aparılması, o cümlədən qiymətli kağızların ticarəti əməliyyatı üzrə
+kredit risklərinin qiymətləndirilməsi zamanı nəzərə alınır. Bu zaman bank tərəfindən
+kontragentin və emitentin beynəlxalq nüfuzlu reytinq agentlikləri (“Fitch”, “Moody’s”
+və “Standard & Poor’s”) tərəfindən verilmiş kredit reytinqi (mövcud olduğu halda),
+likvidliyi, müqavilə üzrə öhdəliklərini yerinə yetirmə qabiliyyəti kredit risklərinin
+qiymətləndirilməsinə daxil edilir.
+5.4. Kənd təsərrüfatı kreditləri üzrə borcalanın ödəmə qabiliyyətinin
+qiymətləndirilməsi zamanı bu Qaydanın 5.2.2-ci və 5.2.3-cü yarımbəndlərinin tələbləri ilə
+yanaşı ən azı kredit məbləğini əhatə edən, habelə sığorta müqaviləsində sığorta hadisəsi
+baş verdikdə kreditin qalıq məbləğində sığorta ödənişinin faydalanan şəxs qismində
+banka ödənilməsi şərtini nəzərdə tutan sığorta təminatının olması (aqrar sığorta və s.)
+nəzərə alınır. Kreditin maliyyələşdirilməsi birdən çox bank tərəfindən aparıldıqda,
+sığorta müqaviləsində sığorta hadisəsi baş verdikdə sığorta vəsaitlərinin banklar
+arasında bölüşdürülməsi şərtləri müəyyən edilməlidir.
+5.4-1. “Yaşıl” və “dayanıqlılıqla əlaqəli” kreditlər üzrə borcalanın ödəmə qabiliyyətinin
+qiymətləndirilməsi zamanı ondan fəaliyyətin, layihənin və (və ya) məhsulun yaşıl və (və ya)
+dayanıqlılığını təsdiq edən aşağıdakı sənədlərdən bir və ya bir neçəsi tələb edilir:8
+5.4-1.1. özünüqiymətləndirmə sənədi;
+5.4-1.2. fəaliyyətə, layihəyə və (və ya) məhsula dair ixtisaslaşmış şəxs(lər)dən əldə edilmiş
+təsdiqedici rəy;
+5.4-1.3. beynəlxalq təşkilatlar tərəfindən verilən təsdiqedici sənəd.
+5.4-2. Özünüqiymətləndirmə sənədi kreditin “yaşıl” və ya “dayanıqlılıqla əlaqəli”
+xüsusiyyətlərinin bu Qaydanın tələblərinə uyğunluğunu təsdiq etmək məqsədilə borcalan
+tərəfindən hazırlanır.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 7 ---
+5.4-3. İxtisaslaşmış şəxs(lər)dən əldə edilmiş təsdiqedici rəy borcalanın əsas dayanıqlılıq
+hədəflərini və bu hədəfə nailolma planlarına dair üçüncü tərəfin rəyini ehtiva edir. İxtisaslaşmış
+şəxs(lər) borcalanın və bankın razılığı ilə seçilmiş və aşağıdakı tələblərə cavab verən dövlət
+orqanları (qurumları), ekoloji auditorlar, ətraf mühit üzrə məsləhətçilər, məsləhətçi şirkətlər və ya
+reytinq agentlikləri ola bilər:
+5.4-3.1. dövlət orqanları (qurumları) istisna olmaqla, digər şəxslərin “yaşıl” və
+“dayanıqlılıqla əlaqəli” fəaliyyətin, layihənin və (və ya) məhsulun qiymətləndirilməsi sahəsində 5
+(beş) il iş təcrübəsi olmalıdır;
+5.4-3.2. qiymətləndirmələri uyğun şəkildə həyata keçirmək üçün əvvəlcədən müəyyən
+edilmiş metodologiya və prosedurlara malik olmalıdır;
+5.4-3.3. qiymətləndirmə aparılacaq sahələr (karbon emissiyası mühasibatlığı, bərpa olunan
+enerji və ya enerji effektivliyi və s.) üzrə ixtisaslaşmış işçilərə malik olmalıdır;
+5.4-3.4. təsdiqedici rəydə qiymətləndirməni aparan şəxslərin ixtisasları və təcrübəsi barədə
+məlumatlar, yaxud bu məlumatların mövcud olduğu mənbələr göstərilməlidir;
+5.4-3.5. ixtisaslaşmış şəxs və borcalan arasında maraqlar münaqişəsi olmamalıdır.
+5.4-4. Beynəlxalq təşkilatlar tərəfindən verilən təsdiqedici sənəd dedikdə beynəlxalq
+səviyyədə tanınmış və akkreditə edilmiş təşkilatlar və ya standart təyin edən qurumlar və ya
+birbaşa istehsalçı tərəfindən verilən, məhsulun ətraf mühit, enerji səmərəliliyi kimi məqsədlərini
+təsdiqləyən sertifikat nəzərdə tutulur. Bu sənədlərə Azərbaycan Respublikası Nazirlər Kabinetinin
+2026-cı il 1 may tarixli 126 nömrəli Qərarı ilə təsdiq edilmiş “Azərbaycan Respublikasının Milli
+Yaşıl Taksonomiyası”nda Sektorlar üzrə Texniki Qiymətləndirmə Meyarları cədvəllərinin “Əsas
+meyarlar/texniki standartlar və tələb olunan sertifikatlar” sütunlarında qeyd edilmiş
+sertifikasiyalar və ya olduğu halda ESİ reytinqi sənədləri aid ola bilər.9
+5.4-5. Beynəlxalq təşkilatlar tərəfindən verilən təsdiqedici sənəd(lər) məhsulun “yaşıl”
+olmasının qiymətləndirilməsi üçün texniki cəhətdən mürəkkəb olmayan (müvafiq parametrləri
+istehsalçının məhsul sertifikatı ilə təsdiq olunan) məhsul üzrə kifayət edir. Yeni A+++ enerji
+sərfiyyatı sertifikatlı kondisioner alışı, elektrik avtomobili alışı üzrə kredit və s. bu hallara nümunə
+ola bilər.
+5.4-6. “Dayanıqlılıqla əlaqəli” kreditlərin qiymətləndirilməsi və kredit müddətində
+dayanıqlılıq göstəricilərinin monitorinqi məqsədilə hər bir kredit üzrə müvafiq ƏFG və ƏDH
+indikatorları tərəflər arasında əvvəlcədən müqavilədə müəyyənləşdirilir. Bank borcalandan
+müvafiq indikatorların uyğunluğunun ixtisaslaşmış şəxs(lər) tərəfindən təsdiq edilməsini tələb
+edə bilər.
+5.4-7. ƏFG və ƏDH borcalanın əsas biznes fəaliyyətinə uyğun olmalı, cari və gələcək
+fəaliyyəti üzrə strateji əhəmiyyət daşımalı, aydın və dəqiq metodologiya əsasında hesablanmalı və
+kredit müddəti ərzində dəyişməz olaraq qalmalıdır.
+5.5. Kredit tələbinin yaranması zamanı borcalanın bir borcalana və bir-biri ilə
+əlaqədar borcalanlar qrupuna, habelə banka aidiyyəti olan şəxslərə aid olması yoxlanılır.
+5.5-1. Bank müştərinin yazılı müraciəti ilə ona istehlak krediti müqaviləsinin məsafədən
+bağlanılmasına və ya kredit limitinin artırılması ilə bağlı müqaviləyə məsafədən dəyişiklik
+edilməsinə bütün satış kanalları vasitəsilə məhdudiyyət qoymaq imkanı yaratmalıdır. Müvafiq
+məhdudiyyət həmin müştərinin bankda fiziki iştirakı, gücləndirilmiş elektron imzası və ya
+gücləndirilmiş müştəri autentifikasiyası yolu ilə təqdim etdiyi yazılı müraciəti əsasında aradan
+qaldırıla bilər.10
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 8 ---
+5.5-2. Bank istehlak kreditinin verilməsi zamanı kredit müqaviləsinin məsafədən
+bağlanılmasına və ya kredit limitinin artırılması ilə bağlı müqaviləyə məsafədən dəyişiklik
+edilməsinə borcalanın tətbiq etdiyi məhdudiyyətin olmamasını öz informasiya sistemi vasitəsi
+ilə müəyyən etdikdə, məhdudiyyətin olub-olmamasını kredit bürosunun informasiya sistemi
+vasitəsilə də yoxlamalı və nəzərə almalıdır. İstehlak krediti üzrə müvafiq məhdudiyyətin mövcud
+olduğu şəxslə istehlak krediti müqaviləsinin məsafədən bağlanmasına və ya kredit limitinin
+artırılması ilə bağlı müqaviləyə məsafədən dəyişiklik edilməsinə yol verilmir.
+5.5-3. Bank bu Qaydanın 5.5-1-ci və 5.5-2-ci bəndlərində nəzərdə tutulan məhdudiyyəti
+tətbiq etmiş şəxsdən istehlak krediti müqaviləsinin məsafədən bağlanması və ya kredit limitinin
+artırılması ilə bağlı müqaviləyə məsafədən dəyişiklik edilməsi üçün müraciət aldıqda, bu barədə
+müştərini mobil tətbiq və ya SMS məlumatlandırma vasitəsi ilə dərhal məlumatlandırır.
+5.5-4. Məsafədən istehlak krediti müqaviləsinin bağlanması və ya kredit limitinin
+artırılması ilə bağlı müqaviləyə məsafədən dəyişiklik edilməsi zamanı müraciət edən şəxs
+əvvəlcədən məlumatlandırılmaqla vəsaitlər aşağıdakı müddətlərdə verilir:
+5.5-4.1. gün ərzində verilən və ya artırılan vəsaitin məbləği minimum əmək haqqının 2
+(iki) mislinədək və ya onun ekvivalentinədək olduqda – müqavilə bağlandığı və ya müqaviləyə
+dəyişiklik edildiyi andan 2 (iki) saat sonra;
+5.5-4.2. gün ərzində verilən və ya artırılan vəsaitin məbləği minimum əmək haqqının 2
+(iki) mislindən və ya onun ekvivalentindən çox olduqda – müqavilə bağlandığı və ya müqaviləyə
+dəyişiklik edildiyi andan 24 (iyirmi dörd) saat sonra.
+5.6. Borcalanın ödəmə qabiliyyəti kredit tələbinin təminatlı və ya təminatsız
+olmasından asılı olmayaraq, bütün hallarda qiymətləndirilir. Borcalanın depozit
+hesabındakı milli və ya sərbəst dönərli xarici valyutada pul vəsaitləri kredit tələbinin
+təminatı qismində çıxış etdikdə və kredit tələbinə bərabər hissədə bank tərəfindən
+bloklaşdırıldıqda və müqaviləyə görə bankın bu vəsaitin hesab sahibinin sərəncamı
+olmadan hesabdan silinməsinə hüququ olduqda borcalanın ödəmə qabiliyyətinin
+qiymətləndirilməsi tələb olunmur.
+5.7. Bank sindikativ və birgə kreditlərin verilməsində iştirakçı bank qismində çıxış
+etdikdə üzərinə götürdüyü riskin adekvat qiymətləndirilməsində təşkilatçı bankın və ya
+digər iştirakçı bankların birgə qiymətləndirməsinə deyil, kredit sifarişinin tam həcmdə
+özü tərəfindən aparılan hərtərəfli təhlilinə əsaslanır.
+5.8. Borcalanın ödəmə qabiliyyətinin informasiya sistemləri vasitəsilə
+avtomatlaşdırılmış qaydada qiymətləndirilməsi bankın kredit risklərinin idarə edilməsi
+siyasətində müəyyən edilmiş kreditlər üzrə bu Qaydanın tələbləri nəzərə alınmaqla
+aparılır.
+5.9. Bankda kredit risklərinin qiymətləndirilməsi funksiyasını həyata keçirən
+struktur bölmə bankın kreditlərin verilməsi funksiyasını həyata keçirən struktur
+bölmədən ayrı olmalıdır.
+6. Daxili risk reytinqi sistemi
+6.1. Bank kredit riskinin idarə edilməsi siyasətinə müvafiq olaraq borcalanlarla bağlı
+kredit riskini qiymətləndirmək üçün daxili risk reytinqi (bundan sonra - DRR) sistemini
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 9 ---
+hazırlayır. DRR sistemi borcalanları risk reytinqləri üzrə təsnifləşdirməli və portfel üzrə
+ümumi risk profilini müəyyən etməyə imkan verməlidir.
+6.2. DRR sistemi bankın fəaliyyətinə, ölçüsünə və aparılan əməliyyatların
+mürəkkəbliyinə adekvat olmalıdır.
+6.3. Borcalanın risk reytinqi kredit tələbinin yaranma anında müəyyən edilir və ən
+azı ildə bir dəfə yenidən nəzərdən keçirilir. İqtisadi şəraitin, habelə makroiqtisadi
+göstəricilərin, borcalanın öhdəlik üzrə davranışının dəyişməsi hallarında borcalanın risk
+reytinqinə yenidən baxılır.
+6.4. Borcalanın risk reytinqi müəyyən olunan zaman onun maliyyə və keyfiyyət
+(fəaliyyət göstərdiyi sahə, fəaliyyətinin davamlılığı, kredit tarixçəsi və s.) göstəriciləri
+nəzərə alınır.
+6.5. Yeni kredit tələbi yarandıqda, habelə mövcud kredit tələbinin məbləği
+artırıldıqda, borcalanın risk reytinqi yenidən müəyyən edilir.
+6.6. Risk reytinqinin müəyyən edilməsi metodologiyası, onun yenilənmə tezliyi və
+halları kredit risklərinin idarə edilməsi siyasətində əks olunur.
+6.7. Ən azı ildə bir dəfə bankın risklərin idarə edilməsi funksiyasını həyata keçirən
+struktur bölməsi tərəfindən DRR sisteminin əks-yoxlaması (modelin ehtimal olunan
+nəticələrinin faktiki nəticələrlə müqayisə edilməsi) aparılır və yoxlama nəticələri RİK-ə
+və İdarə Heyətinə təqdim edilir.
+6-1. Kreditin verilməsi prosesində davranış modellərindən istifadə11
+6-1.1. Kreditlərin verilməsi prosesində “Kredit riskləri, o cümlədən iri kredit riskləri ilə bağlı
+prudensial normativ və tələblərə dair Qayda”nın tələbləri nəzərə alınmaqla davranış
+modellərindən istifadə oluna bilər. Davranış modelləri əsasında borcalanın proqnozlaşdırılmış
+gəlir məlumatları müəyyən edilə və həmin məlumatlar bu Qaydanın 5.2-ci bəndinin tələblərinə
+uyğun olaraq borcalanın ödəmə qabiliyyətinin hesablanması zamanı nəzərə alına bilər.
+6-1.2. Davranış modelinin hazırlanması və təkmilləşdirilməsi bankın risklərin idarə edilməsi
+funksiyasına daxil olmayan ayrıca struktur bölməsi tərəfindən həyata keçirilir.
+6-1.3. Bu Qaydanın 6-1.2-ci bəndində nəzərdə tutulan struktur bölmənin əməkdaşları, azı
+bir əməkdaş maliyyə modelləşdirmə sahəsində olmaqla, bank sektorunda verilənlərin təhlili (data
+analitikası) və ya maliyyə modelləşdirməsi sahəsində iş təcrübəsinə malik olmalıdır.
+6-1.4. Davranış modelinin hazırlanması prosesinə maraqlar münaqişəsinə yol vermədən
+bankın digər struktur bölmələrinin əməkdaşları və (və ya) kənar ekspertlər cəlb edilə bilər.
+6-1.5. Davranış modelinin təsdiq edilməsindən əvvəl daxili və xarici validasiyası həyata
+keçirilir. Davranış modelinin xarici validasiyası daxili validasiyadan sonra tətbiq edilir.
+6-1.6. Davranış modelinin daxili validasiyası risklərin idarə edilməsi funksiyasını həyata
+keçirən struktur bölmə tərəfindən həyata keçirilir.
+6-1.7. Davranış modelinin xarici validasiyası beynəlxalq audit standartlarına uyğun auditi
+həyata keçirən audit şirkətləri və ya bu sahədə ixtisaslaşmış şirkətlər tərəfindən həyata keçirilir.
+Davranış modelinin validasiyasına cəlb edilən audit şirkəti və ya ixtisaslaşmış şirkət modellərin
+validasiyası üzrə azı 3 (üç) illik iş təcrübəsinə malik olmalı və modellərin validasiyası üzrə iştirak
+etdiyi layihələr barədə məlumatı banka təqdim etməlidir.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 10 ---
+6-1.8. Daxili və xarici validasiyası həyata keçirilmiş davranış modeli İdarə Heyəti və Riskləri
+İdarəetmə Komitəsi ilə razılaşdırıldıqdan sonra Müşahidə Şurası tərəfindən təsdiq edilir. Davranış
+modeli təsdiq edildikdən sonra onun bankdaxili kommunikasiyası təmin edilir və növbəti 5 (beş) iş
+günü ərzində xarici validasiyanın nəticələri ilə birlikdə Mərkəzi Banka təqdim edilir.
+6-1.9. Davranış modeli üzrə validasiya prosedurları bankın daxili qaydaları ilə tənzimlənir.
+Təsdiq edilmiş davranış modelinin daxili validasiyası bankdaxili qaydalara uyğun olaraq
+mütəmadi, xarici validasiyası isə iki ildə bir dəfədən az olmayaraq həyata keçirilir.
+6-1.10. Təsdiq edilmiş davranış modelinin validasiya nəticələri, habelə davranış modeli
+əsasında verilmiş kredit portfelinə, o cümlədən portfelin keyfiyyətinə dair məlumatlar bankdaxili
+qaydalarda müəyyən edilmiş dövrilikdə İdarə Heyətinə, Riskləri İdarəetmə Komitəsinə və
+Müşahidə Şurasına təqdim edilir.
+7. Təminatın qiymətləndirilməsi
+7.1. Təminatın qiymətləndirilməsi zamanı ən azı aşağıdakılar nəzərə alınır:
+7.1.1. təminat qismində zaminlik çıxış etdikdə, zaminin eyni anda bir neçə kredit
+müqaviləsi üzrə zamin olmasına, habelə borcalan ilə zaminin bir-birinin kreditləri üzrə
+qarşılıqlı zamin olmasına baxılır. Zaminin ödəmə qabiliyyəti bu Qaydanın 5-ci hissəsinə
+müvafiq olaraq qiymətləndirilir;
+7.1.2. təminat qismində qarantiya çıxış etdikdə, qarantın bu Qaydanın 5-ci hissəsinə
+müvafiq olaraq ödəmə qabiliyyəti qiymətləndirilir;
+7.1.3. təminat qismində daşınar əmlak çıxış etdikdə, onun yüklülüyü Daşınar
+Əmlakın Yüklülüyünün Dövlət Reyestrində yoxlanılır, habelə onun bazar qiyməti, satış
+imkanları təhlil edilir;
+7.1.4. təminat qismində daşınmaz əmlak çıxış etdikdə, onun bazar qiyməti və satış
+imkanları təhlil edilir;
+7.1.4-1. girov predmeti üzrə iqlim və digər ESİ riskləri nəzərə alınır (girov qismində
+qiymətləndirilən daşınmaz əmlakın coğrafi yerləşməsi üzrə daşqın riskinin nəzərə alınması və s.);12
+7.1.5. təminat qismində qiymətli kağızlar çıxış etdikdə, onun bazar dəyəri, emitentin
+ödəmə qabiliyyəti və qiymətli kağızların satış imkanları təhlil edilir;
+7.1.6. təminat qismində hüquqların girovu çıxış etdikdə girov predmetinin hüquqi
+etibarlılığı, təminat qismində borc tələbi çıxış etdikdə müvafiq borclunun ödəmə
+qabiliyyəti bu Qaydanın 5-ci hissəsinə uyğun olaraq qiymətləndirilir.
+7.2. Kreditlər üzrə təminat qismində bu Qaydanın 7.1-ci bəndində qeyd olunmuş
+təminatlar çıxış etdikdə, təminatın müddəti təmin etdiyi öhdəliyin müddətindən az
+olmamalıdır.
+7.3. Təminatın qiymətləndirilməsi bu Qaydanın 7.4-cü və 7.4-1-ci bəndlərində göstərilən
+tələblərə cavab verən bankın əməkdaşı və ya “Qiymətləndirmə fəaliyyəti haqqında” Azərbaycan
+Respublikasının Qanununa uyğun olaraq fəaliyyət göstərən qiymətləndirici (bundan sonra –
+qiymətləndirici) tərəfindən aparılır. Qiymətləndirməni aparan şəxslərin siyahısı bankın risklərin
+idarə edilməsi funksiyasını həyata keçirən struktur bölməsi tərəfindən nəzərdən keçirilir və azı ildə
+bir dəfə onların fəaliyyəti yenidən qiymətləndirilir.13
+7.4. Qiymətləndirməni aparan bankın əməkdaşına dair tələblər aşağıdakılardır:
+7.4.1. kreditin verilməsi prosesində iştirak edən şəxs deyil;
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 11 ---
+7.4.2. qiymətləndirmə nəticələri ilə bağlı maraqlar münaqişəsi yoxdur;
+14
+7.4.4. qiymətləndirmə sahəsində ən azı 3 (üç) illik iş təcrübəsinə malikdir;
+7.4.5. borcalanın ödəmə qabiliyyəti onun qiymətləndirmə nəticələrinə təsir etmir;
+7.4.6. təhrif olunmamış və obyektiv qiymətləndirmə hesabatı hazırlayır;
+7.4-1. Qiymətləndirməni aparan bank əməkdaşı və qiymətləndirici təminatın
+mülkiyyətçisinə və borcalana aidiyyəti olan şəxs olmamalıdır.15
+7.5. Borcalanın təqdim etdiyi təminat üzərində bankın hüquqları qanunvericiliyə
+uyğun olaraq rəsmiləşdirilməlidir.
+7.6. Bir borcalana və ya bir-biri ilə əlaqədar borcalanlar qrupuna qarşı kredit
+tələbləri bankın məcmu kapitalının 5 (beş) faizindən yuxarı olduqda təminat iki
+qiymətləndirici tərəfindən ayrıca olaraq qiymətləndirilir. Bu zaman qiymətlər fərqli
+olduqda, bank tərəfindən təminatın aşağı olan qiyməti əsas götürülür. 16
+7.7. Bankdaxili qaydalarda təminatın qiymətləndirilməsi və qiymətləndirməni həyata
+keçirən bank əməkdaşının və ya qiymətləndiricinin seçilməsi meyarları müəyyən edilir. 17
+8. Kredit inzibatçılığı
+8.1. Hər bir kredit tələbi üzrə borcalanın kredit risklərinin təhlili nəticələri, kreditin
+verilməsi ilə bağlı qərar sənədləşdirilir və kredit dosyesində saxlanılır. Kredit dosyesinə
+daxil olmalı sənəd və məlumatların siyahısı bu Qaydaya 1 nömrəli Əlavədə nəzərdə
+tutulur.
+8.2. Kreditlər üzrə müraciətlərin reyestri aparılır və kreditin verilməsindən imtina
+edildikdə, bank kredit üçün müraciət edən şəxsə onun sorğusu əsasında imtinanın
+səbəblərini göstərməklə aydın şəkildə yazılı cavab verir.
+8.3. Kredit verildikdə borcalanla bank arasında kredit müqaviləsi bağlanılır. Kredit
+risklərinin idarə edilməsi siyasətində kreditin verilməsi üzrə məcburi sığortalanma tələbinin
+müəyyən olunduğu hallar istisna olmaqla, fiziki şəxslə kredit, o cümlədən məsafədən kredit
+müqaviləsi bağlanmazdan əvvəl bank müştəriyə həmin kredit üzrə onunla bağlı risklərə təminat
+verilməsini nəzərdə tutan borcalanın həyatının ölüm halından və əmək qabiliyyətinin itirilməsi
+hallarından sığorta müqaviləsinin də bağlanmasını təklif edir. Bank müvafiq sığorta növü üzrə
+icazəyə malik bütün sığortaçılardan bu sığorta növü üzrə sığorta haqlarına dair təklifləri
+(sığortalamaqdan imtina olduqda bu barədə bildirişi) almalı və müvafiq təkliflərin hər hansı
+dəyişiklik edilmədən müştəriyə təqdim edilməsini təmin etməlidir. Bank tərəfindən bu Qaydaya 3
+nömrəli Əlavədə göstərilən məlumat formasının müştəri tərəfindən doldurulmasına və sığorta
+müqaviləsinin müştərinin seçdiyi müvafiq icazəyə malik sığortaçı ilə bağlanmasına imkan
+yaradılır. Kredit müqaviləsi, o cümlədən istehlak krediti müqaviləsi, habelə həyat sığorta
+müqaviləsi üzrə münasibətlər Azərbaycan Respublikasının Mülki Məcəlləsi və Mərkəzi Bankın
+İdarə Heyətinin 2024-cü il 16 may tarixli 20/4 nömrəli Qərarı ilə təsdiq edilmiş “Kredit
+müqavilələri üzrə borcalanın həyatının ölüm halından və əmək qabiliyyətinin itirilməsi
+hallarından sığortası Qaydası” ilə tənzimlənir. Müvafiq sığorta müqaviləsinin bağlanması və bu
+Qaydaya 3 nömrəli Əlavədə göstərilən məlumat formasının doldurulması təklifi bankda bu barədə
+qeydiyyat aparılmaqla kağız daşıyıcıda və ya elektron formada müştəriyə təqdim edilir.18
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 12 ---
+8.3-1. İstehlak krediti müqaviləsinə bu Qaydanın 5.5-2-ci bəndinin tələbinin pozulması ilə
+kreditin verildiyi və ya kredit limitinin artırıldığı halda borclunun verilmiş (artırılmış) kredit
+üzrə öhdəlikdən azad edilməsi ilə bağlı müddəa daxil edilməlidir.19
+8.4. Kredit üzrə faktiki illik faiz dərəcəsi bu Qaydaya 2 nömrəli Əlavədə müəyyən
+edilmiş qaydada hesablanır. “Reklam haqqında” Azərbaycan Respublikasının
+Qanununa əsasən istehlak krediti ilə bağlı reklamda kreditin hər hansı xərci ilə bağlı
+məlumat verildikdə, kredit üzrə faktiki illik faiz dərəcəsi göstərilməlidir.
+8.5. İstehlak krediti müqaviləsinin məsafədən bağlanması, müqaviləyə dəyişiklik edilməsi,
+o cümlədən kredit limitinin artırılması zamanı Azərbaycan Respublikasının Mülki Məcəlləsinə
+və Mərkəzi Bankın İdarə Heyətinin 16 dekabr 2025-ci il tarixli 44/5 nömrəli Qərarı ilə təsdiq
+edilmiş “Məsafədən hesabların açılması Qaydası”nın” tələblərinə əməl edilməlidir.20
+9. Kredit risklərinin monitorinqi
+9.1. Bank kredit riskinin monitorinqini təmin edən prosedurlara və informasiya
+sisteminə malik olmalıdır. Kredit risklərinin monitorinqi məqsədilə aşağıdakılar həyata
+keçirilir:
+9.1.1. borcalanın, emitentin və kontragentin maliyyə göstəriciləri, borc yükü və
+likvidliyi təhlil edilir;
+9.1.2. borcalanın və emitentin öhdəlik üzrə əsas məbləğ, habelə faiz və (və ya)
+müqavilədə göstərilən digər ödənişlərlə bağlı ödəmə davranışı izlənilir;
+9.1.3. təminat qismində çıxış edən daşınar və ya daşınmaz əmlakın vəziyyətinin və
+saxlanma şəraitinin monitorinqi aparılır, habelə iqtisadiyyatda baş verən dəyişikliklərin
+təminatın bazar qiymətinə təsiri ölçülür;
+9.1.4. mövcud olduqda borcalanın, emitentin və kontragentin kredit reytinqi, habelə
+qiymətli kağızlarının bazar dəyəri izlənilir;
+9.1.5. kredit tələbinin təyinatı üzrə istifadə edilməsi yoxlanılır.
+9.2. Kənd təsərrüfatı kreditləri üzrə bu Qaydanın 9.1-ci bəndində qeyd edilənlərlə
+yanaşı, borcalanın qanunvericiliklə kənd təsərrüfatı sahələri üzrə tələb olunan
+hüquqmüəyyənedici sənədlərə malik olub-olmaması yoxlanılır.
+9.2-1. Bank “yaşıl” və “dayanıqlılıqla əlaqəli” kredit risklərinin azı illik əsasda
+monitorinqini aparmalı və bankın strateji planına uyğun olmayan fəaliyyətlərin vaxtında aşkar
+edilməsini təmin etmək üçün müvafiq tədbirlər həyata keçirməlidir.21
+9.2-2. Bank “dayanıqlılıqla əlaqəli” kredit risklərinin monitorinqi zamanı borcalandan onun
+ƏFG və ƏDH-lərinə dair məlumatları (ilkin göstərici, cari göstərici və mümkün olduğu hallarda
+ƏFG-nin borcalanın fəaliyyət göstərdiyi sahə üzrə orta bazar göstəriciləri ilə müqayisəsi və olduğu
+halda bu göstəricilər üzrə 3 (üç) illik tendensiya) tələb etməlidir.
+9.2-3. “Yaşıl” və “dayanıqlılıqla əlaqəli” kredit risklərinin monitorinqinin aparılması
+qaydası, bu Qaydanın 5.4-1-ci bəndində nəzərdə tutulan və monitorinq zamanı tələb edilən
+təsdiqləyici sənədlərin dairəsi kredit müqaviləsi ilə müəyyən edilir.
+9.3. Kredit risklərinin monitorinqi funksiyasını həyata keçirən struktur bölmə
+bankın kreditlərin verilməsi funksiyasını həyata keçirən struktur bölməsindən ayrı
+olmalıdır. Bankın daxili qaydalarında monitorinqin aparılması funksiyasını həyata
+keçirən struktur bölmə, monitorinqin aparılma tezliyi, aşkarlanmış problemlərin
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 13 ---
+sənədləşdirilməsi və görüləcək tədbirlər müəyyən olunur. “Yaşıl” və “dayanıqlılıqla
+əlaqəli” kreditlərin müqavilə şərtlərinə uyğun istifadə edilmədiyi hallarda “yaşıl” və ya
+“dayanıqlılıqla əlaqəli” olmayan kateqoriyaya keçirilməsi üçün mexanizmlər müəyyən
+edilməlidir.22
+10. Portfel səviyyəsində kredit risklərinin idarə edilməsi
+10.1. Bank portfel səviyyəsində kredit risklərinin idarə edilməsi və monitorinqi
+sisteminə malik olmalıdır.
+10.2. Portfel səviyyəsində kredit risklərinin idarə edilməsi aşağıdakı tədbirlər
+vasitəsilə həyata keçirilir:
+10.2.1. yeni kredit tələblərinin yaranmasının limitləşdirilməsi və ya tam
+məhdudlaşdırılması;
+10.2.2. törəmə maliyyə alətlərinin tətbiqi;
+10.2.3. kredit tələblərinin bank sirrinin qorunması qaydalarına riayət etməklə satışı.
+11. Qeyri-işlək kreditlərin idarə edilməsi qaydası
+11.1. Bankın kredit portfeli üzrə qeyri-işlək kreditlərin idarə edilməsi ilə bağlı
+qaydası İdarə Heyətinin təqdimatı əsasında Müşahidə Şurası tərəfindən təsdiqlənir.
+Qaydada ən azı aşağıdakılar əks olunur:
+11.1.1. daxili və xarici amillərin bankın qeyri-işlək kreditlərinin idarə edilməsinə
+təsiri;
+11.1.2. bankın qeyri-işlək kreditlərin idarə edilməsi ilə bağlı imkanlarının
+(resursların mövcudluğu, informasiya texnologiyaları və s.) artırılması hədəfləri;
+11.1.3. qısamüddətli, ortamüddətli və uzunmüddətli dövrdə qeyri-işlək kreditlərin
+həcminin azaldılması hədəfləri;
+11.1.4. qeyri-işlək kreditlərin idarə edilməsi prosesinin monitorinqi.
+11.2. Qeyri-işlək kreditlərin idarə edilməsi qaydasına uyğun olaraq tədbirlər planı
+hazırlanır. Tədbirlər planı bankın İdarə Heyəti tərəfindən təsdiqlənir və ən azı ildə bir
+dəfə nəzərdən keçirilir. Tədbirlər planı aşağıdakıları əhatə edir:
+11.2.1. qeyri-işlək kreditlərin azaldılması ilə bağlı tədbirlər və onların reallaşdırılma
+müddətləri;
+11.2.2. qeyri-işlək kreditlərin müxtəlif seqmentlər üzrə təsnifləşdirilməsi və hər bir
+seqment üzrə görülməli tədbirlər;
+11.2.3. tədbirlərin icrası üçün tələb olunan resurslar;
+11.2.4. maraqlı tərəflərlə tədbirlər planının icrasının koordinasiyası.
+11.3. Tədbirlər planının icrası bankın qeyri-işlək kreditlərin idarə edilməsi
+funksiyasını həyata keçirən struktur bölməsi tərəfindən həyata keçirilir. Qeyri-işlək
+kreditlərin idarə edilməsi funksiyasını həyata keçirən struktur bölmə kreditlərin
+verilməsi funksiyasını həyata keçirən struktur bölmədən ayrı olmalı və lazımi resurslarla
+təmin olunmalıdır. Bankın İdarə Heyəti rübdə bir dəfə tədbirlər planının icrasına dair
+hesabatı bankın Müşahidə Şurasına təqdim edir.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 14 ---
+11.4. Bankın qeyri-işlək kreditlərin idarə edilməsi qaydasının səmərəliliyinin
+monitorinqi ən azı aşağıdakı göstəricilər əsasında aparılır:
+11.4.1. dövr ərzində qeyri-işlək kreditlərin həcmində dəyişiklik;
+11.4.2. kreditlər üzrə yığımların və yığımlar üzrə xalis gəlirlərin həcmi;
+11.4.3. restrukturizasiya tədbirlərinin sayı və növləri, hər bir növ üzrə effektivlik
+göstəricisi;
+11.4.4. görülmüş hüquqi tədbirlər, o cümlədən, realizə edilmiş təminatlar.
+12. Kreditlərin restrukturizasiyası
+12.1. Bank borcalanın maliyyə çətinliyinin yaranması səbəbindən borc öhdəliyinin
+icrasını təmin etmək məqsədilə krediti restrukturizasiya edə bilər. Kreditin
+restrukturizasiyası aşağıdakı prosedurlardan ibarətdir:
+12.1.1. borcalanın yeni şərtlər daxilində ödəmə qabiliyyətinin qiymətləndirilməsi.
+Borcalanın yeni şərtlər daxilində ödəmə qabiliyyətinin qiymətləndirilməsi bu Qaydanın
+tələblərinə müvafiq olaraq aparılır. Qiymətləndirmədə restrukturizasiya tarixinə təqdim
+olunmuş məlumatlardan istifadə olunur. Borcalanın yeni şərtlər daxilində ödəmə
+qabiliyyəti kredit öhdəliyinin ödənilməsi üçün yetərli olmalıdır. Kreditin təminatı
+(olduqda) restrukturizasiya tarixinə aşağıdakı şərtlərlə qiymətləndirilir:
+12.1.1.1. təminatın sonuncu qiymətləndirilmə tarixindən restrukturizasiya tarixinə
+12 (on iki) ayadək müddət keçdikdə təminatın yenidən qiymətləndirilməsi aparılmır
+(iqtisadiyyatda baş verən dəyişikliklərin təminatın bazar dəyərinə mənfi təsir etməsi
+halları istisna olmaqla);
+12.1.1.2. təminatın sonuncu qiymətləndirilmə tarixindən restrukturizasiya tarixinə
+12 (on iki) aydan çox müddət keçdikdə təminat yenidən qiymətləndirilir;
+12.1.2. restrukturizasiya tədbirinin seçilməsi. Bankdaxili qaydalarda müxtəlif kredit
+növləri, iqtisadi sektor və borcalanların xüsusiyyətlərinə müvafiq olan restrukturizasiya
+tədbirləri müəyyən edilir;
+12.1.3. ödəniş şərtlərinin müəyyən edilməsi. Ödəniş şərtləri borcalanın ödəmə
+qabiliyyətinə adekvat olaraq müəyyən olunur.
+12.1.4. monitorinq. Borcalanın ödəmə davranışına müvafiq olaraq restrukturizasiya
+tədbirlərinin səmərəliliyi monitorinq vasitəsilə qiymətləndirilir.
+13. Stres – testin aparılması
+13.1. Bank bir və ya bir neçə şokun kredit portfelinə potensial təsirini
+qiymətləndirmək üçün stres-test aparır.
+13.2. Stres-testlər Mərkəzi Bankın İdarə Heyətinin 2026-cı il 16 fevral tarixli 06/05
+nömrəli Qərarı ilə təsdiq edilmiş “Banklarda stres-testlərin aparılması Qaydası”nın tələblərinə
+uyğun olaraq həyata keçirilməlidir.23
+24
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 15 ---
+13-1. Kreditin verilməsi prosesində üçüncü şəxslərin iştirakı25
+13-1.1. Kreditlərin verilməsi prosesinə poçt rabitəsinin milli operatoru, bank olmayan
+kredit təşkilatları, ödəniş təşkilatları və elektron pul təşkilatları cəlb edilə bilər. Bu halda həmin
+təşkilatlar tərəfindən aşağıdakı fəaliyyətlər həyata keçirilə bilər:
+13-1.1.1. kredit müraciəti üçün tələb olunan sənədlərin qəbulu;
+13-1.1.2. borcalanların ödəmə qabiliyyətinin ilkin qiymətləndirilməsi;
+13-1.1.3. kreditlərlə bağlı təqdim edilməli olan sənədlərin, o cümlədən müştərinin fiziki
+imzası tələb olunan sənədlərin, ödəniş alətlərinin müvafiq olaraq banka və (və ya) müştərilərə
+çatdırılması.
+13-1.2. Bank kreditlərin verilməsi prosesinə bu Qaydanın 13-1.1-ci bəndində nəzərdə
+tutulmuş şəxsləri cəlb etdikdə, kreditin verilməsi məqsədilə bank hesabı aşağıdakı qaydada açılır:
+13-1.2.1. bank tərəfindən məsafədən; və ya
+13-1.2.2. kredit üçün müraciət edən şəxs müvafiq olaraq bu Qaydanın 13-1.1-ci bəndində
+nəzərdə tutulmuş şəxslərin mövcud müştərisi olduqda, “Cinayət yolu ilə əldə edilmiş əmlakın
+leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan
+Respublikası Qanununun (bundan sonra – ƏL/TMM Qanunu) 5-ci maddəsinə uyğun olaraq
+həmin şəxslər (müstəsna olaraq ödəniş əməliyyatının aparılması üçün vasitəçilik xidməti və (və
+ya) hesab üzrə məlumat xidməti göstərən ödəniş təşkilatları istisna olmaqla) tərəfindən aparılan
+müştəri uyğunluğu tədbirlərinə bank tərəfindən güvənilməklə (məsafədən açılmadıqda).
+13-1.3. Bankın strateji planında kreditlərin verilməsi prosesinə bu Qaydanın 13-1.1-ci
+bəndində göstərilən şəxslərin cəlb edilməsi nəzərdə tutulduqda, kredit risklərinin idarə edilməsi
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 16 ---
+siyasətində və bankdaxili qaydalarda azı üçüncü səxslərin iştirakı ilə verilən kredit məhsulları və
+müvafiq məhsullar üzrə limitlər (tətbiq edildikdə), müvafiq xidmətlər üzrə haqlar və xidmətlərin
+göstərilməsi proseduru, kredit inzibatçılığı, sənəd və məlumat mübadiləsinə dair tələblər, habelə
+bank sirri məlumatlarının qorunması üzrə öhdəliklər nəzərdə tutulmalıdır. Bu zaman həmçinin
+Mərkəzi Bankın İdarə Heyətinin 2024-cü il 17 yanvar tarixli 02/1 nömrəli Qərarı ilə təsdiq edilmiş
+“Ödəniş agentləri ilə işin təşkili Qaydası”nın 3-cü və 4-cü hissələrinin, 5.1-ci bəndi və 5.2.3-cü
+yarımbəndinin tələblərinə əməl olunmalıdır.
+14. Hesabatlıq
+14.1. Kredit risklərinin effektiv idarə edilməsi məqsədilə bankın risklərin idarə
+edilməsi funksiyasını həyata keçirən struktur bölməsi tərəfindən bankın məruz qaldığı
+kredit riskləri barədə hesabat hazırlanır. Hesabatda bankın kredit və investisiya portfeli
+üzrə məruz qaldığı risklər, bu risklərin bankın risklərin idarə edilməsi siyasətinə
+adekvatlığı, habelə risklərin bankın kapitalına təsiri barədə məlumatlar əks olunur.
+14.2. Hesabat aylıq əsasda hazırlanır və bankın Müşahidə Şurasına, RİK-ə və İdarə
+Heyətinə təqdim edilir.
+14.3. Bankın risklərin idarə edilməsi siyasətindən kənarlaşmalar olduqda, habelə
+makroiqtisadi vəziyyətin ani dəyişməsi hallarında kredit riskləri barədə hesabat bu
+Qaydanın 14.2-ci bəndində qeyd olunmuş dövrilikdən daha sıx dövriliklə hazırlanıb
+təqdim edilə bilər.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 17 ---
+“Banklarda kredit risklərinin idarə
+edilməsi Qaydası”na
+Əlavə 1
+Kredit dosyesi
+1. Ümumi sənədlər
+1. Borcalanın özünün, yaxud səlahiyyətli nümayəndəsinin imzası ilə təsdiq edilmiş
+kredit müqaviləsi üzrə tələb edilən kreditin məbləği, valyutası və müddəti göstərilməklə
+kredit müraciəti (sifarişi).
+2. Borcalan, yaxud onun səlahiyyətli nümayəndəsi barədə “Cinayət yolu ilə əldə
+edilmiş əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı
+mübarizə haqqında” Azərbaycan Respublikasının Qanununa (bundan sonra – ƏL/TMM
+Qanunu) müvafiq olaraq qəbul edilmiş “Müştəri uyğunluğu və yeni texnologiyaların
+tətbiqi zamanı verifikasiya tədbirlərinə, risk faktorlarının müəyyən edilməsinə və
+müştəri profilinin risk qruplarına aid edilməsinə dair Qaydalar”a uyğun olaraq əldə
+edilmiş məlumat və sənədlərlə yanaşı:
+2.1. borcalan hüquqi şəxs və ya fərdi sahibkar olduqda, faktiki fəaliyyət göstərdiyi
+ünvan;
+2.2. borcalanın fəaliyyət sahəsi (fiziki şəxsin məşğuliyyət sahəsi və ya sosial statusu)
+barədə məlumat.
+3. Borcalan hüquqi şəxs olduqda, onun səlahiyyətli idarəetmə orqanının kreditin
+alınması haqqında müvafiq qərarı və kredit sənədlərini imzalamaq hüququ olan şəxsin
+səlahiyyətini təsdiq edən sənəd.
+4. Kreditin ödənilməsi üçün pul axınlarının mənbəyi (əsas və ehtiyat mənbələr
+göstərilməklə).
+5. Kreditin təminatlı və ya təminatsız olması barədə məlumat.
+6. Bank tərəfindən hazırlanmış borcalanın krediti ödəmə qabiliyyətinin
+qiymətləndirilməsinə dair hesabat.
+7. Biznes-plan (kreditin növündən asılı olaraq tələb olunduqda).
+8. Daxili prosedurlarla nəzərdə tutulmuş qaydada kreditin verilməsinə dair bankın
+müvafiq bölmələrinin və ya səlahiyyətli şəxslərinin rəyi.
+9. Bankın səlahiyyətli bölmələrinin kreditlərin verilməsinə dair iclas protokolundan
+çıxarış və ya müvafiq səlahiyyətli şəxslərin imzası ilə kreditin verilməsi haqqında
+çıxarılmış qərar.
+10. Kredit müqaviləsi.
+11. Bu Qaydada nəzərdə tutulmuş hallarda borcalanın öhdəlikləri barədə kredit
+tarixçəsini təşkil edən məlumatlar.
+12. Borcalan hüquqi şəxs olduqda onun başa çatmış maliyyə ili üzrə auditor rəyi ilə
+təsdiq edilmiş (olduqda) illik maliyyə hesabatları (kredit verilərkən əldə edilmiş) və
+aralıq maliyyə hesabatları. Borcalan banka aidiyyəti hüquqi olan şəxs olduqda onun
+auditor rəyi ilə təsdiq edilmiş (olduqda) ən azı son iki illik maliyyə hesabatları.
+13. Borcalan hüquqi şəxs olduqda, kreditin müddəti ərzində illik maliyyə
+hesabatları.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 18 ---
+14. Borcalan hüquqi şəxs olduqda onun korporativ idarəetmə strukturuna dair
+bankın rəyi.
+15. Bir borcalanla və ya bir-biri ilə əlaqədar borcalanlarla bağlı təmərküzləşmə riski
+barədə məlumat (belə hal baş verdikdə).
+16. Borcalan hüquqi/fiziki şəxs olduqda borcalanın bank tərəfindən müəyyən
+edilmiş daxili risk reytinqi.
+17. Borcalan hüquqi şəxs olduqda onun fəaliyyət göstərdiyi sektorun təhlili
+nəticələri.
+18. Borcalanın valyuta riskinə qarşı istifadə etdiyi valyuta məzənnəsinin hedcinq
+alətləri barədə məlumat (olduqda).
+19. Kreditin təyinatı üzrə istifadəsini təsdiq edən sənədlər (borcalanın satıcı və
+podratçılarla müqavilələrinin surəti, xərcləri təsdiq edən sənədlər və s.).
+20. Kredit müddəti ərzində kreditin təyinatı üzrə istifadə olunması və borcalanın
+maliyyə vəziyyətinin yoxlanması və monitorinqinin nəticələrinə dair bankın müvafiq
+struktur bölməsi tərəfindən tərtib olunmuş hesabat.
+21. Kreditin restrukturizasiyası ilə bağlı müqavilə və digər sənədlər.
+22. İstehlakçıya təqdim edilmiş istehlak krediti üzrə standart məlumatlandırma
+forması.
+23. Kredit müəyyən malın alınması və ya xidmətin göstərilməsi ilə əlaqədar olaraq
+əlaqəli kredit müqaviləsi vasitəsilə verildikdə, həmin mal və ya xidmətin alışını təsdiq
+edən sənəd.
+24. Sığorta müqaviləsi (mövcud olduqda) və onunla əlaqəli digər sənədlər.26
+25. Məsafədən rəsmiləşdirildiyi halda istehlak krediti müqaviləsinin məsafədən
+bağlanılmasına və ya kredit limitinin artırılması ilə bağlı müqaviləyə məsafədən dəyişiklik
+edilməsinə dair borcalanın tətbiq etdiyi məhdudiyyətin olub-olmaması barədə məlumat.27
+2. Təminata dair sənədlər
+1. Təminata dair mövcud qanunvericiliyə uyğun bağlanmış (təsdiq edilmiş)
+müqavilə.
+2. Girov predmeti üzrə mülkiyyət hüququnu təsdiq edən sənədlərin surəti.
+3. Girov predmeti birgə mülkiyyətdə olduqda onun rəsmiləşdirilməsi ilə əlaqədar
+bütün mülkiyyətçilərin, razılığını təsdiq edən sənədlər (razılığın əldə edilməsi
+qanunvericilikdə nəzərdə tutulduğu hallarda), habelə sonrakı girov əvvəlki girov
+müqaviləsi ilə qadağan edilmədiyi halda, sonrakı girov zamanı əvvəlki girov qoyanın
+(ipoteka qoyanın) razılığını təsdiq edən sənədlər.
+4. Bank təqdim olunan girov predmetinin alınmasını maliyyələşdirdikdə (daşınmaz
+əmlak, avtomobil və s.) həmin aktivin alış qiymətini təsdiq edən sənədlər.
+5. Girov predmetinin qiymətləndirilməsi tarixi, metodu, qiymətləndirməni həyata
+keçirən bank əməkdaşı və ya qiymətləndirici göstərilməklə qiymətləndirmənin nəticələri
+barədə hesabat. 28
+6. Girov predmetinin fiziki və texniki vəziyyətinin yoxlanılması haqqında hesabat:
+yoxlanılan girovun növü, yoxlamanın aparılma yeri və onu aparan şəxsin adı, soyadı,
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 19 ---
+vəzifəsi habelə yoxlamanın nəticələri (onun saxlanma vəziyyəti və s. göstəriciləri
+göstərilməklə) barədə məlumat.
+7. Bank tərəfindən girov predmetinin bankın xeyrinə sığortalanması tələb edildikdə
+sığorta ilə bağlı sənədlər (sığorta müqaviləsi və şəhadətnaməsi).
+8. Təminat qarantiya və ya zaminlik növündə olduqda müvafiq olaraq qarantın və
+ya zaminin maliyyə vəziyyəti barədə məlumat və onun bank tərəfindən
+qiymətləndirilməsinin nəticələri.
+9. Təminatın əvəz edilməsinin sənədləşdirilməsinə dair sənədlər (zərurət
+yarandıqda)
+10. Təminatçı hüquqi şəxs olduqda:
+10.1. təsis və dövlət qeydiyyatına dair sənədlər;
+10.2. təminatçının səlahiyyətli idarəetmə orqanının qərarı (bu səlahiyyətlər kollegial
+idarəetmə orqanına məxsus olduqda);
+10.3. təminat müqaviləsini imzalayan şəxsin səlahiyyətlərini təsdiq edən sənədlər.
+11. Zamin fiziki şəxs olduqda:
+11.1. onun gəlir mənbəyini (mənbələri) təsdiq edən məlumatlar;
+11.2. onun ödəniş qabiliyyətinə dair digər məlumatlar, o cümlədən kredit tarixçəsini
+təşkil edən məlumatlar.
+12. Pul vəsaitinin girovu ilə təmin olunmuş kreditlər üçün hesabın
+bloklaşdırılmasını təsdiq edən sənədlər.
+3. Digər sənədlər
+1. Borcun tutulmasına dair sənədlər (borcalanlara ünvanlanmış məktublar, borcun
+tutulması tədbirlərinin nəticələri və s.).
+2. Tikinti sahəsinə verilən kreditlər üçün tikinti layihələrinə dair sənədlər, o
+cümlədən layihələrin həyata keçirilməsi haqqında hesabatlar, smetalar, faktiki xərclər,
+layihələrin və onun mərhələlərinin başa çatdırılmasına dair sənədlər və tikintidə
+aparılmış yoxlamalar haqqında hesabatlar.
+3. Digər hüquqi sənədlər (məsələn, borcalana qarşı həllini gözləyən hər hansı bir
+rəsmi iddia, yaxud borcalan tərəfindən banka qarşı qaldırılmış rəsmi şikayət/iddia).
+4. Borcalanla yazışmalar.
+5. Bankın daxili qaydaları ilə nəzərdə tutulmuş digər sənədlər.
+6. Kənd təsərrüfatı kreditləri üzrə əlavə olaraq aşağıdakı sənədlər:
+6.1. borcalanın kənd təsərrüfatı sahəsində icazə, sertifikat və digər
+hüquqmüəyyənedici sənədləri (qanunvericiliklə tələb olunduqda);
+6.2. istehsalı planlaşdırılan məhsulun satış planları, müqavilələri və ya satış üzrə
+niyyət protokolları.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 20 ---
+“Banklarda kredit risklərinin idarə
+edilməsi Qaydası”na
+Əlavə 2
+Faktiki illik faiz dərəcəsinin (FİFD) hesablanması qaydası
+A. FİFD-in hesablanması aşağıda göstərilmiş riyazi tənlik vasitəsilə hesablanır:
+S – borcalana verilən xalis kredit məbləği, yəni verilən kredit və banka ödəniləcək
+cari tutulmalar arasındakı fərq;
+k — pul axınının (ödənişin və digər xərcin) sıra nömrəsi;–
+n — pul axınlarının (ödənişlərin və digər xərclərin) sayı;
+x — Faktiki illik faiz dərəcəsi;
+m — illik ödəniş intervalı;
+A — kredit müqaviləsi üzrə k – cı pul axınlarının (ödənişlərin və digər xərclərin)
+k
+cəmi. İki istiqamətli pul axınları əks riyazi işarələrlə, yəni xaric olan pul axını “mənfi”,
+daxil olan pul axını isə “müsbət” işarələri ilə hesaba daxil edilir.
+B. FİFD-in hesablanmasına aşağıdakı xərc maddələri daxil edilmir:
+a) kredit müqaviləsinin şərtləri ilə əlaqədar deyil, qanunvericiliyin tələblərindən
+irəli gələn xərclər (məsələn, icbari sığorta, notarial xərclər və s.);
+b) kreditin əldə edilməsini məhdudlaşdırmayan sığorta xərcləri;
+c) banka əvvəlcədən məlum olmayan sığorta haqları;
+d) borcalanın kredit müqaviləsinin şərtlərinə əməl etməməsi ilə bağlı yarana biləcək
+xərclər (ödənişlər gecikdirildiyi halda gecikdirilmə faizləri, dəbbə pulu və s.);
+e) həcmi və/və ya müddəti borcalanın qərarından və/və ya davranışından asılı olan,
+kredit müqaviləsində nəzərdə tutulmuş ödənişlər, o cümlədən:
+i. kreditin vaxtından əvvəl tamamilə və ya qismən geri qaytarılması üzrə
+kompensasiya xərcləri;
+ii. borcalan üçün müəyyən edilmiş overdraft limitinin aşılması üzrə xərclər;
+iii. kredit borcunun vəziyyəti barədə məlumatın əldə edilməsi üzrə ödənişlər;
+iv. kredit kartları üzrə mübadilə və bu kimi digər tutulmalar.
+C. Kredit kartları (xətti) vasitəsilə ayrılan kreditlər üzrə FİFD-in hesablanması
+aşağıdakılar nəzərə alınmaqla həyata keçirilir:
+a) kredit müqaviləsi borcalana kreditin istifadəsi üzrə sərbəst davranışa imkan
+yaratdıqda, kreditin verildiyi gün tam məbləğdə istifadə edilməsi imkanı nəzərə alınır.
+Kreditin hissə-hissə istifadəsi nəzərdə tutulduqda, sərbəst istifadə edilə bilən hissənin
+məbləği nəzərə alınır;
+b) kredit müqaviləsində kreditin istifadəsi üzrə sərbəst davranış müəyyən
+edildikdə və bu əsasda fərqli faiz dərəcəsi və (və ya) digər ödənişlər tələb edilməsi
+nəzərdə tutulduqda, hesablama tətbiq oluna biləcək ən yüksək tələblər nəzərə alınmaqla
+həyata keçirilir;
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 21 ---
+c) kredit müqaviləsi üzrə borcalanın ödəniş qrafiki nəzərdə tutulmadıqda
+aşağıdakılar fərz olunur:
+i. kreditin müddətinin bir il olması;
+ii. ödənişlərin aylıq əsasda və bərabər ödənişlərlə həyata keçirilməsi.
+d) kredit müqaviləsi üzrə ödəniş qrafikində yalnız müddət müəyyən edildikdə,
+ödənişlərin həcmi isə sərbəst olduqda (yəni, müqavilə üzrə müəyyən edilmədikdə), ən
+kiçik ödənişin (yalnız faiz və (və ya) müqavilədə göstərilən digər ödənişlərin) həyata
+keçiriləcəyi və əsas məbləğin müddətin sonunda ödəniləcəyi fərz olunur.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 22 ---
+“Banklarda kredit risklərinin idarə edilməsi
+Qaydası”na
+Əlavə 329
+Kredit müqaviləsi üzrə borcalanın həyatının ölüm halından və əmək
+qabiliyyətinin itirilməsi hallarından sığortasına dair məlumat
+1. Borcalanın eyniləşdirmə məlumatları:
+Adı, soyadı, atasının adı:__________
+Şəxsiyyəti təsdiq edən sənədin nömrəsi:_________
+Fərdi identifikasiya nömrəsi (FİN):___________
+2. Borcalana kredit müqaviləsi üzrə həyatın ölüm halından və əmək qabiliyyətinin
+itirilməsi hallarından sığorta ilə bağlı aşağıdakı sığortaçılardan biri ilə sığorta müqaviləsi
+bağlanması təklif edilir:
+“__________” ASC
+“__________” ASC
+“__________” ASC
+“__________” ASC
+“__________” ASC
+3. Qeyd edilən sığortaçılar üzrə kredit müqaviləsinin qüvvədə olduğu müddət ərzində ilkin
+hesablanmış sığorta haqqı*:
+“__________” ASC __________
+“__________” ASC __________
+“__________” ASC __________
+“__________” ASC __________
+“__________” ASC __________
+4. Hissə-hissə ödənilməsi halında ilkin hesablanmış sığorta haqqının aylıq kredit ödənişinə
+əlavə ediləcək hissəsi:
+“__________” ASC __________
+“__________” ASC __________
+“__________” ASC __________
+“__________” ASC __________
+“__________” ASC __________
+5. Sığorta müqaviləsi bağlanmadan kredit müqaviləsi üzrə hesablanmış
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 23 ---
+FİFD: __________
+6. Sığorta müqaviləsi bağlanmaqla kredit müqaviləsi üzrə hesablanmış
+FİFD: __________
+“__________” ASC __________
+“__________” ASC __________
+“__________” ASC __________
+“__________” ASC __________
+“__________” ASC __________
+Qeyd:
+* Həyat sığortası sahəsində fəaliyyət göstərən sığortaçılar tərəfindən təqdim edilən ilkin
+hesablanmış sığorta haqqı müştəri barədə təqdim edilmiş məlumatlara əsasən müəyyən edilir.
+7. Mən təsdiq edirəm ki, kredit müqaviləsi üzrə həyatın ölüm halından və əmək
+qabiliyyətinin itirilməsi hallarından sığorta müqaviləsinin bağlanması ilə bağlı
+məlumatlarla tanış oldum.
+Sığortalanmağa razıyam Sığortalanmağa razı deyiləm
+Borcalanın imzası: __________________________
+Tarix: __________________________
+(gün, ay, il)
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 24 ---
+30
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 25 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 26 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 27 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 28 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 29 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 30 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 31 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 32 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 33 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 34 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 35 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 36 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 37 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 38 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 39 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 40 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 41 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 42 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 43 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 44 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 45 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 46 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 47 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 48 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 49 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 50 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 51 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 52 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 53 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 54 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 55 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 56 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 57 ---
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 58 ---
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 16 may 2024-cü il tarixli 20/5 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202405160205, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 29 may 2024-cü il)
+2. 10 dekabr 2024-cü il tarixli 49/6 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202412100496, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 24 dekabr 2024-cü il)
+3. 16 dekabr 2025-ci il tarixli 44/5 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202512160445, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 29 dekabr 2025-ci il)
+4. 23 dekabr 2025-ci il tarixli 45/3 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202512230453, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 9 yanvar 2026-cı il)
+5. 16 fevral 2026-cı il tarixli 06/05 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202602160605, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 6 may 2026-cı il)
+6. 28 aprel 2026-cı il tarixli 18/11 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604281811, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 22 iyun 2026-cı il)
+7. 4 avqust 2026-cı il tarixli 35/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202608040352, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 20 avqust 2026-cı il)
+QƏRARA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+1 23 dekabr 2025-ci il tarixli 45/3 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202512230453, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 9 yanvar 2026-cı il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”na yeni məzmunda 2.1.4-1 – 2.1.4-8-ci yarımbəndlər əlavə edilmişdir.
+2 4 avqust 2026-cı il tarixli 35/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202608040352, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 20 avqust 2026-cı il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”nın 2.1.4-cü yarımbəndi yeni redaksiyada verilmişdir.
+əvvəlki redaksiyada deyilirdi:
+3 10 dekabr 2024-cü il tarixli 49/6 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202412100496, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 24 dekabr 2024-cü il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”nın 2.1.4-cü yarımbəndin sonundakı nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni
+məzmunda 2.1.5-ci və 2.1.6-cı yarımbəndlər əlavə edilmişdir.
+4 16 fevral 2026-cı il tarixli 06/05 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202602160605, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 6 may 2026-cı il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”nın 2.1.6-cı yarımbəndin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni
+məzmunda 2.1.7-ci yarımbənd əlavə edilmişdir.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 59 ---
+5 10 dekabr 2024-cü il tarixli 49/6 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202412100496, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 24 dekabr 2024-cü il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”nın 2.2-ci bəndi yeni redaksiyada verilmişdir.
+əvvəlki redaksiyada deyilirdi:
+6 16 fevral 2026-cı il tarixli 06/05 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202602160605, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 6 may 2026-cı il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”nın mətn üzrə ismin müvafiq hallarında “Stress-test” və “stress-test” sözləri ismin müvafiq
+hallarında “Stres-test” və “stres-test” sözləri ilə əvəz edilmişdir.
+7 10 dekabr 2024-cü il tarixli 49/6 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202412100496, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 24 dekabr 2024-cü il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”na yeni məzmunda 4.3-1-ci bənd əlavə edilmişdir.
+8 23 dekabr 2025-ci il tarixli 45/3 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202512230453, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 9 yanvar 2026-cı il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”na yeni məzmunda 5.4-1 – 5.4-7-ci bəndlər əlavə edilmişdir.
+9 4 avqust 2026-cı il tarixli 35/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202608040352, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 20 avqust 2026-cı il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”nın 5.4-4-cü bəndin ikinci cümləsinin “bu Qaydaya Əlavə 4-də göstərilən “yaşıl” fəaliyyətə dair”
+sözləri “Azərbaycan Respublikası Nazirlər Kabinetinin 2026-cı il 1 may tarixli 126 nömrəli Qərarı ilə
+təsdiq edilmiş “Azərbaycan Respublikasının Milli Yaşıl Taksonomiyası”nda Sektorlar üzrə Texniki
+Qiymətləndirmə Meyarları cədvəllərinin” sözləri ilə, “bölməsində” sözü isə “sütunlarında” sözü ilə əvəz
+edilmişdir.
+10 28 aprel 2026-cı il tarixli 18/11 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604281811, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 22 iyun 2026-cı il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”na yeni məzmunda 5.5-1 – 5.5-4-cü bəndlər əlavə edilmişdir.
+11 10 dekabr 2024-cü il tarixli 49/6 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202412100496, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 24 dekabr 2024-cü il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”na yeni məzmunda 6-1-ci hissə əlavə edilmişdir.
+12 23 dekabr 2025-ci il tarixli 45/3 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202512230453, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 9 yanvar 2026-cı il) ilə “Banklarda kredit risklərinin idarə
+edilməsi Qaydası”na yeni məzmunda 7.1.4-1-ci yarımbənd əlavə edilmişdir.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 60 ---
+13 10 dekabr 2024-cü il tarixli 49/6 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202412100496, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 24 dekabr 2024-cü il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”nın 7.3-cü və 7.4-cü bəndləri yeni redaksiyada verilmişdir.
+əvvəlki redaksiyada deyilirdi:
+14 10 dekabr 2024-cü il tarixli 49/6 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202412100496, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 24 dekabr 2024-cü il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”nın 7.4.3-cü və 7.4.7-ci yarımbəndləri ləğv edilmişdir.
+15 10 dekabr 2024-cü il tarixli 49/6 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202412100496, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 24 dekabr 2024-cü il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”na yeni məzmunda 7.4-1-ci bənd əlavə edilmişdir.
+16 10 dekabr 2024-cü il tarixli 49/6 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202412100496, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 24 dekabr 2024-cü il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”nın 7.6-cı bəndindən “kənar” sözü çıxarılmışdır.
+17 10 dekabr 2024-cü il tarixli 49/6 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202412100496, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 24 dekabr 2024-cü il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”nın 7.7-ci bəndində “qiymətləndiricilərin” sözü “qiymətləndirməni həyata keçirən bank
+əməkdaşının və ya qiymətləndiricinin” sözləri ilə əvəz edilmişdir.
+18 16 may 2024-cü il tarixli 20/5 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202405160205, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 29 may 2024-cü il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”nın 8.3-cü bəndi yeni redaksiyada verilmişdir.
+əvvəlki redaksiyada deyilirdi:
+19 28 aprel 2026-cı il tarixli 18/11 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604281811, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 22 iyun 2026-cı il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”na yeni məzmunda 8.3-1-ci bənd əlavə edilmişdir.
+20 16 dekabr 2025-ci il tarixli 44/5 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202512160445, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 29 dekabr 2025-ci il) ilə “Banklarda kredit risklərinin idarə
+edilməsi Qaydası”nın 8.5-ci bəndi yeni redaksiyada verilmişdir.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 61 ---
+əvvəlki redaksiyada deyilirdi:
+21 23 dekabr 2025-ci il tarixli 45/3 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202512230453, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 9 yanvar 2026-cı il) ilə “Banklarda kredit risklərinin idarə
+edilməsi Qaydası”na yeni məzmunda 9.2-1 – 9.2-3-cü bəndlər əlavə edilmişdir.
+22 23 dekabr 2025-ci il tarixli 45/3 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202512230453, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 9 yanvar 2026-cı il) ilə “Banklarda kredit risklərinin idarə
+edilməsi Qaydası”nın 9.3-cü bəndinə yeni məzmunda üçüncü cümlə əlavə edilmişdir.
+23 16 fevral 2026-cı il tarixli 06/05 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202602160605, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 6 may 2026-cı il) ilə “Banklarda kredit risklərinin idarə
+edilməsi Qaydası”nın 13.2-ci bəndi yeni redaksiyada verilmişdir.
+əvvəlki redaksiyada deyilirdi:
+t
+24 16 fevral 2026-cı il tarixli 06/05 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202602160605, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 6 may 2026-cı il) ilə “Banklarda kredit risklərinin idarə
+edilməsi Qaydası”nın 13.3-13.7-ci bəndləri ləğv edilmişdir.
+25 16 may 2024-cü il tarixli 20/5 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202405160205, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 29 may 2024-cü il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”na yeni məzmunda 13-1-ci hissə əlavə edilmişdir.
+26 16 may 2024-cü il tarixli 20/5 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202405160205, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 29 may 2024-cü il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”nın 1 nömrəli Əlavənin birinci hissəsinə yeni məzmunda 24-cü bənd əlavə edilmişdir.
+27 28 aprel 2026-cı il tarixli 18/11 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604281811, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 22 iyun 2026-cı il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”na 1 nömrəli Əlavənin 1-ci hissəsinə yeni məzmunda 25-ci bənd əlavə edilmişdir.
+28 10 dekabr 2024-cü il tarixli 49/6 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202412100496, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 24 dekabr 2024-cü il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 62 ---
+Qaydası”nın 1 nömrəli Əlavənin ikinci hissəsinin 5-ci bəndinə “qiymətləndirici” sözündən əvvəl
+“qiymətləndirməni həyata keçirən bank əməkdaşı və ya” sözləri əlavə edilmişdir.
+29 16 may 2024-cü il tarixli 20/5 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202405160205, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 29 may 2024-cü il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”na yeni 3 nömrəli Əlavə əlavə edilmişdir.
+30 23 dekabr 2025-ci il tarixli 45/3 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202512230453, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 9 yanvar 2026-cı il) ilə “Banklarda kredit risklərinin idarə
+edilməsi Qaydası”nın 4 nömrəli Əlavə əlavə edilmişdir.
+4 avqust 2026-cı il tarixli 35/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202608040352, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 20 avqust 2026-cı il) ilə “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”nın 4 nömrəli Əlavəsi ləğv edilmişdir.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+
+=== text_1_nostrike.txt ===
+--- page 1 ---
+AZƏRBAYCAN RESPUBLİKASI MƏRKƏZİ BANKININ İDARƏ HEYƏTİNİN
+QƏRA RI
+№ 46/2
+Bakı şəhəri 15 noyabr 2024-cü il
+“Bank olmayan kredit təşkilatlarında kredit risklərinin idarə edilməsi Qaydası”nın
+təsdiq edilməsi barədə
+“Bank olmayan kredit təşkilatları haqqında” Azərbaycan Respublikasının Qanununun
+(bundan sonra – Qanun) 19.1.1-ci maddəsinə və “Azərbaycan Respublikasının Mərkəzi
+Bankı haqqında” Azərbaycan Respublikası Qanununun 22.1.17-ci maddəsinə əsasən
+Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyəti
+QƏRARA ALIR:
+1. “Bank olmayan kredit təşkilatlarında kredit risklərinin idarə edilməsi Qaydası”
+təsdiq edilsin (əlavə olunur).
+2. Maliyyə bazarlarının hüquqi təminatı departamentinə tapşırılsın ki, bu Qərarın 3
+gün müddətində Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestrinə daxil
+edilməsi üçün Azərbaycan Respublikasının Ədliyyə Nazirliyinə təqdim edilməsini təmin
+etsin.
+Mərkəzi Bankın sədri Taleh Kazımov
+--- page 2 ---
+“Təsdiq edilmişdir”
+Azərbaycan Respublikasının
+Mərkəzi Bankı
+Qərar № 46/2
+15 noyabr 2024-cü il
+Bank olmayan kredit təşkilatlarında kredit risklərinin idarə edilməsi Qaydası
+1. Ümumi müddəalar
+Bu Qayda “Bank olmayan kredit təşkilatları haqqında” Azərbaycan Respublikası
+Qanununun (bundan sonra – Qanun) 19.1.1-ci maddəsinə və Azərbaycan Respublikasının
+Mülki Məcəlləsinin 744.3-cü maddəsinə uyğun olaraq hazırlanmışdır və bank olmayan
+kredit təşkilatlarında (bundan sonra – BOKT) kredit risklərinin idarə edilməsi ilə bağlı
+tələbləri, habelə kredit müqaviləsi üzrə faktiki illik faiz dərəcəsinin hesablanması qaydasını
+müəyyən edir.
+2. Anlayışlar
+2.1. Bu Qaydada istifadə olunan anlayışlar aşağıdakı mənaları ifadə edir:
+2.1.1. kredit riski – borcalanın və ya emitentin öz öhdəliyini müqavilə şərtlərinə uyğun
+olaraq icra edə bilməməsi nəticəsində itkinin yaranması riski;
+2.1.2. risk iştahası – BOKT-nin kommersiya strategiyasında müəyyən etdiyi hədəflərə
+çatması üçün riskgötürmə qabiliyyəti çərçivəsində qəbul etmək istədiyi riskin həcmi;
+2.1.3. faktiki illik faiz dərəcəsi – kredit üzrə bu Qaydaya 2 nömrəli Əlavədə müəyyən
+edilən qaydada hesablanan illik faiz dərəcəsi;
+2.1.4. istehlak krediti – sahibkarlıq və ya peşə fəaliyyəti, habelə daşınmaz əmlakın əldə
+edilməsi və tikintisi ilə bağlı olmayan məqsədlər üçün fiziki şəxslərə verilən kredit;
+2.1.5. gündəlik (qısamüddətli) kredit (bundan sonra – gündəlik kredit) – faiz və (və ya)
+müqavilədə göstərilən digər ödənişlərin əsas borcun verildiyi gün ödənilməsini və ya əsas
+borcun qaytarılması ilə bir vaxtda ödənilməsini (əsas borcun hissə-hissə qaytarıldığı hal
+istisna olmaqla) və ya günlərlə hesablanan dövrilikdə (30 gündən çox olmamaqla)
+ödənilməsini nəzərdə tutan istehlak krediti. Gündəlik kredit aşağıdakı tələblərə cavab
+verməlidir:
+2.1.5.1. milli valyutada verilir;
+2.1.5.2. borcalana birdəfəlik verilmiş kreditin maksimum məbləği 500 (beş yüz)
+manatdır;
+2.1.5.3. gündəlik faiz dərəcəsi maksimum 0.3%-dir;
+2.1.5.4. qaytarılma müddəti maksimum 45 (qırx beş) gündür;
+2.1.5.5. gecikdirilmiş ödənişlərlə bağlı tətbiq edildikdə, gecikdirilmə faizləri və ya
+dəbbə pulu (gecikdirilmə faizlərinin tətbiq edildiyi hallar istisna olmaqla) əsas borc qalığı
+məbləğinə gündəlik tətbiq olunan faiz dərəcəsinin 2 (iki) mislindən çox olmamalıdır;
+2.1.5.6. kredit, o cümlədən restrukturizasiya edilmiş kredit üzrə edilməli olan bütün
+ödənişlərin ümumi məbləği əsas borcun 100%-dən çox olmamalıdır;1
+--- page 3 ---
+2.1.5.7. gecikdirmə faizləri və ya dəbbə pulu tətbiq edildikdə, əsas borc üzrə faizlər 30
+(otuz) gündən artıq hesablanmamalıdır;
+2.1.5.8. təminatı qismində daşınmaz və ya daşınar əmlak çıxış etmir;
+2.1.5.9. bu Qaydanın tələbləri nəzərə alınmaqla kreditin əsas məbləği üzrə qalıq məbləğinin
+20%-nin ödənilməsi şərti ilə yalnız bir dəfə və maksimum 45 gün müddətinə restrukturizasiya
+olunur. Bu zaman gecikdirilmə faizləri və ya dəbbə pulu tətbiq edilmir;2
+2.1.6. biznes krediti - hüquqi şəxslərə və hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti
+ilə məşğul olan fiziki şəxslərə sahibkarlıq məqsədilə verilən kredit, habelə kənd təsərrüfatı
+kreditləri;
+2.1.7. kənd təsərrüfatı krediti – kənd təsərrüfatı sektorunda fəaliyyət göstərən mikro,
+kiçik və orta sahibkarlıq subyektlərinə və ailə kəndli təsərrüfatlarına (bundan sonra – kənd
+təsərrüfatı subyektləri) kənd təsərrüfatı məhsullarının istehsalı xərclərinin (kənd təsərrüfatı
+istehsal vasitələrinin, mineral gübrə, biohumus, toxum və pestisidlərin alınması, həmçinin
+aqrokimyəvi və aqrotexniki xidmətlərdən istifadə və s.), azı dörddə üç hissəsinin istehsalı
+kənd təsərrüfatı subyektinə məxsus olan kənd təsərrüfatı məhsullarının ticarəti və emalının,
+habelə kənd təsərrüfatı sektorunun inkişafı layihələrinin (bağların salınması, kənd
+təsərrüfatı məhsullarının saxlanması yerlərinin tikintisi, heyvandarlıq təsərrüfatının
+(balıqçılıq, quşçuluq və s.) qurulması və s.) maliyyələşdirilməsi məqsədilə milli valyutada
+verilmiş biznes krediti;
+2.1.8. daşınmaz əmlak krediti - fiziki şəxslərə şəxsi istehlak məqsədi ilə daşınmaz
+əmlakın əldə edilməsi və ya tikintisi üçün verilən kredit;
+2.1.9. kənd təsərrüfatı istehsal vasitələri – kənd təsərrüfatı texnikası (məsələn, traktor,
+torpaq hazırlama və becərmə texnikası, səpin və əkin texnikası, biçin və yığım texnikası,
+gübrəsəpən və hazırlayan maşın və s.), texnoloji avadanlıq, o cümlədən suvarma sistemləri
+dəsti və avadanlığı, habelə damazlıq heyvanlar;
+2.1.10. aylıq ödəniş - müqavilədə (kredit, lizinq və digər borc öhdəlikləri üzrə) əsas
+borc və hesablanmış faizlərin və (və ya) müqavilədə göstərilən digər ödənişlərin hər ay
+bərabər hissələrlə ödənişi (annuitet ödənişlər). Kredit xətti müqavilələrində və annuitet
+ödəniş nəzərdə tutulmayan müqavilələrdə (kredit, lizinq və digər borc öhdəlikləri) aylıq
+ödəniş öhdəliyin ümumi məbləği (kredit xətləri üzrə kredit limiti) və müqavilənin bitməsinə
+qalan müddət əsasında annuitet qaydası ilə hesablanır;
+2.1.11. borcalanın gəlirləri - fiziki şəxs olan borcalanın müvafiq sənədlərlə (əmək haqqı
+barədə iş yerindən arayış, təqaüd barədə təhsil müəssisəsindən arayış, sosial müdafiə
+sahəsində idarəetməni həyata keçirən qurum tərəfindən borcalana pensiya və müavinətlərin
+ödənilməsi haqqında arayış, borcalanın mövcud depozit hesabları üzrə faiz gəlirlərini təsdiq
+edən bank arayışı və ya gəlirlərini təsdiq edən digər sənədlər) təsdiq olunmuş ardıcıl son 6
+(altı) ay üzrə orta aylıq gəliri, gəliri muzdlu işlə (əmək qanunvericiliyinə uyğun olaraq əmək
+müqaviləsi əsasında yerinə yetirilən işlər ilə) əlaqədar olmayan borcalanlar üzrə son 12 (on
+iki) ay üzrə orta aylıq gəliri və digər gəlirləri. Borcalanın orta aylıq gəliri əvvəlki 6 (altı) ay
+ərzindəki ümumi gəlirlərinin 6-ya (gəliri muzdlu işlə əlaqədar olmayan borcalanlar üzrə 12-
+yə) bölünməsi yolu ilə hesablanır. Müvafiq dövlət orqanlarının (qurumlarının) elektron
+informasiya sisteminə inteqrasiya təmin olunduğu halda müvafiq sənəd və məlumatlar
+BOKT tərəfindən həmin informasiya sistemindən real vaxt rejimində əldə oluna bilər;
+2.1.12. digər gəlirlər - BOKT-nin Müşahidə Şurası (Himayəçilik Şurası) tərəfindən
+təsdiq edilmiş daxili metodologiyaya uyğun olaraq görüləcək tədbirlər (borcalanın fəaliyyət
+sahəsinin, müəyyən gəlirlərinin mövcudluğunun və məbləğinin müəyyən edilməsi
+--- page 4 ---
+məqsədilə borcalanın fəaliyyət sahəsinə baxış keçirilməsi, təsdiqedici sənədlərin,
+məlumatların əldə edilməsi və ya digər üsullar) əsasında müəyyən edilən gəlirlər;
+2.1.13. restrukturizasiya - borcalanın maliyyə çətinliyi yaranması səbəbindən borc
+öhdəliyinin icrasını təmin etmək məqsədilə müqavilə şərtlərinin dəyişdirilməsi və ya eyni
+BOKT-də olan mövcud borc öhdəliklərinin icrasına yönəldilməsi üçün yeni borc öhdəliyi
+kimi rəsmiləşdirilməsi. Borcalanın maliyyə çətinliyinin yaranması dedikdə borcalanın pul
+axınlarının mövcud müqavilə şərtlərinə əsasən öhdəliklərinin icrası üçün adekvat olmaması,
+kredit bürolarının məlumatları əsasında borcalanın öhdəliklərinin ümumi məbləğinin ən azı
+20 (iyirmi) faizinin 90 (doxsan) gündən (gündəlik kreditlər istisna olmaqla) çox gecikdirilməsi
+və ya belə halların baş verməsi ehtimalı və s. nəzərdə tutulur. Müqavilə şərtlərinin
+dəyişdirilməsi dedikdə aşağıdakılardan hər hansı biri nəzərdə tutulur:3
+2.1.13.1. faiz dərəcəsinin azaldılması;
+2.1.13.2. əsas borcun və ya ona hesablanmış faizlərin və (və ya) müqavilədə göstərilən
+digər ödənişlərin azaldılması;
+2.1.13.3. aktivin ödəniş müddətinin uzadılması;
+2.1.13.4. yeni və ya əlavə güzəşt müddətinin (müəyyən olunmuş müddətdə ödənişlərin
+aparılmaması və ya yalnız faiz və (və ya) müqavilədə göstərilən digər ödənişlərin
+aparılması) verilməsi (gündəlik kreditlər istisna olmaqla);4
+2.1.13.5. əsas borcun və faizlərin və (və ya) müqavilədə göstərilən digər ödənişlərin
+ödəniş qrafikinin dəyişdirilməsi;
+2.1.13.6. bu Qaydanın 2.1.13.1 - 2.1.13.5-ci yarımbəndlərində göstərilənlərdən başqa
+BOKT tərəfindən müştəriyə mövcud müqavilə şərtlərindən daha əlverişli hüquq və
+üstünlüklərin təqdim edilməsi.
+3. Kredit risklərinin idarə edilməsi sistemi
+3.1. BOKT-lərdə kredit risklərinin idarə edilməsi sistemi aşağıdakı elementlərdən
+ibarətdir:
+3.1.1. kredit risklərinin idarə edilməsi siyasəti;
+3.1.2. kredit risklərinin qiymətləndirilməsi;
+3.1.3. kredit risklərinin monitorinqi.
+4. Kredit risklərinin idarə edilməsi siyasəti
+4.1. BOKT-nin Müşahidə Şurası (Himayəçilik Şurası) tərəfindən BOKT-nin risk
+iştahasına uyğun olaraq kredit risklərinin idarə edilməsi siyasəti təsdiq edilməlidir.
+4.2. Kredit risklərinin idarə edilməsi siyasəti azı aşağıdakıları əhatə edir:
+4.2.1. hər bir kredit növü üzrə bir borcalana və birgə borcalanlar qrupuna, habelə
+BOKT-yə aidiyyəti olan şəxslərə verilən kreditlərin maksimum həcmi, borcalanın ödəmə
+qabiliyyətinin qiymətləndirilməsi qaydaları;
+4.2.2. təminatın qiymətləndirilməsi qaydaları, o cümlədən kənar qiymətləndiricinin
+seçilməsi meyarları;
+4.2.3. kredit inzibatçılığının aparılması qaydaları;
+4.2.4. qeyri-standart kreditlərin idarə edilməsi qaydaları;
+4.2.5. hesabatlıq.
+--- page 5 ---
+4.3. BOKT-nin əməliyyatlarının həcminə uyğun BOKT-nin kredit risklərinin idarə
+edilməsi siyasətinə daxili risk reytinqi sisteminə dair tələblər və ona daxil edilən meyarlar,
+stres-testlərin aparılması daxil edilə bilər.
+4.4. BOKT-nin qeyri-standart kreditlərin idarə edilməsi qaydasında daxili və xarici
+amillərin BOKT-nin qeyri-standart kreditlərinin idarə edilməsinə təsiri, BOKT-nin qeyri-
+standart kreditlərin idarə edilməsi ilə bağlı imkanlarının (resursların mövcudluğu,
+informasiya texnologiyaları və s.) artırılması hədəfləri, qısamüddətli, ortamüddətli və
+uzunmüddətli dövrdə qeyri-standart kreditlərin həcminin azaldılması hədəfləri öz əksini
+tapır.
+4.5. Qeyri-standart kreditlərin idarə edilməsi qaydasına uyğun olaraq tədbirlər planı
+hazırlanır. Tədbirlər planı BOKT-nin icra orqanı tərəfindən təsdiqlənir və azı ildə bir dəfə
+nəzərdən keçirilir. Tədbirlər planında qeyri-standart kreditlərin azaldılması ilə bağlı
+tədbirlər və onların reallaşdırılma müddətləri, tədbirlərin icrası üçün tələb olunan resurslar
+əhatə edilir.
+4.6. Bu Qaydanın 4.2-ci bəndində qeyd olunan daxili qaydalarda maraqlar
+münaqişəsinin yolverilməzliyi təmin olunmalıdır.
+4.7. Kredit risklərinin idarə edilməsi siyasəti BOKT-nin icra orqanı tərəfindən BOKT-
+nin əməkdaşları ilə kommunikasiya edilməlidir.
+5. Kredit risklərinin qiymətləndirilməsi və kredit inzibatçılığı
+5.1. BOKT tərəfindən kredit tələbinin yaranması, o cümlədən yeni BOKT məhsullarının
+təqdim edilməsi zamanı borcalanların ödəmə qabiliyyəti qiymətləndirilir. Bu zaman azı
+aşağıdakılar nəzərə alınır:
+5.1.1. istehlak kreditləri üzrə (gündəlik kreditlər istisna olmaqla):
+5.1.1.1. borcalanın gəlirləri;
+5.1.1.2. borcalanın yaşı və iş təcrübəsi;
+5.1.1.3. kreditin məqsədi və onun ödənilməsi mənbəyi;
+5.1.1.4. borcalanın kredit tarixçəsi;
+5.1.1.5. kreditin təminata olan nisbəti əmsalı (kredit üzrə təminat olduqda);
+5.1.1.6. borcalanın əsas gəlirlərinin azalması halında borcun ödənilməsinin alternativ
+yolları;
+5.1.1.7. borcalanın xərclərinin səviyyəsi, habelə kreditin ödəmə müddətində borcalanın
+xərclərinin artması və ya azalması ehtimalları.
+5.1.2. digər kredit tələbləri (iri və orta sahibkarlara verilən biznes krediti, qarantiya və
+s.) ilə bağlı bu Qaydanın 5.1.1.3 – 5.1.1.5-ci yarımbəndlərində qeyd olunan meyarlar ilə
+yanaşı aşağıdakılar nəzərə alınır:
+5.1.2.1. borcalanın müxtəlif ssenarilərdə pul axınlarının pisləşməsi halında borc
+öhdəliyinin ödənilməsi yolları;
+5.1.2.2. hüquqi şəxs olduqda, borcalanın səhmdarları (payçıları) və idarəetmə orqanının
+üzvləri barədə məlumatlar;
+5.1.2.3. borcalanın biznes təcrübəsi və onun fəaliyyət göstərdiyi sektorda mövqeyi;
+5.1.2.4. borcalanın maliyyə vəziyyəti (borcalan holdinq şirkəti və ya holdinq şirkətinin
+tərkibindəki şirkət olduqda konsolidasiya olunmuş əsasda baxılır). Bu zaman, borcalanın və
+ya emitentin maliyyə hesabatlarına (olduqda, auditor rəyi ilə birlikdə kənar auditor
+yoxlamasından keçmiş maliyyə hesabatları), vergi orqanlarına təqdim etdiyi hesabatlara,
+--- page 6 ---
+habelə borcalanın və ya emitentin biznes planına (yeni biznes növü və ya sahəsi
+yaradıldıqda) baxılır. Borcalanın maliyyə hesabatları kredit üzrə sifarişin təqdim edilməsi
+tarixindən ən azı son 1 (bir) illik dövrü (borcalanın fəaliyyətə başladığı müddət 1 (bir) ildən
+az olduqda, fəaliyyət göstərdiyi dövrü) əhatə edir;
+5.1.3. kiçik sahibkarlara verilən biznes kreditləri ilə bağlı bu Qaydanın 5.1.1.3 - 5.1.1.5-ci
+yarımbəndlərində qeyd olunan meyarlar ilə yanaşı ən azı bir illik dövriyyəsi və maliyyə
+hesabatları (borcalanın fəaliyyətə başladığı müddət 1 (bir) ildən az olduqda, fəaliyyət
+göstərdiyi dövr üzrə) nəzərə alınır;
+5.1.4. kredit borcalana xarici ölkədə istifadə məqsədilə verildiyi təqdirdə, bu Qaydanın
+5.1.1 - 5.1.3-cü yarımbəndlərinin tələbləri ilə yanaşı, kreditin istifadə edildiyi ölkədə iqtisadi
+və siyasi amillərin onun ödəmə qabiliyyətinə təsiri, həmçinin, kredit müqaviləsi üzrə
+öhdəliklərin icrasında, habelə təminatın realizə edilməsində yarana biləcək risklər də nəzərə
+alınmalıdır;
+5.1.5. mikro sahibkarlara verilən kreditlər ilə bağlı bu Qaydanın 5.1.1.3 – 5.1.1.5-ci
+yarımbəndlərinin tələbləri ilə yanaşı, borcalanın fəaliyyətinə dair həyata keçirilmiş baxışın
+nəticələri qiymətləndirilməlidir. Borcalanın fəaliyyəti olmadıqda xərcləri və nağd pul
+axınlarının proqnozlaşdırılmasını əhatə edən biznes plan qiymətləndirilir;
+5.1.6. kənd təsərrüfatı kreditləri üzrə borcalanın ödəmə qabiliyyətinin
+qiymətləndirilməsi zamanı bu Qaydanın 5.1.2-ci, 5.1.3-cü və 5.1.5-ci yarımbəndlərinin
+tələbləri ilə yanaşı ən azı kredit məbləğini əhatə edən, habelə sığorta müqaviləsində sığorta
+hadisəsi baş verdikdə kreditin qalıq məbləğində sığorta ödənişinin faydalanan şəxs
+qismində BOKT-yə ödənilməsi şərtini nəzərdə tutan sığorta təminatının olması (aqrar
+sığorta və s.) nəzərə alınır. Kreditin maliyyələşdirilməsi birdən çox kredit təşkilatı tərəfindən
+aparıldıqda, sığorta müqaviləsində sığorta hadisəsi baş verdikdə sığorta vəsaitlərinin kredit
+təşkilatları arasında bölüşdürülməsi şərtləri müəyyən edilməlidir.
+5.2. Kredit tələbinin yaranması zamanı borcalanın birgə borcalanlar qrupuna, habelə
+BOKT-yə aidiyyəti olan şəxslərə aid olması yoxlanılır.
+5.2-1. BOKT müştərinin yazılı müraciəti ilə ona istehlak krediti müqaviləsinin məsafədən
+bağlanılmasına və ya kredit limitinin artırılması ilə bağlı müqaviləyə məsafədən dəyişiklik
+edilməsinə bütün satış kanalları vasitəsilə məhdudiyyət qoymaq imkanı yaratmalıdır. Müvafiq
+məhdudiyyət həmin müştərinin BOKT-da fiziki iştirakı, gücləndirilmiş elektron imzası və ya
+gücləndirilmiş müştəri autentifikasiyası yolu ilə təqdim etdiyi yazılı müraciəti əsasında aradan
+qaldırıla bilər.5
+5.2-2. BOKT istehlak kreditinin verilməsi zamanı kredit müqaviləsinin məsafədən
+bağlanılmasına və ya kredit limitinin artırılması ilə bağlı müqaviləyə məsafədən dəyişiklik
+edilməsinə borcalanın tətbiq etdiyi məhdudiyyətin olmamasını öz informasiya sistemi vasitəsi ilə
+müəyyən etdikdə, məhdudiyyətin olub-olmamasını kredit bürosunun informasiya sistemi vasitəsilə
+də yoxlamalı və nəzərə almalıdır. İstehlak krediti üzrə müvafiq məhdudiyyətin mövcud olduğu
+şəxslə istehlak krediti müqaviləsinin məsafədən bağlanmasına və ya kredit limitinin artırılması ilə
+bağlı müqaviləyə məsafədən dəyişiklik edilməsinə yol verilmir.
+5.2-3. BOKT bu Qaydanın 5.2-1-ci və ya 5.2-2-ci bəndlərində nəzərdə tutulan məhdudiyyəti
+tətbiq etmiş şəxsdən istehlak krediti müqaviləsinin məsafədən bağlanması və ya kredit limitinin
+artırılması ilə bağlı müqaviləyə məsafədən dəyişiklik edilməsi üçün müraciət aldıqda, bu barədə
+müştərini mobil tətbiq və ya SMS məlumatlandırma vasitəsi ilə dərhal məlumatlandırır.
+--- page 7 ---
+5.2-4. Məsafədən istehlak krediti müqaviləsinin bağlanması və ya kredit limitinin artırılması
+ilə bağlı müqaviləyə məsafədən dəyişiklik edilməsi zamanı müraciət edən şəxs əvvəlcədən
+məlumatlandırılmaqla vəsaitlər aşağıdakı müddətlərdə verilir:
+5.2-4.1. gün ərzində verilən və ya artırılan vəsaitin məbləği minimum əmək haqqının 2 (iki)
+mislinədək və ya onun ekvivalentinədək olduqda – müqavilə bağlandığı və ya müqaviləyə dəyişiklik
+edildiyi andan 2 (iki) saat sonra;
+5.2-4.2. gün ərzində verilən və ya artırılan vəsaitin məbləği minimum əmək haqqının 2 (iki)
+mislindən və ya onun ekvivalentindən çox olduqda – müqavilə bağlandığı və ya müqaviləyə
+dəyişiklik edildiyi andan 24 (iyirmi dörd) saat sonra.
+5.3. Borcalanın ödəmə qabiliyyəti kredit tələbinin təminatlı və ya təminatsız
+olmasından asılı olmayaraq, bu Qaydanın 5.1-ci bəndi nəzərə alınmaqla bütün hallarda
+qiymətləndirilir.
+5.4. Borcalanın ödəmə qabiliyyətinin informasiya sistemləri vasitəsilə
+avtomatlaşdırılmış qaydada qiymətləndirilməsi bu Qaydanın tələbləri nəzərə alınmaqla
+aparılır.
+5.5. Hər bir kredit tələbi üzrə borcalanın kredit risklərinin təhlili nəticələri, kreditin
+verilməsi ilə bağlı qərar sənədləşdirilir və kredit dosyesində saxlanılır. Kredit dosyesinə
+daxil olmalı sənəd və məlumatların siyahısı bu Qaydaya 1 nömrəli Əlavədə nəzərdə tutulur.
+5.6. Kreditlər üzrə müraciətlərin reyestri aparılır və kreditin verilməsindən imtina
+edildikdə, BOKT kredit üçün müraciət edən şəxsə onun sorğusu əsasında imtinanın
+səbəblərini göstərməklə aydın şəkildə yazılı cavab verməlidir.
+5.7. Kredit verildikdə borcalanla BOKT arasında kredit müqaviləsi bağlanılır. Kredit
+müqaviləsi, o cümlədən istehlak krediti müqaviləsi üzrə münasibətlər Azərbaycan
+Respublikasının Mülki Məcəlləsi ilə tənzimlənir. İstehlak krediti üzrə borcalana təqdim
+edilən standart məlumatlandırma forması Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin 2023-cü il 26 iyul tarixli 38/2 nömrəli Qərarı ilə təsdiq edilmiş “İstehlak krediti
+müqaviləsi üzrə standart məlumatlandırma forması”na uyğun tərtib edilir.
+5.7-1. İstehlak krediti müqaviləsinə bu Qaydanın 5.2-2-ci bəndinin tələbinin pozulması ilə
+kreditin verildiyi və ya kredit limitinin artırıldığı halda borclunun verilmiş (artırılmış) kredit üzrə
+öhdəlikdən azad edilməsi ilə bağlı müddəa daxil edilməlidir.6
+5.8. İstehlak krediti müqaviləsinin məsafədən bağlanması, müqaviləyə dəyişiklik edilməsi, o
+cümlədən kredit limitinin artırılması zamanı Azərbaycan Respublikasının Mülki Məcəlləsinə və
+Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 16 dekabr 2025-ci il tarixli 44/5
+nömrəli Qərarı ilə təsdiq edilmiş “Məsafədən hesabların açılması Qaydası”nın” tələblərinə əməl
+edilməlidir.7
+5.9. Kredit üzrə faktiki illik faiz dərəcəsi bu Qaydaya 2 nömrəli Əlavədə müəyyən
+edilmiş qaydada hesablanır. “Reklam haqqında” Azərbaycan Respublikasının Qanununa
+əsasən istehlak krediti ilə bağlı reklamda kreditin hər hansı xərci ilə bağlı məlumat
+verildikdə, kredit üzrə faktiki illik faiz dərəcəsi göstərilməlidir.
+5.10. BOKT-də kredit risklərinin qiymətləndirilməsi funksiyasını həyata keçirən
+struktur bölmə kreditlərin verilməsi funksiyasını həyata keçirən struktur bölmədən ayrı
+olmalıdır.
+6. Kredit risklərinin monitorinqi
+--- page 8 ---
+6.1. BOKT kredit risklərinin monitorinqini təmin edən müvafiq qaydalara və
+informasiya sisteminə malik olmalıdır. Kredit risklərinin monitorinqi qaydalarında BOKT-
+nin təsnifləşdirmə məqsədilə gecikmə günlərinə görə kreditlərin aylıq əsasda monitorinqi,
+təminat qismində çıxış edən daşınar və ya daşınmaz əmlakın vəziyyətinin və saxlanma
+şəraitinin yoxlanılması, kredit tələbinin təyinatı üzrə istifadə edilməsi və kreditlərin
+restrukturizasiyası üzrə prosedurlar və tələblər öz əksini tapır.
+6.2. Kredit risklərinin monitorinqi funksiyasını həyata keçirən struktur bölmə BOKT-
+nin kreditlərin verilməsi funksiyasını həyata keçirən struktur bölməsindən ayrı olmalıdır.
+7. Kreditlərin verilməsi ilə bağlı tələblər
+7.1. Daşınmaz əmlak krediti yalnız milli valyutada verilir.
+7.2. İstehlak krediti gündəlik kreditə dair tələblərə uyğun olmadıqda, borcalanın
+ödəmə qabiliyyətinin qiymətləndirilməsi bu Qaydanın 5-ci hissəsinin tələblərinə uyğun
+həyata keçirilir. BOKT tərəfindən gündəlik kredit üzrə borcu olan şəxsə yeni gündəlik kredit
+verilə bilməz və yalnız həmin kredit tam ödənildiyi gündən 3 (üç) iş günü sonra həmin şəxsə
+yeni gündəlik kredit verilə bilər.
+7.3. Xarici valyutada kreditlər yalnız həmin xarici valyutada gəliri olan şəxslərə verilə
+bilər.
+8. Yekun müddəalar
+8.1. Bu Qayda qüvvəyə minənədək fəaliyyətdə olan BOKT-lərə bu Qayda (8.2 - 8.4-cü
+bəndləri nəzərə alınmaqla) qüvvəyə mindiyi tarixdən 1 (bir) ay sonra şamil edilir.
+8.2. Bu Qaydanın 2.1.5.9-cu yarımbəndinin (bu Qayda qüvvəyə mindiyi tarixədək
+verilmiş kreditlər üzrə), 4-cü hissəsinin, 5.2 - 5.6-cı və 7.2-ci bəndlərinin tələbləri bu Qayda
+qüvvəyə minənədək fəaliyyətdə olan BOKT-lərə bu Qayda qüvvəyə mindiyi tarixdən 3 (üç)
+ay sonra şamil edilir.
+8.3. Bu Qaydanın 5.1-ci, 5.8-ci bəndlərinin və 6-cı hissəsinin tələbləri bu Qayda qüvvəyə
+minənədək fəaliyyətdə olan BOKT-lərə bu Qayda qüvvəyə mindiyi tarixdən 6 (altı) ay sonra
+şamil edilir.
+8.4. Bu Qaydanın 7.1-ci və 7.3-cü bəndlərinin tələbləri bu Qayda qüvvəyə minənədək
+fəaliyyətdə olan BOKT-lər tərəfindən bu Qayda qüvvəyə mindiyi tarixdən sonra verilən,
+habelə bu Qayda qüvvəyə mindiyi tarixədək verilmiş, lakin bu Qayda qüvvəyə mindikdən
+sonra restrukturizasiya edilən kreditlərə şamil edilir.
+--- page 9 ---
+“Bank olmayan kredit təşkilatlarında kredit
+risklərinin idarə edilməsi Qaydası”na
+Əlavə 1
+Kredit dosyesi
+1. Ümumi sənədlər
+1. Borcalanın özünün, yaxud səlahiyyətli nümayəndəsinin imzası ilə təsdiq edilmiş
+kredit müqaviləsi üzrə tələb edilən kreditin məbləği, valyutası və müddəti göstərilməklə
+kredit müraciəti (sifarişi).
+2. Borcalan, yaxud onun səlahiyyətli nümayəndəsi barədə “Cinayət yolu ilə əldə
+edilmiş əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı
+mübarizə haqqında” Azərbaycan Respublikasının Qanununa (bundan sonra – ƏL/TMM
+Qanunu) müvafiq olaraq qəbul edilmiş “Müştəri uyğunluğu və yeni texnologiyaların tətbiqi
+zamanı verifikasiya tədbirlərinə, risk faktorlarının müəyyən edilməsinə və müştəri profilinin
+risk qruplarına aid edilməsinə dair Qaydalar”a uyğun olaraq əldə edilmiş məlumat və
+sənədlərlə yanaşı:
+2.1. borcalan hüquqi şəxs və ya fərdi sahibkar olduqda, faktiki fəaliyyət göstərdiyi
+ünvan;
+2.2. borcalanın fəaliyyət sahəsi (fiziki şəxsin məşğuliyyət sahəsi və ya sosial statusu)
+barədə məlumat.
+3. Borcalan hüquqi şəxs olduqda, onun səlahiyyətli idarəetmə orqanının kreditin
+alınması haqqında müvafiq qərarı və kredit sənədlərini imzalamaq hüququ olan şəxsin
+səlahiyyətini təsdiq edən sənəd.
+4. Kreditin ödənilməsi üçün pul axınlarının mənbəyi (əsas və ehtiyat mənbələr
+göstərilməklə).
+5. Kreditin təminatlı və ya təminatsız olması barədə məlumat.
+6. BOKT tərəfindən hazırlanmış borcalanın krediti ödəmə qabiliyyətinin
+qiymətləndirilməsinə dair hesabat.
+7. Biznes-plan (kreditin növündən asılı olaraq tələb olunduqda).
+8. Daxili prosedurlarla nəzərdə tutulmuş qaydada kreditin verilməsinə dair BOKT-nin
+müvafiq bölmələrinin və ya səlahiyyətli şəxslərinin rəyi.
+9. BOKT-nin səlahiyyətli bölmələrinin kreditlərin verilməsinə dair iclas protokolundan
+çıxarış və ya müvafiq səlahiyyətli şəxslərin imzası ilə kreditin verilməsi haqqında çıxarılmış
+qərar.
+10. Kredit müqaviləsi.
+11. Bu Qaydada nəzərdə tutulmuş hallarda borcalanın öhdəlikləri barədə kredit
+tarixçəsini təşkil edən məlumatlar.
+12. Borcalan hüquqi şəxs olduqda onun başa çatmış maliyyə ili üzrə auditor rəyi ilə
+təsdiq edilmiş (olduqda) illik maliyyə hesabatları (kredit verilərkən əldə edilmiş maliyyə
+hesabatları). Borcalan BOKT-yə aidiyyəti olan hüquqi şəxs olduqda onun auditor rəyi ilə
+təsdiq edilmiş (olduqda) ən azı son iki illik maliyyə hesabatları.
+13. Borcalan hüquqi şəxs olduqda, kreditin müddəti ərzində illik maliyyə hesabatları.
+14. Borcalan hüquqi şəxs olduqda onun korporativ idarəetmə strukturuna dair BOKT-
+nin rəyi.
+--- page 10 ---
+15. Bir borcalanla və ya birgə borcalan qrupları ilə bağlı təmərküzləşmə riski barədə
+məlumat (belə hal baş verdikdə).
+16. Borcalan hüquqi/fiziki şəxs olduqda borcalanın BOKT tərəfindən müəyyən edilmiş
+daxili risk reytinqi.
+17. Kreditin təyinatı üzrə istifadəsini təsdiq edən sənədlər (borcalanın satıcı və
+podratçılarla müqavilələrinin surəti, xərcləri təsdiq edən sənədlər və s.).
+18. Kredit müddəti ərzində kreditin təyinatı üzrə istifadə olunması və borcalanın
+maliyyə vəziyyətinin yoxlanması və monitorinqinin nəticələrinə dair BOKT-nin müvafiq
+struktur bölməsi tərəfindən tərtib olunmuş hesabat.
+19. Kreditin restrukturizasiyası ilə bağlı müqavilə və digər sənədlər.
+20. İstehlakçıya təqdim edilmiş istehlak krediti üzrə standart məlumatlandırma
+forması.
+21. Kredit müəyyən malın alınması və ya xidmətin göstərilməsi ilə əlaqədar olaraq
+əlaqəli kredit müqaviləsi vasitəsilə verildikdə, həmin mal və ya xidmətin alışını təsdiq edən
+sənəd.
+22. Məsafədən rəsmiləşdirildiyi halda istehlak krediti müqaviləsinin məsafədən bağlanılmasına
+və ya kredit limitinin artırılması ilə bağlı müqaviləyə məsafədən dəyişiklik edilməsinə dair
+borcalanın tətbiq etdiyi məhdudiyyətin olub-olmaması barədə məlumat.8
+2. Təminata dair sənədlər
+1. Təminata dair mövcud qanunvericiliyə uyğun bağlanmış (təsdiq edilmiş) müqavilə.
+2. Girov predmeti üzrə mülkiyyət hüququnu təsdiq edən sənədlərin surəti.
+3. Girov predmeti birgə mülkiyyətdə olduqda onun rəsmiləşdirilməsi ilə əlaqədar
+bütün mülkiyyətçilərin, razılığını təsdiq edən sənədlər (razılığın əldə edilməsi
+qanunvericilikdə nəzərdə tutulduğu hallarda), habelə sonrakı girov əvvəlki girov
+müqaviləsi ilə qadağan edilmədiyi halda, sonrakı girov zamanı əvvəlki girov qoyanın
+(ipoteka qoyanın) razılığını təsdiq edən sənədlər.
+4. BOKT təqdim olunan girov predmetinin alınmasını maliyyələşdirdikdə (daşınmaz
+əmlak, avtomobil və s.) həmin aktivin alış qiymətini təsdiq edən sənədlər.
+5. Girov predmetinin qiymətləndirilməsi tarixi, metodu, qiymətləndirici göstərilməklə
+qiymətləndirmənin nəticələri barədə hesabat.
+6. Girov predmetinin fiziki və texniki vəziyyətinin yoxlanılması haqqında hesabat:
+yoxlanılan girovun növü, yoxlamanın aparılma yeri və onu aparan şəxsin adı, soyadı,
+vəzifəsi, habelə yoxlamanın nəticələri (onun saxlanma vəziyyəti və s. göstəriciləri
+göstərilməklə) barədə məlumat.
+7. BOKT tərəfindən girov predmetinin BOKT-nin xeyrinə sığortalanması tələb
+edildikdə sığorta ilə bağlı sənədlər (sığorta müqaviləsi və şəhadətnaməsi).
+8. Təminat qarantiya və ya zaminlik növündə olduqda müvafiq olaraq qarantın və ya
+zaminin maliyyə vəziyyəti barədə məlumat və onun BOKT tərəfindən qiymətləndirilməsinin
+nəticələri.
+9. Təminatın əvəz edilməsinin sənədləşdirilməsinə dair sənədlər (zərurət yarandıqda)
+10. Təminatçı hüquqi şəxs olduqda:
+10.1. təsis və dövlət qeydiyyatına dair sənədlər;
+10.2. təminatçının səlahiyyətli idarəetmə orqanının qərarı (bu səlahiyyətlər kollegial
+idarəetmə orqanına məxsus olduqda);
+--- page 11 ---
+10.3. təminat müqaviləsini imzalayan şəxsin səlahiyyətlərini təsdiq edən sənədlər.
+11. Zamin fiziki şəxs olduqda:
+11.1. onun gəlir mənbəyini (mənbələri) təsdiq edən məlumatlar;
+11.2. onun ödəniş qabiliyyətinə dair digər məlumatlar, o cümlədən kredit tarixçəsini
+təşkil edən məlumatlar.
+12. Pul vəsaitinin girovu ilə təmin olunmuş kreditlər üçün hesabın bloklaşdırılmasını
+təsdiq edən sənədlər.
+3. Digər sənədlər
+1. Borcun tutulmasına dair sənədlər (borcalanlara ünvanlanmış məktublar, borcun
+tutulması tədbirlərinin nəticələri və s.).
+2. Tikinti sahəsinə verilən kreditlər üçün tikinti layihələrinə dair sənədlər (olduğu
+halda).
+3. Digər hüquqi sənədlər (məsələn, borcalana qarşı həllini gözləyən hər hansı bir rəsmi
+iddia, yaxud borcalan tərəfindən BOKT-ə qarşı qaldırılmış rəsmi şikayət/iddia).
+4. Borcalanla yazışmalar.
+5. BOKT-nin daxili qaydaları ilə nəzərdə tutulmuş digər sənədlər.
+6. Kənd təsərrüfatı kreditləri üzrə əlavə olaraq aşağıdakı sənədlər:
+6.1. borcalanın kənd təsərrüfatı sahəsində icazə, sertifikat və digər hüquqmüəyyənedici
+sənədləri (qanunvericiliklə tələb olunduqda);
+6.2. istehsalı planlaşdırılan məhsulun satış planları, müqavilələri və ya satış üzrə niyyət
+Protokolları (olduğu halda).
+--- page 12 ---
+“Bank olmayan kredit təşkilatlarında kredit
+risklərinin idarə edilməsi Qaydası”na
+Əlavə 2
+Faktiki illik faiz dərəcəsinin (FİFD) hesablanması qaydası
+A. FİFD-in hesablanması aşağıda göstərilmiş riyazi tənlik vasitəsilə hesablanır:
+S – borcalana verilən xalis kredit məbləği, yəni verilən kredit və BOKT-yə ödəniləcək
+cari tutulmalar arasındakı fərq;
+k — pul axınının (ödənişin və digər xərcin) sıra nömrəsi;
+n — pul axınlarının (ödənişlərin və digər xərclərin) sayı;
+x — faktiki illik faiz dərəcəsi;
+m — illik ödəniş intervalı;
+A — kredit müqaviləsi üzrə k – cı pul axınlarının (ödənişlərin və digər xərclərin) cəmi.
+k
+İki istiqamətli pul axınları əks riyazi işarələrlə, yəni xaric olan pul axını “mənfi”, daxil olan
+pul axını isə “müsbət” işarələri ilə hesaba daxil edilir.
+B. FİFD-in hesablanmasına aşağıdakı xərc maddələri daxil edilmir:
+a) kredit müqaviləsinin şərtləri ilə əlaqədar deyil, qanunvericiliyin tələblərindən irəli
+gələn xərclər (məsələn, icbari sığorta, notarial xərclər və s.);
+b) kreditin əldə edilməsini məhdudlaşdırmayan sığorta xərcləri;
+c) BOKT-yə əvvəlcədən məlum olmayan sığorta haqları;
+d) borcalanın kredit müqaviləsinin şərtlərinə əməl etməməsi ilə bağlı yarana biləcək
+xərclər (ödənişlər gecikdirildiyi halda gecikdirilmə faizləri, dəbbə pulu və s.);
+e) həcmi və/və ya müddəti borcalanın qərarından və/və ya davranışından asılı olan,
+kredit müqaviləsində nəzərdə tutulmuş ödənişlər, o cümlədən:
+i. kreditin vaxtından əvvəl tamamilə və ya qismən geri qaytarılması üzrə
+kompensasiya xərcləri;
+ii. borcalan üçün müəyyən edilmiş overdraft limitinin aşılması üzrə xərclər;
+iii. kredit borcunun vəziyyəti barədə məlumatın əldə edilməsi üzrə ödənişlər;
+iv. kredit kartları üzrə mübadilə və bu kimi digər tutulmalar.
+C. Kredit kartları (xətti) vasitəsilə ayrılan kreditlər üzrə FİFD-in hesablanması
+aşağıdakılar nəzərə alınmaqla həyata keçirilir:
+a) kredit müqaviləsi borcalana kreditin istifadəsi üzrə sərbəst davranışa imkan
+yaratdıqda, kreditin verildiyi gün tam məbləğdə istifadə edilməsi imkanı nəzərə alınır.
+Kreditin hissə-hissə istifadəsi nəzərdə tutulduqda, sərbəst istifadə edilə bilən hissənin
+məbləği nəzərə alınır;
+b) kredit müqaviləsində kreditin istifadəsi üzrə sərbəst davranış müəyyən edildikdə və
+bu əsasda fərqli faiz dərəcəsi və (və ya) digər ödənişlər tələb edilməsi nəzərdə tutulduqda,
+hesablama tətbiq oluna biləcək ən yüksək tələblər nəzərə alınmaqla həyata keçirilir;
+c) kredit müqaviləsi üzrə borcalanın ödəniş qrafiki nəzərdə tutulmadıqda aşağıdakılar
+fərz olunur:
+--- page 13 ---
+i. kreditin müddətinin bir il olması;
+ii. ödənişlərin aylıq əsasda və bərabər ödənişlərlə həyata keçirilməsi.
+d) kredit müqaviləsi üzrə ödəniş qrafikində yalnız müddət müəyyən edildikdə,
+ödənişlərin həcmi isə sərbəst olduqda (yəni, müqavilə üzrə müəyyən edilmədikdə), ən kiçik
+ödənişin (yalnız faiz və (və ya) müqavilədə göstərilən digər ödənişlərin) həyata keçiriləcəyi
+və əsas məbləğin müddətin sonunda ödəniləcəyi fərz olunur.
+--- page 14 ---
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 16 dekabr 2025-ci il tarixli 44/5 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202512160445, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 29 dekabr 2025-ci il)
+2. 28 aprel 2026-cı il tarixli 18/11 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604281811, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 22 iyun 2026-cı il)
+3. 18 avqust 2026-cı il tarixli 36/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202608180362, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 9 sentyabr 2026-cı il)
+QƏRARA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+1 18 avqust 2026-cı il tarixli 36/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202608180362, Hüquqi Aktların Dövlət
+Reyestrinə daxil edildiyi tarix 9 sentyabr 2026-cı il) ilə “Bank olmayan kredit təşkilatlarında kredit risklərinin
+idarə edilməsi Qaydası”nın 2.1.5.6-cı yarımbəndinə “kredit” sözündən sonra “, o cümlədən restrukturizasiya
+edilmiş kredit” sözləri əlavə edilmişdir.
+2 18 avqust 2026-cı il tarixli 36/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202608180362, Hüquqi Aktların Dövlət
+Reyestrinə daxil edildiyi tarix 9 sentyabr 2026-cı il) ilə “Bank olmayan kredit təşkilatlarında kredit risklərinin
+idarə edilməsi Qaydası”nın 2.1.5.9-cu yarımbəndi yeni redaksiyada verilmişdir.
+Əvvəlki redaksiyada deyilirdi:
+3 18 avqust 2026-cı il tarixli 36/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202608180362, Hüquqi Aktların Dövlət
+Reyestrinə daxil edildiyi tarix 9 sentyabr 2026-cı il) ilə “Bank olmayan kredit təşkilatlarında kredit risklərinin
+idarə edilməsi Qaydası”nın 2.1.13-cü yarımbəndinə “90 (doxsan) gündən” sözlərindən sonra “(gündəlik
+kreditlər istisna olmaqla)” sözləri əlavə edilmişdir.
+4 18 avqust 2026-cı il tarixli 36/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202608180362, Hüquqi Aktların Dövlət
+Reyestrinə daxil edildiyi tarix 9 sentyabr 2026-cı il) ilə “Bank olmayan kredit təşkilatlarında kredit risklərinin
+idarə edilməsi Qaydası”nın 2.1.13.4-cü yarımbəndinə “verilməsi” sözündən sonra “(gündəlik kreditlər istisna
+olmaqla)” sözləri əlavə edilmişdir.
+5 28 aprel 2026-cı il tarixli 18/11 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604281811, Hüquqi Aktların Dövlət
+Reyestrinə daxil edildiyi tarix 22 iyun 2026-cı il) ilə “Bank olmayan kredit təşkilatlarında kredit risklərinin
+idarə edilməsi Qaydası”na yeni məzmunda 5.2-1 – 5.2-4-cü bəndlər əlavə edilmişdir.
+6 28 aprel 2026-cı il tarixli 18/11 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604281811, Hüquqi Aktların Dövlət
+Reyestrinə daxil edildiyi tarix 22 iyun 2026-cı il) ilə “Bank olmayan kredit təşkilatlarında kredit risklərinin
+idarə edilməsi Qaydası”na yeni məzmunda 5.7-1-ci bənd əlavə edilmişdir.
+7 16 dekabr 2025-ci il tarixli 44/5 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202512160445, Hüquqi Aktların Dövlət
+Reyestrinə daxil edildiyi tarix 29 dekabr 2025-ci il) ilə “Bank olmayan kredit təşkilatlarında kredit risklərinin
+idarə edilməsi Qaydası”nın 5.8-ci bəndi yeni redaksiyada verilmişdir.
+--- page 15 ---
+Əvvəlki redaksiyada deyilirdi:
+8 28 aprel 2026-cı il tarixli 18/11 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604281811, Hüquqi Aktların Dövlət
+Reyestrinə daxil edildiyi tarix 22 iyun 2026-cı il) ilə “Bank olmayan kredit təşkilatlarında kredit risklərinin
+idarə edilməsi Qaydası”ya 1 nömrəli Əlavənin 1-ci hissəsinə yeni məzmunda 22-ci bənd əlavə edilmişdir.

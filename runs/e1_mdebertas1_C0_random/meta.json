@@ -1,0 +1,14 @@
+{
+ "run_id": "e1_mdebertas1_C0_random",
+ "system": "S2_mdeberta",
+ "condition": "C0",
+ "sample": "random",
+ "n": 2020,
+ "model_id": "microsoft/mdeberta-v3-base",
+ "source_file": "runs/colab_returned_2026-11-11/results_random/predictions_enc_mdeberta.csv",
+ "source_sha256": "00c870245fd27f3bdc927a74d26b4aa84393a640cca884273d743a1d65f3d15b",
+ "predictions_sha256": "c0316b06a62ed285e6e51b1ab51ba41434b1a0e7cd958be5f5d13fdda3264387",
+ "cost": 0.0,
+ "finished": "2026-11-11 12:33:36",
+ "note": "E2 encoder, training seed 1 (mean and range over seeds 1-3 in the analysis)"
+}

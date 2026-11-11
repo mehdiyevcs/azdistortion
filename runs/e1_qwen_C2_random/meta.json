@@ -1,0 +1,19 @@
+{
+ "run_id": "e1_qwen_C2_random",
+ "system": "qwen",
+ "condition": "C2",
+ "sample": "random",
+ "merged": true,
+ "n": 2020,
+ "n_called_C2": 422,
+ "n_copied_from_C1": 1598,
+ "parts": [
+  "e1_qwen_C2t2_random",
+  "e1_qwen_C1_random"
+ ],
+ "raw": "runs/e1_qwen_C2t2_random/raw (C2 calls) and runs/e1_qwen_C1_random/raw (copied C1 calls)",
+ "prompt_sha256": "4cd86262bd9bc9af189a1211fd67319a072c2b650160dbe1d5f672c6c93fbba7",
+ "model_id": "mlx-community/Qwen2.5-7B-Instruct-4bit",
+ "finished": "2026-11-10 04:27:06",
+ "note": "cost and minutes of this run = those of the C2t2 part; the copied rows were paid in the C1 run"
+}

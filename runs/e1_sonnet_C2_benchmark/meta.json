@@ -1,0 +1,19 @@
+{
+ "run_id": "e1_sonnet_C2_benchmark",
+ "system": "sonnet",
+ "condition": "C2",
+ "sample": "benchmark",
+ "merged": true,
+ "n": 1573,
+ "n_called_C2": 527,
+ "n_copied_from_C1": 1046,
+ "parts": [
+  "e1_sonnet_C2t2_benchmark",
+  "e1_sonnet_C1_benchmark"
+ ],
+ "raw": "runs/e1_sonnet_C2t2_benchmark/raw (C2 calls) and runs/e1_sonnet_C1_benchmark/raw (copied C1 calls)",
+ "prompt_sha256": "4cd86262bd9bc9af189a1211fd67319a072c2b650160dbe1d5f672c6c93fbba7",
+ "model_id": "claude-sonnet-5-5",
+ "finished": "2026-11-09 21:31:43",
+ "note": "cost and minutes of this run = those of the C2t2 part; the copied rows were paid in the C1 run"
+}

@@ -1,0 +1,14 @@
+{
+ "ann_id": "CBAR-5479",
+ "t1_files": [
+  "data/raw/announcements/CBAR-5479/text_0.txt"
+ ],
+ "t2_files": [],
+ "has_t2": 0,
+ "t2_status": "no",
+ "t1_is_act": 0,
+ "sha256_T1": "03c3017bd1ed5d24149d512c20665bdd312ab5ea681df7510bf448a136009b53",
+ "sha256_T2": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+ "chars_T1": 4753,
+ "chars_T2": 0
+}

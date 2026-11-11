@@ -1,0 +1,14 @@
+{
+ "ann_id": "CBAR-5430",
+ "t1_files": [
+  "data/raw/announcements/CBAR-5430/text_0.txt"
+ ],
+ "t2_files": [],
+ "has_t2": 0,
+ "t2_status": "no",
+ "t1_is_act": 0,
+ "sha256_T1": "b9b5449dda425c895ee51144baa6fce87948412cc830f20fdadc58534ea7c9d7",
+ "sha256_T2": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+ "chars_T1": 1327,
+ "chars_T2": 0
+}

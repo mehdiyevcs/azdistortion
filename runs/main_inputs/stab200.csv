@@ -1,0 +1,201 @@
+claim_id,report_id,ann_id,part,sample,has_t2,claim_text
+R0001-C31,R0001,CBAR-5365,body,random,0,AZIR indeksinin orta günlük səviyyəsi noyabrda 6.91% olub.
+R0001-C37,R0001,CBAR-5365,body,random,0,Son meyillərin təhlili növbəti ilə inflyasiya proqnozunun azalma istiqamətində dəyişdirilməsi ehtimalının olduğunu göstərir.
+R0001-C47,R0001,CBAR-5365,body,random,0,Faiz dəhlizinin parametrləri ilə bağlı qərarların 2026-cı il üzrə ictimaiyyətə açıqlanması qrafiki ilin sonunadək yayımlanacaqdır.
+R0005-C09,R0005,CBAR-5397,body,random,1,Yeni tələblərə 1 yanvar 2027-ci ildən tam riayət olunması banklardan tələb ediləcək.
+R0006-C10,R0006,CBAR-5397,body,random,1,Yeni tələblərə 1 yanvar 2027-ci ildən tam riayət olunması banklardan tələb ediləcək.
+R0010-C05,R0010,CBAR-5424,body,random,0,"Həmin tarixdən Mərkəzi Bankın Bakı şəhəri, Bülbül prospekti 27 ünvanında yerləşən “Nağd pul ofisi”nin fəaliyyəti dayandırılacaq."
+R0010-C07,R0010,CBAR-5424,body,random,0,"Təslim prosesi həftənin 2-ci, 3-cü və 4-cü günləri saat 10:00-dan 12:00-dək aparılacaq."
+R0010-C08,R0010,CBAR-5424,body,random,0,İnvestisiya pul nişanlarının satışı və geri alışı əvvəlki qaydada satış agentləri – “Bank of Baku” ASC və “TuranBank” ASC vasitəsilə davam etdiriləcək.
+R0011-C04,R0011,CBAR-5446,body,random,1,"Təlimat “İnvestisiya şirkətləri və banklar tərəfindən investisiya xidmətlərinin (əməliyyatlarının) həyata keçirilməsi Qaydası”nın 17.2.9-cu yarımbəndinə uyğun olaraq tərtib edilən daxili qaydaların hazırlanmasına, həmçinin kütləvi təklif üsulu ilə yerləşdirilən qiymətli kağızların anderraytinqinin həyata keçirilməsinə dair digər metodoloji əsasları müəyyən edir."
+R0012-C03,R0012,CBAR-5446,body,random,1,"Təlimat ""İnvestisiya şirkətləri və banklar tərəfindən investisiya xidmətlərinin (əməliyyatlarının) həyata keçirilməsi Qaydası""nın 17.2.9-cu yarımbəndinə uyğun olaraq tərtib edilən daxili qaydaların hazırlanmasına, həmçinin kütləvi təklif üsulu ilə yerləşdirilən qiymətli kağızların anderraytinqinin həyata keçirilməsinə dair digər metodoloji əsasları müəyyən edir."
+R0017-C01,R0017,CBAR-5462,headline,random,0,"AMB bildirir ki, ""AtaSığorta""nın aktivləri onun öhdəliklərini qarşılamağa imkan verir."
+R0021-C01,R0021,CBAR-5477,headline,random,0,"""Naxçıvanbank""dakı vəsaitlərin geri qaytarılmasının əlçatanlığı artırılır."
+R0022-C01,R0022,CBAR-5477,headline,random,0,"""Naxçıvanbank""dakı vəsaitlərin geri qaytarılmasının əlçatanlığı artırılır."
+R0022-C02,R0022,CBAR-5477,lead,random,0,"AMB vətəndaşların məmnunluğunun artırılması və xidmətlərdən istifadədə rahatlığın təmin edilməsi üçün ""Naxçıvanbank"" ASC-nin əmanətçilərinə və digər depozit hesabı sahiblərinə məxsus hesab qalıqlarının geri qaytarılması prosesinin əlçatanlığını artırır."
+R0024-C04,R0024,CBAR-5483,body,random,1,"Qayda mütərəqqi beynəlxalq təcrübə, o cümlədən Bazel Komitəsinin və Avropa Bank Nəzarəti Orqanının prinsipləri nəzərə alınmaqla hazırlanıb."
+R0025-C03,R0025,CBAR-5494,body,random,0,AMB-nin İdarə Heyətinin 01 iyun 2026-cı il tarixli qərarı ilə “Paysis” Məhdud Məsuliyyətli Cəmiyyətinin lisenziyası ləğv edilib.
+R0029-C02,R0029,CBAR-5513,headline,random,0,Məlumatı Azərbaycan Mərkəzi Bankı (AMB) açıqlayıb.
+R0030-C04,R0030,CBAR-5514,lead,random,1,Banklar və bank olmayan kredit təşkilatları (BOKT) müştərilərə onlayn kredit rəsmiləşdirilməsini və kredit limitinin məsafədən artırılmasını bloklamaq imkanı yaratmalıdır.
+R0040-C02,R0040,CBAR-5531,lead,random,0,Azərbaycan Mərkəzi Bankının İdarə Heyətinin faiz dəhlizinin parametrlərinə dair qəbul etdiyi qərarın açıqlanmasına həsr olunmuş mətbuat konfransı keçirilir.
+R0044-C01,R0044,CBAR-5534,headline,random,0,Azərbaycanda maliyyə sektoru üçün etik-peşəkar davranış kodeksi təsdiqlənib.
+R0045-C01,R0045,CBAR-5535,headline,random,1,Mərkəzi Bank tərəfindən “Maliyyə institutlarının bazar davranışına dair Metodoloji Rəhbərlik” təsdiq edilib.
+R0048-C01,R0048,CBAR-5546,headline,random,1,Mərkəzi Bank sistem əhəmiyyətli bankların qiymətləndirilməsi qaydalarını dəyişib.
+R0048-C08,R0048,CBAR-5546,body,random,1,Bank kapitalının adekvatlığı qaydalarında da yeni yanaşma müəyyən edilib.
+R0049-C13,R0049,CBAR-5547,body,random,1,Yalnız təkrarsığorta fəaliyyəti ilə məşğul olan şirkətlər üçün həmin indikatorun 10%-lik çəkisi portfelin çeşidliliyi göstəricisinə əlavə olunacaq.
+R0050-C04,R0050,CBAR-5559,body,random,0,"AMB faiz dəhlizinin yuxarı həddini 7,5% səviyyəsində saxlayıb."
+R0050-C05,R0050,CBAR-5559,body,random,0,"AMB faiz dəhlizinin aşağı həddini 5,5%-dən 5%-ə endirib."
+R0055-C10,R0055,DVX-4469,body,random,0,"Sahibkarlıq fəaliyyəti çərçivəsində icarəyə verilən, yaxud hüquqi şəxslərə kirayəyə verilən əmlaklar üçün isə 14%-lik vergi dərəcəsi dəyişməz qalır."
+R0060-C03,R0060,DVX-4541,body,random,1,Parlamentin bugünkü plenar iclasında Vergi Məcəlləsi və 16 qanunda dəyişiklik layihəsi müzakirə olunub.
+R0060-C10,R0060,DVX-4541,body,random,1,"""Sosial sığorta haqqında"" qanuna təklif edilən dəyişikliklər sahibkarların sosial sığorta yükünün optimallaşdırılması, Naxçıvan Muxtar Respublikasında (MR) ödənilən məcburi dövlət sosial sığorta haqlarının subsidiyalaşdırılması istiqamətlərini əhatə edir."
+R0074-C01,R0074,DVX-4648,headline,random,0,Azərbaycanda 2026-cı ildə vergi yığımları barədə məlumat verilib.
+R0074-C05,R0074,DVX-4648,body,random,0,"Qeyri-neft-qaz sektorundan büdcəyə proqnozdan əlavə 69,6 milyon manat vəsait ödənilib."
+R0077-C01,R0077,DVX-4760,headline,random,0,Azərbaycanda 4 ayda vətəndaşlara geri qaytarılmış ƏDV-nin məbləği açıqlanıb.
+R0077-C03,R0077,DVX-4760,body,random,0,"""Report"" bu barədə İqtisadiyyat Nazirliyi yanında Dövlət Vergi Xidmətinə istinadən xəbər verir."
+R0078-C04,R0078,DVX-4872,body,random,0,"Bu, ötən ilin eyni dövrü ilə müqayisədə 24,2 % çoxdur."
+R0079-C13,R0079,DVX-4894,body,random,0,İşsizlikdən sığorta haqları üzrə proqnozdan əlavə 6 milyon manat vəsait ödənilib.
+R0080-C01,R0080,DVX-4954,headline,random,0,Yanvar-iyul aylarında vətəndaşlara 122 milyon manatdan çox ƏDV geri qaytarılıb.
+R0081-C02,R0081,DVX-4982,headline,random,0,Naxçıvanda vergi daxilolmaları 7 %-dən çox artıb.
+R0084-C03,R0084,DVX-5037,lead,random,0,Azərbaycanda aktiv vergi ödəyicilərinin sayı 900 mini ötüb.
+R0084-C12,R0084,DVX-5037,body,random,0,"Aktiv ƏDV ödəyicilərinin sayında illik artım 9,7 faiz təşkil edib."
+R0084-C27,R0084,DVX-5037,body,random,0,"2026-cı ilin yanvar–sentyabr aylarında məcburi dövlət sosial sığorta haqları üzrə daxilolmalar 5 milyard 59,7 milyon manat təşkil edib."
+R0084-C29,R0084,DVX-5037,body,random,0,"Məcburi dövlət sosial sığorta haqları üzrə daxilolmalar 8,5 faiz artıb."
+R0084-C32,R0084,DVX-5037,body,random,0,"İşsizlikdən sığorta haqları üzrə daxilolmalar ötən ilin eyni dövründən təxminən 9,1 faiz çox olub."
+R0086-C05,R0086,DVX-5037,body,random,0,"Qeyri-neft-qaz sektorundan vergi daxilolmaları 10 milyard 332,6 milyon manat təşkil edib."
+R0086-C07,R0086,DVX-5037,body,random,0,"2025-ci ilin müvafiq dövrü ilə müqayisədə bu sektordan vergi daxilolmaları 1 milyard 159,3 milyon manat və ya 12,6 faiz artıb."
+R0092-C04,R0092,EMSMN-8637,body,random,0,Proqram üzrə cari ilin ötən dövründə daha 400-ə yaxın işəgötürənlə əməkdaşlığa başlanıb və onlarla müqavilələr imzalanıb.
+R0105-C03,R0105,EMSMN-8942,body,random,0,Əmək və Əhalinin Sosial Müdafiəsi Nazirliyinin tabeliyində Dövlət Məşğulluq Agentliyi (DMA) məlumat yayıb.
+R0105-C07,R0105,EMSMN-8942,body,random,0,Ötən il böyük əksəriyyəti gənclər olan 343 min şəxs peşəyönümlü xidmətlərlə əhatə olunub.
+R0111-C05,R0111,EMSMN-9067,body,random,0,Naxçıvan Muxtar Respublikası Əmək və Əhalinin Sosial Müdafiəsi Nazirliyinin tabeliyində Dövlət Sosial Müdafiə Fondu tərəfindən muxtar respublika üzrə bu ayın pensiya ödənişinə artıq başlanıb.
+R0111-C06,R0111,EMSMN-9067,body,random,0,Ölkənin digər bölgələri üzrə də pensiyaların və güzəştli şərtlərlə pensiya təyin edilən şəxslərin pensiyalarının ödənişi planlaşdırılır.
+R0112-C06,R0112,EMSMN-9067,body,random,0,Naxçıvan üzrə bu ayın pensiya ödənişinə artıq başlanıb.
+R0113-C06,R0113,EMSMN-9067,body,random,0,Novruz və Ramazan bayramları ərəfəsində ölkəmizin digər bölgələri üzrə pensiyaların və güzəştli şərtlərlə pensiya təyin edilən şəxslərin pensiyalarının ödənişi planlaşdırılır.
+R0120-C01,R0120,EMSMN-9107,headline,random,0,Tərtərdə şəhid ailələrinə və əlilliyi olan şəxslərə mənzil verildi.
+R0120-C02,R0120,EMSMN-9107,lead,random,0,Əmək və Əhalinin Sosial Müdafiəsi Nazirliyi tərəfindən Tərtər rayonunda da bu kateqoriyaya aid vətəndaşlara 25 mənzil təqdim edilib.
+R0122-C07,R0122,EMSMN-9145,body,random,0,Xidmətin gördüyü tədbirlər nəticəsində həmin işçilər yenidən əvvəlki işlərinə bərpa olunublar.
+R0129-C02,R0129,EMSMN-9351,lead,random,0,"Dövlət Tibbi-Sosial Ekspertiza və Reabilitasiya Agentliyi yaşayış yerini tərk etməkdə çətinlik çəkən, əlilliyi olan 800-dək şəxsi evlərində (səyyar) reabilitasiya xidmətləri ilə təmin edib."
+R0130-C05,R0130,EMSMN-9485,body,random,0,Bu proqramın icrasına 2020-ci ildə başlanıb.
+R0131-C01,R0131,EMSMN-9485,headline,random,0,Birgə maliyyələşmə proqramı üzrə 5800-dək şəxs işlə təmin edilib.
+R0132-C05,R0132,EMSMN-9567,body,random,0,"Əmək Məcəlləsinə əsasən, qeyd edilən hava şəraitində açıq havada və sərinləşdirici qurğular olmayan iş yerlərində bütün növ işlərin görülməsi dayandırılmalıdır."
+R0132-C09,R0132,EMSMN-9567,body,random,0,Fasilələr zamanı əmək haqqı işçilərin tarif maaşına görə ödənilməlidir.
+R0132-C10,R0132,EMSMN-9567,body,random,0,"İş dayandırıldıqda boşdayanma vaxtının haqqı işçinin təqsiri üzündən baş verməyən boşdayanma kimi, tarif maaşının üçdə iki hissəsindən az olmayaraq ödənilməlidir."
+R0134-C03,R0134,EMSMN-9672,body,random,0,"Avqustun 14-də Bakı, Sumqayıt şəhərləri və Abşeron rayonunda, habelə Naxçıvan Muxtar Respublikasında qeydiyyatda olan şəxslərin avqust ayı üzrə pensiyaları, habelə güzəştli şərtlərlə təyin edilmiş pensiyalar ödənilib."
+R0135-C05,R0135,EMSMN-9731,body,random,0,Bu qrafik 2 ay müddətində sınaq məqsədilə təşkil olunur.
+R0136-C04,R0136,CBAR-5365,body,random,0,"Rezident fiziki şəxslərin əmanətlərinin dollarlaşma səviyyəsi son 12 ayda 2,1 faiz bəndi azalıb."
+R0136-C08,R0136,CBAR-5365,body,random,0,"AMB-nin valyuta ehtiyatları 11,4 milyard ABŞ dollarına çatıb."
+R0137-C07,R0137,CBAR-5365,body,random,0,"İllik qiymət artımı qeyri-qida məhsulları üzrə 2,5 % təşkil edib."
+R0137-C13,R0137,CBAR-5365,body,random,0,Geosiyasi gərginliklər və qlobal ticarət mühitindəki qeyri-sabitlik əmtəə və maliyyə bazarları ilə bağlı qeyri-müəyyənlikləri hələ də yüksək səviyyədə saxlayır.
+R0137-C14,R0137,CBAR-5365,body,random,0,Əsas xarici risk idxal qiymətlərinin daxili inflyasiyaya ötürülməsi ilə bağlıdır.
+R0138-C01,R0138,CBAR-5397,headline,random,1,Qaydalar dəyişdi.
+R0138-C03,R0138,CBAR-5397,lead,random,1,"Qurumun dekabrın 16-da qəbul etdiyi qərarla ""Bank kapitalının və onun adekvatlığının hesablanması Qaydaları"" dəyişdirilib."
+R0138-C05,R0138,CBAR-5397,body,random,1,"Dəyişikliklərlə bank kapitalının strukturu, kapital adekvatlığı əmsalları, kapital buferləri və digər tələblər Bazel III standartlarına uyğunlaşdırılıb."
+R0140-C01,R0140,CBAR-5399,headline,random,0,“AtaSığorta”ya müvəqqəti inzibatçı təyin olunub.
+R0140-C06,R0140,CBAR-5399,body,random,0,Həyata keçirilən nəzarət tədbirləri sığorta xidmətləri istehlakçılarının və kreditorların hüquqları qorunması məqsədinə xidmət edir.
+R0143-C07,R0143,CBAR-5446,body,random,1,Təlimat hər bir mərhələ üzrə metodoloji yanaşmaları müəyyən edir.
+R0145-C04,R0145,CBAR-5456,body,random,0,"Система защиты и дизайн 100-манатной денежной купюры, посвященной теме “Экономика и развитие”, были обновлены в рамках существующей концепции с применением новейших технологий и инноваций."
+R0147-C09,R0147,CBAR-5456,body,random,0,Pul nişanının arxa tərəfi şaquli olaraq dizayn edilmişdir.
+R0148-C10,R0148,CBAR-5462,body,random,0,Ləğvetmə prosesi Azərbaycan Respublikasının qanunvericiliyi çərçivəsində Mərkəzi Bank tərəfindən nəzarətdə saxlanılacaqdır.
+R0149-C11,R0149,CBAR-5462,body,random,0,Ləğv edilən lisenziya 10 noyabr 2009-cu il tarixlidir.
+R0150-C09,R0150,CBAR-5462,body,random,0,Ləğvetmə prosesi Azərbaycan Respublikasının qanunvericiliyi çərçivəsində Mərkəzi Bank tərəfindən nəzarətdə saxlanılacaq.
+R0151-C09,R0151,CBAR-5477,body,random,0,Hüquqi şəxslər və fərdi sahibkarlar üçün köçürmə yolu ilə ödənilməsi imkanı təqdim olunur.
+R0151-C10,R0151,CBAR-5477,body,random,0,Elektron müraciət imkanlarından istifadə etməkdə çətinlik çəkən şəxslər Mərkəzi Bankın 2 və 5 saylı “ASAN xidmət” mərkəzlərində fəaliyyət göstərən vətəndaş qəbulu bölmələrinə müraciət etməklə vəsaitlərin müvafiq bank hesablarına köçürülməsi üzrə müraciətlərini təqdim edə biləcəklər.
+R0152-C02,R0152,CBAR-5483,lead,random,1,Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyəti tərəfindən “Banklarda stres-testlərin aparılması Qaydası” təsdiq edilib.
+R0154-C01,R0154,CBAR-5494,headline,random,0,“Paysis” MMC-nin elektron pul təşkilatı lisenziyası ləğv edilib.
+R0154-C02,R0154,CBAR-5494,body,random,0,Azərbaycan Mərkəzi Bankı tərəfindən “Paysis” MMC-nin elektron pul təşkilatı lisenziyası ləğv edilib.
+R0154-C05,R0154,CBAR-5494,body,random,0,"Ləğv edilən lisenziya 11 iyul 2024-cü il tarixli, EPT-007 nömrəli elektron pul təşkilatı fəaliyyətini həyata keçirmək hüququ verən lisenziyadır."
+R0155-C01,R0155,CBAR-5494,headline,random,0,Daha bir elektron pul təşkilatının lisenziyası ləğv edilib.
+R0156-C02,R0156,CBAR-5511,lead,random,0,"AMB İdarə Heyəti uçot dərəcəsinin 6,5 % səviyyəsində saxlanılması barədə qərar qəbul edib."
+R0156-C05,R0156,CBAR-5511,body,random,0,"Faiz dəhlizinin parametrlərinə dair qərar qəbul olunarkən faktiki və proqnozlaşdırılan inﬂyasiyanın hədəf diapazonunda sabitləşməsi, geosiyasi vəziyyət, qlobal maliyyə bazarlarında meyillər və ölkədaxili makroiqtisadi mühit nəzərə alınıb."
+R0157-C03,R0157,CBAR-5511,body,random,0,Faiz dəhlizinin aşağı həddi 5.5% səviyyəsində saxlanılıb.
+R0159-C09,R0159,CBAR-5511,body,random,0,İllik inﬂyasiya hədəf daxilindədir və baza ssenari üzrə proqnoz trayektoriyasına uyğun hərəkət edir.
+R0160-C02,R0160,CBAR-5513,body,random,0,İnnovativ maliyyə məhsul və xidmətlərinin Mərkəzi Bankın nəzarəti altında məhdud şəkildə sınaqdan keçirilməsini təmin edən xüsusi tənzimləmə rejiminin üçüncü dövründə iştirakla bağlı müraciətlərin qəbulu başlayıb.
+R0160-C06,R0160,CBAR-5513,body,random,0,Müraciətlər 25 avqust 2026-cı il tarixinədək qəbul ediləcək.
+R0161-C04,R0161,CBAR-5513,body,random,0,Qəbul prosesi 2 ay müddətində açıq olacaq.
+R0162-C14,R0162,CBAR-5514,body,random,1,При более крупной сумме кредита деньги будут зачисляться не ранее чем через 24 часа.
+R0164-C08,R0164,CBAR-5514,body,random,1,Bank məhdudiyyəti tətbiq etmiş şəxsdən istehlak krediti müqaviləsinin məsafədən bağlanması və ya kredit limitinin artırılması ilə bağlı müqaviləyə məsafədən dəyişiklik edilməsi üçün müraciət aldıqda bu barədə müştərini mobil tətbiq və ya SMS məlumatlandırma vasitəsi ilə dərhal məlumatlandıracaq.
+R0165-C11,R0165,CBAR-5531,body,random,0,İllik inﬂyasiya hədəf daxilindədir və baza ssenarisi üzrə proqnoz trayektoriyasına uyğun hərəkət edir.
+R0165-C27,R0165,CBAR-5531,body,random,0,Pul baratları üzrə saldo ötən ilin müvafiq dövrünə nəzərən 82.8% artıb.
+R0165-C32,R0165,CBAR-5531,body,random,0,Sektorun struktur likvidlik profisiti cari ilin I yarısının sonuna 6 mlrd. manata çatıb.
+R0165-C35,R0165,CBAR-5531,body,random,0,Likvidliyi idarə etmək üçün Mərkəzi Bank tərəfindən əsasən 7 günlük depozit əməliyyatlarından istifadə edilir.
+R0165-C41,R0165,CBAR-5531,body,random,0,Baza ssenarisi üzrə iyul proqnozlarına görə illik inflyasiyanın 2026-cı ilin sonunda 6.1% olacağı gözlənilir.
+R0166-C06,R0166,CBAR-5531,body,random,0,"Hazırda ""B planı""na keçidi zəruri edən hər hansı əsas yoxdur."
+R0168-C07,R0168,CBAR-5534,body,random,0,Sənəddə 8 etik prinsip əks olunub.
+R0169-C11,R0169,CBAR-5534,body,random,0,"Bu təşəbbüs maliyyə sektorunda vahid etik və peşəkar davranış standartlarının formalaşmasına, peşəkarların inkişafı üçün münbit və dayanıqlı mühitin qorunmasına, maliyyə sektorunun davamlı inkişafı və sabitliyinin təmininə, həmçinin istehlakçıların maliyyə sektoruna olan etimadının artırılmasına xidmət edir."
+R0170-C01,R0170,CBAR-5534,headline,random,0,Mərkəzi Bank maliyyə sektoru üçün etik və peşəkar davranış kodeksini təsdiqləyib.
+R0170-C05,R0170,CBAR-5534,body,random,0,"Sənəd nəzarət subyektləri tərəfindən mövcud daxili kodekslərin təkmilləşdirilməsi, eyni zamanda, yeni daxili kodekslərin yaradılması üçün institusional dəstək rolunu oynayır."
+R0171-C06,R0171,CBAR-5535,body,random,1,"Sənəddə bazar davranışı prinsipləri, istehlakçı yönümlü korporativ mədəniyyətin formalaşdırılması, maraqlar münaqişəsinin idarə olunması, müqavilə bağlanmazdan əvvəl məlumatların açıqlanması, məhsulların hədəf müştəri seqmentinə uyğunluğunun təmin edilməsi, xidmət keyfiyyəti və əlçatanlığı kimi digər zəruri məsələlər üzrə metodoloji yanaşmalar əksini tapır."
+R0172-C01,R0172,CBAR-5535,headline,random,1,“Maliyyə institutlarının bazar davranışına dair Metodoloji Rəhbərlik” sənədi təsdiqlənib.
+R0174-C06,R0174,CBAR-5536,body,random,0,İstifadəçilər əvvəlki qaydada bütün ödəniş və maliyyə xidmətlərindən fasiləsiz şəkildə yararlanmağa davam edəcəklər.
+R0175-C07,R0175,CBAR-5536,body,random,0,"""Modenis"" MMC-yə Azərbaycan Mərkəzi Bankının 5 iyun 2024-cü il tarixli qərarı ilə elektron pul təşkilatı kimi müddətsiz lisenziya verilmişdi."
+R0175-C08,R0175,CBAR-5536,body,random,0,"Mərkəzi Bankın 17 iyul 2025-ci il tarixli qərarı ilə lisenziyadan ""elektron pulun emissiyası və elektron pul ilə ödəniş əməliyyatlarının icrası"" xidməti çıxarılıb."
+R0177-C06,R0177,CBAR-5546,body,random,1,"Dəyişikliklər indikatorlar üzrə hesablama yanaşmalarının təkmilləşdirilməsi, meyarların banklara nəzarət tsikli ilə əlaqələndirilməsi və kapital buferində artım və ya azalma hallarında qüvvəyə minmə müddəti ilə bağlı yeni yanaşmanın müəyyən edilməsi ilə əlaqədar olub."
+R0178-C10,R0178,CBAR-5547,body,random,1,Təkrarsığorta fəaliyyəti ilə əlaqədar sığortaçıların yalnız ölkə daxilindən qəbul etdikləri risklər üzrə hesablanmış təkrarsığorta haqlarının nəzərə alınması müəyyən edilib.
+R0178-C14,R0178,CBAR-5547,body,random,1,“Sığorta predmetlərinin sayı” göstəricisinin çəkisi eyni kateqoriyadakı digər göstəriciyə əlavə olunur.
+R0178-C16,R0178,CBAR-5547,body,random,1,"Dəyişikliklər Mərkəzi Bankın bank sektoru üzrə tətbiq etdiyi sistem əhəmiyyətlilik metodologiyası ilə uzlaşdırılmaqla, sistem əhəmiyyətli maliyyə institutlarının müəyyən edilməsinə və vahid yanaşmanın formalaşdırılmasına xidmət edir."
+R0180-C06,R0180,CBAR-5559,body,random,0,"Faiz dəhlizinin parametrlərinə dair qərar qəbul olunarkən faktiki və proqnozlaşdırılan inﬂyasiyanın dinamikası, valyuta bazarında gedən proseslər, bank sektorunun likvidlik mövqeyinin dəyişimi, eləcə də qlobal monetar şəraitdə müşahidə olunan son meyillər nəzərə alınıb."
+R0180-C22,R0180,CBAR-5559,body,random,0,"Valyuta bazarında tələbin kəskin azaldığı, təklifin isə artdığı şəraitdə Mərkəzi Bank tərəfindən valyuta alışları həyata keçirilib."
+R0180-C35,R0180,CBAR-5559,body,random,0,AZIR dərəcəsi üzrə orta günlük göstərici avqust ayında 6.28% olub.
+R0180-C37,R0180,CBAR-5559,body,random,0,Mərkəzi Bank likvidliyin idarə edilməsində əsasən 7 günlük depozit əməliyyatlarından istifadə edir.
+R0180-C46,R0180,CBAR-5559,body,random,0,Bundan sonra da makroiqtisadi göstəricilər üzrə proqnozlar bir neçə ssenari əsasında nəzərdən keçiriləcəkdir.
+R0180-C47,R0180,CBAR-5559,body,random,0,Bu qərar 24 sentyabr 2026-cı il tarixindən etibarən qüvvəyə minəcək.
+R0182-C04,R0182,DVX-4424,body,random,0,Azərbaycan ərazisində bina tikintisi ilə məşğul olan şəxslərdən nağdsız qaydada alınmış yaşayış və qeyri-yaşayış sahələrinə görə ödənilmiş ƏDV bir hissəsinin fiziki şəxslərə qaytarılması prosesi davam edir.
+R0185-C01,R0185,DVX-4469,headline,random,0,Mənzillərin fiziki şəxslərə kirayəyə verilməsindən tutulan vergi dərəcəsi optimallaşdırılır.
+R0185-C03,R0185,DVX-4469,body,random,0,"Dəyişikliklərin əsas hədəfi sahibkarlığın təşviqi, vergi yükünün optimallaşdırılması və “kölgə iqtisadiyyatı”na qarşı mübarizənin gücləndirilməsidir."
+R0185-C07,R0185,DVX-4469,body,random,0,2025-ci il yanvarın 1-dən etibarən kirayə gəliri əldə edən vətəndaşlara özləri vergi orqanında uçota durmadan agent müəyyən etmək və vergi öhdəliklərini yerinə yetirilmək vəzifəsini həmin şəxsə həvalə etmək hüququ verilib.
+R0186-C04,R0186,DVX-4492,body,random,0,"Hesabat dövründə pərakəndə ticarət və ya iaşə fəaliyyəti göstərən şəxslərdən alınmış mallara, müəyyən mədəniyyət xidmətlərinə və fiziki şəxslərin göstərdiyi tibbi xidmətlərə görə ödənilmiş ƏDV-nin 172 milyon 323,4 min manatlıq hissəsi fiziki şəxs olan istehlakçılara geri qaytarılıb."
+R0189-C03,R0189,DVX-4532,body,random,1,Bu məsələ Prezident İlham Əliyevin təsdiqlədiyi Vergi Məcəlləsində dəyişiklik edilməsi barədə Qanunda öz əksini tapıb.
+R0191-C06,R0191,DVX-4541,body,random,1,"Toylarda, şənliklərdə və digər tədbirlərdə aparıcılıq, çalğıçılıq, rəqqaslıq, aşıqlıq, məzhəkəçilik və fərdi foto, audio-video xidmətləri sahəsində fəaliyyət üçün ödəniş minimum aylıq əməkhaqqının 5 faizi miqdarından 8 faizədək artırılır."
+R0192-C13,R0192,DVX-4541,body,random,1,Naxçıvan MR-də minik avtomobillərinin istehsalını həyata keçirən vergi ödəyicilərinə münasibətdə mövcud güzəşt şərtləri 2030-cu il yanvarın 1-dək saxlanılır.
+R0192-C41,R0192,DVX-4541,body,random,1,"İstehsal buraxılış tarixindən 7 ildən çox ötmüş dizel mühərrikli minik avtomobillərinə münasibətdə yüksəldici əmsal 1,5-dən 2-yə artırılır."
+R0192-C47,R0192,DVX-4541,body,random,1,Könüllü açıqlama sisteminin əhatəsi genişləndirilir.
+R0192-C50,R0192,DVX-4541,body,random,1,200 min manatlıq dövriyyə həddi pərakəndə ticarət və vergi orqanında uçotda olmayan şəxslərə göstərilən xidmətlər üzrə nağdsız ödəmələrə münasibətdə 2 dəfə artırılır.
+R0192-C51,R0192,DVX-4541,body,random,1,ƏDV qeydiyyat həddi 400 min manata çatdırılır.
+R0192-C54,R0192,DVX-4541,body,random,1,"Elektron audit vergi nəzarət tədbiri ləğv edilir və ""Üfüqi monitorinq"" nəzarət sistemi tətbiq olunur."
+R0193-C02,R0193,DVX-4541,body,random,1,Dövlət sektorunda çalışan şəxslərin istehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığortalanması Dövlət Sosial Müdafiə Fondu (DSMF) vasitəsilə həyata keçiriləcək.
+R0197-C07,R0197,DVX-4543,body,random,1,İcarə (kirayə) haqqı vergi ödəyicisi kimi uçotda olmayan fiziki şəxs tərəfindən ödənildikdə icarəyə (kirayəyə) verən özü və ya onun təyin etdiyi vergi agenti vergini ödəyəcək.
+R0197-C08,R0197,DVX-4543,body,random,1,İcarəyə (kirayəyə) verən vergi uçotuna alınıb bəyannamə verəcək.
+R0198-C02,R0198,DVX-4551,headline,random,0,Mülk alanlara 31 milyon manatdan çox ƏDV qaytarılıb.
+R0198-C03,R0198,DVX-4551,lead,random,0,ƏDV nağdsız qaydada daşınmaz əmlak alanlara geri qaytarılıb.
+R0198-C05,R0198,DVX-4551,body,random,0,Məlumat Dövlət Vergi Xidmətinə istinadən verilib.
+R0199-C03,R0199,DVX-4551,body,random,0,Məlumat İqtisadiyyat Nazirliyi yanında Dövlət Vergi Xidmətinə istinadən verilib.
+R0202-C03,R0202,DVX-4587,body,random,0,"Dəyişikliklərin birinci istiqaməti mahiyyəti üzrə təkmilləşdirmə məqsədi daşıyan, habelə, əmək münasibətlərində çevik və sosial yönümlü hüquqi tənzimləmələrin tətbiqini, həmçinin müasir iş şəraitinə uyğun olaraq yeni anlayışların qanunvericiliyə gətirilməsini hədəfləyir."
+R0202-C10,R0202,DVX-4587,body,random,0,"Əmək Məcəlləsinin 10-1-ci maddəsinin işləmə mexanizmini tənzimləmək məqsədilə çalışma müddətinin uzadılmasının işəgötürənin əmri (sərəncamı) ilə rəsmiləşdirilməsi və bu halda işçinin əmək müqaviləsinə 70-ci maddənin ""e"" bəndinə əsasən xitam verilməsinə və uzadılan müddətə müddətli əmək müqaviləsinin bağlanılmasına yol verilməməsi ilə bağlı tənzimləyici norma əlavə edilib."
+R0202-C27,R0202,DVX-4587,body,random,0,BƏT-in 132 nömrəli Konvensiyasının 12-ci maddəsinə əsasən Məcəllənin 138-ci maddəsinə yeni məzmunda 2-1-ci hissə əlavə edilib.
+R0203-C03,R0203,DVX-4587,lead,random,0,Məzuniyyət hüququ 46 təqvim günü olan xüsusi xidmətləri olan işçilərin siyahısında dəyişiklik edilib.
+R0203-C04,R0203,DVX-4587,body,random,0,Dəyişiklik Prezident İlham Əliyevin təsdiqlədiyi Əmək Məcəlləsində dəyişiklik edilməsi barədə Qanunda öz əksini tapıb.
+R0205-C01,R0205,DVX-4648,headline,random,0,Azərbaycanda sosial və işsizlikdən sığorta daxilolmaları artıb.
+R0206-C04,R0206,DVX-4648,body,random,0,"Qeyri-neft-qaz sektorundan vergi daxilolmaları 2 milyard 286,5 milyon manatdan çox olub."
+R0206-C14,R0206,DVX-4648,body,random,0,"İcbari tibbi sığorta haqları üzrə daxilolmaların həcmi 163,3 milyon manatdan çox olub."
+R0207-C02,R0207,DVX-4759,body,random,0,"Cari ilin yanvar – aprel aylarında Naxçıvan Muxtar Respublikası İqtisadiyyat Nazirliyi yanında Dövlət Vergi Xidmətinin xətti ilə büdcəyə 79,5 milyon manatdan artıq vergi daxil olub."
+R0207-C05,R0207,DVX-4759,body,random,0,"Qeyri-dövlət sektorundan daxilolmalar 57,3 milyon manat təşkil edib."
+R0207-C11,R0207,DVX-4759,body,random,0,"2026-cı ilin yanvar-aprel aylarında Naxçıvan Muxtar Respublikasında işsizlikdən sığorta haqları üzrə daxilolmalar 1,6 milyon manata yaxın olub."
+R0210-C01,R0210,DVX-4819,headline,random,0,Azərbaycanda 5 ayda vergi daxilolmaları 8 milyard manata yaxın olub.
+R0212-C06,R0212,DVX-4819,body,random,0,"2025-ci ilin müvafiq dövrü ilə müqayisədə qeyri-neft-qaz sektorundan vergi daxilolmaları 471,5 milyon manat artıb."
+R0213-C05,R0213,DVX-4894,body,random,0,"6 aylıq vergi daxilolmalarının 7 milyard 67,4 milyon manatı qeyri-neft-qaz sektorunun payına düşüb."
+R0213-C06,R0213,DVX-4894,body,random,0,"Qeyri-neft-qaz sektorundan daxilolmalar 1 il əvvələ nisbətən 10,1 % çoxdur."
+R0214-C01,R0214,DVX-4894,headline,random,0,Azərbaycanda aktiv vergi ödəyicilərinin sayı açıqlandı.
+R0214-C04,R0214,DVX-4894,body,random,0,Məlumatı Azərbaycan İqtisadiyyat Nazirliyi yanında Dövlət Vergi Xidməti yayıb.
+R0214-C12,R0214,DVX-4894,body,random,0,"Bu göstərici 2025-ci ilin müvafiq dövrü ilə müqayisədə 139 milyon manat və ya 1,6 faiz çoxdur."
+R0214-C18,R0214,DVX-4894,body,random,0,"Qeyri-büdcə təşkilatları üzrə daxilolmalar 2 milyard 244,9 milyon manatdan çox olub."
+R0215-C04,R0215,DVX-4894,body,random,0,"2025-ci ilin müvafiq dövrünə nisbətən vergi daxilolmaları 139 milyon manat və ya 1,6 faiz çox təşkil edib."
+R0218-C01,R0218,DVX-4954,headline,random,0,7 ayda istehlakçılara 122 mln. manatdan çox ƏDV geri qaytarılıb.
+R0218-C06,R0218,DVX-4954,body,random,0,"Hesabat dövründə xarici vətəndaşlar tərəfindən respublika ərazisində fərdi istehlak üçün alınmış mallara görə dövlət büdcəsindən qaytarılmış ƏDV-nin (“Tax free”) məbləği 5 milyon 248,1 min manat təşkil edib."
+R0219-C02,R0219,DVX-4982,body,random,0,"Bu ilin yanvar-avqust aylarında Naxçıvan Muxtar Respublikası İqtisadiyyat Nazirliyi yanında Dövlət Vergi Xidmətinin xətti ilə büdcəyə 172,3 milyon manatadək vergi daxil olub."
+R0220-C05,R0220,DVX-5030,body,random,0,Qeydiyyata alınmış qeyri-rezident rəqəmsal xidmət təchizatçılarına göstərilən xidmətlərə görə edilən ödənişlər üzrə ƏDV banklar tərəfindən tutulmur.
+R0225-C01,R0225,DVX-5080,headline,random,0,Qanun layihəsi geri qaytarılmışdı.
+R0226-C03,R0226,DVX-5080,body,random,0,"İnnovativ fəaliyyətə dövlət dəstəyi konkret meyarlarla, o cümlədən ixrac göstəriciləri və valyuta daxilolmaları ilə əlaqələndiriləcək."
+R0226-C21,R0226,DVX-5080,body,random,0,"Söhbət dövlət dəstəyinin məhdudlaşdırılmasından deyil, onun daha ünvanlı və nəticəyönümlü tətbiq edilməsindən gedir."
+R0226-C22,R0226,DVX-5080,body,random,0,"Bu, uzunmüddətli dövlət dəstəyinin son nəticədə iqtisadiyyat üçün əlavə dəyər yaratması, ixracı və investisiyaların həcmini genişləndirməsi, ölkəyə valyuta daxilolmalarını artırması və yerli şirkətlərin xarici bazarlara çıxışını stimullaşdırması deməkdir."
+R0226-C23,R0226,DVX-5080,body,random,0,Komitə sədri qanunun təqdim olunan redaksiyada səsə qoyulmasını xahiş edib.
+R0227-C09,R0227,DVX-5080,body,random,0,Qəbul ediləcəyi təqdirdə bu Qanun 2027-ci il yanvarın 1-dən qüvvəyə minəcək.
+R0228-C02,R0228,EMSMN-8637,body,random,0,“İşəgötürənlə birgə işçilərin əməkhaqqının maliyyələşdirilməsi” proqramını Dövlət Məşğulluq Agentliyi icra edir.
+R0229-C04,R0229,EMSMN-8637,body,random,0,Proqram üzrə cari ilin ötən dövründə daha 400-ə yaxın işəgötürənlə əməkdaşlığa başlanılıb və onlarla müqavilələr imzalanıb.
+R0230-C02,R0230,EMSMN-8683,lead,random,0,Milli Məclisin plenar iclasında “Dövlət sosial müdafiə fondunun 2026-cı il büdcəsi haqqında” qanun layihəsinin müzakirəsi davam edir.
+R0231-C02,R0231,EMSMN-8683,body,random,0,Dövlət Sosial Müdafiə Fondunun 2026-cı il üzrə ümumi xərclərinin 8 milyard 483 milyon manat həcmində olması proqnozlaşdırılır.
+R0231-C03,R0231,EMSMN-8683,body,random,0,"Ümumi xərclərin 96,6% və ya 8 milyard 196 milyon manatı əhaliyə ödənişlərin payına düşür."
+R0231-C15,R0231,EMSMN-8683,body,random,0,Azərbaycan Həmkarlar İttifaqları Konfederasiyası xətti ilə sığortaolunanların və əmək pensiyaçılarının sanatoriya-kurort müalicəsi və sağlamlaşdırma tədbirlərinin həyata keçirilməsi məqsədilə Fondun 2026-cı il büdcəsində 25 milyon manat vəsait nəzərdə tutulmuşdur.
+R0232-C01,R0232,EMSMN-8683,body,random,0,"Dövlət Sosial Müdafiə Fondunun gələn ilə proqnozlaşdırılan ümumi xərclərinin 96,6%-ni və ya 8,2 milyard manatını əhaliyə ödənişlər təşkil edəcək."
+R0232-C04,R0232,EMSMN-8683,body,random,0,"Əmək pensiyalarının orta aylıq məbləğinin 2026-cı ildə 590,17 manat olacağı proqnozlaşdırılır."
+R0234-C05,R0234,EMSMN-8879,body,random,0,Postmüharibə dövründə Əmək və Əhalinin Sosial Müdafiəsi Nazirliyi tərəfindən 7 mindən çox mənzil şəhid ailələrinə və müharibə ilə əlaqədar əlilliyi olanlara təqdim edilib.
+R0237-C10,R0237,EMSMN-8942,body,random,0,“PeşəFest 2025” marafonu çərçivəsində 95 min gənc əmək bazarının aktual trendləri ilə tanış olub.
+R0239-C08,R0239,EMSMN-9043,body,random,1,Cədvəldə maaşlar 19 dərəcə üzrə müəyyənləşdirilir.
+R0240-C13,R0240,EMSMN-9043,body,random,1,Hər iki sektorda minimum əməkhaqqıdan az maaş təklif etmək qanunvericiliklə qadağandır.
+R0241-C02,R0241,EMSMN-9043,body,random,1,Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 16-cı bəndini rəhbər tutaraq qərara alır.
+R0242-C06,R0242,EMSMN-9043,body,random,1,Əmək Məcəlləsinə minimum əməkhaqqının məbləğinə Nazirlər Kabinetinin təklifləri əsasında Prezident tərəfindən ildə bir dəfədən az olmayaraq yenidən baxılmasını nəzərdə tutan cümlə əlavə edilib.
+R0244-C01,R0244,EMSMN-9090,headline,random,0,Martın bütün sosial ödənişləri qrafikdən əvvəl başa çatdırılıb.
+R0246-C04,R0246,EMSMN-9090,body,random,0,Fond bu ayın bütün sosial ödənişlərini qrafikdən əvvəl başa çatdırıb.
+R0247-C08,R0247,EMSMN-9107,body,random,0,Ümumilikdə isə ötən illər ərzində 16 mindən çox mənzil və fərdi ev təqdim edilib.
+R0247-C09,R0247,EMSMN-9107,body,random,0,"Təqdimat zamanı şəhid ailələri və müharibə ilə əlaqədar əlilliyi olan şəxslərə yönələn sosial ödənişlərin artırılması, onların digər dəstək tədbirləri ilə əhatə olunması sahəsində aparılan işlərdən bəhs olunub."
+R0248-C02,R0248,EMSMN-9107,body,random,0,Əmək və Əhalinin Sosial Müdafiəsi Nazirliyi tərəfindən Tərtər rayonunda da bu kateqoriyaya aid vətəndaşlara 25 mənzil təqdim edilib.
+R0250-C04,R0250,EMSMN-9145,body,random,0,Görülən tədbirlər nəticəsində həmin vəsait işəgötürənlər tərəfindən işçilərə ödənilib.
+R0252-C05,R0252,EMSMN-9286,body,random,0,Güzəştli şərtlərlə pensiya hüququna malik şəxslərin pensiyaları bu ay da qrafik üzrə ödəniləcək.
+R0256-C01,R0256,EMSMN-9485,headline,random,0,Birgə maliyyələşmə proqramı üzrə 5800-dək şəxs işlə təmin edilib.
+R0260-C05,R0260,EMSMN-9670,body,random,0,Görülən tədbirlər nəticəsində həmin vəsait işəgötürənlər tərəfindən işçilərə ödənilib.
+R0261-C03,R0261,EMSMN-9672,body,random,0,Bu gün ölkəmizin bölgələrində qeydiyyatda olan şəxslərin avqust ayı üzrə pensiyaları ödənilib.
+R0261-C04,R0261,EMSMN-9672,body,random,0,Güzəştli şərtlərlə təyin edilmiş pensiyalar ödənilib.
+R0263-C04,R0263,EMSMN-9672,body,random,0,"Avqustun 14-də Bakı, Sumqayıt şəhərləri və Abşeron rayonunda, habelə Naxçıvan Muxtar Respublikasında qeydiyyatda olan şəxslərin avqust ayı üzrə pensiyaları ödənilib."
+R0266-C01,R0266,EMSMN-9731,headline,random,0,Sabahdan dövlət qurumlarında iş rejimi dəyişir.
+R0266-C07,R0266,EMSMN-9731,body,random,0,İş vaxtı hər rejim üzrə işçilərin 30 faizindən az olmaması şərti ilə təşkil ediləcək.
+R0269-C06,R0269,EMSMN-9911,body,random,0,Dövlət Əmək Müfəttişliyi Xidməti 69 işçinin əmək müqavilələrinə qanunvericiliyin tələbləri pozulmaqla xitam verildiyini də müəyyən edib.
+R0270-C06,R0270,CBAR-5399,body,random,0,Müvəqqəti inzibatçı təyin olunduğu gündən etibarən sığortaçının idarə edilməsi ilə bağlı idarəetmə orqanlarının səlahiyyətləri dayandırılır.
+R0270-C09,R0270,CBAR-5399,body,random,0,Zərurət olduqda bu müddət Mərkəzi Bankın qərarı ilə 3 aya qədər uzadıla bilər.

@@ -1,0 +1,18 @@
+{
+ "ann_id": "DVX-4883",
+ "t1_files": [
+  "data/raw/announcements/DVX-4883/text_0.txt"
+ ],
+ "t2_files": [
+  "data/raw/announcements/DVX-4883-DEC/text_0.txt",
+  "data/raw/announcements/DVX-4883-DEC/text_1.txt",
+  "data/raw/announcements/DVX-4883-DEC/tables_1.txt"
+ ],
+ "has_t2": 1,
+ "t2_status": "uncertain",
+ "t1_is_act": 0,
+ "sha256_T1": "3be525a1b7927867b3365911ee037ed434a34d44d18fdfd52713ec7060176fca",
+ "sha256_T2": "57bedd24f3b9fd93bf13d113186abf0ebf57ecf33aadbdb95bb4678b3d56176a",
+ "chars_T1": 3307,
+ "chars_T2": 19399
+}

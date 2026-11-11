@@ -1,0 +1,68 @@
+{
+ "sources_sha256": "88978ed6799adc8f057a0a523f92540c04fde207d5dc4775565da243919f5335",
+ "common_code_sha256": "e2724df3eb247592ae9e649714ec64a75a8667a1d7f581aab8aff8373df1012d",
+ "producer": "sys_tradml.py",
+ "producer_sha256": "be2b3078376a49a583abbf03bc7c974f7ef094fc9b69659d4a143d06910c6342",
+ "libraries": {
+  "torch": "2.15.0",
+  "transformers": "5.22.2",
+  "tokenizers": "0.23.3",
+  "scikit-learn": "1.9.1",
+  "numpy": "2.5.4",
+  "scipy": "1.18.1",
+  "sentencepiece": "0.2.3"
+ },
+ "folds_sha256": "755fd612f471f2dd4c90cdba1ae098ec6b197e3903efbc19258bb2c604fee655",
+ "inner_sha256": "efdc881b5fac9a9aa8d48bb377e2254ea8b0d202e6a6fbe7a2a65f4c885a8fa9",
+ "claims_sha256": "637b1867546375429f616b8b6cbb93cba54c2397b3a81e84e1a5a9e8d78f0e18",
+ "edits_sha256": "",
+ "label_set": [
+  "SUPPORTED",
+  "MISREPRESENTED",
+  "NOT_IN_SOURCE"
+ ],
+ "min_label_n": 10,
+ "inner_score": "human_weighted",
+ "train_on": "merged",
+ "dev": false,
+ "limit": 0,
+ "grids": {
+  "logreg": [
+   {
+    "C": 0.1
+   },
+   {
+    "C": 1
+   },
+   {
+    "C": 10
+   }
+  ],
+  "gbm": [
+   {
+    "max_depth": 2,
+    "n_estimators": 100
+   },
+   {
+    "max_depth": 2,
+    "n_estimators": 300
+   },
+   {
+    "max_depth": 3,
+    "n_estimators": 100
+   },
+   {
+    "max_depth": 3,
+    "n_estimators": 300
+   }
+  ]
+ },
+ "conditions": [
+  "C1",
+  "C2"
+ ],
+ "candidates": [
+  "logreg",
+  "gbm"
+ ]
+}

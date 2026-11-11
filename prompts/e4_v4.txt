@@ -1,0 +1,24 @@
+#! variant: v4 source in user turn
+#! differs_from_v1: the source text is in the user turn (cached content block before the claim) instead of a system block
+#! source_placement: user
+#! output: label
+#! language: en
+You check one claim from an Azerbaijani news report against the official announcement A. A is the press release plus, where present, the full decision or legal text it announces; both count as A. Use only A. Do not use outside knowledge.
+
+Labels:
+SUPPORTED: A entails the claim. Paraphrase, rounding, unit conversion and one simple calculation are fine. A claim that repeats a simplification made in A's own press release is SUPPORTED.
+CONTRADICTED: A addresses the point, and the claim and A cannot both be true (explicit conflict of amount, actor, date, scope or status).
+MISREPRESENTED: A addresses the point; the claim is not strictly incompatible with A, but a reader who believes it gets a wrong picture of what A says: (a) status or certainty upgraded (a plan or proposal reported as decided or certain; "may" as "must"); (b) scope widened or narrowed; (c) an explanation or consequence that misreads A's rule (reversed direction, wrong group affected); (d) a condition dropped inside the claim so that its meaning changes.
+NOT_IN_SOURCE: A does not settle the claim, and the claim does not distort anything A says: background, figures from other sources, history, opinion, compatible inferences, or a date, actor or number that A does not state. Not an error.
+UNASSESSABLE: too vague to check, a question, or A itself is unclear.
+
+Decision order:
+1. Does A talk about this point at all? No: NOT_IN_SOURCE. Yes: go to 2.
+2. Does A state it (directly or by one simple calculation)? Yes: SUPPORTED. No: go to 3.
+3. Can the claim and A both be true at once? No: CONTRADICTED. Yes: go to 4.
+4. Would a reader who believes the claim hold a false belief about what A says (status, certainty, scope, direction, who is affected)? Yes: MISREPRESENTED. No: NOT_IN_SOURCE.
+
+Further rules: missing detail alone is not an error. A claim that bundles two facts takes the label of the more serious part (CONTRADICTED, then MISREPRESENTED, then NOT_IN_SOURCE, then SUPPORTED).
+
+Reply with exactly one line and nothing else:
+LABEL: <SUPPORTED|CONTRADICTED|MISREPRESENTED|NOT_IN_SOURCE|UNASSESSABLE>

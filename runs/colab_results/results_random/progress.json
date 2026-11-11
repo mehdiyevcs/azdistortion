@@ -1,0 +1,137 @@
+{
+ "priority_1": {
+  "status": "done",
+  "title": "XLM-R and AzBERT, C2, natural",
+  "started": "2026-11-10 14:36:08",
+  "failed_steps": [],
+  "seconds": 4007.8,
+  "finished": "2026-11-10 15:42:56"
+ },
+ "p1_xlmr_C2": {
+  "returncode": 0,
+  "seconds": 17.1,
+  "finished": "2026-11-10 14:36:25"
+ },
+ "p1_azbert_C2": {
+  "returncode": 0,
+  "seconds": 3990.6,
+  "finished": "2026-11-10 15:42:56"
+ },
+ "priority_2": {
+  "status": "done",
+  "title": "mDeBERTa-v3, C2, natural",
+  "started": "2026-11-10 15:42:58",
+  "failed_steps": [],
+  "seconds": 3905.9,
+  "finished": "2026-11-10 16:48:04"
+ },
+ "p2_mdeberta_C2": {
+  "returncode": 0,
+  "seconds": 3905.9,
+  "finished": "2026-11-10 16:48:04"
+ },
+ "priority_3": {
+  "status": "done",
+  "title": "all three, C1, natural",
+  "started": "2026-11-10 16:48:06",
+  "failed_steps": [],
+  "seconds": 15962.8,
+  "finished": "2026-11-10 21:14:09"
+ },
+ "p3_xlmr_C1": {
+  "returncode": 0,
+  "seconds": 6317.3,
+  "finished": "2026-11-10 18:33:24"
+ },
+ "p3_azbert_C1": {
+  "returncode": 0,
+  "seconds": 4567.1,
+  "finished": "2026-11-10 19:49:31"
+ },
+ "p3_mdeberta_C1": {
+  "returncode": 0,
+  "seconds": 5078.3,
+  "finished": "2026-11-10 21:14:09"
+ },
+ "priority_4": {
+  "status": "running",
+  "title": "all three with the edit set (C2, then C1)",
+  "started": "2026-11-10 21:14:12",
+  "failed_steps": [],
+  "seconds": 44.8,
+  "finished": "2026-11-10 12:29:40"
+ },
+ "p4_xlmr_C2C1_edits": {
+  "returncode": 0,
+  "seconds": 12712.2,
+  "finished": "2026-11-11 00:46:04"
+ },
+ "p4_azbert_C2C1_edits": {
+  "returncode": 0,
+  "seconds": 9154.6,
+  "finished": "2026-11-11 03:18:39"
+ },
+ "p4_mdeberta_C2C1_edits": {
+  "returncode": 1,
+  "seconds": 18.1,
+  "finished": "2026-11-10 12:29:40"
+ },
+ "priority_5": {
+  "status": "done",
+  "title": "all three, C0, natural (run guide priority 5; random sample only, D9)",
+  "started": "2026-11-11 04:46:11",
+  "failed_steps": [],
+  "seconds": 5627.4,
+  "finished": "2026-11-11 06:19:59"
+ },
+ "p5_xlmr_C0": {
+  "returncode": 0,
+  "seconds": 2359.6,
+  "finished": "2026-11-11 05:25:33"
+ },
+ "p5_azbert_C0": {
+  "returncode": 0,
+  "seconds": 1452.6,
+  "finished": "2026-11-11 05:49:46"
+ },
+ "p5_mdeberta_C0": {
+  "returncode": 0,
+  "seconds": 1813.4,
+  "finished": "2026-11-11 06:19:59"
+ },
+ "priority_6": {
+  "status": "done",
+  "title": "all three, C2, trained on human labels only (prereg 4a secondary variant, H7 _hum)",
+  "started": "2026-11-11 07:38:29",
+  "failed_steps": [],
+  "seconds": 2850.5,
+  "finished": "2026-11-11 08:25:59"
+ },
+ "p6_xlmr_C2_hum": {
+  "returncode": 0,
+  "seconds": 1015.9,
+  "finished": "2026-11-11 07:55:25"
+ },
+ "p6_azbert_C2_hum": {
+  "returncode": 0,
+  "seconds": 908.3,
+  "finished": "2026-11-11 08:10:34"
+ },
+ "p6_mdeberta_C2_hum": {
+  "returncode": 0,
+  "seconds": 925.6,
+  "finished": "2026-11-11 08:25:59"
+ },
+ "h7": {
+  "returncode": 0,
+  "finished": "2026-11-11 08:26:09"
+ },
+ "h7_edits": {
+  "returncode": 0,
+  "finished": "2026-11-11 08:26:17"
+ },
+ "h7_hum": {
+  "returncode": 0,
+  "finished": "2026-11-11 08:26:20"
+ }
+}

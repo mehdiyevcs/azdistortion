@@ -1,0 +1,55 @@
+claim_id,report_id,ann_id,part,sample,has_t2,claim_text
+B004-CON,R0030,CBAR-5514,body,edit,1,Gün ərzində verilən və ya artırılan vəsait minimum əmək haqqının iki mislini aşdıqda kredit vəsaiti 2 saat sonra təqdim ediləcək.
+B004-MIS,R0030,CBAR-5514,body,edit,1,"Gün ərzində verilən və ya artırılan vəsait minimum əmək haqqının iki mislini aşdıqda kredit vəsaiti 24 saat sonra təqdim ediləcək, yəni müqavilə də 24 saat sonra bağlanacaq."
+B006-CON,R0143,CBAR-5446,body,edit,1,Təlimat anderraytinq fəaliyyətini 3 əsas mərhələ üzrə strukturlaşdırır.
+B006-MIS,R0143,CBAR-5446,body,edit,1,Təlimat anderraytinq fəaliyyətinin 4 əsas mərhələ üzrə strukturlaşdırılmasını məcburi edir.
+B008-CON,R0152,CBAR-5483,lead,edit,1,Qayda “2024 – 2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası”ndan irəli gələrək bank sektorunda maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılması məqsədilə Maliyyə Nazirliyi tərəfindən təsdiq edilib.
+B008-MIS,R0152,CBAR-5483,lead,edit,1,Qayda “2024 – 2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası”ndan irəli gələrək bank sektorunda stres-testləri Mərkəzi Bankın aparması yolu ilə maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılması məqsədilə təsdiq edilib.
+B011-CON,R0006,CBAR-5397,body,edit,1,Yeni tələblərə 1 yanvar 2026-cı ildən tam riayət olunması banklardan tələb ediləcək.
+B011-MIS,R0006,CBAR-5397,body,edit,1,Yeni tələblərə 1 yanvar 2027-ci ildən tam riayət olunması sistem əhəmiyyətli banklardan tələb ediləcək.
+B012-CON,R0177,CBAR-5546,body,edit,1,Bankın siyahıdan çıxarılması və ya qrupunun aşağı salınması yalnız ardıcıl 3 il üzrə aparılmış hesablamalar nəticəsində təsdiq edildiyi halda mümkündür.
+B012-MIS,R0177,CBAR-5546,body,edit,1,Bankın siyahıdan çıxarılması və ya qrupunun aşağı salınması ardıcıl 2 il üzrə aparılmış hesablamalar nəticəsində təsdiq edildiyi halda məcburidir.
+B017-CON,R0049,CBAR-5547,body,edit,1,"Qiymətli kağızların dövriyyəsi, sığorta predmetlərinin sayı və sığorta portfelinin çeşidliliyi indikatorlarının hər birinə 15% çəki verilib."
+B017-MIS,R0049,CBAR-5547,body,edit,1,"Qiymətli kağızların dövriyyəsi, sığorta predmetlərinin sayı və sığorta portfelinin çeşidliliyi indikatorlarının hər birinə bütün sığortaçılar üçün 10% çəki verilib."
+B023-CON,R0163,CBAR-5514,body,edit,1,"Məbləğ bu həddi aşarsa, vəsait yalnız 48 saat sonra əlçatan olacaq."
+B023-MIS,R0163,CBAR-5514,body,edit,1,"Məbləğ bu həddi aşarsa, banklar vəsaiti yalnız 24 saat sonra əlçatan edəcək."
+B025-CON,R0011,CBAR-5446,body,edit,1,Təlimat anderraytinq fəaliyyətini 5 əsas mərhələ üzrə strukturlaşdırır və hər bir mərhələ üzrə metodoloji yanaşmaları müəyyən edir.
+B025-MIS,R0011,CBAR-5446,body,edit,1,Təlimat anderraytinq fəaliyyətini 4 əsas mərhələ üzrə strukturlaşdırır və hər bir mərhələ üzrə metodoloji yanaşmaları beynəlxalq təcrübəyə əsasən müəyyən edir.
+B027-CON,R0024,CBAR-5483,body,edit,1,"Məqsəd ""2025 – 2027-ci illərdə maliyyə sektorunun inkişaf Strategiyası""ndan irəli gələrək bank sektorunda maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılmasıdır."
+B027-MIS,R0024,CBAR-5483,body,edit,1,"Qayda ""2024 – 2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası""ndan irəli gələrək bank sektorunda maliyyə dayanıqlılığının gücləndirilməsini və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılmasını artıq təmin edib."
+B030-CON,R0006,CBAR-5397,body,edit,1,"AMB-nin İdarə Heyətinin ötən il dekabrın 26-da qəbul etdiyi qərarla ""Bank kapitalının və onun adekvatlığının hesablanması Qaydaları""nda dəyişikliklər edilib."
+B030-MIS,R0006,CBAR-5397,body,edit,1,"AMB-nin İdarə Heyətinin ötən il dekabrın 16-da qəbul etdiyi qərarla xarici bankların yerli filialları üçün ""Bank kapitalının və onun adekvatlığının hesablanması Qaydaları""nda dəyişikliklər edilib."
+B031-CON,R0177,CBAR-5546,body,edit,1,Bank siyahıya daxil edildikdə və ya qrupu artırıldıqda “sistem əhəmiyyətli bank kapital buferi” üzrə yeni artırılmış tələb siyahının təsdiq edildiyi andan dərhal sonra qüvvəyə minəcək.
+B031-MIS,R0177,CBAR-5546,body,edit,1,Bank siyahıya daxil edildikdə və ya qrupu artırıldıqda bütün sistem əhəmiyyətli banklar üçün “sistem əhəmiyyətli bank kapital buferi” üzrə yeni artırılmış tələb siyahının təsdiq edildiyi ildən sonrakı ilin yanvarın 1-dən qüvvəyə minəcək.
+B036-CON,R0178,CBAR-5547,body,edit,1,"Qiymətləndirmənin 4 kateqoriya – ölçü, şaxələnmə, əvəzolunmazlıq və mürəkkəblik kateqoriyaları üzrə aparılması müəyyən olunub."
+B036-MIS,R0178,CBAR-5547,body,edit,1,"Sığortaçı və bankların qiymətləndirilməsinin 3 kateqoriya – ölçü, şaxələnmə və əvəzolunmazlıq kateqoriyaları üzrə aparılması müəyyən olunub."
+B041-CON,R0162,CBAR-5514,body,edit,1,При более крупной сумме кредита деньги будут зачисляться не ранее чем через 48 часов.
+B041-MIS,R0162,CBAR-5514,body,edit,1,При более крупной сумме любого кредита деньги будут зачисляться не ранее чем через 24 часа.
+B043-CON,R0011,CBAR-5446,body,edit,1,"Təlimat “İnvestisiya şirkətləri və banklar tərəfindən investisiya xidmətlərinin (əməliyyatlarının) həyata keçirilməsi Qaydası”nın 17.2.9-cu yarımbəndinə uyğun olaraq emitentlər tərəfindən tərtib edilən daxili qaydaların hazırlanmasına, həmçinin kütləvi təklif üsulu ilə yerləşdirilən qiymətli kağızların anderraytinqinin həyata keçirilməsinə dair digər metodoloji əsasları müəyyən edir."
+B043-MIS,R0011,CBAR-5446,body,edit,1,"Təlimat “İnvestisiya şirkətləri və banklar tərəfindən investisiya xidmətlərinin (əməliyyatlarının) həyata keçirilməsi Qaydası”nın 17.2.9-cu yarımbəndinə uyğun olaraq həm investisiya şirkətləri, həm də banklar tərəfindən tərtib edilən daxili qaydaların hazırlanmasına, həmçinin kütləvi təklif üsulu ilə yerləşdirilən qiymətli kağızların anderraytinqinin həyata keçirilməsinə dair digər metodoloji əsasları müəyyən edir."
+B045-CON,R0023,CBAR-5483,body,edit,1,Qaydanın məqsədi “2024 – 2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası”ndan irəli gələrək sığorta sektorunda maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılmasıdır.
+B045-MIS,R0023,CBAR-5483,body,edit,1,"Qaydanın məqsədi “2024 – 2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası”ndan irəli gələrək bank sektorunda maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılmasıdır, yəni Bazel Komitəsinin qaydaları banklara birbaşa tətbiq ediləcək."
+B048-CON,R0006,CBAR-5397,body,edit,1,"Yeni kapital strukturuna adaptasiya, bankdaxili qayda və prosedurların uyğunlaşdırılması, təlimlərin keçirilməsi və yeni yanaşmaların prudensial hesabatlığa inteqrasiyası üçün banklara 2 illik keçid dövrü verilib."
+B048-MIS,R0006,CBAR-5397,body,edit,1,"Yeni kapital strukturuna adaptasiya, bankdaxili qayda və prosedurların uyğunlaşdırılması, təlimlərin keçirilməsi və yeni yanaşmaların prudensial hesabatlığa inteqrasiyası üçün banklara və onların müştərilərinə 1 illik keçid dövrü verilib."
+B049-CON,R0177,CBAR-5546,body,edit,1,Sistem əhəmiyyətli bankların siyahısı hər il martın 1-nə qədər Mərkəzi Bankın İdarə Heyətinin qərarı ilə təsdiq ediləcək.
+B049-MIS,R0177,CBAR-5546,body,edit,1,"Sistem əhəmiyyətli bankların siyahısı hər il sentyabrın 1-nə qədər Mərkəzi Bankın İdarə Heyətinin qərarı ilə təsdiq ediləcək, yəni banklar bu barədə ən gec sentyabrın 1-də xəbərdar ediləcək."
+B059-CON,R0192,DVX-4541,body,edit,1,İctimai iaşə fəaliyyəti sahəsinə ƏDV güzəşti 2026-cı il yanvarın 1-dən 5 il müddətinə verilir.
+B059-MIS,R0192,DVX-4541,body,edit,1,İctimai iaşə fəaliyyəti sahəsinə ƏDV güzəşti 2026-cı il yanvarın 1-dən 3 il müddətinə avtomatik verilir.
+B060-CON,R0197,DVX-4543,body,edit,1,Kirayəyə münasibətdə vergi dərəcəsi 14 faizdir.
+B060-MIS,R0197,DVX-4543,body,edit,1,Kirayəyə münasibətdə vergi dərəcəsi kirayəçidən asılı olmayaraq 10 faizdir.
+B067-CON,R0188,DVX-4532,headline,edit,1,Prezident Vergi Məcəlləsinə və 26 qanuna dəyişiklikləri təsdiqləyib.
+B067-MIS,R0188,DVX-4532,headline,edit,1,Prezident Vergi Məcəlləsinə və 16 vergi qanununa dəyişiklikləri təsdiqləyib.
+B077-CON,R0192,DVX-4541,body,edit,1,Naxçıvan MR-də minik avtomobillərinin istehsalını həyata keçirən vergi ödəyicilərinə münasibətdə mövcud güzəşt şərtləri 2028-ci il yanvarın 1-dək saxlanılır.
+B077-MIS,R0192,DVX-4541,body,edit,1,Naxçıvan MR-də avtomobil istehsalını həyata keçirən vergi ödəyicilərinə münasibətdə mövcud güzəşt şərtləri 2030-cu il yanvarın 1-dək saxlanılır.
+B078-CON,R0197,DVX-4543,body,edit,1,İcarəyə münasibətdə vergi dərəcəsi 10 faizdir.
+B078-MIS,R0197,DVX-4543,body,edit,1,İcarəyə münasibətdə icarəçi tərəfindən ödənilən vergi dərəcəsi 14 faizdir.
+B085-CON,R0189,DVX-4532,body,edit,1,Yalnız səyyar vergi yoxlaması keçirildikdə həmin halların Vergi Məcəlləsində göstərilən 3 illik müddətdən əvvəlki dövrlər üzrə könüllü olaraq bəyan edilməsi könüllü açıqlama hesab ediləcək.
+B085-MIS,R0189,DVX-4532,body,edit,1,Səyyar vergi yoxlamasının keçirilməsindən asılı olmayaraq həmin halların könüllü olaraq bəyan edilməsi könüllü açıqlama hesab ediləcək.
+B094-CON,R0192,DVX-4541,body,edit,1,"Sosial sığorta haqqı işçi üzrə 10%, işəgötürən üzrə 13% təşkil edir."
+B094-MIS,R0192,DVX-4541,body,edit,1,"Sosial sığorta haqqı işçi üzrə 10%, işəgötürən üzrə 11% təşkil edir, yəni bu dərəcələr bütün işəgötürənlərə eyni şəkildə şamil olunur."
+B095-CON,R0195,DVX-4543,body,edit,1,Hüquqi şəxslər tərəfindən istehsal məqsədilə yük avtomobillərinin ehtiyat hissələrinin idxalı 2027-ci il yanvarın 1-dən 7 il müddətinə ƏDV-dən azad ediləcək.
+B095-MIS,R0195,DVX-4543,body,edit,1,Hüquqi şəxslər tərəfindən yük avtomobillərinin ehtiyat hissələrinin idxalı 2026-cı il yanvarın 1-dən 7 il müddətinə ƏDV-dən azad ediləcək.
+B118-CON,R0241,EMSMN-9043,body,edit,1,155-ci maddənin 6-cı hissəsinə üçüncü cümlə əlavə edilsin.
+B118-MIS,R0241,EMSMN-9043,body,edit,1,155-ci maddənin 6-cı hissəsinə minimum əməkhaqqına hökumət tərəfindən baxılmasına dair ikinci cümlə əlavə edilsin.
+B137-CON,R0241,EMSMN-9043,body,edit,1,Azərbaycan Respublikasının Nazirlər Kabineti Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 16-cı bəndini rəhbər tutaraq qərara alır.
+B137-MIS,R0241,EMSMN-9043,body,edit,1,Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 16-cı bəndini rəhbər tutaraq minimum əməkhaqqının hər il artırılmasını qərara alır.

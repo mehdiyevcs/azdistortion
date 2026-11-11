@@ -1,0 +1,14 @@
+{
+ "ann_id": "DVX-4596",
+ "t1_files": [
+  "data/raw/announcements/DVX-4596/text_0.txt"
+ ],
+ "t2_files": [],
+ "has_t2": 0,
+ "t2_status": "no",
+ "t1_is_act": 0,
+ "sha256_T1": "a13b3abf6e2f4c0f0786aa235cd33f864d430e8eaafa86c40853d65eb93046f5",
+ "sha256_T2": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+ "chars_T1": 2273,
+ "chars_T2": 0
+}

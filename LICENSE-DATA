@@ -1,0 +1,26 @@
+Data licence
+
+The annotations in this repository (claim splits, labels, subtypes, report flags,
+human reference labels, LLM annotator labels, the constructed edit set, sampling
+files, system predictions and analysis outputs), the annotation guidelines, the
+pre-registration and the documentation in docs/ are licensed under the Creative Commons Attribution 4.0
+International licence (CC BY 4.0):
+
+    https://creativecommons.org/licenses/by/4.0/legalcode
+
+You may share and adapt this material for any purpose, provided that you give
+appropriate credit (cite the paper, see CITATION.cff), provide a link to the
+licence and indicate if changes were made.
+
+Third-party content
+
+- News reports are not redistributed. The repository gives each report's URL,
+  outlet, date and headline. Claim units and their sentence spans are short
+  excerpts of the reports, included for research; rights in the report text
+  remain with the outlets.
+- The official texts in data/sources/ (press releases and decision texts) were
+  collected from the public websites of the issuing bodies (cbar.az, taxes.gov.az,
+  sosial.gov.az, president.az). They remain subject to the terms of their
+  original publishers.
+
+The code is licensed separately under the MIT licence (see LICENSE).

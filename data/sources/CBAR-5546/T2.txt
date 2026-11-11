@@ -1,0 +1,168 @@
+=== text_0.txt ===
+--- page 1 ---
+AZƏRBAYCAN RESPUBLİKASI MƏRKƏZİ BANKININ İDARƏ HEYƏTİNİN
+QƏRA RI
+№ 11
+Bakı şəhəri 19 mart 2025-ci il
+“Bankın sistem əhəmiyyətli bank kimi qiymətləndirilməsi Meyarları”nın təsdiq edilməsi
+barədə
+“Azərbaycan Respublikasının Mərkəzi Bankı haqqında” Azərbaycan Respublikası
+Qanununun 22.1.17-ci maddəsinə əsasən Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyəti
+QƏRARA ALIR:
+1. “Bankın sistem əhəmiyyətli bank kimi qiymətləndirilməsi Meyarları” təsdiq edilsin
+(əlavə olunur).
+2. Bu Qərarın 1-ci hissəsi ilə təsdiq edilmiş “Bankın sistem əhəmiyyətli bank kimi
+qiymətləndirilməsi Meyarları” qüvvəyə mindiyi gündən ləğv edilmiş Azərbaycan
+Respublikası Maliyyə Bazarlarına Nəzarət Palatasının “Bankın sistem əhəmiyyətli bank kimi
+qiymətləndirilməsi Meyarları”nın təsdiq edilməsi haqqında” 11 mart 2019-cu il tarixli
+1951100014 nömrəli Qərarı ləğv edilsin.
+3. Maliyyə bazarlarının hüquqi təminatı departamentinə tapşırılsın ki, bu Qərarın 3
+gün müddətində Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestrinə daxil
+edilməsi üçün Azərbaycan Respublikasının Ədliyyə Nazirliyinə təqdim edilməsini təmin
+etsin.
+Mərkəzi Bankın sədri Taleh Kazımov
+--- page 2 ---
+“Təsdiq edilmişdir”
+Azərbaycan Respublikasının
+Mərkəzi Bankı
+Qərar № 11
+19 mart 2025-ci il
+Bankın sistem əhəmiyyətli bank kimi qiymətləndirilməsi
+MEYARLARI
+1. Ümumi müddəalar
+1.1. Bu Meyarlar “Banklar haqqında” Azərbaycan Respublikası Qanununun (bundan
+sonra – Qanun) 57-9.2-ci maddəsinə uyğun olaraq hazırlanmışdır və Azərbaycan
+Respublikasında fəaliyyət göstərən bankların və xarici bankların yerli filiallarının (bundan
+sonra – bank) sistem əhəmiyyətli bank kimi qiymətləndirilməsi meyarlarını müəyyən edir.
+1.2. Bu Meyarlarda istifadə olunan anlayışlar Qanunda verilən mənaları ifadə edir.
+2. Sistem əhəmiyyətliliyinin müəyyən edilməsi
+2.1. Bankın sistem əhəmiyyətliliyi aşağıdakı cədvəldə verilmiş göstəricilər
+(kateqoriyalar, indikatorlar və həmin indikatorlara verilmiş xüsusi çəkilər) vasitəsilə
+qiymətləndirilir:
+No Kateqoriya İndikator Xüsusi çəki (%)
+1 Ölçü Cəmi aktivlər 30%
+Depozit portfeli 10%
+2 Şaxələnmə Maliyyə institutları qarşısında
+8.3%
+öhdəliklər
+Maliyyə institutlarında yerləşdirilən
+8.3%
+aktivlər
+Qiymətli kağızlar üzrə öhdəliklər 8.3%
+3 Əvəzolunmazlıq Ödəniş sistemləri vasitəsilə aparılan
+7.5%
+əməliyyatlar
+Əmanətçi sayı 7.5%
+Unikal müştəri sayı 7.5%
+Maliyyə inklüzivliyi 7.5%
+4 Mürəkkəblik Birjadankənar törəmə maliyyə alətləri 2.5%
+Ticarət məqsədləri üçün nəzərdə
+2.5%
+tutulan qiymətli kağızlar
+2.2. Bankın sistem əhəmiyyətliliyinin müəyyən edilməsi üçün indikatorlar üzrə
+aşağıdakı maliyyə göstəricilərindən istifadə olunur:
+--- page 3 ---
+2.2.1. cəmi aktivlər – bankın leverec əmsalının hesablanmasında istifadə olunan xalis
+aktiv və balansdankənar öhdəliklərin cəmi;
+2.2.2. depozit portfeli – banka aidiyyəti olan şəxslərin, habelə kredit təşkilatları və digər
+maliyyə institutlarının depozitləri istisna olmaqla, fiziki və hüquqi şəxslərin depozitləri;
+2.2.3. maliyyə institutları qarşısında öhdəliklər – dövlət tərəfindən yaradılmış və bank
+kreditləri üzrə öhdəliyin yerinə yetirilməsinə təminat (zəmanət) verən fondların və digər
+ixtisaslaşmış dövlət qurumlarının kreditləşmə məqsədilə bankda yerləşdirdikləri vəsaitlər,
+həmçinin banka aidiyyəti şəxs olan maliyyə institutları qarşısındakı öhdəliklər istisna
+olmaqla, yerli banklar, bank olmayan kredit təşkilatları, lizinq, sığorta, faktorinq, lombard
+təşkilatları və digər oxşar təşkilatlar qarşısında olan öhdəliklər;
+2.2.4. maliyyə institutlarında yerləşdirilən aktivlər – Azərbaycan Respublikasının Mərkəzi
+Bankı və ləğvetmə prosesində olanlar istisna olmaqla, yerli banklar, bank olmayan kredit
+təşkilatları, lizinq, sığorta, faktorinq, lombard təşkilatları və digər oxşar təşkilatlara qarşı
+tələblər;1
+2.2.5. qiymətli kağızlar üzrə öhdəliklər – bankın buraxdığı qiymətli kağızlar üzrə
+öhdəlikləri;
+2.2.6. ödəniş sistemləri vasitəsilə aparılan əməliyyatlar – AZİPS (Real Vaxt Rejimində
+Hesablaşmalar Sistemi) üzərindən aparılmış müştəri köçürmələri və banklararası ödəniş
+əməliyyatlarının sayı və cəmi məbləği;2
+2.2.7. əmanətçi sayı – bankda əmanət hesabına malik fiziki və hüquqi şəxslərin sayı;
+2.2.8. unikal müştəri sayı – hesabat dövrünün son tarixinə hesab qalığı azı 100 (yüz)
+manat ekvivalentində olan, habelə son 3 (üç) ay ərzində azı bir əməliyyat aparmış bank
+müştərilərinin sayı;
+2.2.9. maliyyə inklüzivliyi – bankın bankomatları, xidmət etdiyi POS-terminalları,
+habelə filiallarının sayı;
+2.2.10. birjadankənar törəmə maliyyə alətləri – birjadankənar ticarət edilən törəmə
+maliyyə alətlərinin əvvəlcədən müəyyən olunmuş qiymətlə qalıq dəyəri;
+2.2.11. ticarət məqsədləri üçün nəzərdə tutulan qiymətli kağızlar – satış üçün mövcud
+olan və ticarət üçün alınmış qiymətli kağızların ümumi dəyəri.
+2.3. Bu Qaydaların 2.1-ci bəndindəki göstəricilərdən istifadə etməklə hər bir bank üzrə
+sistem əhəmiyyətlilik indeksi aşağıdakı düsturla hesablanır:
+burada,
+SII – bankın sistem əhəmiyyətliliyi indeksi;
+I – bankın indikator üzrə rüblük göstəriciləri əsasında hesablanmış illik orta göstəricisi;
+i
+L – indikatorun bütün banklar üzrə məcmu rüblük göstəricilər əsasında hesablanmış
+i
+illik orta göstəricisi;
+W – hər bir indikatora verilmiş xüsusi çəki;
+i
+n – qiymətləndirilmiş indikatorların sayı.
+2.4. Bu Meyarların 2.2.6-cı yarımbəndi ilə nəzərdə tutulmuş ödəniş sistemləri vasitəsilə
+aparılan əməliyyatlar indikatoru müəyyən edildikdə bu indikator üzrə iki alt-indikator
+--- page 4 ---
+(əməliyyatların sayı və cəmi məbləği) hesablamada proporsional nəzərə alınır (hər alt-
+indikatorun payı ayrı-ayrılıqda 50% olmaqla).
+2.5. Bu Meyarların 2.2.9-cu yarımbəndində nəzərdə tutulmuş maliyyə inklüzivliyi
+indikatoru müəyyən edildikdə bu indikatora daxil olan üç alt-indikatorun (bankın
+bankomatları, xidmət etdiyi POS-terminallar, habelə filiallarının sayı) payı ayrı-ayrılıqda
+33.3% olmaqla hesablanır.
+2.6. Bankın sistem əhəmiyyətliliyi aşağıdakı mərhələlər əsasında müəyyən edilir:
+2.6.1. hər bir bank üzrə sistem əhəmiyyətlilik indeksi hesablandıqdan sonra həmin
+indeks 420 baza bəndi ilə müqayisə olunur;
+2.6.2. yekun sistem əhəmiyyətlilik indeksinin nəticələri 420 baza bəndi və bundan
+yüksək olan banklar sistem əhəmiyyətli bankların siyahısına daxil edilir.
+2.7. Sistem əhəmiyyətli bankların siyahısı hər il 1 sentyabr tarixinədək Azərbaycan
+Respublikası Mərkəzi Bankının İdarə Heyətinin qərarı ilə təsdiq edilir.3
+2.8. Sistem əhəmiyyətli bankların müəyyən edilməsi barədə qərar qəbul edildiyi
+tarixdən 5 (beş) iş günü ərzində bu barədə müvafiq banka və Azərbaycan Respublikasının
+Maliyyə Nazirliyinə yazılı məlumat verilir və sistem əhəmiyyətli bankların siyahısı
+Azərbaycan Respublikası Mərkəzi Bankının rəsmi internet səhifəsində dərc olunur.
+--- page 5 ---
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 28 iyul 2026-cı il tarixli 33/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin Qərarı
+(Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202607280331, Hüquqi Aktların Dövlət
+Reyestrinə daxil edildiyi tarix 21 avqust 2026-cı il)
+QƏRARA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+1 28 iyul 2026-cı il tarixli 33/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin Qərarı
+(Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202607280331, Hüquqi Aktların Dövlət
+Reyestrinə daxil edildiyi tarix 21 avqust 2026-cı il) ilə “Bankın sistem əhəmiyyətli bank kimi
+qiymətləndirilməsi Meyarları”nın 2.2.4-cü yarımbəndinə “ləğvetmə” sözündən əvvəl “Azərbaycan
+Respublikasının Mərkəzi Bankı və” sözləri əlavə edilmişdir.
+2 28 iyul 2026-cı il tarixli 33/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin Qərarı
+(Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202607280331, Hüquqi Aktların Dövlət
+Reyestrinə daxil edildiyi tarix 21 avqust 2026-cı il) ilə “Bankın sistem əhəmiyyətli bank kimi
+qiymətləndirilməsi Meyarları”nın 2.2.6-cı yarımbəndində “əməliyyatların” sözü “müştəri köçürmələri və
+banklararası ödəniş əməliyyatlarının” sözləri ilə əvəz edilmişdir.
+3 28 iyul 2026-cı il tarixli 33/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin Qərarı
+(Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202607280331, Hüquqi Aktların Dövlət
+Reyestrinə daxil edildiyi tarix 21 avqust 2026-cı il) ilə “Bankın sistem əhəmiyyətli bank kimi
+qiymətləndirilməsi Meyarları”nın 2.7-ci bəndində “mart” sözü “sentyabr” sözü ilə əvəz edilmişdir.
+
+=== tables_0.txt ===
+--- page 1 table 1 ---
+AZƏRBAYCAN RESPUBLİKASI MƏRKƏZİ BANKININ İDARƏ HEYƏTİNİN
+QƏRA RI
+№ 11
+Bakı şəhəri 19 mart 2025-ci il
+“Bankın sistem əhəmiyyətli bank kimi qiymətləndirilməsi Meyarları”nın təsdiq edilməsi
+barədə
+--- page 2 table 1 ---
+No | Kateqoriya | İndikator | Xüsusi çəki (%)
+1 | Ölçü | Cəmi aktivlər | 30%
+ |  | Depozit portfeli | 10%
+2 | Şaxələnmə | Maliyyə institutları qarşısında öhdəliklər | 8.3%
+ |  | Maliyyə institutlarında yerləşdirilən aktivlər | 8.3%
+ |  | Qiymətli kağızlar üzrə öhdəliklər | 8.3%
+3 | Əvəzolunmazlıq | Ödəniş sistemləri vasitəsilə aparılan əməliyyatlar | 7.5%
+ |  | Əmanətçi sayı | 7.5%
+ |  | Unikal müştəri sayı | 7.5%
+ |  | Maliyyə inklüzivliyi | 7.5%
+4 | Mürəkkəblik | Birjadankənar törəmə maliyyə alətləri | 2.5%
+ |  | Ticarət məqsədləri üçün nəzərdə tutulan qiymətli kağızlar | 2.5%

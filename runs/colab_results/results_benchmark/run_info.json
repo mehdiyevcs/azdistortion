@@ -1,0 +1,11 @@
+{
+ "name": "benchmark",
+ "mode": "final",
+ "core_sha256": "2a99faca1dc672983b1cc3d6e9ada37ed2858aa1d99579278b7317a48f27ed54",
+ "edits_sha256": "",
+ "bundles": [
+  "ff7c131fa546fcd173269d7e774ee63a7cf3d16ce7709883621e012196795273"
+ ],
+ "created": "2026-11-10 19:06:16",
+ "hardware": "NVIDIA A100-SXM4-80GB / CUDA 13.2"
+}

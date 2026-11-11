@@ -1,0 +1,14 @@
+{
+ "run_id": "e2_logreg_edits_C0_random",
+ "system": "S0b_logreg_edits",
+ "condition": "C0",
+ "sample": "random",
+ "n": 2020,
+ "model_id": "sklearn:logreg",
+ "source_file": "runs/nonllm_random/predictions_tradml_edits.csv",
+ "source_sha256": "045305789adfa719050916f478762571ff590a469eea81e47972293e0dd9f33d",
+ "predictions_sha256": "b3a9830fb5d326af625cd7a75d7ddb01b692ceb4dc623053c12ceb7dd6e33225",
+ "cost": 0.0,
+ "finished": "2026-11-11 12:33:35",
+ "note": ""
+}

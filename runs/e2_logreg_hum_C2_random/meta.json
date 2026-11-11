@@ -1,0 +1,14 @@
+{
+ "run_id": "e2_logreg_hum_C2_random",
+ "system": "S0b_logreg_hum",
+ "condition": "C2",
+ "sample": "random",
+ "n": 2020,
+ "model_id": "sklearn:logreg",
+ "source_file": "runs/nonllm_random/predictions_tradml_hum.csv",
+ "source_sha256": "014897a89112bf94b0d157b2c6b9ded576863afea93974d655072127fd2dedbb",
+ "predictions_sha256": "afb110051f2a11ff6a3d57466d3288dbd47999dc095e578eba722707d1e94453",
+ "cost": 0.0,
+ "finished": "2026-11-11 12:33:35",
+ "note": ""
+}

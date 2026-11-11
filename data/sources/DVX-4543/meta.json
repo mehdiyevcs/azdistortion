@@ -1,0 +1,21 @@
+{
+ "ann_id": "DVX-4543",
+ "t1_files": [
+  "data/raw/announcements/DVX-4543/text_0.txt"
+ ],
+ "t2_files": [
+  "data/raw/announcements/DVX-4543-DEC/text_0.txt",
+  "data/raw/announcements/DVX-4543-DEC/text_1.txt",
+  "data/raw/announcements/DVX-4543-DEC/tables_1_checked.txt",
+  "data/raw/announcements/DVX-4543-DEC/text_2.txt",
+  "data/raw/announcements/DVX-4543-DEC/text_3.txt",
+  "data/raw/announcements/DVX-4543-DEC/tables_3.txt"
+ ],
+ "has_t2": 1,
+ "t2_status": "yes",
+ "t1_is_act": 0,
+ "sha256_T1": "f1c85dadf5e4e9d1867fb5951148e6e1c64c17645426b6c6640d75ca90f03f40",
+ "sha256_T2": "f0612228098eaaa7199071abb787279d4aecfd6e882b2528de8bd0b4d791eb76",
+ "chars_T1": 4626,
+ "chars_T2": 154994
+}

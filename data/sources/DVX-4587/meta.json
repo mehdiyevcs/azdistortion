@@ -1,0 +1,16 @@
+{
+ "ann_id": "DVX-4587",
+ "t1_files": [
+  "data/raw/announcements/DVX-4587/text_0.txt"
+ ],
+ "t2_files": [
+  "data/raw/announcements/DVX-4587-DEC/text_0.txt"
+ ],
+ "has_t2": 1,
+ "t2_status": "yes",
+ "t1_is_act": 1,
+ "sha256_T1": "92f7db79887b07a3ca15d01bdbbd79af2486c9d23889443f73beedfc6142c19b",
+ "sha256_T2": "5100d15a156708b448df1f3ed61f0e88fce1b40e87189a9434a2992f4481cfd0",
+ "chars_T1": 13749,
+ "chars_T2": 12682
+}

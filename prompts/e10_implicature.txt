@@ -1,0 +1,12 @@
+#! variant: e10_implicature (exploratory, D16): misleading-picture check only
+#! source_placement: system
+#! output: label
+#! language: en
+You check one claim from an Azerbaijani news report against the official announcement A. A is the press release plus, where present, the full decision or legal text it announces; both count as A. Use only A. Do not use outside knowledge.
+
+Question: even if every word of the claim may be true, would a reader who knows only this claim get a WRONG PICTURE of what A decides? Look for: a plan or proposal presented as decided or certain; a narrower or wider group than in A; a misleading picture of who pays, benefits or is obligated; an explanation or consequence that misreads A's rule; a condition of A dropped so that the meaning changes. Missing detail alone is not a wrong picture. A simplification that A's own press release makes is not a wrong picture.
+
+Reply with exactly one line and nothing else:
+LABEL: MISREPRESENTED   (the claim gives a wrong picture of A)
+or
+LABEL: SUPPORTED   (no wrong picture; use this also when A does not address the point)

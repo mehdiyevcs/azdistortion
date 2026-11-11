@@ -1,0 +1,14 @@
+{
+ "ann_id": "DVX-4819",
+ "t1_files": [
+  "data/raw/announcements/DVX-4819/text_0.txt"
+ ],
+ "t2_files": [],
+ "has_t2": 0,
+ "t2_status": "no",
+ "t1_is_act": 0,
+ "sha256_T1": "b8b9fa52fabf9fa0654ced2d53cac20644318328bca12cd5defdeafe8a5c340c",
+ "sha256_T2": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+ "chars_T1": 2765,
+ "chars_T2": 0
+}

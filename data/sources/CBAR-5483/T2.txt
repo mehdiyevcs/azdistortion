@@ -1,0 +1,723 @@
+=== text_0.txt ===
+--- page 1 ---
+AZƏRBAYCAN RESPUBLİKASI MƏRKƏZİ BANKININ İDARƏ HEYƏTİNİN
+QƏRARI
+№ 06/05
+Bakı şəhəri 16 fevral 2026-cı il
+“Banklarda stres-testlərin aparılması Qaydası”nın təsdiq edilməsi və Azərbaycan
+Respublikası Mərkəzi Bankının İdarə Heyətinin 2023-cü il 28 avqust tarixli 41/1
+nömrəli Qərarı ilə təsdiq edilmiş “Banklarda korporativ idarəetmə
+Standartları”nda, 2023-cü il 21 sentyabr tarixli 46/4 nömrəli Qərarı ilə təsdiq edilmiş
+“Banklarda kredit risklərinin idarə edilməsi Qaydası”nda, 2023-cü il 18 oktyabr
+tarixli 49/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda likvidlik riskinin idarə
+edilməsi Qaydası”nda, 2025-ci il 28 yanvar tarixli 04/1 nömrəli Qərarı ilə təsdiq
+edilmiş “Banklarda əməliyyat risklərinin idarə edilməsi Qaydası”nda, 2025-ci il 23
+dekabr tarixli 45/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda bazar risklərinin
+idarə edilməsi Qaydası”nda dəyişikliklər edilməsi barədə
+“Azərbaycan Respublikasının Mərkəzi Bankı haqqında” Azərbaycan Respublikası
+Qanununun 22.1.17-ci maddəsinə əsasən Azərbaycan Respublikası Mərkəzi Bankının
+İdarə Heyəti
+QƏRARA ALIR:
+1. “Banklarda stres-testlərin aparılması Qaydası” təsdiq edilsin (əlavə olunur).
+2. Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2023-cü il 28 avqust
+tarixli 41/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda korporativ idarəetmə
+Standartları”nda dəyişikliklər təsdiq edilsin (əlavə olunur).
+3. Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2023-cü il 21
+sentyabr tarixli 46/4 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda kredit risklərinin
+idarə edilməsi Qaydası”nda dəyişikliklər təsdiq edilsin (əlavə olunur).
+4. Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2023-cü il 18
+oktyabr tarixli 49/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda likvidlik riskinin idarə
+edilməsi Qaydası”nda dəyişikliklər təsdiq edilsin (əlavə olunur).
+5. Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2025-ci il 28 yanvar
+tarixli 04/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda əməliyyat risklərinin idarə
+edilməsi Qaydası”nda dəyişikliklər təsdiq edilsin (əlavə olunur).
+6. Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2025-ci il 23 dekabr
+tarixli 45/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda bazar risklərinin idarə edilməsi
+Qaydası”nda dəyişikliklər təsdiq edilsin (əlavə olunur).
+7. Bu Qərarın 1-6-cı hissələri bu Qərar dərc edildiyi gündən 1 (bir) ay sonra
+qüvvəyə minsin.
+8. Maliyyə bazarlarının hüquqi təminatı departamentinə tapşırılsın ki, bu Qərarın
+3 gün müddətində Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestrinə
+--- page 2 ---
+daxil edilməsi üçün Azərbaycan Respublikasının Ədliyyə Nazirliyinə təqdim
+edilməsini təmin etsin.
+Mərkəzi Bankın sədri Taleh Kazımov
+--- page 3 ---
+“Təsdiq edilmişdir”
+Azərbaycan Respublikasının
+Mərkəzi Bankı
+Qərar № 06/05
+16 fevral 2026-cı il
+Banklarda stres-testlərin aparılması Qaydası
+1. Ümumi müddəalar
+1.1. Bu Qayda “Banklar haqqında” Azərbaycan Respublikası Qanununun 34.5-ci
+maddəsinə uyğun olaraq hazırlanmışdır.
+1.2. Bu Qayda Azərbaycan Respublikasında fəaliyyət göstərən banklar və xarici
+bankların yerli filialları (bundan sonra – bank) üçün stres-testləşməyə dair ümumi
+tələbləri, stres-test proqramı, məlumat infrastrukturu, stres-test modellərinin qurulması,
+həssaslıq və ssenari ilə bağlı tələbləri, ayrı-ayrı risk növləri üzrə stres-testlərin aparılması
+və Azərbaycan Respublikasının Mərkəzi Bankına (bundan sonra – Mərkəzi Bank)
+müvafiq məlumatların təqdim edilməsinə dair tələbləri müəyyən edir.
+2. Anlayışlar
+2.1. Bu Qaydada istifadə olunan anlayışlar aşağıdakı mənaları ifadə edir:
+2.1.1. “bottom-up” (aşağıdan yuxarıya) stres-test– Mərkəzi Bankın makroiqtisadi
+proqnozları və bu Qaydanın tələbləri əsasında banklar tərəfindən tərtib edilmiş modellər
+vasitəsilə həyata keçirilən stres-test;
+2.1.2. dinamik balans – bankın gələcək biznes planları və fəaliyyət proqnozları
+əsasında tətbiq olunan ssenarilərə uyğun aktiv və öhdəliklərin dəyişdirilməsi ilə
+formalaşdırılan balans;
+2.1.3. “növbədənkənar” stres-test – dövri olmayan, lakin hər hansı bir hadisə baş
+verdikdə və ya ehtiyac yarandıqda xüsusi olaraq həyata keçirilən stres-test;
+2.1.4. proqnozlaşdırılan dövr – stres-test modelinin əhatə etdiyi və stres şəraitinin
+davam etməsi ehtimal olunan müddət;
+2.1.5. statik balans – bankın proqnoz müddəti ərzində müddəti bitən balans
+maddələrinin eyni həcmli və oxşar balans maddələri ilə əvəz etməsi vasitəsilə dəyişməz
+olaraq saxladığı balans;
+2.1.6. stres-test – bir və ya bir neçə şokun bankın maliyyə vəziyyətinə potensial
+təsirinin qiymətləndirilməsi aləti;
+2.1.7. şok – bankın fəaliyyətinə potensial təsir edə biləcək, ehtimal olunan və ölçülə
+bilən hadisə;
+2.1.8. “tərs” stres-test – bankın maliyyə dayanıqlılığı göstəricilərinin əhəmiyyətli
+dərəcədə pisləşməsinə və fəaliyyətini davam etdirilə bilməz vəziyyətə gətirən şokları və
+hadisələri müəyyənləşdirən modelləşdirmə əsasında həyata keçirilən stres-test;
+--- page 4 ---
+2.1.9. “top-down” (yuxarıdan aşağıya) stres-test – vahid model əsasında bütün
+banklara eyni fərziyyə, yanaşma və ssenarilər tətbiq etməklə Mərkəzi Bank tərəfindən
+həyata keçirilən stres-test.
+2.2. Bu Qaydada istifadə olunan “qeyri-işlək kredit” və “modelin validasiyası”
+anlayışları Mərkəzi Bankın İdarə Heyətinin 2023-cü il 21 sentyabr tarixli 46/4 nömrəli
+Qərarı ilə təsdiq edilmiş “Banklarda kredit risklərinin idarə edilməsi Qaydası”nda
+nəzərdə tutulan mənaları ifadə edir.
+3. Stres-testləşməyə dair ümumi tələblər
+3.1. Bank onun risk profilinə mənfi təsir edə biləcək hadisələrin müəyyən edilməsi
+və qiymətləndirilməsi üçün stres-testlər aparır və nəticələri əsasında tədbirlər planı
+hazırlayır.
+3.2. Stres-testlər risklərin idarə edilməsi funksiyasını həyata keçirən struktur
+bölmə(lər) tərəfindən bankın digər aidiyyəti struktur bölmələri ilə birgə hazırlanır, İdarə
+Heyəti ilə razılaşdırdıqdan sonra bu Qaydanın 9.3-cü və 9.4-cü bəndlərinin tələbləri
+nəzərə alınmaqla Müşahidə Şurası və Riskləri İdarəetmə Komitəsi tərəfindən təsdiq
+edilir.
+3.3. Stres-testlərin aparılma tezliyi bu Qaydanın 9.2-ci bəndinin tələbi nəzərə
+alınmaqla, bank tərəfindən stres-testin növündən, bank fəaliyyətindən irəli gələn
+risklərin miqyasından, xüsusiyyətindən, bankın fəaliyyət göstərdiyi bazardakı və
+makroiqtisadi şəraitdəki dəyişikliklərdən asılı olaraq müəyyən edilir.
+3.4. Stres-testin nəticələri bankın strateji planının, habelə bankın risk iştahasının,
+siyasətinin, limitlərinin və daxili qaydalarının hazırlanmasında və təkmilləşdirilməsində
+nəzərə alınır.
+3.5. Stres-test modellərinin validasiyası və adekvatlığının yenidən
+qiymətləndirilməsi bankın stres-testlərinin tərtibi və aparılmasına məsuliyyət daşımayan
+müvafiq struktur bölmələrinin əməkdaşları və (və ya) bu prosesə cəlb olunmayan kənar
+ekspertlər tərəfindən aparılır.
+3.6. Bankın stres-test proqramının tərtibi və tətbiqinə məsul əməkdaşları stres-test
+modelinin qiymətləndirilməsi (bankdaxili və ya Mərkəzi Bank tərəfindən) zamanı bu
+Qaydaya 1 nömrəli Əlavədə göstərilən suallara cavab verməyə hazırlıqlı olmalıdırlar.
+4. Stres-test proqramı
+4.1. Bankda stres-testlərin aparılması üçün stres-test proqramı hazırlanır. Stres-test
+proqramında azı aşağıdakı məsələlər əhatə olunur:
+4.1.1. stres-testin növləri və məqsədi;
+4.1.2. stres-testin aparılma tezliyi;
+4.1.3. stres-testləşmə üzrə aydın, şəffaf və ardıcıl səlahiyyət bölgüsü və prosedurlar;
+4.1.4. adekvat məlumat infrastrukturu;
+4.1.5. stres-testlərdə istifadə edilən modellərin təsviri;
+4.1.6. modellərin validasiyasına və yenidən qiymətləndirilməsinə dair tələblər;
+4.1.7. istifadə olunacaq mümkün şoklar və ssenarilərin təsviri;
+--- page 5 ---
+4.1.8. hər bir stres-test üzrə nəzərdə tutulan mümkün tədbirlər planı. Tədbirlər
+planında bankın sağlamlaşdırma planı çərçivəsində stres şəraitində müəyyən edilən
+tədbirlər nəzərə alınmalıdır.
+4.2. Stres-test proqramında “növbədənkənar” və “tərs” stres-testlərin də aparılması
+nəzərdə tutulmalıdır.
+4.3. Bank stres-test proqramını azı ildə bir dəfə yenidən qiymətləndirir. Stres-test
+proqramı və ona dəyişikliklər sənədləşdirilir və bankın Müşahidə Şurasına, Riskləri
+İdarəetmə Komitəsinə, İdarə Heyətinə və bankın aidiyyəti struktur bölmələrlə
+kommunikasiya edilir.
+5. Stres-testdə istifadə olunan məlumatlar
+5.1. Bankın stres-test modelləri yüksək keyfiyyətli, etibarlı və əhatəli məlumatlara
+əsaslanmalıdır. Məlumatlar azı aşağıdakı tələblərə cavab verməlidir:
+5.1.1. bankın əsas fəaliyyət istiqamətləri və risk profili nəzərə alınmaqla iqtisadi,
+maliyyə və bazar göstəricilərinin dinamikasını əks etdirən dövrü (ən əlverişsiz iqtisadi
+şərait nəzərə alınmaqla) əhatə etməlidir;
+5.1.2. yüksək tezlikli (məsələn, aylıq, rüblük) olmalıdır;
+5.1.3. kənar dəyərlər (outlier) və qeyri-dəqiq məlumatlar olmamalıdır (bu
+məlumatlar statistik metodlarla aşkar edilməlidir);
+5.1.4. struktur dəyişiklikləri nəzərə almalıdır (yeni tənzimləmələr, maliyyə
+hesabatlılığında dəyişikliklər və s.);
+5.1.5. məlumatların mənbələrarası uzlaşması təmin edilməli və mümkün
+uyğunsuzluqlar analiz edilməlidir;
+5.1.6. məlumat mənbələrinin (daxili informasiya sistemləri, Mərkəzi Bankın
+statistikası, üçüncü tərəflər və s.) etibarlılığı qiymətləndirilməli və sənədləşdirilməlidir.
+6. Stres-test modellərinin tərtibi və tətbiqi
+6.1. Stres-testlərin tərtibi zamanı ekonometrik modellərdən istifadə edilir.
+Ekonometrik modellərin qurulması və təkmilləşdirilməsi zamanı azı aşağıdakı tələblərə
+əməl olunmalıdır:
+6.1.1. modellər müvafiq iqtisadi, maliyyə və statistik nəzəriyyələrə əsaslanmalıdır;
+6.1.2. modellər bankın xüsusiyyətinə, ölçüsünə və həcminə, habelə biznes
+fəaliyyətinin mürəkkəbliyinə və riskliliyinə uyğun olmalıdır;
+6.1.3. modellər statistik və iqtisadi cəhətdən etibarlı və stabil olmalıdır;
+6.1.4. əhəmiyyətlilik göstəriciləri yüksək olmalı, model parametrlərinin
+interpretasiyası aydın və iqtisadi məntiqə uyğun olmalıdır;
+6.1.5. iqtisadi cəhətdən əhəmiyyətli göstəricilərin modelə daxil edilməməsinə və ya
+əhəmiyyətsiz göstəricilərin modelə daxil edilməsinə yol verilməməlidir;
+6.1.6. diaqnostik testlər aparılmalı, statistik uyğunsuzluqlar aradan qaldırılmalı və
+modellər arasından ən uyğunu seçilməlidir;
+6.1.7. model seçimində nəzəri yanaşma ilə empirik nəticələr arasında balans
+qorunmalı və modellər müxtəlif iqtisadi dövrlər, fərqli ssenarilər üzrə test edilməlidir;
+--- page 6 ---
+6.1.8. modelin işləmə mexanizmi və iqtisadi əlaqələrin ardıcıllığı göstərilməli,
+mümkün məhdudiyyətlər və çatışmazlıqlar qeyd olunmalıdır;
+6.1.9. makroiqtisadi dəyişənlərin bankın risk profilinə və fəaliyyət göstəricilərinə
+təsirini proqnozlaşdıran ekonometrik modellər bir-biri ilə əsas fərziyyələr baxımından
+uyğunlaşmalı, eləcə də maliyyə modelində istifadə olunan yanaşmalar da nəzərə
+alınmalıdır (məsələn, qeyri-işlək kredit əmsalını və bankın kredit portfelinin həcmini
+proqnozlaşdıran modellər arasında məntiqi əlaqə təmin olunmalıdır);
+6.1.10. makroiqtisadi göstəricilər ilə maliyyə göstəriciləri arasındakı statistik
+əlaqələr iqtisadi məntiqə uyğun şəkildə nəzərə alınmalıdır (məsələn, makroproqnozlar
+iqtisadi aktivliyin azalacağına işarə edirsə, kredit portfelinin əhəmiyyətli artacağı
+gözləntisi olmamalıdır);
+6.1.11. modeldə istifadə olunan əsas fərziyyələr əsaslandırılmalı və
+sənədləşdirilməlidir.
+6.2. Bank stres-test modellərinin tərtibi üçün proqnozlaşdırılan dövrü müəyyən
+edir. Proqnozlaşdırılan dövr bankın portfelinin xüsusiyyətinə, risk profilinə və stres-
+testin məqsədinə uyğun olmalıdır.
+6.3. Makroiqtisadi faktorların maliyyə göstəricilərinə təsiri modelləşdirilən zaman
+modellərin keyfiyyətinə mənfi təsir etmədən ətraflı proqnoz verilməlidir (məsələn, kredit
+portfeli müştərinin kateqoriyası, kreditin növü, iqtisadi sektor, qalıq müddəti, cari
+təsnifat kateqoriyası və sair kimi müvafiq bölgülər ilə bankın ən uyğun hesab etdiyi
+mümkün altqruplara ayrılmalı və onlar üzrə verilən ssenaridə keyfiyyət meyarları
+proqnozlaşdırılmalıdır).
+6.4. Stres-testlərin tərtibi zamanı makroiqtisadi göstəricilərin banka təsirinin
+hesablanması üçün həmin göstəricilər ekonometrik modeldəki asılı göstərici ilə
+əlaqələndirilməlidir.
+6.5. Modellərin tərtibi zamanı bank statik və ya dinamik balansdan istifadə edə
+bilər. Statik balans bankların cari maliyyə vəziyyətini və cari risklərini əks etdirmək,
+dinamik balans isə proqnoz vermək üçün istifadə olunur.
+6.6. Stres-testlər üzrə modellər portfel və (və ya) bank səviyyəsində (bütün riskləri
+əhatə edəcək stres-test) tətbiq edilə bilər. Portfel səviyyəsində stres-testlər həssaslıq və
+ssenari təhlillərindən istifadə etməklə portfelə bütövlükdə və ya portfelin aidiyyəti alt-
+seqmentlərinə təsir edən bütün əsas risklər əhatə olunmaqla həyata keçirilir. Portfel
+səviyyəsində aparılan stres-testdə həmin portfelin xüsusiyyətinə uyğun risk amilləri və
+onlar üzrə şoklar müəyyən edilməlidir (məsələn, daşınmaz əmlak portfeli üzrə daşınmaz
+əmlak qiymətlərinin enməsi, artan işsizlik və Ümumi Daxili Məhsulun azalması kimi
+şoklar).
+7. Həssaslıq və ssenari təhlilləri
+7.1. Bank portfel və (və ya) bank səviyyəsində həssaslıq təhlilləri aparmalıdır.
+Həssaslıq təhlili bankın bir risk amilinə olan həssaslığını ölçmək məqsədilə həmin risk
+amilinin stresə məruz qoyulmasıdır. Məsələn, bank faiz dərəcələrindəki dəyişikliyin,
+likvid aktivlərin dəyərindəki azalmanın, müflis olma ehtimallarının artımının və iri
+--- page 7 ---
+tərəfdaşların iflasının banka təsirini ölçə bilər. Bu cür təhlillər risklərin və potensial
+konsentrasiyaların müəyyənləşdirilməsinə xidmət edir.
+7.2. Həssaslıq təhlillərində bank tərəfindən müəyyən edilmiş risk amillərinə fərqli
+şiddət səviyyələrində şoklar verilməlidir. Şokların şiddətinin müəyyənləşdirilməsində
+uzunmüddətli tarixi dinamikadan istifadə olunmalıdır. Risk amillərinə olan həssaslığı
+effektiv ölçmək məqsədilə bank tarixi məlumatlar və təcrübəyə əsaslanan təhlilləri
+hipotetik hadisələrlə dəstəkləməlidir.
+7.3. Bankda stres-test modelinin əsas hissəsi olaraq ssenari təhlilləri tərtib edilir.
+Ssenari təhlilləri azı aşağıdakı tələblərə cavab verməlidir:
+7.3.1. gələcəyə yönəlik olmalı, stres-testdə proqnoz olunan dövrdə hadisələrin bir-
+biri ilə əlaqəli baş verməsini əhatə etməlidir;
+7.3.2. tarixi müşahidələrlə yanaşı hipotetik hadisələri də nəzərə almalıdır;
+7.3.3. “çox əlverişsiz”, “əlverişsiz” və “ehtimal olunan” kimi tərtib olunmalı və hər
+bir ssenari üçün ayrıca meyarlar və şoklar müəyyən edilməlidir;
+7.3.4. bankın məruz qaldığı riskləri və risklərə həssas sahələri əhatə etməlidir.
+7.4. Həssaslıq və ssenari təhlillərində bir neçə şiddət səviyyələri nəzərə alınmalıdır.
+7.5. Ssenarilərdə ümumi iqtisadiyyata, maliyyə sektoruna və ya banka xas
+dəyişikliklər nəzərə alına bilər.
+8. Əsas risk növləri üzrə stres-testlərə dair tələblər
+8.1. Bank azı likvidlik riski, kredit riski, bazar riski və əməliyyat riski üzrə stres-
+testlər həyata keçirir. Hər bir risk növü üzrə şoklar bu Qaydaya 2 nömrəli Əlavədə
+göstərilmişdir.
+8.2. Likvidlik riski üzrə stres-testdə istifadə olunan ssenarilər banka və onun
+fəaliyyətinin xüsusiyyətlərinə (bank əməliyyatlarının və məhsullarının növünə, cəlb
+edilmiş vəsaitlərin mənbələrinə) aid olan, bazarda cari və proqnozlaşdırılan vəziyyətlə
+bağlı şoklara əsaslanmalıdır. Bank likvidlik riskinin stres-testini həyata keçirərkən kredit,
+bazar, əməliyyat və digər risklər üzrə stres-testlərin nəticələrini nəzərə almalıdır.
+8.3. Kredit riski üzrə stres-testdə istifadə olunan ssenarilər bankın kredit portfelinin
+xüsusiyyətlərinə aid olan, bazarda cari və proqnozlaşdırılan vəziyyətlə bağlı fərziyyələrə
+əsaslanmalıdır. Kredit riski üzrə stres-testlərdə iri kreditlərin təminatı qismində çıxış
+edən qiymətli kağızların dəyərinə mənfi təsir edə biləcək hadisələr (emitentin investisiya
+reytinqinin düşməsi, bazarda likvidlik çatışmazlığı) üzrə fərziyyələr də əhatə
+olunmalıdır.
+8.4. Bank fəaliyyətinin xüsusiyyətinə və əməliyyatlarının həcminə uyğun olaraq
+əməliyyat risklərinin stres-testini həyata keçirməlidir.
+8.5. Əməliyyat riski üzrə stres-testlərdə makroiqtisadi əlaqələr də nəzərə
+alınmalıdır (məsələn, iqtisadi böhran dövründə bankdaxili dələduzluq hadisələrinin
+artması halları).
+8.6. Bazar riski üzrə stres-test ssenariləri bazarda və bazardankənar risk
+amillərindəki dəyişikliklərin təsirini nəzərə almalı və bankın bazar riskinin
+komponentlərinə olan həssaslığına uyğun şəkildə formalaşdırılmalıdır. Bu ssenarilər faiz
+dərəcələri, valyuta məzənnələri, qiymətli kağızların və əmtəələrin dəyərindəki cari və
+--- page 8 ---
+proqnozlaşdırılan dəyişikliklərə dair fərziyyələrə əsaslanmalıdır. Risk amilləri qiymət,
+məzənnə və faiz dərəcələrinin dəyişkənliyini, volatillik və bazar likvidliyini, stres
+şəraitində bazar şərtlərinin tarixi korrelyasiyası və ehtimallarını, eləcə də bankın ən pis
+ssenarilərə, o cümlədən iri bazar iştirakçılarının iflası və maksimum pul axınları
+ehtimalına qarşı həssaslığını əhatə etməlidir.
+9. “Bottom-up” stres-testlərə dair tələblər
+9.1. “Bottom-up” stres-testlərin həyata keçirilməsi məqsədilə Mərkəzi Bank
+tərəfindən bu Qaydaya 3 nömrəli Əlavədə göstərilmiş makroiqtisadi göstəricilər üzrə
+proqnozlar hazırlanaraq illik stres-testlər üçün dekabr ayının 30-dək, yarımillik stres-
+testlər üçün isə iyun ayının 30-dək banklara təqdim olunur.
+9.2. “Bottom-up” stres-testlər sistem əhəmiyyətli banklar tərəfindən yarımillik və
+illik əsasda, digər banklar tərəfindən isə illik əsasda həyata keçirilir.
+9.3. Bank tərəfindən illik əsasda tərtib edilmiş stres-testlərin nəticələri və tədbirlər
+planı Müşahidə Şurası tərəfindən təsdiq edilir və makroiqtisadi göstəricilər üzrə
+proqnozlar Mərkəzi Bank tərəfindən təqdim edildikdən sonra 45 (qırx beş) təqvim günü
+ərzində Mərkəzi Banka təqdim edilir. Əgər tədbirlər planında kapital mövqeyinin
+artırılması nəzərdə tutulursa, tədbirlər planında artımın formaları, üsulları (kapitalın
+hibrid elementlərinin emissiyası, səhmdar kapitalının artırılması, səhmdarlar tərəfindən
+əlavə payın alınması, risk dərəcəsi üzrə ölçülmüş aktivlərin optimallaşdırılması və s.) və
+onların prioritetliliyi barədə də məlumat göstərilir.
+9.4. Sistem əhəmiyyətli bank tərəfindən yarımillik əsasda tərtib edilmiş stres-
+testlərin nəticələri və tədbirlər planı Riskləri İdarəetmə Komitəsi tərəfindən təsdiq edilir
+və makroiqtisadi göstəricilər üzrə proqnozlar Mərkəzi Bank tərəfindən təqdim
+edildikdən sonra 45 (qırx beş) təqvim günü ərzində Mərkəzi Banka təqdim edilir.
+9.5. Banklar “bottom-up” stres-test modellərinə Mərkəzi Bank tərəfindən təqdim
+olunan makroiqtisadi proqnozlardan əlavə digər makroiqtisadi göstəricilər üzrə
+proqnozları da daxili edə bilərlər. Bu halda digər makroiqtisadi göstəricilər üzrə
+proqnozlar stres-test ssenarisinin şiddətinə uyğun olmalıdır.
+9.6. “Bottom-up” stres-testlərdə aşağıdakılara yol verilmir:
+9.6.1. yumşaldıcı strateji qərarların tətbiqi (kredit portfelinin kiçildilməsi, tərkibinin
+dəyişdirilməsi ilə adekvatlıq əmsalının artırılması və s.);
+9.6.2. əlverişsiz ssenarilərdə baza (şok tətbiq edilməyən) ssenariyə münasibətdə
+yaxşılaşma halları;
+9.6.3. aktivlərin təsnifat kateqoriyasının və risk qrupunun yaxşılaşdırılması;
+9.6.4. gəlirlərin artması (qeyri-faiz xərclərinin proqnozunda nəzərə alınan inflyasiya
+səviyyəsinə uyğun artım istisna olmaqla);
+9.6.5. əlverişsiz ssenarilərdə proqnozlaşdırılan dövr üzrə qeyri-işlək kreditlər üzrə
+yaradılmış ehtiyatların qeyri-işlək kredit portfelinin 75%-dən az olması (bu hədd
+proqnozlaşdırılan dövr üzrə olan qeyri-işlək kredit portfelini təşkil edən həm yeni
+(proqnozlaşdırılan dövrdən əvvəl qeyri-işlək kredit statusunda olmayan), həm də köhnə
+(proqnozlaşdırılan dövrdən əvvəl qeyri-işlək kredit statusunda olan) kreditlər üzrə ayrı-
+ayrılıqda tətbiq edilir);
+--- page 9 ---
+9.6.6. maliyyələşmə mənbələri üzrə likvidlik şokunun tətbiqi.
+9.7. “Bottom-up” stres-testlər aparıldıqda proqnozlarda dividendlər bankın strateji
+planında nəzərdə tutulmuş həcmdə və ya son 3 (üç) mənfəətli ilin orta dividend əmsalı
+ilə nəzərə alınmalıdır.
+9.8. Mərkəzi Bank tərəfindən “bottom-up” stres-testlərin nəticələri 30 (otuz) təqvim
+günü ərzində qiymətləndirilir. Qiymətləndirmə zamanı “bottom-up” stres-test nəticələri
+“top-down” stres-testlərin nəticələri ilə müqayisə olunur. Aparılan təhlil zamanı
+bankdan əlavə məlumat tələb edildikdə əldə olunan məlumatlar da nəzərə alınır.
+Aparılan təhlilin nəticəsində “bottom-up” stres-testlər bu Qaydanın tələblərinə uyğun
+olmadıqda bank “bottom-up” stres-testi yenidən həyata keçirir və nəticələrini ehtiyac
+yarandıqda tədbirlər planı ilə birlikdə 7 (yeddi) iş günü ərzində bu Qaydanın 9.3-cü və
+9.4-cü bəndlərinin tələblərinə uyğun olaraq təsdiqləməklə Mərkəzi Banka təqdim edir.
+9.9. “Bottom-up” stres-testinin nəticələri üzrə qiymətləndirmənin yekunları
+Mərkəzi Bank tərəfindən risk-əsaslı nəzarət prosesində və müvafiq nəzarət tədbirlərinin
+həyata keçirilməsində nəzərə alınır.
+--- page 10 ---
+“Banklarda stres-testlərin
+aparılması Qaydası”na
+Əlavə 1
+Stres-test modelinin qiymətləndirilməsi zamanı ünvanlana biləcək suallar
+1. Mərkəzi Bank tərəfindən təqdim olunan proqnozlardan başqa hansı makro
+proqnozlardan istifadə olunub?
+1.1. Bu ssenarilər nə üçün və necə seçilib?
+1.2. Bu seçim necə əsaslandırılır?
+2. Bu stres-testlər bankın üzləşdiyi əsas riskləri kifayət qədər əhatə edirmi?
+2.1. Stres-test kredit və likvidlik riskini necə əks etdirir?
+2.2. Daha qranular data/testlərdən istifadə düşünülübmü, müzakirə olunubmu?
+2.3. Hansı digər testlərin keçirilməsi düşünülüb və niyə keçirilməyib?
+3. İstifadə olunmuş ssenarilər nə dərəcədə sərt və mümkündür?
+3.1. Ssenarinin sərtliyi necə seçilib?
+3.2. Ssenarinin müddəti necə seçilib?
+3.3. Tərs stres-testlərdən istifadə olunubmu?
+4. Bank dinamik, yoxsa statik balans fərziyyəsinə əsaslanıb?
+4.1. Nə üçün bu seçim edilib?
+4.2. Stres-test keçirmək üçün əsas məqsəd nə olub?
+4.3. Nəticələr hansı istiqamətdə təhlil və istifadə olunacaqdır?
+5. İstifadə olunan modellər nə üçün seçilib?
+5.1. Digər modellər nəzərdən keçirilibmi?
+5.2. Hansı əhəmiyyətlilik göstəricilərinə əsaslanıb?
+5.3. Modellərlə bağlı hansı risklər nəzərdə saxlanılır?
+5.4. Həssaslıq testləri üzrə hazırkı modellər/yanaşmalar nə üçün seçilib?
+5.5. Ssenarilər tarixi, yoxsa hipotetik hadisələrə əsaslanır?
+6. Stres-testin keçirilməsi zamanı hansı fərziyyə və ekspert mülahizələrindən
+istifadə edilib?
+6.1. Bank bu halları necə müəyyən edib və qiymətləndirir?
+6.2. İdarə Heyəti və Riskləri İdarəetmə Komitəsi bu tip hallardan nə dərəcədə
+məlumatlıdır və onlarla müzakirə edilibmi?
+7. Bankda stres-testlərin keçirilməsi üçün yetərli data varmı?
+7.1. İstifadə olunan datanın mənbəyi haradır?
+7.2. Data istifadədən öncə yoxlanılırmı?
+7.3. Datalar üzrə hansısa çatışmazlıqlar varmı və aradan qaldırılması üçün nə
+edilib?
+8. Stres-testlərdə ikinci təsir dalğası, risklər arasında əlaqələr necə nəzərə alınıb?
+8.1. Risklər arasında hansı əlaqələr stres-testdə əks olunub?
+8.2. Hansı əlaqələr əks edilməyib və nə üçün bu seçim edilib?
+8.3. Digər risklərin likvidlik risklərinə təsiri qiymətlənidirilibmi?
+9. Stres-testlər requlyativ tələbdən daha sıx tezliklə keçirilirmi?
+--- page 11 ---
+10. Stres-test proqramı sənədləşdirilibmi və bu Qaydanın tələbləri ilə uyğunluq
+təşkil edirmi?
+11. Stres-testlərin keçirilməsi üçün məsuliyyət və iş bölgüsü aparılıbmı?
+11.1. Digər struktur bölmələr nə dərəcədə prosesdə iştirak edirlər?
+11.2. Əgər vahid struktur tərəfindən hazırlanırsa, digər struktur bölmələr nə
+dərəcədə məlumatlandırılır?
+11.3. Əgər fərqli struktur vahidlər stres-testin hazırlanmasında iştirak edirlərsə,
+sonda necə koordinasiya olunur və birləşdirilir?
+12. İdarə Heyəti stres-testlərin modellərindən nə dərəcədə məlumatlıdır?
+12.1. Ən son nə zaman müzakirə aparılıb?
+12.2. Hansı məsələlər müzakirə olunub?
+12.3. Nəticəsi necə olub və hansı müvafiq dəyişikliklər edilib?
+13. Daxili audit stres-testlərlə bağlı hansı yoxlamaları həyata keçirir və nə nəticələr
+əldə olunub?
+14. Bankda stres- testlərin aparılması üçün kifayət qədər resurs varmı?
+14.1. Bank öz əməkdaşlarının müvafiq bilik və bacarıqlara malik olmasını necə
+qiymətləndirir?
+14.2. Əməkdaşların təlim-tədris ehtiyacları ödənilirmi?
+14.3. Digər hansı resursların inkişaf etdirilməsinə ehtiyac var?
+14.4. Bank stres-testlərin aparılması üçün kənar şəxslərdən dəstək alırmı?
+14.5. Əgər alırsa kənar şəxsin bu istiqamətdə adekvat resurslara malik olmasını necə
+müəyyən edir?
+--- page 12 ---
+“Banklarda stres-testlərin
+aparılması Qaydası”na
+Əlavə 2
+Əsas risk növləri üzrə şoklar
+1. Likvidlik riski üzrə şoklar
+1.1. Likvidlik riski üzrə şoklar aşağıdakılardan ibarət ola bilər:
+1.1.1. bazarda likvid aktivlərin dəyərində dəyişikliklərin müşahidə olunması;
+1.1.2. müddətli öhdəliklərin sahibləri tərəfindən vəsaitlərin vaxtından əvvəl geri
+götürülməsi;
+1.1.3. cari və müxbir hesablarda vəsaitlərin azalması;
+1.1.4. bank üçün potensial risk yarada biləcək azı on ən iri depozitlərin geri
+çağırılması;
+1.1.5. banklar və digər maliyyə institutlarından alınmış vəsaitlərin vaxtından əvvəl
+geri çağırılması;
+1.1.6. maliyyələşmə mənbələrinə çıxış imkanlarının daralması;
+1.1.7. maliyyələşmə mənbələri arasında korrelyasiya artımı (şokun bütün
+maliyyələşmə mənbələrinə təsir etməsi) və ya maliyyələşmə mənbələrinin səmərəli
+şəkildə diversifikasiya olmaması;
+1.1.8. kredit xətləri üzrə müqavilə şərtlərinin pozulması (borc vermək vədindən
+əsassız imtina edilməsi, nəzərdə tutulmuş vəsaitlərin tam həcmdə və ya vaxtında
+ayrılmaması);
+1.1.9. Mərkəzin Bankın resurslarına çıxış imkanının məhdudlaşması;
+1.1.10. balansdankənar öhdəliklərin icrası (məsələn, iri məbləğli qarantiyaların
+icrası);
+1.1.11. Mərkəzi Bank tərəfindən məcburi ehtiyat normasının və ya likvidlik
+normativlərinə təsir edən requlyativ tələblərin dəyişdirilməsi;
+1.1.12. bankda likvid aktivlərin həcminin azalması;
+1.1.13. cəlb olunmuş vəsaitlər üzrə əlavə təminat tələbinin yaranması;
+1.1.14. balansın qeyri-sağlam artım ehtimalı;
+1.1.15. müştərilərin depozitlərinin valyutasının dəyişdirilməsi;
+1.1.16. xarici valyuta bazarına çıxış imkanlarının daralması;
+1.1.17. valyuta məzənnəsinin kəskin dəyişməsi;
+1.1.18. bankın beynəlxalq reytinq agentlikləri tərəfindən verilmiş kredit reytinqinin
+aşağı düşməsi;
+1.1.19. aktivlərin nağdlaşdırılması üzrə məhdudiyyətlər;
+1.1.20. kreditlərin vaxtında qaytarılmaması və ya gecikdirilməsi (kredit riski ilə
+əlaqədar yaranan likvidlik riski);
+1.1.21. faiz dərəcəsinin dəyişməsi;
+1.1.22. inflyasiya dərəcəsinin dəyişməsi.
+2. Kredit riski üzrə şoklar
+--- page 13 ---
+2.1. Kredit riski üzrə şoklar aşağıdakılardan ibarət ola bilər:
+2.1.1. iqtisadi şəraitin və ya ayrılıqda iqtisadi sektorların vəziyyətinin əlverişsiz
+dəyişməsi;
+2.1.2. təminatın dəyərinin azalması;
+2.1.3. faiz dərəcələrinin dəyişməsi;
+2.1.4. valyuta məzənnəsinin dəyişməsi;
+2.1.5. fors-major hallarının baş verməsi;
+2.1.6. müştərilərin ödəmə qabiliyyətini itirməsi (qeyri-işlək kreditlərin artması);
+2.1.7. azı on ən iri borcalanların iflası;
+2.1.8. qanunvericilikdə əlverişsiz dəyişikliklərin edilməsi.
+3. Əməliyyat riski üzrə şoklar
+Əməliyyat riski üzrə stres-testdə Mərkəzi Bankın İdarə Heyətinin 2025-ci il 28
+yanvar tarixli 04/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda əməliyyat risklərinin
+idarə edilməsi Qaydası”na Əlavə 3-də əks olunmuş risk hadisələri üzrə şoklardan
+istifadə edilə bilər.
+4. Bazar riski üzrə stres-test şokları
+Bazar riskinin stres-testində bankın I dərəcəli kapitalının 1%-dən çox həcmə malik
+olan ədalətli dəyərdə tanınan qiymətli kağızları üzrə şoklar (məsələn, bazar
+qiymətlərindəki gözlənilməz dəyişikliklər, likvidlik çatışmazlığı, böyük bazar
+iştirakçılarının iflası və s.) modelə daxil edilir. Fərqli bazarlar arasında qarşılıqlı əlaqə və
+bununla əlaqədar olaraq artan korrelasiyalar da hesablamalarda nəzərə alınır.
+--- page 14 ---
+“Banklarda stres-testlərin
+aparılması Qaydası”na
+Əlavə 3
+Mərkəzi Bank tərəfindən banklara təqdim edilən proqnozlarda istifadə edilən
+makroiqtisadi göstəricilər
+1. Mərkəzi Bank tərəfindən təqdim edilən proqnozlar aşağıdakı əsas iqtisadi
+göstəriciləri əhatə edə bilər:
+1.1. Ümumi Daxili Məhsul və qeyri-neft Ümumi Daxili Məhsulda dəyişiklik;
+1.2. Neftin qiyməti;
+1.3. İnflyasiya;
+1.4. Real effektiv məzənnə və Nominal effektiv məzənnə;
+1.5. Uçot faiz dərəcəsi;
+1.6. İşsizlik;
+1.7. Əmlak qiymətləri;
+1.8. Büdcə xərcləri və onun komponentləri;
+1.9. Banklararası Təminatsız Pul Bazarında İstinad Faiz Dərəcəsi (AZİR);
+1.10. Valyuta məzənnələri və digər makroiqtisadi faktorlar;
+1.11. Digər zəruri hesab edilmiş göstəricilər.
+2. Mərkəzi Bankın makroiqtisadi proqnozları azı növbəti ilin sonunadək olan dövrü
+əhatə edir və azı iki fərqli ssenari üzrə qurulur.
+3. Banklara təqdim edilən proqnozlar Mərkəzi Bankın növbəti dövrlər üzrə monetar
+siyasəti və (və ya) proqnozu kimi qəbul edilməməlidir.
+--- page 15 ---
+“Təsdiq edilmişdir”
+Azərbaycan Respublikasının
+Mərkəzi Bankı
+Qərar № 06/05
+16 fevral 2026-cı il
+Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2023-cü il 28 avqust
+tarixli 41/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda korporativ idarəetmə
+Standartları”nda dəyişikliklər
+Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2023-cü il 28 avqust
+tarixli 41/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda korporativ idarəetmə
+Standartları”nda aşağıdakı dəyişikliklər edilsin:
+1. mətn üzrə ismin müvafiq hallarında “stress-test” sözü ismin müvafiq hallarında
+“stres-test” sözü ilə əvəz edilsin;
+2. 9.2.8-ci yarımbəndin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin
+və aşağıdakı məzmunda 9.2.9-cu və 9.2.10-cu yarımbəndlər əlavə edilsin:
+“9.2.9. illik əsasda tərtib edilmiş stres-testlər istisna olmaqla, yarımillik və digər
+dövrilikdə tərtib edilmiş stres-testlərin nəticələrini və tədbirlər planını təsdiq edir;
+9.2.10. illik əsasda tərtib edilmiş stres-testlərin nəticələrinə və tədbirlər planına
+baxır və təsdiq olunmaq üçün Müşahidə Şurasına təqdim edir.”;
+3. 14.7-ci bənd aşağıdakı redaksiyada verilsin:
+“14.7. Hər bir bankda onun risk profilinə mənfi təsir edə biləcək hadisələrin
+müəyyən edilməsi və qiymətləndirilməsi üçün bankın həcmindən və onun fəaliyyətinin
+mürəkkəbliyindən asılı olaraq stres-test modelləri hazırlanır. Stres-testlər Mərkəzi
+Bankın İdarə Heyətinin 2026-cı il 16 fevral tarixli 06/05 nömrəli Qərarı ilə təsdiq edilmiş
+“Banklarda stres-testlərin aparılması Qaydası”nın tələblərinə uyğun olaraq həyata
+keçirilməlidir.”.
+--- page 16 ---
+“Təsdiq edilmişdir”
+Azərbaycan Respublikasının
+Mərkəzi Bankı
+Qərar № 06/05
+16 fevral 2026-cı il
+Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2023-cü il 21 sentyabr
+tarixli 46/4 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda kredit risklərinin idarə
+edilməsi Qaydası”nda dəyişikliklər
+Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2023-cü il 21 sentyabr
+tarixli 46/4 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda kredit risklərinin idarə edilməsi
+Qaydası”nda aşağıdakı dəyişikliklər edilsin:
+1. 2.1.6-cı yarımbəndin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin
+və aşağıdakı məzmunda 2.1.7-ci yarımbənd əlavə edilsin:
+“2.1.7. stres-test – bir və ya bir neçə şokun bankın maliyyə vəziyyətinə potensial
+təsirinin qiymətləndirilməsi aləti.”;
+2. mətn üzrə ismin müvafiq hallarında “Stress-test” və “stress-test” sözləri ismin
+müvafiq hallarında “Stres-test” və “stres-test” sözləri ilə əvəz edilsin;
+3. 13.2-ci bənd aşağıdakı redaksiyada verilsin:
+“13.2. Stres-testlər Mərkəzi Bankın İdarə Heyətinin 2026-cı il 16 fevral tarixli 06/05
+nömrəli Qərarı ilə təsdiq edilmiş “Banklarda stres-testlərin aparılması Qaydası”nın
+tələblərinə uyğun olaraq həyata keçirilməlidir.”;
+4. 13.3-13.7-ci bəndlər ləğv edilsin.
+--- page 17 ---
+“Təsdiq edilmişdir”
+Azərbaycan Respublikasının
+Mərkəzi Bankı
+Qərar № 06/05
+16 fevral 2026-cı il
+Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2023-cü il 18 oktyabr
+tarixli 49/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda likvidlik riskinin idarə
+edilməsi Qaydası”nda dəyişikliklər
+Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2023-cü il 18 oktyabr
+tarixli 49/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda likvidlik riskinin idarə edilməsi
+Qaydası”nda aşağıdakı dəyişikliklər edilsin:
+1. 1.2-ci bənd aşağıdakı redaksiyada verilsin:
+“1.2. Banklarda likvidlik riskinin idarə edilməsinin təşkilati strukturu, o cümlədən
+likvidlik riskinin idarə edilməsinə dair bu Qayda ilə müəyyən edilməyən digər
+məsələlər Azərbaycan Respublikası Mərkəzi Bankının (bundan sonra – Mərkəzi Bank)
+İdarə Heyətinin 2023-cü il 28 avqust tarixli 41/1 nömrəli Qərarı ilə təsdiq edilmiş
+“Banklarda korporativ idarəetmə Standartları” ilə tənzimlənir.”;
+2. 2.1.8-ci yarımbəndin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin
+və aşağıdakı məzmunda 2.1.9-cu yarımbənd əlavə edilsin:
+“2.1.9. stres-test – bir və ya bir neçə şokun bankın maliyyə vəziyyətinə potensial
+təsirinin qiymətləndirilməsi aləti.”;
+3. 2.2-ci bənddə “Banklarda açıq valyuta mövqeyinin limitlərinin müəyyən
+edilməsi Qaydaları”nda, “risklərin idarə edilməsi”, “risk iştahası”, “risk limiti”, “risk
+profili”, “riskgötürmə qabiliyyəti”, “risk iştahası bəyannaməsi”, “stress-test”, “bank
+məhsulu” anlayışları “Banklarda korporativ idarəetmə Standartları”nda” sözləri
+“Mərkəzi Bankın İdarə Heyətinin 2025-ci il 23 dekabr tarixli 45/1 nömrəli Qərarı ilə
+təsdiq edilmiş “Banklarda açıq valyuta mövqeyi limitlərinin müəyyən edilməsi
+Qaydası”nda, “risklərin idarə edilməsi”, “risk iştahası”, “risk limiti”, “risk profili”,
+“riskgötürmə qabiliyyəti”, “risk iştahası bəyannaməsi”, “bank məhsulu” anlayışları
+Mərkəzi Bankın İdarə Heyətinin 2023-cü il 28 avqust tarixli 41/1 nömrəli Qərarı ilə
+təsdiq edilmiş “Banklarda korporativ idarəetmə Standartları”nda” sözləri ilə əvəz
+edilsin;
+4. 5.3-cü bənddə “stress-testlər” sözü “stres-testlər” sözü ilə əvəz edilsin;
+5. 5.7-ci bənd aşağıdakı redaksiyada verilsin:
+“5.7. Stres-testlər bankın stres şəraitində potensial likvidlik riskinin mənbələrini
+müəyyənləşdirmək, likvidlik mövqeyinin likvidlik risk iştahasına uyğunluğunu
+qiymətləndirmək, ehtimal olunan likvidlik tələbini ölçmək, habelə pul axınlarına, qısa
+və uzun müddətli likvidlik mövqeyinə, mənfəətliyə ehtimal olunan neqativ təsirləri
+qiymətləndirmək üçün Mərkəzi Bankın İdarə Heyətinin 2026-cı il 16 fevral tarixli 06/05
+nömrəli Qərarı ilə təsdiq edilmiş “Banklarda stres-testlərin aparılması Qaydası”nın
+tələblərinə uyğun həyata keçirilməlidir.”;
+6. 8-ci hissə ləğv edilsin;
+--- page 18 ---
+7. 9.2-ci bənddə və 10.4.2-ci yarımbənddə “stress” sözü “stres” sözü ilə əvəz
+edilsin.
+--- page 19 ---
+“Təsdiq edilmişdir”
+Azərbaycan Respublikasının
+Mərkəzi Bankı
+Qərar № 06/05
+16 fevral 2026-cı il
+Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2025-ci il 28 yanvar
+tarixli 04/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda əməliyyat risklərinin idarə
+edilməsi Qaydası”nda dəyişikliklər
+Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2025-ci il 28 yanvar
+tarixli 04/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda əməliyyat risklərinin idarə
+edilməsi Qaydası”nın 8.3-cü bəndinə aşağıdakı məzmunda ikinci cümlə əlavə edilsin:
+“Stres-testlər Mərkəzi Bankın İdarə Heyətinin 2026-cı il 16 fevral tarixli 06/05
+nömrəli Qərarı ilə təsdiq edilmiş “Banklarda stres-testlərin aparılması Qaydası”nın
+tələblərinə uyğun olaraq həyata keçirilməlidir.”.
+--- page 20 ---
+“Təsdiq edilmişdir”
+Azərbaycan Respublikasının
+Mərkəzi Bankı
+Qərar № 06/05
+16 fevral 2026-cı il
+Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2025-ci il 23 dekabr
+tarixli 45/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda bazar risklərinin idarə
+edilməsi Qaydası”nda dəyişikliklər
+Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2025-ci il 23 dekabr
+tarixli 45/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda bazar risklərinin idarə edilməsi
+Qaydası”nda aşağıdakı dəyişikliklər edilsin:
+1. mətn üzrə ismin müvafiq hallarında “stress-test” sözü ismin müvafiq hallarında
+“stres-test” sözü ilə əvəz edilsin;
+2. 5.3-cü bəndə aşağıdakı məzmunda ikinci cümlə əlavə edilsin:
+“Stres-testlər Mərkəzi Bankın İdarə Heyətinin 2026-cı il 16 fevral tarixli 06/05
+nömrəli Qərarı ilə təsdiq edilmiş “Banklarda stres-testlərin aparılması Qaydası”nın
+tələblərinə uyğun olaraq həyata keçirilməlidir.”.
+
+=== tables_0.txt ===
+--- page 1 table 1 ---
+ | nın təsdiq edilməsi və Azərbaycan
+Respublikası Mərkəzi Bankının İdarə Heyətinin 2023-cü il 28 avqust tarixli 41/1 | 
+--- page 1 table 2 ---
+ | “Banklarda kredit risklərinin idarə edilməsi Qaydası”nda, 2023-cü il 18 oktyabr
+ | arixli 49/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda likvidlik riskinin idarə
+ | edilməsi Qaydası”nda, 2025-ci il 28 yanvar tarixli 04/1 nömrəli Qərarı ilə təsdiq
+edilmiş “Banklarda əməliyyat risklərinin idarə edilməsi Qaydası”nda, 2025-ci il 2 | 
+dekabr tarixli 45/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda bazar risklərini | 
+--- page 1 table 3 ---
+ | “Azərbaycan Respublikasının Mərkəzi Bankı haqqında” Azərbaycan Respublikası |  |  |  |  |  |  |  |  | 
+Qanununun 22.1.17-ci maddəsinə əsasən Azərbaycan Respublikası Mərkəzi Bankının |  |  |  |  |  |  |  |  |  | 
+İdarə Heyəti |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  | 
+ |  |  |  | QƏRARA ALIR: |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  | 
+ | 1. “Banklarda stres-testlərin aparılması Qaydası” təsdiq edilsin (əlavə olunur). |  |  |  |  |  |  |  |  | 
+ | 2. Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2023-cü il 28 avqust |  |  |  |  |  |  |  |  | 
+tarixli 41/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda korporativ idarəetmə |  |  |  |  |  |  |  |  |  | 
+Standartları”nda dəyişikliklər təsdiq edilsin (əlavə olunur). |  |  |  |  |  |  |  |  |  | 
+ | 3. Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2023-cü il 21 |  |  |  |  |  |  |  |  | 
+sentyabr tarixli 46/4 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda kredit risklərinin |  |  |  |  |  |  |  |  |  | 
+idarə edilməsi Qaydası”nda dəyişikliklər təsdiq edilsin (əlavə olunur). |  |  |  |  |  |  |  |  |  | 
+ | 4. Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2023-cü il 18 |  |  |  |  |  |  |  |  | 
+oktyabr tarixli 49/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda likvidlik riskinin idarə |  |  |  |  |  |  |  |  |  | 
+edilməsi Qaydası”nda dəyişikliklər təsdiq edilsin (əlavə olunur). |  |  |  |  |  |  |  |  |  | 
+ | 5. Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2025-ci il 28 yanvar |  |  |  |  |  |  |  |  | 
+tarixli 04/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda əməliyyat risklərinin idarə |  |  |  |  |  |  |  |  |  | 
+edilməsi Qaydası”nda dəyişikliklər təsdiq edilsin (əlavə olunur). |  |  |  |  |  |  |  |  |  | 
+ | 6. Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2025-ci il 23 dekabr |  |  |  |  |  |  |  |  | 
+tarixli 45/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda bazar risklərinin idarə edilməsi |  |  |  |  |  |  |  |  |  | 
+Qaydası”nda dəyişikliklər təsdiq edilsin (əlavə olunur). |  |  |  |  |  |  |  |  |  | 
+ | 7. Bu Qərarın 1-6-cı hissələri bu Qərar dərc edildiyi gündən 1 (bir) ay sonra |  |  |  |  |  |  |  |  | 
+qüvvəyə minsin. |  |  |  |  |  |  |  |  |  | 
+ | 8. Maliyyə bazarlarının hüquqi təminatı departamentinə tapşırılsın ki, bu Qərarın |  |  |  |  |  |  |  |  | 
+3 gün müddətində Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestrinə |  |  |  |  |  |  |  |  |  | 
+--- page 2 table 1 ---
+daxil edilməsi üçün Azərbaycan Respublikasının Ədliyyə Nazirliyinə təqdim |  |  | 
+edilməsini təmin etsin. |  |  | 
+ |  |  | 
+ | Mərkəzi Bankın sədri Taleh Kazımov |  | 
+ |  |  | 
+--- page 15 table 1 ---
+1. mətn üzrə ismin müvafiq hallarında “stress-test” sözü ismin müvafiq hallarında
+“stres-test” sözü ilə əvəz edilsin;
+2. 9.2.8-ci yarımbəndin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin
+və aşağıdakı məzmunda 9.2.9-cu və 9.2.10-cu yarımbəndlər əlavə edilsin:
+“9.2.9. illik əsasda tərtib edilmiş stres-testlər istisna olmaqla, yarımillik və digər
+dövrilikdə tərtib edilmiş stres-testlərin nəticələrini və tədbirlər planını təsdiq edir;
+9.2.10. illik əsasda tərtib edilmiş stres-testlərin nəticələrinə və tədbirlər planına
+baxır və təsdiq olunmaq üçün Müşahidə Şurasına təqdim edir.”;
+3. 14.7-ci bənd aşağıdakı redaksiyada verilsin:
+“14.7. Hər bir bankda onun risk profilinə mənfi təsir edə biləcək hadisələrin
+müəyyən edilməsi və qiymətləndirilməsi üçün bankın həcmindən və onun fəaliyyətinin
+mürəkkəbliyindən asılı olaraq stres-test modelləri hazırlanır. Stres-testlər Mərkəzi
+Bankın İdarə Heyətinin 2026-cı il 16 fevral tarixli 06/05 nömrəli Qərarı ilə təsdiq edilmiş
+“Banklarda stres-testlərin aparılması Qaydası”nın tələblərinə uyğun olaraq həyata
+keçirilməlidir.”.
+--- page 16 table 1 ---
+ |  | 
+Azərbaycan Respublikası Mərkəzi Bankının İdarə |  | Heyətinin 2023-cü il 21 sentyabr
+tarixli 46/4 nömrəli | Qərarı ilə təsdiq edilmiş “Banklarda kredit risklərinin idarə edilməsi | 
+Qaydası”nda aşağıdakı dəyişikliklər edilsin: |  | 
+1. 2.1.6-cı yarımbəndin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin |  | 
+və aşağıdakı məzmunda 2.1.7-ci yarımbənd əlavə edilsin: |  | 
+“2.1.7. stres-test – bir və ya bir neçə şokun bankın maliyyə vəziyyətinə potensial |  | 
+təsirinin qiymətləndirilməsi aləti.”; |  | 
+--- page 16 table 2 ---
+3. 13.2-ci bənd aşağıdakı redaksiyada verilsin:
+“13.2. Stres-testlər Mərkəzi Bankın İdarə Heyətinin 2026-cı il 16 fevral tarixli 06/05
+nömrəli Qərarı ilə təsdiq edilmiş “Banklarda stres-testlərin aparılması Qaydası”nın
+tələblərinə uyğun olaraq həyata keçirilməlidir.”;
+4. 13.3-13.7-ci bəndlər ləğv edilsin.
+--- page 17 table 1 ---
+ |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 2023-cü il 18 oktyabr |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | tarixli 49/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda likvidlik riskinin idarə |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  | edilməsi Qaydası”nda dəyişikliklər |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  | 
+Azərbaycan Respublikası Mərkəzi Bankının İdarə |  |  |  |  |  |  |  | Heyətinin 2023-cü il 18 oktyabr |  |  |  |  | 
+tarixli 49/1 nömrəli |  |  |  | Qərarı ilə təsdiq edilmiş “Banklarda likvidlik riskinin idarə edilməsi |  |  |  |  |  |  |  |  | 
+Qaydası”nda aşağıdakı dəyişikliklər edilsin: |  |  |  |  |  |  |  |  |  |  |  |  | 
+1. 1.2-ci bənd aşağıdakı redaksiyada verilsin: |  |  |  |  |  |  |  |  |  |  |  |  | 
+“1.2. Banklarda likvidlik riskinin idarə edilməsinin təşkilati strukturu, o cümlədən |  |  |  |  |  |  |  |  |  |  |  |  | 
+likvidlik riskinin idarə edilməsinə dair bu Qayda ilə müəyyən edilməyən digər |  |  |  |  |  |  |  |  |  |  |  |  | 
+məsələlər Azərbaycan Respublikası Mərkəzi Bankının (bundan sonra – Mərkəzi Bank) |  |  |  |  |  |  |  |  |  |  |  |  | 
+İdarə Heyətinin |  |  | 2023-cü il 28 avqust tarixli 41/1 nömrəli |  |  |  |  |  | Qərarı ilə təsdiq edilmiş |  |  |  | 
+“Banklarda korporativ idarəetmə Standartları” ilə tənzimlənir.”; |  |  |  |  |  |  |  |  |  |  |  |  | 
+2. 2.1.8-ci yarımbəndin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin |  |  |  |  |  |  |  |  |  |  |  |  | 
+və aşağıdakı məzmunda 2.1.9-cu yarımbənd əlavə edilsin: |  |  |  |  |  |  |  |  |  |  |  |  | 
+“2.1.9. stres-test – bir və ya bir neçə şokun bankın maliyyə vəziyyətinə potensial |  |  |  |  |  |  |  |  |  |  |  |  | 
+təsirinin qiymətləndirilməsi aləti.”; |  |  |  |  |  |  |  |  |  |  |  |  | 
+3. 2.2-ci bənddə “Banklarda açıq valyuta mövqeyinin limitlərinin müəyyən |  |  |  |  |  |  |  |  |  |  |  |  | 
+edilməsi Qaydaları”nda, “risklərin idarə edilməsi”, “risk iştahası”, “risk limiti”, “risk |  |  |  |  |  |  |  |  |  |  |  |  | 
+profili”, “riskgötürmə qabiliyyəti”, “risk iştahası bəyannaməsi”, “stress-test”, “bank |  |  |  |  |  |  |  |  |  |  |  |  | 
+məhsulu” anlayışları “Banklarda korporativ idarəetmə Standartları”nda” sözləri |  |  |  |  |  |  |  |  |  |  |  |  | 
+“Mərkəzi Bankın İdarə Heyətinin |  |  |  |  |  |  | 2025-ci il 23 dekabr tarixli 45/1 nömrəli |  |  |  | Qərarı ilə |  | 
+təsdiq edilmiş “Banklarda açıq valyuta mövqeyi limitlərinin müəyyən edilməsi |  |  |  |  |  |  |  |  |  |  |  |  | 
+Qaydası”nda, “risklərin idarə edilməsi”, “risk iştahası”, “risk limiti”, “risk profili”, |  |  |  |  |  |  |  |  |  |  |  |  | 
+“riskgötürmə qabiliyyəti”, “risk iştahası bəyannaməsi”, “bank məhsulu” anlayışları |  |  |  |  |  |  |  |  |  |  |  |  | 
+Mərkəzi Bankın İdarə Heyətinin |  |  |  |  |  | 2023-cü il 28 avqust tarixli 41/1 nömrəli |  |  |  |  | Qərarı ilə |  | 
+təsdiq edilmiş “Banklarda korporativ idarəetmə Standartları”nda” sözləri ilə əvəz |  |  |  |  |  |  |  |  |  |  |  |  | 
+edilsin; |  |  |  |  |  |  |  |  |  |  |  |  | 
+4. 5.3-cü bənddə “stress-testlər” sözü “stres-testlər” sözü ilə əvəz edilsin; |  |  |  |  |  |  |  |  |  |  |  |  | 
+5. 5.7-ci bənd aşağıdakı redaksiyada verilsin: |  |  |  |  |  |  |  |  |  |  |  |  | 
+“5.7. Stres-testlər bankın stres şəraitində potensial likvidlik riskinin mənbələrini |  |  |  |  |  |  |  |  |  |  |  |  | 
+müəyyənləşdirmək, likvidlik mövqeyinin likvidlik risk iştahasına uyğunluğunu |  |  |  |  |  |  |  |  |  |  |  |  | 
+qiymətləndirmək, ehtimal olunan likvidlik tələbini ölçmək, habelə pul axınlarına, qısa |  |  |  |  |  |  |  |  |  |  |  |  | 
+və uzun müddətli likvidlik mövqeyinə, mənfəətliyə ehtimal olunan neqativ təsirləri |  |  |  |  |  |  |  |  |  |  |  |  | 
+qiymətləndirmək üçün Mərkəzi Bankın İdarə Heyətinin 2026-cı il 16 fevral tarixli 06/05 |  |  |  |  |  |  |  |  |  |  |  |  | 
+nömrəli Qərarı ilə təsdiq edilmiş “Banklarda stres-testlərin aparılması Qaydası”nın |  |  |  |  |  |  |  |  |  |  |  |  | 
+tələblərinə uyğun həyata keçirilməlidir.”; |  |  |  |  |  |  |  |  |  |  |  |  | 
+6. 8-ci hissə ləğv edilsin; |  |  |  |  |  |  |  |  |  |  |  |  | 
+--- page 18 table 1 ---
+7. 9.2-ci bənddə və 10.4.2-ci yarımbənddə “stress” sözü “stres” sözü ilə əvəz
+edilsin.
+--- page 19 table 1 ---
+Azərbaycan Respublikası Mərkəzi Bankının İdarə |  | Heyətinin 2025-ci il 28 yanvar
+tarixli 04/1 nömrəli | Qərarı ilə təsdiq edilmiş “Banklarda əməliyyat risklərinin idarə | 
+edilməsi Qaydası”nın 8.3-cü bəndinə aşağıdakı məzmunda ikinci cümlə əlavə edilsin: |  | 
+“Stres-testlər Mərkəzi Bankın İdarə Heyətinin 2026-cı il 16 fevral tarixli 06/05 |  | 
+nömrəli Qərarı ilə təsdiq edilmiş “Banklarda stres-testlərin aparılması Qaydası”nın |  | 
+tələblərinə uyğun olaraq həyata keçirilməlidir.”. |  | 
+--- page 20 table 1 ---
+Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin |  | 2025-ci il 23 dekabr
+tarixli 45/1 nömrəli | Qərarı ilə təsdiq edilmiş “Banklarda bazar risklərinin idarə edilməsi | 
+Qaydası”nda aşağıdakı dəyişikliklər edilsin: |  | 
+1. mətn üzrə ismin müvafiq hallarında “stress-test” sözü ismin müvafiq hallarında |  | 
+“stres-test” sözü ilə əvəz edilsin; |  | 
+2. 5.3-cü bəndə aşağıdakı məzmunda ikinci cümlə əlavə edilsin: |  | 
+“Stres-testlər Mərkəzi Bankın İdarə Heyətinin 2026-cı il 16 fevral tarixli 06/05 |  | 
+nömrəli Qərarı ilə təsdiq edilmiş “Banklarda stres-testlərin aparılması Qaydası”nın |  | 
+tələblərinə uyğun olaraq həyata keçirilməlidir.”. |  | 

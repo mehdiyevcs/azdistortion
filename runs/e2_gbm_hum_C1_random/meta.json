@@ -1,0 +1,14 @@
+{
+ "run_id": "e2_gbm_hum_C1_random",
+ "system": "S0b_gbm_hum",
+ "condition": "C1",
+ "sample": "random",
+ "n": 2020,
+ "model_id": "sklearn:gbm",
+ "source_file": "runs/nonllm_random/predictions_tradml_hum.csv",
+ "source_sha256": "014897a89112bf94b0d157b2c6b9ded576863afea93974d655072127fd2dedbb",
+ "predictions_sha256": "0a0679f963a26297649baacc752aaae5e5051ece76cd28a309ea4a6eedc01a4a",
+ "cost": 0.0,
+ "finished": "2026-11-11 12:33:35",
+ "note": ""
+}

@@ -1,0 +1,43 @@
+{
+ "sources_sha256": "9c1f17b8100c1b95736a79a613f184b01da4649fe80af41d7cc22bd15bed3dff",
+ "common_code_sha256": "e2724df3eb247592ae9e649714ec64a75a8667a1d7f581aab8aff8373df1012d",
+ "producer": "sys_encoder.py",
+ "producer_sha256": "5871f694e346872fa46d12bb4e4579d679ac70a7b0d650c3d616e655d6aebadc",
+ "libraries": {
+  "torch": "2.15.0",
+  "transformers": "5.22.2",
+  "tokenizers": "0.23.3",
+  "scikit-learn": "1.9.1",
+  "numpy": "2.5.4",
+  "scipy": "1.18.1",
+  "sentencepiece": "0.2.3"
+ },
+ "folds_sha256": "37ee46b880978781f61c64f3f3c5757b225baf7f335bd4684e7b281aa701b717",
+ "inner_sha256": "66918b2e00c925225b29eb3b5491ed9010c4c8910939155a71ab29b30923a325",
+ "claims_sha256": "43beae9974a6482bab19944343c597da82f97049519b05451b7a4535d679aed7",
+ "edits_sha256": "b55c5f01283e0eaa094e09a85062b0ccc346de53c9bfa10352548e325a740e2e",
+ "label_set": [
+  "SUPPORTED",
+  "MISREPRESENTED",
+  "NOT_IN_SOURCE"
+ ],
+ "min_label_n": 10,
+ "inner_score": "human_weighted",
+ "train_on": "merged",
+ "dev": false,
+ "limit": 0,
+ "model": "allmalab/bert-base-aze",
+ "model_revision": "5fd824965138a261552fc5ca333e91f4fa45cc67",
+ "lr_grid": "1e-5,2e-5,3e-5",
+ "epochs": 3,
+ "batch": 16,
+ "micro_batch": 16,
+ "max_len": 512,
+ "top_k": 3,
+ "top_k_frozen": 3,
+ "max_steps": 0,
+ "select_seed": 1,
+ "outer_folds": "",
+ "device": "cuda",
+ "e5_sha256": "bd8fd663e1ab446befb02ff5cd67f8aeff96e6e4dd483837feee133b88a7f80c"
+}

@@ -1,0 +1,20 @@
+TITLE: Peşə əmək qabiliyyətinin itirilməsi dərəcəsi necə müəyyən olunacaq?
+DATE: 2026-05-22
+AUTHOR: None
+Nazirlər Kabinetinin 21 may 2026-cı il tarixli Qərarı ilə təsdiq edilmiş “İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində zərər çəkmiş sığorta olunanın peşə əmək qabiliyyətinin itirilməsi dərəcəsinin müəyyən edilməsi Qaydası” bu sahədə qabaqcıl beynəlxalq təcrübə və innovativ həllərin tətbiqi əsasında, vətəndaş yönümlü yeni və təkmil qiymətləndirmə mexanizminin tətbiqinə imkan verir.
+Qaydanın əsas özəlliyi ondadır ki, eyni xəstəlik və ya xəsarətə görə müxtəlif peşə sahiblərinə, müxtəlif yaş qruplarına fərqli peşə əmək qabiliyyətinin itirilməsi faizi təyin ediləcək ki, bu da qeyd edilən sahədə daha ədalətli yanaşmanı göstərir.
+İndiyədək bu sahədə qanunvericiliklə meyarlar mövcud deyildi. Peşə əmək qabiliyyətinin itirilməsi dərəcəsinin müəyyən edilməsi üçün işəgötürənin yazılı sorğusu ilə birlikdə istehsalat zədəsinin baş verməsini təsdiq edən akt və ya məhkəmənin qərarı, habelə Elmi-Tədqiqat Tibbi Profilaktika İnstitutunun sağlamlığın peşə ilə əlaqədar pozulmasını təsdiq edən tibbi sənədi kağız daşıyıcıda və ya elektron formada Əmək və Əhalinin Sosial Müdafiəsi Nazirliyinin tabeliyində Dövlət Tibbi-Sosial Ekspertiza və Reabilitasiya Agentliyinə təqdim edilirdi. Agentlik qiymətləndirmə apararaq, peşə əmək qabiliyyətinin itirilməsi dərəcəsini müəyyən edirdi.
+Bu proses “Əlilliyin qiymətləndirilməsi Qaydası”nın 2.10-cu bəndinə əsasən icra olunurdu. Yeni Qayda artıq bu prosedurun vahid normativ sənədlə tənzimlənməsinə və e-sistemlər üzərindən daha çevik və sistemli, şəffaf şəkildə həyata keçirilməsinə imkan verir.
+Bu Qaydaya əsasən, peşə əmək qabiliyyətinin itirilməsi dərəcəsinin qiymətləndirilməsi
+ orqanizmin funksiyalarının pozulmasının faiz göstəricisi və müddəti,
+ peşələrin (vəzifələrin) ağırlıq dərəcəsi,
+ orqanizmin funksiyalarının pozulması faizinin peşələr üzrə təzahür dərəcəsi
+ zərər çəkmiş sığorta olunanın yaşı nəzərə alınaraq həyata keçirəcəkdir.
+Yeni mexanizmə əsasən:
+• Peşə əmək qabiliyyətinin itirilməsi dərəcəsinin müəyyən edilməsi sığortalı və (və ya) sığortaçının “Əmək və Məşğulluq” altsistemində (ƏMAS), sığorta olunanın isə “e-sosial” internet portalında olan şəxsi kabineti vasitəsilə etdiyi müraciət (və ya məhkəmə qərarı) üzrə göndəriş (Forma 88) əsasında Dövlət Tibbi-Sosial Ekspertiza və Reabilitasiya Agentliyi tərəfindən həyata keçirilir;
+• Agentlik göndərişin “Əlillik” altsisteminə daxil olduğu tarixdən 10 iş günü müddətində qiymətləndirmənin aparılacağı tarix və yer barədə bu e-sistem üzərindən sığorta olunana, sığortalı və (və ya) sığortaçıya məlumat göndərir;
+• Qiymətləndirməni Agentliyin Tibbi-sosial ekspert komissiyası həyata keçirir və peşə əmək qabiliyyətinin itirilməsi dərəcəsinin müəyyənləşdirilməsi zamanı sığortalının və (və ya) sığortaçının səlahiyyətli nümayəndəsinin iştirakını təmin edir;
+• Peşə əmək qabiliyyətinin itirilməsi dərəcəsi ilkin olaraq müəyyən edilən zaman xəstəlik və ya zədə, habelə zədə ilə əlaqədar çatışmazlığın səbəb əlaqəsini təsdiq edən sənədlər əsasında və orqanizmin funksiyalarının pozulmasının faiz göstəricisi, müddəti, peşələrin ağırlıq dərəcəsi, orqanizmin funksiyalarının pozulması faizinin peşələr üzrə təzahür dərəcəsi, zərər çəkmiş sığortaolunanın yaşı nəzərə alınaraq qiymətləndirilmə aparılır.
+Qeyd edək ki, peşə əmək qabiliyyətinin itirilməsi dərəcəsi müddətli müəyyən olunduqda müddətin bitməsindən sonra xəstəlik, zədə və çatışmazlığın davam etməsi halında bu dərəcə təkrar qiymətləndiriləcək.
+Bu dərəcənin müəyyən edilməsinə əsas verən iki fərqli xəstəlik, zədə və çatışmazlıq olduqda, peşə əmək qabiliyyətinin itirilməsi dərəcəsi daha yüksək faizlə müəyyən olunacaq.
+Komissiya sığorta olunanın əlavə xərclərə (müalicəyə, əlavə qidalanmaya, dərman alınmasına, reabilitasiya vasitələrinə və s.) ehtiyacı olub-olmadığını da müəyyənləşdirəcək.

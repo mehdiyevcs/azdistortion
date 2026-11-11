@@ -1,0 +1,16 @@
+{
+ "ann_id": "DVX-4572",
+ "t1_files": [
+  "data/raw/announcements/DVX-4572/text_0.txt"
+ ],
+ "t2_files": [
+  "data/raw/announcements/DVX-4572-DEC/text_0.txt"
+ ],
+ "has_t2": 1,
+ "t2_status": "yes",
+ "t1_is_act": 1,
+ "sha256_T1": "f2dcc6491ea19d39e1d84d9de6ba941dabcb410bbb3e4194219be260943fb4a6",
+ "sha256_T2": "629c2783d62785ff48f9f4655242a9c88343c60db4a42e0e36e2dd19f1266293",
+ "chars_T1": 69461,
+ "chars_T2": 68606
+}

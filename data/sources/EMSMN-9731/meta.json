@@ -1,0 +1,14 @@
+{
+ "ann_id": "EMSMN-9731",
+ "t1_files": [
+  "data/raw/announcements/EMSMN-9731/text_0.txt"
+ ],
+ "t2_files": [],
+ "has_t2": 0,
+ "t2_status": "no",
+ "t1_is_act": 0,
+ "sha256_T1": "c0972d12662c095fdfc1d690d205c1ca72c8aaa4cec893a84db4bb241f51b32b",
+ "sha256_T2": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+ "chars_T1": 1113,
+ "chars_T2": 0
+}

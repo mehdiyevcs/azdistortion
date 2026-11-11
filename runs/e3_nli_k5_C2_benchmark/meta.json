@@ -1,0 +1,14 @@
+{
+ "run_id": "e3_nli_k5_C2_benchmark",
+ "system": "S1_nli_k5",
+ "condition": "C2",
+ "sample": "benchmark",
+ "n": 1573,
+ "model_id": "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7",
+ "source_file": "runs/nonllm_benchmark/predictions_nli.csv",
+ "source_sha256": "474423584a988e6b72735dc965ec7e6138d1e7d1144d916a82dd9421abcd1104",
+ "predictions_sha256": "cc83555ed8be30527b0bc1788e12e3ed084cdb35ffce001de6c2a352b50f2c83",
+ "cost": 0.0,
+ "finished": "2026-11-11 12:33:35",
+ "note": "E3 evidence size k = 5"
+}

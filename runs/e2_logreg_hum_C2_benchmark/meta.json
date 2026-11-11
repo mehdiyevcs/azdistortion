@@ -1,0 +1,14 @@
+{
+ "run_id": "e2_logreg_hum_C2_benchmark",
+ "system": "S0b_logreg_hum",
+ "condition": "C2",
+ "sample": "benchmark",
+ "n": 1573,
+ "model_id": "sklearn:logreg",
+ "source_file": "runs/nonllm_benchmark/predictions_tradml_hum.csv",
+ "source_sha256": "5ea5eb19cca9ab1b293acb8e12603e673b2a521befa2520800b30a30ec0258ff",
+ "predictions_sha256": "22c13fcde52ecd49aa2241809af0aa1998001adf75cc437c4d12c5e8f2170660",
+ "cost": 0.0,
+ "finished": "2026-11-11 12:33:35",
+ "note": ""
+}

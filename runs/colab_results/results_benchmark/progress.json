@@ -1,0 +1,95 @@
+{
+ "priority_1": {
+  "status": "done",
+  "title": "XLM-R and AzBERT, C2, natural",
+  "started": "2026-11-10 19:06:21",
+  "failed_steps": [],
+  "seconds": 3509.3,
+  "finished": "2026-11-10 20:04:50"
+ },
+ "p1_xlmr_C2": {
+  "returncode": 0,
+  "seconds": 1966.5,
+  "finished": "2026-11-10 19:39:07"
+ },
+ "p1_azbert_C2": {
+  "returncode": 0,
+  "seconds": 1542.8,
+  "finished": "2026-11-10 20:04:50"
+ },
+ "priority_2": {
+  "status": "done",
+  "title": "mDeBERTa-v3, C2, natural",
+  "started": "2026-11-10 20:04:53",
+  "failed_steps": [],
+  "seconds": 1191.9,
+  "finished": "2026-11-10 20:24:45"
+ },
+ "p2_mdeberta_C2": {
+  "returncode": 0,
+  "seconds": 1191.9,
+  "finished": "2026-11-10 20:24:45"
+ },
+ "priority_3": {
+  "status": "done",
+  "title": "all three, C1, natural",
+  "started": "2026-11-10 20:24:47",
+  "failed_steps": [],
+  "seconds": 4747.1,
+  "finished": "2026-11-10 21:43:54"
+ },
+ "p3_xlmr_C1": {
+  "returncode": 0,
+  "seconds": 1958.2,
+  "finished": "2026-11-10 20:57:25"
+ },
+ "p3_azbert_C1": {
+  "returncode": 0,
+  "seconds": 1610.3,
+  "finished": "2026-11-10 21:24:16"
+ },
+ "p3_mdeberta_C1": {
+  "returncode": 0,
+  "seconds": 1178.6,
+  "finished": "2026-11-10 21:43:54"
+ },
+ "priority_4": {
+  "status": "skipped",
+  "reason": "the edit set is built on random-sample claims only (D14), so the benchmark has no edit variant"
+ },
+ "priority_5": {
+  "status": "skipped",
+  "reason": "benchmark sample runs C1 and C2 only (D9)"
+ },
+ "priority_6": {
+  "status": "done",
+  "title": "all three, C2, trained on human labels only (prereg 4a secondary variant, H7 _hum)",
+  "started": "2026-11-10 21:43:57",
+  "failed_steps": [],
+  "seconds": 734.3,
+  "finished": "2026-11-10 21:56:11"
+ },
+ "p6_xlmr_C2_hum": {
+  "returncode": 0,
+  "seconds": 293.1,
+  "finished": "2026-11-10 21:48:50"
+ },
+ "p6_azbert_C2_hum": {
+  "returncode": 0,
+  "seconds": 238.8,
+  "finished": "2026-11-10 21:52:49"
+ },
+ "p6_mdeberta_C2_hum": {
+  "returncode": 0,
+  "seconds": 202.5,
+  "finished": "2026-11-10 21:56:11"
+ },
+ "h7": {
+  "returncode": 0,
+  "finished": "2026-11-10 21:56:12"
+ },
+ "h7_hum": {
+  "returncode": 0,
+  "finished": "2026-11-10 21:56:12"
+ }
+}

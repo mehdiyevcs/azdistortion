@@ -1,0 +1,5 @@
+E4 selection rule, written 2026-11-09 before any E4 run (dev set, Haiku 5.5, C2, 155 pilot dev claims, gold = pilot/adjudication/gold_labels_v1.csv).
+
+Score: macro-F1 over the gold labels with >= 5 dev claims (SUPPORTED, NOT_IN_SOURCE, MISREPRESENTED); REFUSED and unparseable outputs are scored as SUPPORTED (prereg section 5) and counted.
+Choice: take the best macro-F1. Every variant within 0.02 of the best is "tied". Among tied variants choose the one with the lowest total dev cost; if costs differ by less than 10%, choose the higher accuracy; if still tied, choose the lower variant number (v1 = base).
+Dev scores are a sanity check only (the dev set was used to build the guidelines). Nothing is frozen by this test; the coordinator freezes after review.

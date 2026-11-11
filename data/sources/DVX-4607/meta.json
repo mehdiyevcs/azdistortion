@@ -1,0 +1,16 @@
+{
+ "ann_id": "DVX-4607",
+ "t1_files": [
+  "data/raw/announcements/DVX-4607/text_0.txt"
+ ],
+ "t2_files": [
+  "data/raw/announcements/DVX-4607-DEC/text_0.txt"
+ ],
+ "has_t2": 1,
+ "t2_status": "uncertain",
+ "t1_is_act": 0,
+ "sha256_T1": "fd8e80b9aa54e033338497b412bcc393f346f21676fa344cb350293a93263a6f",
+ "sha256_T2": "4fc6f9a7b0923a3bcb8613a70e540f5cea32c088193f1f5b0602d225c80f0b8d",
+ "chars_T1": 5149,
+ "chars_T2": 10352
+}

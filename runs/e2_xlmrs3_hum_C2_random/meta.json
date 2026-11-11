@@ -1,0 +1,14 @@
+{
+ "run_id": "e2_xlmrs3_hum_C2_random",
+ "system": "S2_xlmr_hum",
+ "condition": "C2",
+ "sample": "random",
+ "n": 2020,
+ "model_id": "FacebookAI/xlm-roberta-base",
+ "source_file": "runs/colab_returned_2026-11-11/results_random/predictions_enc_xlmr_hum.csv",
+ "source_sha256": "99780a39938d9a4df72120c60c962addd54e832fe4893b6ff4a7bf17f58ea9d6",
+ "predictions_sha256": "37e0b5dd97e9f07ac9ed31d973b70ad8d89260acff68a72cc967221387cb5b2e",
+ "cost": 0.0,
+ "finished": "2026-11-11 12:33:35",
+ "note": "E2 encoder, training seed 3 (mean and range over seeds 1-3 in the analysis)"
+}

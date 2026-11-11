@@ -1,0 +1,6 @@
+distortion_type,share_of_MIS,lo,hi,n_raw,n_raw_all_samples
+status,0.0,0.0,0.0,0,1
+scope,0.11124744330778141,0.0,1.0,7,13
+actor,0.0,0.0,0.0,0,1
+inference,0.5423312861254344,0.0,0.9411764705882353,4,6
+dropped_condition,0.3464212705667842,0.0,0.9054899248715785,2,4

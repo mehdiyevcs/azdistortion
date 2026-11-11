@@ -1,0 +1,11 @@
+{
+ "name": "random",
+ "mode": "final",
+ "core_sha256": "a69ea3c74ef024ca2fe7cb5b29c84c6463e10bf1e34a0aeae8904b971632a0b8",
+ "edits_sha256": "051b5b78d1dd39e9b3d8d9bf8952abd7369cb6a5a0b140c14fe923dcf7987d36",
+ "bundles": [
+  "e8b21bfc763c7254fe669aecd593b2e3666074dced2e0d7b7afbd6312ab71cee"
+ ],
+ "created": "2026-11-10 12:27:11",
+ "hardware": "NVIDIA L4 / CUDA 13.2"
+}

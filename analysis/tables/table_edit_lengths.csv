@@ -1,0 +1,6 @@
+type,edits_n,edits_median_words,natural_n,natural_median_words
+status,26,15.5,1,11.0
+scope,31,14.0,13,10.0
+actor,23,17.0,1,19.0
+inference,16,23.0,6,9.5
+dropped_condition,24,14.0,4,15.5

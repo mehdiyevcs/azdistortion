@@ -1,0 +1,121 @@
+claim_id,report_id,ann_id,part,sample,has_t2,claim_text
+R0067-C01,R0067,DVX-4551,headline,random,0,Daşınmaz əmlaka görə vətəndaşlara ƏDV qaytarılıb.
+R0067-C02,R0067,DVX-4551,lead,random,0,Azərbaycanda bina tikintisi ilə məşğul olan şəxslərdən nağdsız qaydada alınmış yaşayış və qeyri-yaşayış sahələrinə görə ödənilmiş ƏDV-nin bir hissəsi fiziki şəxs olan istehlakçılara geri qaytarılıb.
+R0067-C03,R0067,DVX-4551,body,random,0,Bu barədə “Qafqazinfo”ya Dövlət Vergi Xidmətindən məlumat verilib.
+R0067-C04,R0067,DVX-4551,body,random,0,"2025-ci il ərzində yaşayış və qeyri-yaşayış sahələrinin nağdsız qaydada alışı zamanı ödənilmiş ƏDV-nin müvəkkil banklar tərəfindən qaytarılmış həcmi 31 milyon 366,9 min manat təşkil edib."
+R0068-C01,R0068,DVX-4551,headline,random,0,Azərbaycanda nağdsız qaydada daşınmaz əmlak alanlara ötən il 31 milyon manatdan çox ƏDV geri qaytarılıb.
+R0068-C02,R0068,DVX-4551,body,random,0,"2025-ci ildə Azərbaycanda nağdsız qaydada daşınmaz əmlak alanlara 31 milyon 366,9 min manat əlavə dəyər vergisi (ƏDV) geri qaytarılıb."
+R0068-C03,R0068,DVX-4551,body,random,0,Məlumat İqtisadiyyat Nazirliyi yanında Dövlət Vergi Xidmətinə istinadən verilib.
+R0068-C04,R0068,DVX-4551,body,random,0,Azərbaycanda bina tikintisi ilə məşğul olan şəxslərdən nağdsız qaydada alınmış yaşayış və qeyri-yaşayış sahələrinə görə ödənilmiş ƏDV-nin bir hissəsinin fiziki şəxs olan istehlakçılara qaytarılması ilə bağlı layihə uğurla davam etdirilib.
+R0198-C01,R0198,DVX-4551,headline,random,0,2025-ci ildə mülk alanlara ƏDV qaytarılıb.
+R0198-C02,R0198,DVX-4551,headline,random,0,Mülk alanlara 31 milyon manatdan çox ƏDV qaytarılıb.
+R0198-C03,R0198,DVX-4551,lead,random,0,ƏDV nağdsız qaydada daşınmaz əmlak alanlara geri qaytarılıb.
+R0198-C04,R0198,DVX-4551,lead,random,0,2025-ci ildə Azərbaycanda nağdsız qaydada daşınmaz əmlak alanlara 31 milyon 366.9 min manat əlavə dəyər vergisi (ƏDV) geri qaytarılıb.
+R0198-C05,R0198,DVX-4551,body,random,0,Məlumat Dövlət Vergi Xidmətinə istinadən verilib.
+R0198-C06,R0198,DVX-4551,body,random,0,"Yaşayış və qeyri-yaşayış sahələrinin alınması zamanı ödənilmiş ƏDV-nin bir hissəsinin vətəndaşlara qaytarılması ilə bağlı ""ƏDV geri al"" layihəsi uğurla davam etdirilir."
+R0198-C07,R0198,DVX-4551,body,random,0,Layihə çərçivəsində Azərbaycan Respublikası ərazisində bina tikintisi ilə məşğul olan şəxslərdən nağdsız qaydada alınmış yaşayış və qeyri-yaşayış sahələrinə görə ödənilmiş ƏDV-nin bir hissəsi fiziki şəxs olan istehlakçılara geri ödənilir.
+R0199-C01,R0199,DVX-4551,headline,random,0,Yaşayış və qeyri-yaşayış sahələrinə görə ödənilmiş ƏDV-nin məbləği məlum olub.
+R0199-C02,R0199,DVX-4551,body,random,0,Yaşayış və qeyri-yaşayış sahələrinə görə ödənilmiş ƏDV-nin 31 mln. manatdan çoxu vətəndaşlara qaytarılıb.
+R0199-C03,R0199,DVX-4551,body,random,0,Məlumat İqtisadiyyat Nazirliyi yanında Dövlət Vergi Xidmətinə istinadən verilib.
+R0199-C04,R0199,DVX-4551,body,random,0,“ƏDV geri al” layihəsi uğurla davam etdirilir.
+R0199-C05,R0199,DVX-4551,body,random,0,"2025-ci il ərzində yaşayış və qeyri-yaşayış sahələrinin nağdsız qaydada alışı zamanı ödənilmiş ƏDV-nin müvəkkil banklar tərəfindən qaytarılmış həcmi 31 milyon 366,9 min manat təşkil edib."
+R0267-C01,R0267,EMSMN-9911,headline,random,0,İşdən qanunsuz çıxarılmış 69 nəfər əvvəlki işlərinə bərpa etdirilib.
+R0267-C02,R0267,EMSMN-9911,body,random,0,Azərbaycanda yanvar-sentyabr ayları ərzində işdən qanunsuz çıxarılmış 69 nəfər əvvəlki işlərinə bərpa etdirilib.
+R0267-C03,R0267,EMSMN-9911,body,random,0,Bu barədə Əmək və Əhalinin Sosial Müdafiəsi Nazirliyi məlumat yayıb.
+R0267-C04,R0267,EMSMN-9911,body,random,0,Nazirlik yanında Dövlət Əmək Müfəttişliyi Xidməti yanvar-sentyabr ayları ərzində işəgötürənlər tərəfindən sosial xarakterli ödənişlər olan 548 min 443 manat vəsaitin işçilərə ödənilməsinin gecikdirildiyini müəyyən edib.
+R0267-C05,R0267,EMSMN-9911,body,random,0,Görülən tədbirlər nəticəsində həmin vəsait işəgötürənlər tərəfindən işçilərə ödənilib.
+R0267-C06,R0267,EMSMN-9911,body,random,0,Bu vəsaitlərin 90 faizi əməkhaqqından ibarət olub.
+R0267-C07,R0267,EMSMN-9911,body,random,0,"Bu vəsaitlərin 10 faizi isə zərərə görə ödənc, müavinət və kompensasiyalardan ibarət olub."
+R0268-C01,R0268,EMSMN-9911,headline,random,0,"9 ayda gecikdirilmiş 548,4 min manat vəsaitin işçilərə ödənilməsi təmin olunub."
+R0268-C02,R0268,EMSMN-9911,body,random,0,Dövlət Əmək Müfəttişliyi Xidməti yanvar-sentyabr ayları ərzində işəgötürənlər tərəfindən sosial xarakterli ödənişlər olan 548443 manat vəsaitin işçilərə ödənilməsinin gecikdirildiyini müəyyən edib.
+R0268-C03,R0268,EMSMN-9911,body,random,0,Görülən tədbirlər nəticəsində həmin vəsait işəgötürənlər tərəfindən işçilərə ödənilib.
+R0268-C04,R0268,EMSMN-9911,body,random,0,Bu vəsaitlərin 90 faizi əməkhaqqı olub.
+R0268-C05,R0268,EMSMN-9911,body,random,0,"Bu vəsaitlərin 10 faizi isə zərərə görə ödənc, müavinət və kompensasiyalardan ibarət olub."
+R0268-C06,R0268,EMSMN-9911,body,random,0,Dövlət Əmək Müfəttişliyi Xidməti 69 işçinin əmək müqavilələrinə qanunvericiliyin tələbləri pozulmaqla xitam verildiyini də müəyyən edib.
+R0268-C07,R0268,EMSMN-9911,body,random,0,Xidmətin gördüyü tədbirlər nəticəsində həmin işçilər yenidən əvvəlki işlərinə bərpa olunublar.
+R0269-C01,R0269,EMSMN-9911,headline,random,0,Gecikdirilmiş 548 min manatdan çox vəsaitin işçilərə ödənilməsi təmin olunub.
+R0269-C02,R0269,EMSMN-9911,body,random,0,Dövlət Əmək Müfəttişliyi Xidməti yanvar-sentyabr ayları ərzində işəgötürənlər tərəfindən sosial xarakterli ödənişlər olan 548 min 443 manat vəsaitin işçilərə ödənilməsinin gecikdirildiyini müəyyən edib.
+R0269-C03,R0269,EMSMN-9911,body,random,0,Görülən tədbirlər nəticəsində həmin vəsait işəgötürənlər tərəfindən işçilərə ödənilib.
+R0269-C04,R0269,EMSMN-9911,body,random,0,Həmin vəsaitlərin 90 faizi əməkhaqqı olub.
+R0269-C05,R0269,EMSMN-9911,body,random,0,"Həmin vəsaitlərin 10 faizi isə zərərə görə ödənc, müavinət və kompensasiyalardan ibarət olub."
+R0269-C06,R0269,EMSMN-9911,body,random,0,Dövlət Əmək Müfəttişliyi Xidməti 69 işçinin əmək müqavilələrinə qanunvericiliyin tələbləri pozulmaqla xitam verildiyini də müəyyən edib.
+R0269-C07,R0269,EMSMN-9911,body,random,0,Xidmətin gördüyü tədbirlər nəticəsində həmin 69 işçi yenidən əvvəlki işlərinə bərpa olunublar.
+R0187-C01,R0187,DVX-4532,headline,random,1,İlham Əliyev bu qanuna dəyişiklikləri təsdiqlədi.
+R0187-C02,R0187,DVX-4532,lead,random,1,Prezident İlham Əliyev Milli Məclisin qəbul etdiyi Vergi Məcəlləsinə və 16 qanuna dəyişiklikləri təsdiqləyib.
+R0187-C03,R0187,DVX-4532,lead,random,1,Milli Məclis dəyişiklikləri dekabrın 9-da qəbul etmişdir.
+R0187-C04,R0187,DVX-4532,body,random,1,"Dəyişikliklər paketinin əsas istiqamətləri investisiya mühitinin və sahibkarlıq fəaliyyətinin təşviq edilməsi, sahibkarlıq subyektlərinin vergi yükünün azaldılması, vergi daxilolmalarının və büdcə gəlirlərinin tənzimlənməsi, vergi nəzarəti mexanizminin təkmilləşdirilməsi və kölgə iqtisadiyyatına qarşı mübarizədir."
+R0187-C05,R0187,DVX-4532,body,random,1,"""Sosial sığorta haqqında"" qanuna təklif edilən dəyişikliklər sahibkarların sosial sığorta yükünün optimallaşdırılması və Naxçıvan Muxtar Respublikasında ödənilən məcburi dövlət sosial sığorta haqlarının subsidiyalaşdırılmasını əhatə edir."
+R0188-C01,R0188,DVX-4532,headline,random,1,Prezident Vergi Məcəlləsinə və 16 qanuna dəyişiklikləri təsdiqləyib.
+R0188-C02,R0188,DVX-4532,lead,random,1,Milli Məclis dekabrın 9-da Vergi Məcəlləsinə və 16 qanuna dəyişiklikləri qəbul edib.
+R0188-C03,R0188,DVX-4532,body,random,1,"Dəyişikliklər ""Milli Məclis deputatının statusu haqqında"", ""Sosial sığorta haqqında"", ""Hərbi qulluqçuların dövlət icbari şəxsi sığortası haqqında"", ""Məhkəmə və hüquq mühafizə orqanları işçilərinin dövlət icbari şəxsi sığortası haqqında"", ""Tibbi sığorta haqqında"", ""Dövlət rüsumu haqqında"", ""Şəkərli diabet xəstəliyinə tutulmuş şəxslərə dövlət qayğısı haqqında"", ""Azərbaycan Respublikasının diplomatik nümayəndəliklərində və konsulluqlarında xidmət keçən diplomatik xidmət orqanı əməkdaşlarının dövlət icbari şəxsi sığortası haqqında"", ""Hemofiliya və talassemiya irsi qan xəstəliklərinə düçar olmuş şəxslərə dövlət qayğısı haqqında"", ""Sığorta fəaliyyəti haqqında"", ""İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta haqqında"", ""Dağınıq skleroz xəstəliyinə tutulmuş şəxslərə dövlət qayğısı haqqında"", ""Uşaqların icbari dispanserizasiyası haqqında"", ""Gömrük tarifi haqqında"", ""Nağdsız hesablaşmalar haqqında"" və ""Əlilliyi olan şəxslərin hüquqları haqqında"" qanunlara aiddir."
+R0188-C04,R0188,DVX-4532,body,random,1,"Dəyişikliklər paketinin əsas istiqamətləri investisiya mühitinin və sahibkarlıq fəaliyyətinin təşviq edilməsi, sahibkarlıq subyektlərinin vergi yükünün azaldılması, vergi daxilolmalarının və büdcə gəlirlərinin tənzimlənməsi, vergi nəzarəti mexanizminin təkmilləşdirilməsi və kölgə iqtisadiyyatına qarşı mübarizədir."
+R0188-C05,R0188,DVX-4532,body,random,1,"""Sosial sığorta haqqında"" qanuna təklif edilən dəyişikliklər sahibkarların sosial sığorta yükünün optimallaşdırılması və Naxçıvan Muxtar Respublikasında ödənilən məcburi dövlət sosial sığorta haqlarının subsidiyalaşdırılmasını əhatə edir."
+R0189-C01,R0189,DVX-4532,headline,random,1,Vergi ödəyiciləri vergi öhdəliyinin yaranmasına səbəb olan halları könüllü bəyan edəcəklər.
+R0189-C02,R0189,DVX-4532,body,random,1,Könüllü açıqlama sisteminin əhatəsi genişləndiriləcək.
+R0189-C03,R0189,DVX-4532,body,random,1,Bu məsələ Prezident İlham Əliyevin təsdiqlədiyi Vergi Məcəlləsində dəyişiklik edilməsi barədə Qanunda öz əksini tapıb.
+R0189-C04,R0189,DVX-4532,body,random,1,"Könüllü açıqlama səyyar vergi yoxlaması və ya üfüqi monitorinq başa çatdıqdan sonra yoxlama (monitorinq) zamanı aşkar edilməyən və vergi öhdəliyinin, habelə məcburi dövlət sosial sığorta, işsizlikdən sığorta və icbari tibbi sığorta haqları üzrə öhdəliyin yaranmasına səbəb olan halların vergi ödəyiciləri tərəfindən vergi orqanlarına könüllü olaraq bəyan edilməsi hesab ediləcək."
+R0189-C05,R0189,DVX-4532,body,random,1,Səyyar vergi yoxlamasının keçirilməsindən asılı olmayaraq həmin halların Vergi Məcəlləsində göstərilən 3 illik müddətdən əvvəlki dövrlər üzrə könüllü olaraq bəyan edilməsi könüllü açıqlama hesab ediləcək.
+R0189-C06,R0189,DVX-4532,body,random,1,Mövcud qanunvericilikdə vergi ödəyiciləri tərəfindən vergilərin könüllü şəkildə bəyan edilməsi imkanı yalnız səyyar vergi yoxlaması ilə əhatə olunmuş son 3 illik dövr üzrə mümkündür.
+R0189-C07,R0189,DVX-4532,body,random,1,"Səyyar yoxlama ilə əhatə olunmayan, habelə 3 ildən artıq müddət keçmiş dövrlər üzrə vergi ödəyicisinin gəlirlərini könüllü bəyan etmək imkanları yoxdur."
+R0189-C08,R0189,DVX-4532,body,random,1,Könüllü bəyan etmək imkanlarının olmaması vergi ödəyicilərinin konstitusion hüquqlarının və vəzifələrinin icrası ilə uzlaşmır.
+R0189-C09,R0189,DVX-4532,body,random,1,Bu səbəbdən könüllü açıqlama mexanizminin əhatəsi genişləndiriləcək.
+R0190-C01,R0190,DVX-4532,headline,random,1,Könüllü açıqlamanın əhatə müddəti artırılır.
+R0190-C02,R0190,DVX-4532,body,random,1,Sahibkarlar üçün daha əlverişli biznes mühitinin yaradılması və vergi inzibatçılığının sadələşdirilməsi ölkəmizdə aparılan vergi siyasətinin başlıca priotetlərindəndir.
+R0190-C03,R0190,DVX-4532,body,random,1,Vergi Məcəlləsinə edilən dəyişikliklərdən biri könüllü açıqlamanın əhatə dairəsinin genişləndirilməsi ilə bağlıdır.
+R0190-C04,R0190,DVX-4532,body,random,1,"Hazırda qüvvədə olan qanunvericiliyə əsasən, səyyar vergi yoxlaması başa çatdıqdan sonra aşkar edilməyən və vergi və sığorta haqları üzrə öhdəliyin yaranmasına səbəb olan hallar ödəyicilər tərəfindən vergi orqanlarına könüllü şəkildə bəyan edilə bilər."
+R0190-C05,R0190,DVX-4532,body,random,1,"Könüllü açıqlandığı halda təqdim edilmiş hesabat üzrə vergiödəyicisi tərəfindən yalnız hesablanmış vergi məbləği, məcburi dövlət sosial sığorta, işsizlikdən sığorta və icbari tibbi sığorta haqları ödənilir."
+R0190-C06,R0190,DVX-4532,body,random,1,Hazırda vergiödəyicilərinə yalnız səyyar vergi yoxlaması ilə əhatə olunmuş dövr üzrə vergilərin könüllü şəkildə bəyan edilməsi imkanı verilib.
+R0190-C07,R0190,DVX-4532,body,random,1,"Səyyar yoxlama ilə əhatə olunmayan, 3 ildən artıq müddət keçmiş dövrlər üzrə vergiödəyicisinin gəlirlərini könüllü bəyan etmək hüququ mövcud qanunvericiliklə məhdudlaşdırılır."
+R0190-C08,R0190,DVX-4532,body,random,1,Könüllü açıqlama mexanizminin əhatəsinin genişləndirilməsi nəzərdə tutulur.
+R0190-C09,R0190,DVX-4532,body,random,1,"2026-cı ildən etibarən səyyar vergi yoxlamasının keçirilməsindən asılı olmayaraq, vergi və sığorta öhdəliklərini yaradan halların vergiödəiciləri tərəfindən 3 illik müddətdən əvvəlki dövrlər üzrə də könüllü şəkildə bəyan edilməsi mümkün olacaq."
+R0025-C01,R0025,CBAR-5494,headline,random,0,Mərkəzi Bank “Paysis”in (E-PUL) lisenziyasını ləğv etdi.
+R0025-C02,R0025,CBAR-5494,lead,random,0,Azərbaycan Mərkəzi Bankı “Paysis” Məhdud Məsuliyyətli Cəmiyyətinə lisenziyasını lğv etdiyini açıqladı.
+R0025-C03,R0025,CBAR-5494,body,random,0,AMB-nin İdarə Heyətinin 01 iyun 2026-cı il tarixli qərarı ilə “Paysis” Məhdud Məsuliyyətli Cəmiyyətinin lisenziyası ləğv edilib.
+R0025-C04,R0025,CBAR-5494,body,random,0,Lisenziya “Ödəniş xidmətləri və ödəniş sistemləri haqqında” Azərbaycan Respublikası Qanununun 54.1.1-ci maddəsinə əsasən ləğv edilib.
+R0025-C05,R0025,CBAR-5494,body,random,0,“Paysis” Məhdud Məsuliyyətli Cəmiyyətinə 11 iyul 2024-cü il tarixli EPT-007 nömrəli elektron pul təşkilatı fəaliyyətini həyata keçirmək hüququ verən lisenziya verilmişdi və ləğv edilib.
+R0026-C01,R0026,CBAR-5494,headline,random,0,"""Paysis""in elektron pul təşkilatı lisenziyası ləğv edilib."
+R0026-C02,R0026,CBAR-5494,body,random,0,"Azərbaycan Mərkəzi Bankının (AMB) İdarə Heyətinin qərarı ilə ""Paysis"" MMC-yə verilmiş elektron pul təşkilatı lisenziyası ləğv edilib."
+R0026-C03,R0026,CBAR-5494,body,random,0,"""Paysis"" MMC-yə verilmiş elektron pul təşkilatı lisenziyası 11 iyul 2024-cü il tarixlidir."
+R0026-C04,R0026,CBAR-5494,body,random,0,"Bu qərar ""Ödəniş xidmətləri və ödəniş sistemləri haqqında"" qanunun 54.1.1-ci maddəsinə əsasən qəbul olunub."
+R0026-C05,R0026,CBAR-5494,body,random,0,"""Paysis"" bundan əvvəl qumar oyunları təşkil etməkdə ittiham olunub."
+R0026-C06,R0026,CBAR-5494,body,random,0,"AMB ötən ilin dekabr ayında ""Paysis""in fəaliyyətini dayandırıb."
+R0026-C07,R0026,CBAR-5494,body,random,0,Ölkədə lisenziyalı elektron pul təşkilatlarının sayı 13-ə düşüb.
+R0154-C01,R0154,CBAR-5494,headline,random,0,“Paysis” MMC-nin elektron pul təşkilatı lisenziyası ləğv edilib.
+R0154-C02,R0154,CBAR-5494,body,random,0,Azərbaycan Mərkəzi Bankı tərəfindən “Paysis” MMC-nin elektron pul təşkilatı lisenziyası ləğv edilib.
+R0154-C03,R0154,CBAR-5494,body,random,0,Lisenziya Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 01 iyun 2026-cı il tarixli qərarı ilə ləğv edilib.
+R0154-C04,R0154,CBAR-5494,body,random,0,Lisenziya “Ödəniş xidmətləri və ödəniş sistemləri haqqında” Azərbaycan Respublikası Qanununun 54.1.1-ci maddəsinə əsasən ləğv edilib.
+R0154-C05,R0154,CBAR-5494,body,random,0,"Ləğv edilən lisenziya 11 iyul 2024-cü il tarixli, EPT-007 nömrəli elektron pul təşkilatı fəaliyyətini həyata keçirmək hüququ verən lisenziyadır."
+R0155-C01,R0155,CBAR-5494,headline,random,0,Daha bir elektron pul təşkilatının lisenziyası ləğv edilib.
+R0155-C02,R0155,CBAR-5494,body,random,0,Azərbaycan Mərkəzi Bankı (AMB) tərəfindən “Paysis” MMC-nin elektron pul təşkilatı lisenziyası ləğv edilib.
+R0155-C03,R0155,CBAR-5494,body,random,0,Qərar Azərbaycan Respublikası Mərkəzi Bankı İdarə Heyətinin 1 iyun 2026-cı il tarixli qərarı ilə qəbul olunub.
+R0155-C04,R0155,CBAR-5494,body,random,0,Qərar “Ödəniş xidmətləri və ödəniş sistemləri haqqında” Azərbaycan Respublikası Qanununun 54.1.1-ci maddəsinə əsasən qəbul olunub.
+R0008-C01,R0008,CBAR-5399,headline,random,0,"Mərkəzi Bank ""Atasığorta""ya müvəqqəti inzibatçı təyin edib."
+R0008-C02,R0008,CBAR-5399,lead,random,0,"Azərbaycan Mərkəzi Bankının (AMB) İdarə Heyətinin 6 yanvar 2026-cı il tarixli qərarı ilə ""AtaSığorta"" ASC-yə müvəqqəti inzibatçı təyin olunub."
+R0008-C03,R0008,CBAR-5399,lead,random,0,Müvəqqəti inzibatçı təyinatı nəzarət tədbirləri çərçivəsində həyata keçirilib.
+R0008-C04,R0008,CBAR-5399,body,random,0,"Sığortaçının maliyyə dayanıqlılığının müəyyən edilməsi və qorunması, həmçinin müvəqqəti idarəetmə ilə bağlı qanunvericilikdə nəzərdə tutulmuş vəzifə və səlahiyyətlərin həyata keçirilməsi məqsədilə bu addım atılıb."
+R0008-C05,R0008,CBAR-5399,body,random,0,"Müvəqqəti inzibatçı təyin edildiyi gündən etibarən ""AtaSığorta"" ASC-nin idarə olunması ilə bağlı mövcud idarəetmə orqanlarının səlahiyyətləri dayandırılır."
+R0008-C06,R0008,CBAR-5399,body,random,0,Həmin səlahiyyətlər tam şəkildə müvəqqəti inzibatçıya keçir.
+R0008-C07,R0008,CBAR-5399,body,random,0,Həyata keçirilən nəzarət tədbirləri sığorta xidmətləri istehlakçılarının və kreditorların hüquqlarının qorunmasına xidmət edir.
+R0009-C01,R0009,CBAR-5399,headline,random,0,"""Atasığorta""ya müvəqqəti inzibatçı təyin olunub."
+R0009-C02,R0009,CBAR-5399,body,random,0,"Azərbaycan Mərkəzi Bankı (AMB) ""Atasığorta"" ASC-yə müvəqqəti inzibatçı təyin edib."
+R0009-C03,R0009,CBAR-5399,body,random,0,"AMB ""Atasığorta"" ASC-nin satışını ötən ay məhdudlaşdırıb."
+R0009-C04,R0009,CBAR-5399,body,random,0,"Müvəqqəti inzibatçı nəzarət tədbirləri çərçivəsində şirkətin maliyyə dayanıqlılığının müəyyən edilməsi və qorunması, həmçinin müvəqqəti idarəetmə ilə bağlı qanunvericilikdə nəzərdə tutulmuş vəzifə və səlahiyyətlərin həyata keçirilməsi məqsədilə təyin olunub."
+R0009-C05,R0009,CBAR-5399,body,random,0,Bu gündən sığortaçının idarə edilməsi ilə bağlı idarəetmə orqanlarının səlahiyyətləri dayandırılır.
+R0009-C06,R0009,CBAR-5399,body,random,0,Həmin səlahiyyətlər müvəqqəti inzibatçıya keçir.
+R0009-C07,R0009,CBAR-5399,body,random,0,Bu tədbirlər sığortalıların və kreditorların hüquqları qorunmasına xidmət edir.
+R0140-C01,R0140,CBAR-5399,headline,random,0,“AtaSığorta”ya müvəqqəti inzibatçı təyin olunub.
+R0140-C02,R0140,CBAR-5399,body,random,0,Azərbaycan Respublikası Mərkəzi Bankının (AMB) İdarə Heyətinin 06.01.2026-cı il tarixli Qərarı ilə müvəqqəti inzibatçı təyin olunub.
+R0140-C03,R0140,CBAR-5399,body,random,0,"“AtaSığorta” ASC-yə maliyyə dayanıqlılığının müəyyən edilməsi və qorunması, həmçinin müvəqqəti idarəetmə ilə bağlı qanunvericilikdə nəzərdə tutulmuş vəzifə və səlahiyyətlərin həyata keçirilməsi məqsədilə müvəqqəti inzibatçı təyin olunub."
+R0140-C04,R0140,CBAR-5399,body,random,0,Müvəqqəti inzibatçı təyin olunduğu gündən sığortaçının idarə edilməsi ilə bağlı idarəetmə orqanlarının səlahiyyətləri dayandırılır.
+R0140-C05,R0140,CBAR-5399,body,random,0,İdarəetmə orqanlarının həmin səlahiyyətləri müvəqqəti inzibatçıya keçir.
+R0140-C06,R0140,CBAR-5399,body,random,0,Həyata keçirilən nəzarət tədbirləri sığorta xidmətləri istehlakçılarının və kreditorların hüquqları qorunması məqsədinə xidmət edir.
+R0270-C01,R0270,CBAR-5399,headline,random,0,AMB “AtaSığorta”ya təyin etdiyi müvəqqəti inzibatçının adını açıqlayıb.
+R0270-C02,R0270,CBAR-5399,headline,random,0,AMB “AtaSığorta”ya müvəqqəti inzibatçı təyin edib.
+R0270-C03,R0270,CBAR-5399,body,random,0,Azərbaycan Mərkəzi Bankı (AMB) “AtaSığorta” ASC-yə təyin edilən müvəqqəti inzibatçının adını açıqlayıb.
+R0270-C04,R0270,CBAR-5399,body,random,0,Müvəqqəti inzibatçı Sığorta fəaliyyətinə nəzarət departamentinin əməkdaşı Ağamir Kazımovdur.
+R0270-C05,R0270,CBAR-5399,body,random,0,Ağamir Kazımov yanvarın 6-dan etibarən sığorta şirkətinə müvəqqəti inzibatçı təyin edilib.
+R0270-C06,R0270,CBAR-5399,body,random,0,Müvəqqəti inzibatçı təyin olunduğu gündən etibarən sığortaçının idarə edilməsi ilə bağlı idarəetmə orqanlarının səlahiyyətləri dayandırılır.
+R0270-C07,R0270,CBAR-5399,body,random,0,İdarəetmə orqanlarının səlahiyyətləri tam şəkildə müvəqqəti inzibatçıya keçir.
+R0270-C08,R0270,CBAR-5399,body,random,0,"Qanunvericiliyə əsasən, müvəqqəti inzibatçı təyin edildiyi tarixdən etibarən 60 gün ərzində sığorta şirkətinin maliyyə vəziyyəti və ödəmə qabiliyyəti üzrə əsaslandırılmış rəyini AMB-yə təqdim etməlidir."
+R0270-C09,R0270,CBAR-5399,body,random,0,Zərurət olduqda bu müddət Mərkəzi Bankın qərarı ilə 3 aya qədər uzadıla bilər.
+R0270-C10,R0270,CBAR-5399,body,random,0,Daha sonra Mərkəzi Bank müvəqqəti inzibatçının təqdim etdiyi rəyə əsasən sığorta şirkətinin fəaliyyətinin davam etdirilməsi və ya ləğv edilməsi ilə bağlı qərar verir.

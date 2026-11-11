@@ -1,0 +1,16 @@
+{
+ "ann_id": "EMSMN-8861",
+ "t1_files": [
+  "data/raw/announcements/EMSMN-8861/text_0.txt"
+ ],
+ "t2_files": [
+  "data/raw/announcements/EMSMN-8861-DEC/text_0.txt"
+ ],
+ "has_t2": 1,
+ "t2_status": "yes",
+ "t1_is_act": 0,
+ "sha256_T1": "47d38dfc07f8dea511ecabad337625a920330749b25a197286c789854e0ee4af",
+ "sha256_T2": "eb45fa50a1d7ea72fbe0d914be5bf1b327b80c09219fa976e44462553b86dd7f",
+ "chars_T1": 1074,
+ "chars_T2": 1436
+}

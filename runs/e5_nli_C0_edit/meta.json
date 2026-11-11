@@ -1,0 +1,14 @@
+{
+ "run_id": "e5_nli_C0_edit",
+ "system": "S1_nli_k3",
+ "condition": "C0",
+ "sample": "edit",
+ "n": 300,
+ "model_id": "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7",
+ "source_file": "runs/nonllm_e5/predictions_nli.csv",
+ "source_sha256": "0648f768a8c9eec5596228639ca5c783cb5d0e2ab49708825055dd27ed8c291b",
+ "predictions_sha256": "3b72752c2f7a6ee4429ffd4a1854fb403895a985054ec8948055574b1a5e4ce2",
+ "cost": 0.0,
+ "finished": "2026-11-11 12:33:36",
+ "note": "frozen k = 3; E5 edit set"
+}

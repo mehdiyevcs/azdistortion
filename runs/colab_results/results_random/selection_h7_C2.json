@@ -1,0 +1,81 @@
+{
+ "confirmatory": true,
+ "violations": [],
+ "system": "H7_selected",
+ "condition": "C2",
+ "suffix": "",
+ "candidates": [
+  "logreg",
+  "gbm",
+  "xlmr",
+  "mdeberta",
+  "azbert"
+ ],
+ "absent_optional": [],
+ "seeds": [
+  1,
+  2,
+  3
+ ],
+ "candidate_manifests": {
+  "logreg": {
+   "producer": "sys_tradml.py",
+   "producer_sha256": "be2b3078376a49a583abbf03bc7c974f7ef094fc9b69659d4a143d06910c6342",
+   "common_code_sha256": "e2724df3eb247592ae9e649714ec64a75a8667a1d7f581aab8aff8373df1012d",
+   "model": null,
+   "model_revision": null,
+   "top_k": null
+  },
+  "gbm": {
+   "producer": "sys_tradml.py",
+   "producer_sha256": "be2b3078376a49a583abbf03bc7c974f7ef094fc9b69659d4a143d06910c6342",
+   "common_code_sha256": "e2724df3eb247592ae9e649714ec64a75a8667a1d7f581aab8aff8373df1012d",
+   "model": null,
+   "model_revision": null,
+   "top_k": null
+  },
+  "xlmr": {
+   "producer": "sys_encoder.py",
+   "producer_sha256": "5871f694e346872fa46d12bb4e4579d679ac70a7b0d650c3d616e655d6aebadc",
+   "common_code_sha256": "e2724df3eb247592ae9e649714ec64a75a8667a1d7f581aab8aff8373df1012d",
+   "model": "FacebookAI/xlm-roberta-base",
+   "model_revision": "e73636d4f797dec63c3081bb6ed5c7b0bb3f2089",
+   "top_k": 3
+  },
+  "mdeberta": {
+   "producer": "sys_encoder.py",
+   "producer_sha256": "5871f694e346872fa46d12bb4e4579d679ac70a7b0d650c3d616e655d6aebadc",
+   "common_code_sha256": "e2724df3eb247592ae9e649714ec64a75a8667a1d7f581aab8aff8373df1012d",
+   "model": "microsoft/mdeberta-v3-base",
+   "model_revision": "a0484667b22365f84929a935b5e50a51f71f159d",
+   "top_k": 3
+  },
+  "azbert": {
+   "producer": "sys_encoder.py",
+   "producer_sha256": "5871f694e346872fa46d12bb4e4579d679ac70a7b0d650c3d616e655d6aebadc",
+   "common_code_sha256": "e2724df3eb247592ae9e649714ec64a75a8667a1d7f581aab8aff8373df1012d",
+   "model": "allmalab/bert-base-aze",
+   "model_revision": "5fd824965138a261552fc5ca333e91f4fa45cc67",
+   "top_k": 3
+  }
+ },
+ "shared": {
+  "sources_sha256": "9c1f17b8100c1b95736a79a613f184b01da4649fe80af41d7cc22bd15bed3dff",
+  "common_code_sha256": "e2724df3eb247592ae9e649714ec64a75a8667a1d7f581aab8aff8373df1012d",
+  "folds_sha256": "37ee46b880978781f61c64f3f3c5757b225baf7f335bd4684e7b281aa701b717",
+  "inner_sha256": "66918b2e00c925225b29eb3b5491ed9010c4c8910939155a71ab29b30923a325",
+  "claims_sha256": "43beae9974a6482bab19944343c597da82f97049519b05451b7a4535d679aed7",
+  "edits_sha256": "",
+  "label_set": [
+   "SUPPORTED",
+   "MISREPRESENTED",
+   "NOT_IN_SOURCE"
+  ],
+  "min_label_n": 10,
+  "inner_score": "human_weighted",
+  "train_on": "merged",
+  "dev": false,
+  "limit": 0
+ },
+ "select_sha256": "9c3cb2e4831c50fc1dd54b0186ded3ba612d787cb30af5955add171e6a58064a"
+}

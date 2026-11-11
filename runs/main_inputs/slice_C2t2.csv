@@ -1,0 +1,116 @@
+claim_id,report_id,ann_id,part,sample,has_t2,claim_text
+R0011-C01,R0011,CBAR-5446,headline,random,1,İnvestisiya şirkətləri tərəfindən həyata keçirilən anderraytinqin təşkili üzrə Təlimat təsdiqlənib.
+R0011-C02,R0011,CBAR-5446,lead,random,1,Azərbaycan Mərkəzi Bankının (AMB) İdarə Heyəti “İnvestisiya şirkətləri tərəfindən həyata keçirilən anderraytinqin təşkili üzrə Təlimat”ı təsdiqləyib.
+R0011-C03,R0011,CBAR-5446,body,random,1,Banker.az bu barədə AMB-yə istinadən xəbər verir.
+R0011-C04,R0011,CBAR-5446,body,random,1,"Təlimat “İnvestisiya şirkətləri və banklar tərəfindən investisiya xidmətlərinin (əməliyyatlarının) həyata keçirilməsi Qaydası”nın 17.2.9-cu yarımbəndinə uyğun olaraq tərtib edilən daxili qaydaların hazırlanmasına, həmçinin kütləvi təklif üsulu ilə yerləşdirilən qiymətli kağızların anderraytinqinin həyata keçirilməsinə dair digər metodoloji əsasları müəyyən edir."
+R0011-C05,R0011,CBAR-5446,body,random,1,"Təlimatın məqsədi emitentin maliyyə vəziyyəti, korporativ idarəetməsi, riskləri və onların idarə edilməsi barədə potensial investorların hərtərəfli məlumatlandırılmasını təmin etməkdir."
+R0011-C06,R0011,CBAR-5446,body,random,1,Təlimat anderraytinq fəaliyyətini 4 əsas mərhələ üzrə strukturlaşdırır və hər bir mərhələ üzrə metodoloji yanaşmaları müəyyən edir.
+R0011-C07,R0011,CBAR-5446,body,random,1,Qeyd edilən metodoloji yanaşmalar yerli qanunvericilik tələbləri nəzərə alınmaqla beynəlxalq təcrübəyə əsaslanır.
+R0012-C01,R0012,CBAR-5446,headline,random,1,İnvestisiya şirkətləri tərəfindən həyata keçirilən anderraytinqin təşkili üzrə Təlimat təsdiqlənib.
+R0012-C02,R0012,CBAR-5446,lead,random,1,"Azərbaycan Mərkəzi Bankının (AMB) İdarə Heyəti ""İnvestisiya şirkətləri tərəfindən həyata keçirilən anderraytinqin təşkili üzrə Təlimat""ı təsdiqləyib."
+R0012-C03,R0012,CBAR-5446,body,random,1,"Təlimat ""İnvestisiya şirkətləri və banklar tərəfindən investisiya xidmətlərinin (əməliyyatlarının) həyata keçirilməsi Qaydası""nın 17.2.9-cu yarımbəndinə uyğun olaraq tərtib edilən daxili qaydaların hazırlanmasına, həmçinin kütləvi təklif üsulu ilə yerləşdirilən qiymətli kağızların anderraytinqinin həyata keçirilməsinə dair digər metodoloji əsasları müəyyən edir."
+R0012-C04,R0012,CBAR-5446,body,random,1,"Təlimatın məqsədi emitentin maliyyə vəziyyəti, korporativ idarəetməsi, riskləri və onların idarə edilməsi barədə potensial investorların hərtərəfli məlumatlandırılmasını təmin etməkdir."
+R0012-C05,R0012,CBAR-5446,body,random,1,Təlimat anderraytinq fəaliyyətini 4 əsas mərhələ üzrə strukturlaşdırır.
+R0012-C06,R0012,CBAR-5446,body,random,1,Təlimat hər bir mərhələ üzrə metodoloji yanaşmaları müəyyən edir.
+R0012-C07,R0012,CBAR-5446,body,random,1,Qeyd edilən metodoloji yanaşmalar yerli qanunvericilik tələbləri nəzərə alınmaqla beynəlxalq təcrübəyə əsaslanır.
+R0143-C01,R0143,CBAR-5446,headline,random,1,“İnvestisiya şirkətləri tərəfindən həyata keçirilən anderraytinqin təşkili üzrə Təlimat” təsdiqlənib.
+R0143-C02,R0143,CBAR-5446,body,random,1,Mərkəzi Bankın İdarə Heyəti tərəfindən “İnvestisiya şirkətləri tərəfindən həyata keçirilən anderraytinqin təşkili üzrə Təlimat” təsdiqlənib.
+R0143-C03,R0143,CBAR-5446,body,random,1,Təlimat “İnvestisiya şirkətləri və banklar tərəfindən investisiya xidmətlərinin (əməliyyatlarının) həyata keçirilməsi Qaydası”nın 17.2.9-cu yarımbəndinə uyğun olaraq tərtib edilən daxili qaydaların hazırlanmasına dair metodoloji əsasları müəyyən edir.
+R0143-C04,R0143,CBAR-5446,body,random,1,Təlimat kütləvi təklif üsulu ilə yerləşdirilən qiymətli kağızların anderraytinqinin həyata keçirilməsinə dair digər metodoloji əsasları müəyyən edir.
+R0143-C05,R0143,CBAR-5446,body,random,1,"Təlimatın məqsədi emitentin maliyyə vəziyyəti, korporativ idarəetməsi, riskləri və onların idarə edilməsi barədə potensial investorların hərtərəfli məlumatlandırılmasını təmin etməkdir."
+R0143-C06,R0143,CBAR-5446,body,random,1,Təlimat anderraytinq fəaliyyətini 4 əsas mərhələ üzrə strukturlaşdırır.
+R0143-C07,R0143,CBAR-5446,body,random,1,Təlimat hər bir mərhələ üzrə metodoloji yanaşmaları müəyyən edir.
+R0143-C08,R0143,CBAR-5446,body,random,1,Qeyd edilən metodoloji yanaşmalar yerli qanunvericilik tələbləri nəzərə alınmaqla beynəlxalq təcrübəyə əsaslanır.
+R0048-C01,R0048,CBAR-5546,headline,random,1,Mərkəzi Bank sistem əhəmiyyətli bankların qiymətləndirilməsi qaydalarını dəyişib.
+R0048-C02,R0048,CBAR-5546,lead,random,1,"Azərbaycanda bankların sistem əhəmiyyətli bank kimi qiymətləndirilməsi meyarları, eləcə də bank kapitalının və kapital adekvatlığının hesablanması qaydaları dəyişdirilib."
+R0048-C03,R0048,CBAR-5546,body,random,1,Azərbaycan Mərkəzi Bankı sistem əhəmiyyətli bankların müəyyənləşdirilməsi zamanı istifadə olunan bəzi indikatorların hesablanma yanaşmalarını yeniləyib.
+R0048-C04,R0048,CBAR-5546,body,random,1,Azərbaycan Mərkəzi Bankı qiymətləndirmə prosesini banklara risk əsaslı nəzarət tsikli ilə əlaqələndirib.
+R0048-C05,R0048,CBAR-5546,body,random,1,“Maliyyə institutlarında yerləşdirilən aktivlər” indikatorunun hesablanması zamanı bankların tənzimləyici qurumda yerləşdirdiyi aktivlər nəzərə alınmayacaq.
+R0048-C06,R0048,CBAR-5546,body,random,1,“Ödəniş sistemləri vasitəsilə aparılan əməliyyatlar” indikatoru üzrə AZİPS sistemi vasitəsilə yalnız müştəri köçürmələri və banklararası ödəniş əməliyyatları hesablamaya daxil ediləcək.
+R0048-C07,R0048,CBAR-5546,body,random,1,Bundan sonra sistem əhəmiyyətli bankların siyahısı hər il sentyabrın 1-dək Mərkəzi Bankın İdarə Heyətinin qərarı ilə təsdiqlənəcək.
+R0048-C08,R0048,CBAR-5546,body,random,1,Bank kapitalının adekvatlığı qaydalarında da yeni yanaşma müəyyən edilib.
+R0048-C09,R0048,CBAR-5546,body,random,1,"Bank ilk dəfə sistem əhəmiyyətli bankların siyahısına daxil edilərsə və ya daha yüksək sistem əhəmiyyətlilik qrupuna keçirilərsə, onun üçün artırılmış “sistem əhəmiyyətli bank kapital buferi” tələbi siyahının təsdiqləndiyi ildən sonrakı ilin yanvarın 1-dən qüvvəyə minəcək."
+R0048-C10,R0048,CBAR-5546,body,random,1,Bankın sistem əhəmiyyətli banklar siyahısından çıxarılması və ya daha aşağı sistem əhəmiyyətlilik qrupuna keçirilməsi yalnız ardıcıl iki il üzrə aparılan hesablamalarla təsdiqləndikdən sonra mümkün olacaq.
+R0048-C11,R0048,CBAR-5546,body,random,1,Azaldılmış kapital buferi tələbi sistem əhəmiyyətli bankların yeni siyahısının təsdiqindən dərhal sonra tətbiq ediləcək.
+R0048-C12,R0048,CBAR-5546,body,random,1,"Mərkəzi Bank bildirir ki, dəyişikliklər hazırlanarkən bir sıra Avropa ölkələrinin təcrübəsi və digər beynəlxalq yanaşmalar nəzərə alınıb."
+R0048-C13,R0048,CBAR-5546,body,random,1,Yeni qaydaların məqsədi sistem əhəmiyyətli bankların qiymətləndirilməsində daha dəqiq və effektiv yanaşmaların tətbiqidir.
+R0177-C01,R0177,CBAR-5546,headline,random,1,Bankların sistem əhəmiyyətliliyinin qiymətləndirilməsi qaydaları dəyişib.
+R0177-C02,R0177,CBAR-5546,headline,random,1,Kapital adekvatlığı qaydaları dəyişib.
+R0177-C03,R0177,CBAR-5546,body,random,1,“Bankın sistem əhəmiyyətli bank kimi qiymətləndirilməsi Meyarları”nda dəyişikliklər təsdiq edilib.
+R0177-C04,R0177,CBAR-5546,body,random,1,“Bank kapitalının və onun adekvatlığının hesablanması Qaydaları”nda dəyişikliklər təsdiq edilib.
+R0177-C05,R0177,CBAR-5546,body,random,1,Dəyişikliklər sistem əhəmiyyətli bankların qiymətləndirilməsi zamanı istifadə olunan bəzi indikatorlar üzrə cari yanaşmanın təkmilləşdirilməsi və tətbiqi prosesinin optimallaşdırılması məqsədilə təsdiq edilib.
+R0177-C06,R0177,CBAR-5546,body,random,1,"Dəyişikliklər indikatorlar üzrə hesablama yanaşmalarının təkmilləşdirilməsi, meyarların banklara nəzarət tsikli ilə əlaqələndirilməsi və kapital buferində artım və ya azalma hallarında qüvvəyə minmə müddəti ilə bağlı yeni yanaşmanın müəyyən edilməsi ilə əlaqədar olub."
+R0177-C07,R0177,CBAR-5546,body,random,1,Bir sıra Avropa ölkələrinin təcrübələri və digər beynəlxalq yanaşmalar nəzərə alınmaqla meyarlara dəyişikliklər hazırlanıb.
+R0177-C08,R0177,CBAR-5546,body,random,1,“Maliyyə institutlarında yerləşdirilən aktivlər” indikatorunun əhatə dairəsi dəqiqləşdirilərək bankların tənzimləyici qurumda yerləşdirdiyi aktivlər nəzərə alınmayacaq.
+R0177-C09,R0177,CBAR-5546,body,random,1,“Ödəniş sistemləri vasitəsilə aparılan əməliyyatlar” indikatoru üzrə hesablamalarda AZİPS sistemi üzrə bankların yalnız müştəri köçürmələri və banklararası ödəniş əməliyyatları nəzərə alınacaq.
+R0177-C10,R0177,CBAR-5546,body,random,1,Sistem əhəmiyyətli bankların siyahısı hər il sentyabrın 1-nə qədər Mərkəzi Bankın İdarə Heyətinin qərarı ilə təsdiq ediləcək.
+R0177-C11,R0177,CBAR-5546,body,random,1,Bank siyahıya daxil edildikdə və ya qrupu artırıldıqda “sistem əhəmiyyətli bank kapital buferi” üzrə yeni artırılmış tələb siyahının təsdiq edildiyi ildən sonrakı ilin yanvarın 1-dən qüvvəyə minəcək.
+R0177-C12,R0177,CBAR-5546,body,random,1,Bankın siyahıdan çıxarılması və ya qrupunun aşağı salınması yalnız ardıcıl 2 il üzrə aparılmış hesablamalar nəticəsində təsdiq edildiyi halda mümkündür.
+R0177-C13,R0177,CBAR-5546,body,random,1,“Sistem əhəmiyyətli bank kapital buferi” üzrə azaldılmış tələb sistem əhəmiyyətli bankların siyahısının təsdiq edildiyi andan dərhal sonra qüvvəyə minəcək.
+R0177-C14,R0177,CBAR-5546,body,random,1,Qaydalara edilmiş dəyişiklik sistem əhəmiyyətli bankların qiymətləndirilməsi zamanı daha effektiv yanaşmaların tətbiqinə və qiymətləndirmə prosesinin təkmilləşdirilməsinə xidmət edəcək.
+R0049-C01,R0049,CBAR-5547,headline,random,1,Azərbaycanda bazar üçün vacib sığortaçılar yeni qayda ilə seçiləcək.
+R0049-C02,R0049,CBAR-5547,lead,random,1,Azərbaycan Mərkəzi Bankı sistem əhəmiyyətli sığortaçıların müəyyən edilməsi meyarlarını yeniləyib.
+R0049-C03,R0049,CBAR-5547,body,random,1,Dəyişiklik Mərkəzi Bankın İdarə Heyətinin 28 iyul 2026-cı il tarixli qərarı ilə təsdiqlənib.
+R0049-C04,R0049,CBAR-5547,body,random,1,"Yeni qaydalara əsasən, sığorta şirkətlərinin sistem əhəmiyyətliliyi altı əsas indikator üzrə qiymətləndiriləcək."
+R0049-C05,R0049,CBAR-5547,body,random,1,Ən böyük xüsusi çəki — 30% — şirkətin cəmi aktivlərinə verilib.
+R0049-C06,R0049,CBAR-5547,body,random,1,Ölkə daxilindən qəbul edilən təkrarsığorta haqlarının çəkisi 25% müəyyən edilib.
+R0049-C07,R0049,CBAR-5547,body,random,1,Sığortaçının maliyyə institutlarında yerləşdirdiyi aktivlərin çəkisi 15% müəyyən edilib.
+R0049-C08,R0049,CBAR-5547,body,random,1,"Qiymətli kağızların dövriyyəsi, sığorta predmetlərinin sayı və sığorta portfelinin çeşidliliyi indikatorlarının hər birinə 10% çəki verilib."
+R0049-C09,R0049,CBAR-5547,body,random,1,Qiymətləndirmə zamanı əsasən sığortaçının son üç il üzrə göstəricilərinin orta səviyyəsi sığorta bazarının müvafiq göstəriciləri ilə müqayisə ediləcək.
+R0049-C10,R0049,CBAR-5547,body,random,1,Hesablamanın nəticəsində sistem əhəmiyyətlilik indeksi 15% və ya daha yüksək olan şirkətlər sistem əhəmiyyətli sığortaçı hesab ediləcək.
+R0049-C11,R0049,CBAR-5547,body,random,1,Üç ildən az fəaliyyət göstərən sığorta şirkətləri üzrə şirkətin faktiki fəaliyyət göstərdiyi illərin hesabatları nəzərə alınacaq.
+R0049-C12,R0049,CBAR-5547,body,random,1,Yalnız təkrarsığorta fəaliyyəti ilə məşğul olan şirkətlər üçün sığorta predmetlərinin sayı indikatoru tətbiq edilməyəcək.
+R0049-C13,R0049,CBAR-5547,body,random,1,Yalnız təkrarsığorta fəaliyyəti ilə məşğul olan şirkətlər üçün həmin indikatorun 10%-lik çəkisi portfelin çeşidliliyi göstəricisinə əlavə olunacaq.
+R0049-C14,R0049,CBAR-5547,body,random,1,Mərkəzi Bank sistem əhəmiyyətli sığortaçıların siyahısını hər il sentyabrın 1-dək təsdiqləyəcək.
+R0049-C15,R0049,CBAR-5547,body,random,1,Qərar qəbul edildikdən sonra şirkətlərə beş iş günü ərzində məlumat veriləcək.
+R0049-C16,R0049,CBAR-5547,body,random,1,Müştərək sığortaçılar sistem əhəmiyyətli sığortaçıların müəyyən edilməsi prosesində iştirak etməyəcək.
+R0178-C01,R0178,CBAR-5547,headline,random,1,Sistem əhəmiyyətli sığortaçı kimi qiymətləndirilmə üzrə meyarlarda dəyişikliklər təsdiqlənib.
+R0178-C02,R0178,CBAR-5547,body,random,1,Sığorta sektorunda sistem əhəmiyyətli sığortaçıların qiymətləndirilməsi zamanı istifadə olunan yanaşmanın təkmilləşdirilməsi məqsədilə “Sığortaçının sistem əhəmiyyətli sığortaçı kimi qiymətləndirilməsi Meyarları”nda dəyişikliklər təsdiq edilib.
+R0178-C03,R0178,CBAR-5547,body,random,1,"Yeni çərçivə sığortaçıların maliyyə sisteminə mümkün təsir kanallarını daha dolğun əhatə etmək məqsədilə ölçü, şaxələnmə və əvəzolunmazlıq kateqoriyaları əsasında formalaşdırılıb."
+R0178-C04,R0178,CBAR-5547,body,random,1,"Yeni çərçivə sistem əhəmiyyətliliyin sığorta sistemi, maliyyə sistemi və ümumi iqtisadi münasibətlər üzrə üç səviyyədə qiymətləndirilməsini nəzərdə tutur."
+R0178-C05,R0178,CBAR-5547,body,random,1,"Bu yanaşma sığortaçıların yalnız sektor daxilindəki rolunu deyil, eyni zamanda onların maliyyə bazarları və real iqtisadiyyatla qarşılıqlı əlaqələrini də nəzərə almağa imkan verir."
+R0178-C06,R0178,CBAR-5547,body,random,1,"Qiymətləndirmənin 3 kateqoriya – ölçü, şaxələnmə və əvəzolunmazlıq kateqoriyaları üzrə aparılması müəyyən olunub."
+R0178-C07,R0178,CBAR-5547,body,random,1,Əvvəlki metodologiyada mövcud olan mürəkkəblik kateqoriyası ləğv edilib.
+R0178-C08,R0178,CBAR-5547,body,random,1,Kateqoriyalar üzrə yeni indikatorlar və xüsusi çəkilər müəyyən edilib.
+R0178-C09,R0178,CBAR-5547,body,random,1,Qiymətli kağızların dövriyyəsi göstəricisi ilk dəfə metodologiyaya daxil edilib.
+R0178-C10,R0178,CBAR-5547,body,random,1,Təkrarsığorta fəaliyyəti ilə əlaqədar sığortaçıların yalnız ölkə daxilindən qəbul etdikləri risklər üzrə hesablanmış təkrarsığorta haqlarının nəzərə alınması müəyyən edilib.
+R0178-C11,R0178,CBAR-5547,body,random,1,Təkrarsığorta haqları göstəricisinin çəkisi artırılıb.
+R0178-C12,R0178,CBAR-5547,body,random,1,Sistem əhəmiyyətliliyi indeksi 15 faiz bəndinə çatan və ya bunu keçən sığortaçılar sistem əhəmiyyətli sığortaçı kimi qiymətləndirilir.
+R0178-C13,R0178,CBAR-5547,body,random,1,Müstəsna olaraq təkrarsığorta fəaliyyəti ilə məşğul olan təkrarsığortaçılar üçün “sığorta predmetlərinin sayı” göstəricisi tətbiq olunmur.
+R0178-C14,R0178,CBAR-5547,body,random,1,“Sığorta predmetlərinin sayı” göstəricisinin çəkisi eyni kateqoriyadakı digər göstəriciyə əlavə olunur.
+R0178-C15,R0178,CBAR-5547,body,random,1,Sistem əhəmiyyətli sığortaçıların siyahısı hər il 1 sentyabr tarixinədək Mərkəzi Bankın İdarə Heyətinin qərarı ilə təsdiq edilir.
+R0178-C16,R0178,CBAR-5547,body,random,1,"Dəyişikliklər Mərkəzi Bankın bank sektoru üzrə tətbiq etdiyi sistem əhəmiyyətlilik metodologiyası ilə uzlaşdırılmaqla, sistem əhəmiyyətli maliyyə institutlarının müəyyən edilməsinə və vahid yanaşmanın formalaşdırılmasına xidmət edir."
+R0005-C01,R0005,CBAR-5397,headline,random,1,AMB yerli banklara kapitalını Bazel III standartlarına uyğunlaşdırmaq üçün 1 il vaxt verib.
+R0005-C02,R0005,CBAR-5397,lead,random,1,Azərbaycan Mərkəzi Bankı (AMB) yerli banklara kapitalını Bazel III standartlarına uyğunlaşdırmaq üçün 1 il vaxt verib.
+R0005-C03,R0005,CBAR-5397,body,random,1,AMB İdarə Heyətinin ötən il dekabrın 16-da qəbul etdiyi qərarla “Bank kapitalının və onun adekvatlığının hesablanması Qaydaları”nda dəyişikliklər edilib.
+R0005-C04,R0005,CBAR-5397,body,random,1,Bu addım “2024 – 2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası”ndan irəli gələrək bank sektorunda maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılması məqsədilə atılıb.
+R0005-C05,R0005,CBAR-5397,body,random,1,"Dəyişikliklərlə bank kapitalının strukturu, kapital adekvatlığı əmsalları, kapital buferləri və bir sıra digər tələblər və tənzimləmələr Bazel III standartlarına uyğunlaşdırılıb."
+R0005-C06,R0005,CBAR-5397,body,random,1,"Yeni kapital buferlərinin tətbiqi bankların mümkün itkilərə qarşı dayanıqlılığını artırmaqla risklərin daha düzgün qiymətləndirilməsinə və bank kapitalının keyfiyyətinin yüksəldilməsinə, habelə iqtisadiyyatın dayanıqlı maliyyələşdirilməsi proseslərinin əlavə dəstəklənməsinə şərait yaradacaq."
+R0005-C07,R0005,CBAR-5397,body,random,1,"Kapital tələblərinin Bazel III standartlarına uyğunlaşmadırılması prosesinin başa çatdırılması prudensial siyasətin və nəzarət çərçivəsinin güclənməsini təmin etməklə yanaşı, bank sektorunun beynəlxalq investorlar üçün cəlbediciliyinə müsbət töhfə verəcək."
+R0005-C08,R0005,CBAR-5397,body,random,1,"Yeni kapital strukturuna adaptasiyası, bankdaxili qayda və prosedurlarının yeni requlyativ tələblərə uyğunlaşdırılması, eləcə də sektorda zəruri təlimlərin keçirilməsi və yeni yanaşmaların prudensial hesabatlığa inteqrasiyası üçün banklara 1 illik keçid dövrü verilib."
+R0005-C09,R0005,CBAR-5397,body,random,1,Yeni tələblərə 1 yanvar 2027-ci ildən tam riayət olunması banklardan tələb ediləcək.
+R0006-C01,R0006,CBAR-5397,headline,random,1,AMB yerli banklara kapitalını Bazel III standartlarına uyğunlaşdırmaq üçün 1 il vaxt verib.
+R0006-C02,R0006,CBAR-5397,headline,random,1,AMB yerli banklara kapitalını Bazel III standartlarına uyğunlaşdırmaq üçün 1 il vaxt verib.
+R0006-C03,R0006,CBAR-5397,body,random,1,"AMB-nin İdarə Heyətinin ötən il dekabrın 16-da qəbul etdiyi qərarla ""Bank kapitalının və onun adekvatlığının hesablanması Qaydaları""nda dəyişikliklər edilib."
+R0006-C04,R0006,CBAR-5397,body,random,1,"Bu addım ""2024 – 2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası""ndan irəli gələrək atılıb."
+R0006-C05,R0006,CBAR-5397,body,random,1,Bu addım bank sektorunda maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılması məqsədilə atılıb.
+R0006-C06,R0006,CBAR-5397,body,random,1,"Dəyişikliklərlə bank kapitalının strukturu, kapital adekvatlığı əmsalları, kapital buferləri və bir sıra digər tələblər və tənzimləmələr Bazel III standartlarına uyğunlaşdırılıb."
+R0006-C07,R0006,CBAR-5397,body,random,1,"Yeni kapital buferlərinin tətbiqi bankların mümkün itkilərə qarşı dayanıqlılığını artırmaqla risklərin daha düzgün qiymətləndirilməsinə və bank kapitalının keyfiyyətinin yüksəldilməsinə, habelə iqtisadiyyatın dayanıqlı maliyyələşdirilməsi proseslərinin əlavə dəstəklənməsinə şərait yaradacaq."
+R0006-C08,R0006,CBAR-5397,body,random,1,"Kapital tələblərinin Bazel III standartlarına uyğunlaşmadırılması prosesinin başa çatdırılması prudensial siyasətin və nəzarət çərçivəsinin güclənməsini təmin etməklə yanaşı, bank sektorunun beynəlxalq investorlar üçün cəlbediciliyinə müsbət töhfə verəcək."
+R0006-C09,R0006,CBAR-5397,body,random,1,"Yeni kapital strukturuna adaptasiya, bankdaxili qayda və prosedurların uyğunlaşdırılması, təlimlərin keçirilməsi və yeni yanaşmaların prudensial hesabatlığa inteqrasiyası üçün banklara 1 illik keçid dövrü verilib."
+R0006-C10,R0006,CBAR-5397,body,random,1,Yeni tələblərə 1 yanvar 2027-ci ildən tam riayət olunması banklardan tələb ediləcək.
+R0138-C01,R0138,CBAR-5397,headline,random,1,Qaydalar dəyişdi.
+R0138-C02,R0138,CBAR-5397,lead,random,1,Azərbaycan Mərkəzi Bankı yerli banklara kapitalını Bazel III standartlarına uyğunlaşdırmaq üçün 1 il vaxt verib.
+R0138-C03,R0138,CBAR-5397,lead,random,1,"Qurumun dekabrın 16-da qəbul etdiyi qərarla ""Bank kapitalının və onun adekvatlığının hesablanması Qaydaları"" dəyişdirilib."
+R0138-C04,R0138,CBAR-5397,body,random,1,"Bu addım ""2024-2026-cı illərdə maliyyə sektorunun inkişaf Strategiyası"" çərçivəsində bank sektorunun dayanıqlığının gücləndirilməsi və beynəlxalq standartlara uyğunluğun artırılması məqsədini daşıyır."
+R0138-C05,R0138,CBAR-5397,body,random,1,"Dəyişikliklərlə bank kapitalının strukturu, kapital adekvatlığı əmsalları, kapital buferləri və digər tələblər Bazel III standartlarına uyğunlaşdırılıb."
+R0138-C06,R0138,CBAR-5397,body,random,1,"Banklara yeni qaydalara uyğunlaşmaq, daxili prosedurlarını yeniləmək və təlimlər keçmək üçün 1 illik keçid dövrü verilib."
+R0138-C07,R0138,CBAR-5397,body,random,1,1 yanvar 2027-ci ildən bu tələblərə tam riayət edilməlidir.
+R0139-C01,R0139,CBAR-5397,headline,random,1,Bank kapitalı və onun adekvatlığı üzrə prudensial çərçivə Bazel III standartlarına uyğunlaşdırılıb.
+R0139-C02,R0139,CBAR-5397,body,random,1,Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin 16 dekabr 2025-ci il tarixli qərarı ilə “Bank kapitalının və onun adekvatlığının hesablanması Qaydaları”nda dəyişikliklər edilib.
+R0139-C03,R0139,CBAR-5397,body,random,1,Dəyişikliklər bank sektorunda maliyyə dayanıqlılığının gücləndirilməsi və beynəlxalq tənzimləmə standartlarına uyğunluğun artırılması məqsədilə edilib.
+R0139-C04,R0139,CBAR-5397,body,random,1,"Dəyişikliklərlə bank kapitalının strukturu, kapital adekvatlığı əmsalları, kapital buferləri və bir sıra digər tələblər və tənzimləmələr Bazel III standartlarına uyğunlaşdırılıb."
+R0139-C05,R0139,CBAR-5397,body,random,1,"Yeni kapital buferlərinin tətbiqi bankların mümkün itkilərə qarşı dayanıqlılığını artırmaqla risklərin daha düzgün qiymətləndirilməsinə və bank kapitalının keyfiyyətinin yüksəldilməsinə, habelə iqtisadiyyatın dayanıqlı maliyyələşdirilməsi proseslərinin əlavə dəstəklənməsinə şərait yaradacaq."
+R0139-C06,R0139,CBAR-5397,body,random,1,"Kapital tələblərinin Bazel III standartlarına uyğunlaşmadırılması prosesinin başa çatdırılması prudensial siyasətin və nəzarət çərçivəsinin güclənməsini təmin etməklə yanaşı, bank sektorunun beynəlxalq investorlar üçün cəlbediciliyinə müsbət töhfə vermiş olacaq."
+R0139-C07,R0139,CBAR-5397,body,random,1,"Yeni kapital strukturuna adaptasiyası, bankdaxili qayda və prosedurlarının yeni requlyativ tələblərə uyğunlaşdırılması, eləcə də sektorda zəruri təlimlərin keçirilməsi və yeni yanaşmaların prudensial hesabatlığa inteqrasiyası üçün banklara 1 illik keçid dövrü verilib."
+R0139-C08,R0139,CBAR-5397,body,random,1,Yeni tələblərə 01.01.2027-ci il tarixindən etibarən tam riayət olunması banklardan tələb ediləcək.

@@ -1,0 +1,1102 @@
+=== text_0_nostrike.txt ===
+--- page 1 ---
+AZƏRBAYCAN RESPUBLİKASI MƏRKƏZİ BANKININ İDARƏ HEYƏTİNİN
+QƏRARI
+№16/1-2
+Bakı şəhəri 24 aprel 2020-ci il
+“Bank kapitalının və onun adekvatlığının hesablanması Qaydaları”nın təsdiq
+edilməsi barədə
+“Azərbaycan Respublikasının Mərkəzi Bankı haqqında” Azərbaycan
+Respublikası Qanununun 22.0.17-ci maddəsinə əsasən Azərbaycan Respublikası Mərkəzi
+Bankının İdarə Heyəti
+QƏRARA ALIR:
+1. “Bank kapitalının və onun adekvatlığının hesablanması Qaydaları” təsdiq
+edilsin (əlavə olunur).
+2. Ləğv edilmiş Azərbaycan Respublikasının Maliyyə Bazarlarına Nəzarət
+Palatasının 2018-ci il 16 noyabr tarixli 1851100015 nömrəli Qərarı ilə təsdiq edilmiş “Bank
+kapitalının və onun adekvatlığının hesablanması Qaydaları” və bu qaydalara 2019-cu il
+18 oktyabr tarixli 1951100033 nömrəli Qərarla təsdiq edilmiş dəyişiklik ləğv edilsin.
+Hüquq departamentinə (Rəna Məlikova) tapşırılsın ki, bu Qərarın 3 gün
+müddətində Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestrinə daxil
+edilməsi üçün Azərbaycan Respublikasının Ədliyyə Nazirliyinə təqdim edilməsini təmin
+etsin.
+Mərkəzi Bankın sədri Elman Rüstəmov
+--- page 2 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+“Təsdiq edilmişdir”
+Azərbaycan Respublikasının
+Mərkəzi Bankı
+Qərar № 16/1-2
+24 aprel 2020-ci il
+Bank kapitalının və onun adekvatlığının hesablanması
+Qaydaları
+1. Ümumi müddəalar
+1.1. Bu Qaydalar “Banklar haqqında” Azərbaycan Respublikası Qanununun (bundan
+sonra- Qanun) 21.1-ci, 34.2.1-ci, 34.2.2-ci və 34.2.3-cü maddələrinə uyğun olaraq, habelə Bank
+nəzarəti üzrə Bazel Komitəsinin Bazel III Standartı nəzərə alınmaqla hazırlanmışdır.
+1.2. Bu Qaydalar Azərbaycan Respublikasında fəaliyyət göstərən banklar və xarici
+bankların yerli filialları (bundan sonra - banklar) üçün məcmu kapitalın strukturunu,
+komponentlərini, adekvatlıq və leverec əmsallarını, onların minimum miqdarını və hesablanması
+qaydalarını müəyyən edir.
+2. Anlayışlar
+2.1. Bu Qaydalarda istifadə olunan anlayışlar aşağıdakı mənaları ifadə edir:
+2.1.1. məcmu kapital (xarici bankların yerli filialları üçün məcmu kapitala bərabər tutulmuş
+vəsait) - prudensial hesabatlıq məqsədləri üçün istifadə olunan kapital olmaqla, bu Qaydalarda
+müəyyən edilmiş I dərəcəli (əsas) və II dərəcəli (əlavə) kapitala daxil olan komponentlərin
+(elementlərin) cəmi və onlardan tutulmaların fərqi;
+2.1.1-1. I dərəcəli kapital - bankın fəaliyyətinin davam etməsinə imkan verən və itkiləri dərhal
+absorbsiya etmək imkanına malik olan elementlərdən ibarət kapital;
+2.1.1-2. II dərəcəli kapital - bankın ödəmə qabiliyyətinin itirilməsi mərhələsində silinmə və ya səhmə
+çevrilmə üsulu ilə bankın əmanətçiləri və (və ya) digər kreditorlarından əvvəl itkiləri absorbsiya etmək
+qabiliyyətinə malik olan elementlərdən ibarət kapital;
+2.1.3. kapitalın adekvatlıq əmsalları - bu Qaydalarda müəyyən edilmiş düsturlarla
+hesablanan I dərəcəli kapitalın və məcmu kapitalın ayrılıqda risk dərəcəsi üzrə ölçülmüş
+aktivlərə nisbəti;
+2.1.4. kontr-tsiklik kapital buferi – iqtisadi tsikl və kredit portfelinin dinamikasına uyğun
+olaraq Azərbaycan Respublikasının Mərkəzi Bankı (bundan sonra – Mərkəzi Bank) tərəfindən
+müəyyən edilmiş əsas I dərəcəli kapitaldan ibarət bufer;
+2.1.4-1. konservasiya kapital buferi – bankın itkiləri absorbsiya etmə potensialını artırmaq məqsədilə
+bu Qaydalarla müəyyən edilmiş əsas I dərəcəli kapitaldan ibarət bufer;
+2.1.4-2. sistem əhəmiyyətli bank kapital buferi – bankın sistem əhəmiyyətliliyi indeksi nəzərə
+alınmaqla onun itkiləri absorbsiya etmə potensialını artırmaq məqsədilə bu Qaydalarla müəyyən edilmiş
+əsas I dərəcəli kapitaldan ibarət bufer;
+2.1.5. kreditə konvertasiya əmsalı - bankın balansdankənar öhdəliklərinin balans
+aktivlərinin dəyərinə çevrilməsinə imkan verən göstərici;
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 3 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+2.1.6. aktivlər üzrə zərərin ödənilməsi üçün “adi” ehtiyatlar - bankın “standart aktivlər”i
+üzrə mümkün zərərlərin ödənilməsi üçün yaradılmış ehtiyatlar;
+2.1.7. aktivlər üzrə zərərin ödənilməsi üçün “məqsədli” ehtiyatlar - bankın “qeyri-standart
+aktivlər”i üzrə mümkün zərərlərin ödənilməsi üçün yaradılmış ehtiyatlar;
+2.1.8. kapitalın hibrid elementləri - səhmlərin və borc öhdəliklərinin xüsusiyyətlərini
+özündə birləşdirən müddətli və müddətsiz maliyyə alətləri,
+2.1.12. səhmlərin emissiyasından yaranan əlavə vəsait (bundan sonra - kapital artıqlığı) -
+adi, yaxud imtiyazlı səhmlərin yerləşdirilməsi zamanı onların satış dəyəri ilə nominal dəyəri
+arasında yaranmış fərq həcmində əldə edilmiş vəsait;
+2.1.13. qeyri-maddi aktivlər - kompüter proqramları, müəllif hüquqları, patent, təbii
+ehtiyatlardan istifadə hüquqları, lisenziyalar, ticarət və əmtəə nişanları, “nou-hau”, “qudvil” və
+fiziki ifadə forması olmayan, lakin dəyər yaradan və mülkiyyət hüququnun obyekti kimi tanınan
+digər hüquqlar;
+2.1.14. leverec əmsalı - bankın I dərəcəli kapitalının (bu Qaydaların 8-
+ci hissəsində müəyyən edilmiş tutulmalardan sonra) balans aktivlərinə və bankın hesablarında
+girov qoyulmuş Azərbaycan Respublikasının milli valyutası ilə, xarici valyuta ilə və ya bank
+metalları ilə təmin olunmuş hissəsi istisna olmaqla, balansdankənar öhdəliklərinə nisbəti;
+2.1.15. balansdankənar öhdəliklər - qarantiyalar, zaminlik və oxşar şərti öhdəliklər, kredit
+alətləri (kredit xətləri üzrə öhdəliklərin icra olunmamış hissəsi və oxşar kredit öhdəlikləri) və
+akkreditivlər;
+2.1.16. qiymətli kağızın bazar dəyəri - maliyyə bazarlarında qiymətli kağızın tələblə təklifin
+qarşılıqlı təsiri nəticəsində təşəkkül tapan qiyməti;
+2.1.17. istehlak krediti - sahibkarlıq və ya peşə fəaliyyəti, habelə daşınmaz əmlakın əldə
+edilməsi və tikintisi ilə bağlı olmayan məqsədlər üçün fiziki şəxslərə verilən kredit, o cümlədən
+kredit xətti;3
+2.1.18. biznes krediti - hüquqi şəxslərə və hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti ilə
+məşğul olan fiziki şəxslərə sahibkarlıq məqsədilə verilən kredit, habelə kənd təsəsrrüfatı kreditləri;
+4
+2.1.19. bank aksepti - qısa müddətli borc öhdəliklərininin icrasına bankın razılığını və ya
+zəmanətini nəzərdə tutan sənəd;
+2.1.20. çoxtərəfli inkişaf bankı - iki və daha artıq ölkə tərəfindən iqtisadi inkişafın
+dəstəklənməsi məqsədilə təsis edilmiş beynəlxalq maliyyə təşkilatı;
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 4 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+5
+6
+2.1.24. pul vəsaitlərinin hərəkəti üzrə hedcinq ehtiyatları - bazarda maliyyə alətlərinin dəyərindəki
+dəyişikliklərlə bağlı potensial itkilərdən qorunmaq məqsədilə gələcək pul vəsaitlərinin hərəkətinin törəmə
+maliyyə alətləri vasitəsilə hedcləşdirilməsi nəticəsində yaranan və digər məcmu gəlirlərdə tanınan yığılmış
+mənfəət və ya zərər;
+2.1.25 təxirə salınmış vergi aktivləri - çıxılan müvəqqəti fərqlər, gələcək dövrə keçirilən istifadə
+olunmamış vergi zərərləri və gələcək dövrə keçirilən istifadə olunmamış vergi kreditləri ilə əlaqədar gələcək
+dövrlərdə əvəzi alınmalı olan mənfəət vergisi məbləği;
+2.1.26. digər məcmu gəlirlər - mənfəət və ya zərər haqqında hesabatda əks olunmayan gəlir və zərər;
+2.1.27. çarpaz investisiya - bankın digər maliyyə təşkilatının, həmin maliyyə təşkilatının isə bankın
+səhmlərinə və ya kapitalındakı digər, o cümlədən hibrid elementlərə birbaşa və ya dolayı yolla (törəmə
+maliyyə alətləri, kredit, qarantiya və buna oxşar alətlər vasitəsilə edilən investisiyalar) sahibliyi;
+2.1.28. əhəmiyyətli investisiya - aşağıdakı meyarlardan azı birinə uyğun olan investisiya:
+2.1.28.1. bankın digər hüquqi şəxsin adi səhmlərində 10 (on) faizdən artıq paya sahib olması;
+2.1.28.2. kapitalında iştirak payından asılı olmayaraq bankın müqavilə əsasında və ya başqa əsaslarla
+digər hüquqi şəxsin qərarlarının qəbul edilməsinə mühüm təsir göstərməsinə imkan verən paya sahib
+olması.
+2.1.29. qismən əhəmiyyətli və ya əhəmiyyətsiz investisiya – əhəmiyyətli investisiyalara aid olmayan
+digər investisiyalar.
+2.1.30. maliyyə təşkilatları – bank xidmətləri və digər maliyyə xidmətlərini göstərən təşkilatlar
+(banklar, bank olmayan kredit təşkilatları, kredit ittifaqları, lizinq verənlər, sığorta, faktorinq, lombard
+təşkilatları və digər oxşar təşkilatlar);
+2.2. Bu Qaydada istifadə edilən digər anlayışlar “Banklar haqqında” Azərbaycan Respublikasının
+Qanunu və həmin Qanundan irəli gələn normativ xarakterli aktlar ilə müəyyən edilmiş mənaları ifadə
+edir.7
+2.3. Bu Qaydaların məqsədləri üçün kredit xətti dedikdə bank hesabı müqaviləsinə müvafiq surətdə
+müştərinin hesabında pul vəsaitinin olmadığına baxmayaraq bank tərəfindən ödənişlərin həyata keçirilməsi
+üçün kreditin ayrılması (hesabın kreditləşdirilməsi) barədə öhdəlik (müştərinin borc almaq, kredit
+təşkilatının isə borc verməklə bağlı iradəsindən asılı olmayan və klirinq zamanı baş verən məzənnə
+dəyişikliyi və ya texniki problemlərdən yaranan öhdəlik istisna olmaqla) də nəzərdə tutulur.8
+3. Məcmu kapitalın məqsədi və ona dair tələblər
+3.1. Bankın məcmu kapitalının əsas məqsədi bankın biznes strategiyasının dəstəklənməsi,
+daxili və xarici mühitdə baş verən əlverişsiz dəyişikliklər zamanı bankın maliyyə dayanıqlığının
+təmin edilməsidir. Məcmu kapital bankın ödəmə qabiliyyətinin itirilməsinə gətirib çıxara bilən
+mümkün zərərlərin azaldılmasına, əmanətçilərin və potensial investorların bank sisteminə
+etimadının artırılmasına xidmət edir.
+3.2. Bankın məcmu kapitalının minimum miqdarı 50 (əlli) milyon manat məbləğində
+olmalıdır.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 5 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+3.3. Məcmu kapitala yalnız pul vəsaiti ilə ödənilən maliyyə alətləri daxil edilir.
+3.4. Qanunun 21.2-ci və 21.3-cü maddələrinin tələblərinə müvafiq olaraq Mərkəzi Bankın
+qabaqcadan yazılı icazəsi olmadan bank səhmlərinin satın alınması və ya səhmlərin nominal
+dəyərinin azaldılması zamanı onun dəyərinin ödənilməsi yolu ilə məcmu kapitalını azalda
+bilməz, habelə xarici bank nizamnamə kapitalına bərabər tutulmuş vəsaitlərinin geri götürülməsi
+yolu ilə yerli filialının məcmu kapitala bərabər tutulmuş vəsaitini azalda bilməz.
+3.5. Bankların nizamnamə kapitalı (xarici bankların yerli filialları üçün nizamnamə
+kapitalına bərabər tutulmuş vəsait) Qanunun 21.4-cü maddəsinə uyğun olaraq yalnız
+Azərbaycan Respublikasının milli valyutasında ödənilən pul vəsaiti ilə formalaşdırılır.
+3.6. Yeni yaradılan banklar üçün nizamnamə kapitalının (xarici bankların yerli filialları
+üçün nizamnamə kapitalına bərabər tutulmuş vəsaitin) minimum miqdarı 50 (əlli) milyon manat
+məbləğində olmalıdır.
+4. Kapitalın idarə edilməsi
+4.1. Müşahidə Şurası və İdarə Heyəti bank kapitalının bankın üzləşdiyi bütün
+risklərin səviyyəsinə uyğun həcmdə, bu Qaydalarda müəyyən edilən minimum miqdardan az
+olmayaraq, saxlanmasını və bu Qaydaların 8-3.1-ci və 8-4.5-ci bəndlərində müəyyən edilmiş
+adekvatlıq normalarına riayət olunmasını təmin etməlidir.
+4.2. Kapitalın bankın biznes fəaliyyətinin və risk mühitinin xüsusiyyətlərinə uyğun
+qiymətləndirilməsi və onun səviyyəsinin müəyyən edilməsi mexanizmləri, o cümlədən bankın
+məruz qaldığı kredit, bazar, əməliyyat və digər risklərin bank kapitalının
+adekvatlıq əmsallarına potensial təsirinin qiymətləndirilməsi prosedurları mövcud olmalıdır.
+4.3. Risklərin idarə edilməsi üzrə bankın siyasətində onun kapitala olan cari və gələcək
+tələbatı, gözlənilən kapital xərcləri, kapitalın arzuolunan səviyyəsi və strukturu, kapitalın daxili
+və xarici mənbələri, həmçinin bankın maliyyə vəziyyətinin pisləşməsi halında əlavə kapital
+vəsaitlərinin cəlb edilməsi imkanları və müddətləri müəyyən edilir.
+4.4. Bank məruz qaldığı risklərin və bu risklərin dəyişməsinin bankın gəlirliyinə,
+kapital adekvatlığı əmsallarına təsirini qiymətləndirir. Qiymətləndirmə bank
+risklərinin xüsusiyyətləri nəzərə alınmaqla bankın müəyyən etdiyi dövriliklə stress-testləşdirmə
+və ya risklərin idarə edilməsi sahəsində tətbiq olunan digər metodlardan istifadə edilməklə
+həyata keçirilir. Qiymətləndirmə ən azı aşağıdakı elementləri əhatə edir:
+4.4.1. bütün mühüm risklərin müəyyənləşdirilməsi, ölçülməsi və onların bank
+kapitalının adekvatlığı əmsallarına təsirinin qiymətləndirilməsi;
+4.4.2. bankın təyin edilmiş kapital adekvatlığı hədəflərinə nail olmasının
+qiymətləndirilməsi;
+4.4.3. kapitalın qiymətləndirilməsi sistemində istifadə edilən əsas fərziyyələrin
+qiymətləndirilməsi;
+4.4.4. risklər əsasında bankın gələcəkdə kapitala olan tələbatının qiymətləndirilməsi
+və lazım gəldikdə risklərin idarə edilməsi siyasətində müvafiq düzəlişlərin edilməsi zərurətinin
+müəyyənləşdirilməsi.
+4.5. Kapitalın adekvatlığı əmsallarını təmin etmək məqsədilə bankda kapitalın və
+müvafiq risklərin idarə edilməsi prosesləri aşağıdakı istiqamətlər üzrə təhlil edilir:
+4.5.1. fəaliyyətinin xüsusiyyəti, həcmi və mürəkkəbliyi nəzərə alınmaqla kapitalın
+qiymətləndirilməsi prosesinin səmərəliliyi;
+4.5.2. kapitalın əsas risklərin səviyyəsi ilə düzgün əlaqələndirilməsi;
+4.5.3. qiymətləndirmə zamanı istifadə edilən məlumatların dürüstlüyü və dolğunluğu;
+4.5.4. qiymətləndirmə zamanı istifadə olunan fərziyyə, model və ssenarilərin
+əsaslandırılması və etibarlılığı.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 6 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+4.6. Bu Qaydaların 4.4-cü və 4.5-ci bəndlərinə müvafiq olaraq aparılmış qiymətləndirmənin
+və təhlilin nəticələri bankda müəyyən edilmiş hesabatlıq qaydasına uyğun olaraq Müşahidə
+Şurasına təqdim edilir.
+4.7. Bank kapitalının qiymətləndirilməsi və idarə edilməsi prosesləri ildə bir
+dəfədən az olmayaraq daxili audit vasitəsilə yoxlanılır və nəticələr barədə Müşahidə Şurasına
+hesabat verilir.
+5. Məcmu kapitalın strukturu
+5.1. Məcmu kapitalın strukturuna birinci (I) dərəcəli və ikinci (II) dərəcəli kapital daxildir.
+5.2. Birinci (I) dərəcəli kapital Əsas birinci (I) dərəcəli kapital və Əlavə birinci (I) dərəcəli kapitaldan
+ibarətdir.
+5.3. Əsas I dərəcəli kapitalın, Əlavə I dərəcəli kapitalın və II dərəcəli kapitalın hesablanması qaydası
+bu Qaydaların 6-cı, 6-1-ci və 7-ci hissələrində müəyyən edilir.
+6. Əsas I dərəcəli kapital
+6.1.
+Əsas I dərəcəli kapital bu
+Qaydaların 6.2-ci bəndində müəyyən edilmiş elementlərin cəmi ilə bu Qaydaların 8-ci hissəsində müəyyən
+edilmiş tutulmaların fərqinə bərabərdir.
+6.2. Əsas I dərəcəli kapitala aşağıdakı elementlər daxil edilir:
+6.2.1. dövriyyəyə buraxılıb tam ödənilmiş adi səhmlər (bankın geri aldığı adi səhmlər
+çıxılmaqla);
+6.2.3. bu Qaydaların 6.2.1-ci yarımbəndindəki səhmlər üzrə kapital artıqlığı;
+6.2.3-1. yığılmış digər məcmu gəlirlər;
+6.2.4. bölüşdürülməmiş xalis mənfəət
+6.3. ölüşdürülməmiş xalis mənfəət ə aşağıdakılar daxil edilir:
+6.3.1 bütün əvvəlki illərin yığılıb bölüşdürülməmiş mənfəəti və ya
+zərəri;
+6.3.1-1. cari ilin mənfəət və ya zərəri. Hesablamada bankın səhmdarlarının ümumi yığıncağı
+tərəfindən ödənişi barədə qərar verilmiş və ya qərar verilməsi nəzərdə tutulan dividend (gözlənilən
+dividend) məbləği cari ilin mənfəətindən çıxılır, səhmdarların ümumi yığıncağının qərarı olmadıqda isə
+gözlənilən dividend məbləği bankın dividend siyasətində müəyyən edilmiş həddən az olmamaqla çıxılır.
+Bankın dividend siyasəti olmadıqda gözlənilən dividend məbləği bankın son üç mənfəətli ili üzrə orta
+dividend ödənişi əmsalı və son mənfəətli ilin dividend ödənişi əmsalı arasında ən yüksək olanından az
+olmamaqla çıxılır. Gözlənilən dividend məbləğinin hesablanması zamanı xalis mənfəətin bölüşdürülə bilən
+hissəsi üzrə bu Qaydaların 8-2.2-ci bəndində müəyyən edilmiş məhdudiyyətlər nəzərə alınır;
+6.3.2. kapital ehtiyatları, yəni əvvəlki illərin bölüşdürülməmiş mənfəəti hesabına
+yaradılmış fondlar.
+6.4. Cari ilin mənfəəti beynəlxalq nüfuzlu kənar auditor tərəfindən xüsusi ehtiyatların Mərkəzi
+Bankın normativ xarakterli aktlarının tələblərinə uyğun olaraq yaradıldığı təsdiq edildiyi halda bu
+Qaydaların 6.3.1-1-ci yarımbəndinə uyğun olaraq Əsas I dərəcəli kapitala daxil edilir.
+6.5. Cari ilin mənfəəti bu Qaydaların 6.4-cü bəndində müəyyən edilmiş tələblərə uyğun olaraq
+beynəlxalq nüfuzlu kənar auditor tərəfindən təsdiqlənmədikdə cari ilin mənfəəti bankın II dərəcəli kapitalına
+daxil edilir.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 7 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+6-1. Əlavə I dərəcəli kapital
+6-1.1. Əlavə I dərəcəli kapital bu Qaydaların 6-1.2-ci bəndində müəyyən edilmiş elementlərin cəmi
+ilə bu Qaydaların 8-ci hissəsində müəyyən edilmiş tutulmaların fərqinə bərabərdir.
+6-1.2. Əlavə I dərəcəli kapitala aşağıdakı elementlər daxil edilir:
+6-1.2.1. bank tərəfindən emissiya edilən və bu Qaydaların 6-1.3-cü bəndində müəyyən edilmiş
+tələblərə cavab verən kapitalın elementləri, o cümlədən hibrid elementləri;
+6-1.2.2. bu Qaydaların 6-1.2.1-ci yarımbəndində nəzərdə tutulmuş tələblərə uyğun gələn səhmlər
+üzrə kapital artıqlığı.
+6-1.3. Azı aşağıdakı bütün meyarlara cavab verən kapital elementləri Əlavə I dərəcəli kapitala daxil
+edilir:
+6-1.3.1. dövriyyəyə buraxılmış və tam ödənilmiş olmalıdır;
+6-1.3.2. bank ləğv edildikdə bu elementlər üzrə öhdəliklərin icrası bankın əmanətçilərinin və digər
+kreditorlarının tələbləri, habelə II dərəcəli kapitala daxil edilən borc öhdəlikləri tam ödənildikdən sonra
+müəyyən edilməli və ya ödənişlərlə bağlı hər hansı imtiyaz nəzərdə tutulmamalıdır;
+6-1.3.3. bu elementlər üzrə öhdəliklərin icrasına bankın aktivləri ilə təminat verilməməlidir;
+6-1.3.4. bu elementlər üzrə öhdəliklərin əsas məbləğinin icrası müddətsiz kimi müəyyən olunmalı və
+bu Qaydaların 6-1.3.5-ci yarımbəndinin tələbi nəzərə alınmaqla geri ödəməni təşviq edəcək hər hansı şərt
+(məsələn, dividend və faiz artımı) müəyyən olunmamalıdır;
+6-1.3.5. bu elementlər üzrə geri çağırılma imkanı olduqda, Mərkəzi Bankın razılığı əsasında bu cür
+öhdəliklərin yaranma tarixindən azı 5 (beş) il sonra geri çağırılması nəzərdə tutula bilər. Mərkəzi Bank
+tərəfindən bu cür razılığın verilməsi zamanı aşağıdakılar nəzərə alınır:
+6-1.3.5.1. bu kapital elementinin geri çağırılması nəticəsində Mərkəzi Bankın bank kapitalına dair
+müəyyən etdiyi prudensial normativlər pozulmamalıdır;
+6-1.3.5.2. bu kapital elementinin oxşar və ya daha dayanıqlı kapital elementləri ilə əvəz edilməsi
+mümkün olmalıdır.
+6-1.3.6. bu elementlər üzrə öhdəliklərin əsas məbləği Mərkəzi Bankın razılığı əsasında icra oluna
+bilər. Mərkəzi Bank tərəfindən bu cür razılığın verilməsi zamanı bu Qaydaların 6-1.3.5.1-ci və 6-1.3.5.2-
+ci yarımbəndlərinin tələbləri nəzərə alınır.
+6-1.3.7. bankın bu elementlər üzrə dividend və ya faiz ödənişlərinin verilməməsi hüququ olmalıdır
+və bu hüquqdan istifadə bankı müflis elan etmək və ya ləğv etmək üçün əsas verməməlidir;
+6-1.3.8. bu elementlər üzrə ödənişlərin şərti bankın kredit reytinqi və (və ya) maliyyə vəziyyəti ilə
+əlaqəli olmamalıdır;
+6-1.3.9. bu elementlərin bank və ya bankın mühüm təsir göstərdiyi hüquqi şəxs tərəfindən əldə
+edilməsi və ya bu elementlərin alışının birbaşa və ya dolayı yolla bank tərəfindən maliyyələşdirilməsi
+(məsələn, kredit, qarantiya və s.) nəzərdə tutulmamalıdır;
+6-1.3.10. bankın Əsas I dərəcəli kapitalı 5.125%-dən aşağı düşdükdə bu elementlərin həcmini
+azaltmaq və ya adi səhmə çevirmək hüququ olmalıdır. Bu hal baş verdikdə bank Mərkəzi Bankı dərhal
+məlumatlandırır. Bank bu elementləri Əsas I dərəcəli kapitalın azı 5.125%-ə çatdırılması üçün tələb olunan
+məbləğ həcmində azaldır və ya adi səhmə çevirir.
+6-1.4. Bank tərəfindən bu Qaydaların 6-1.3-cü bəndinin bütün meyarlarına cavab verən kapital
+elementlərinin Əlavə I dərəcəli kapitala daxil edilməsi barədə qərar qəbul edildikdən sonra, bu barədə
+məlumat növbəti 3 (üç) iş günü ərzində Mərkəzi Banka təqdim edilir.
+6-1.5. Azərbaycan Respublikasının vergi və digər qanunvericilik aktlarında bu elementlərlə bağlı
+əhəmiyyətli dəyişikliklər olduqda, bu Qaydaların 6-1.3.5.1-ci və 6-1.3.5.2-ci yarımbəndlərinin tələblərinə
+əməl olunmaqla Mərkəzi Bankın razılığı əsasında bu elementlər üzrə geri çağırılma imkanı onun ilk 5 (beş)
+illik müddəti ərzində icra edilə bilər.
+7. II dərəcəli kapital
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 8 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+7.1.
+II dərəcəli kapital bu Qaydaların 7.2-ci
+bəndində müəyyən edilmiş elementlərin cəmi ilə bu Qaydaların 8-ci hissəsində müəyyən edilmiş
+tutulmaların fərqinə bərabərdir.
+7.2. II dərəcəli kapitala aşağıdakı elementlər daxil edilir:
+7.2.1. cari ilin mənfəəti (əsas I dərəcəli kapitalda tanınmadığı halda). Hesablamada bankın
+səhmdarlarının ümumi yığıncağı tərəfindən ödənişi barədə qərar verilmiş və ya gözlənilən dividend məbləği
+cari ilin mənfəətindən çıxılır. Gözlənilən dividend məbləği bu Qaydaların 6.3.1-1-ci yarımbəndinin
+tələbləri nəzərə alınmaqla hesablanır;
+7.2.2.
+“adi” ehtiyatlar (risk dərəcəsi üzrə ölçülmüş aktivin 1,25 faizinədək
+hissəsi);
+7.2.3
+bank tərəfindən emissiya edilən və bu Qaydaların 7.3-cü bəndində müəyyən edilmiş tələblərə
+cavab verən kapitalın elementləri, o cümlədən hibrid elementləri;
+7.2.4. bu Qaydaların 7.2.3-cü yarımbəndində nəzərdə tutulmuş tələblərə uyğun gələn səhmlər üzrə
+kapital artıqlığı.
+7.3. Bu Qaydaların 6-1.3.1-ci, 6-1.3.3-cü, 6-1.3.5-ci, 6-1.3.8-ci yarımbəndlərində göstərilən və
+aşağıda müəyyən edilmiş azı bütün meyarlara cavab verən kapitalın elementləri II dərəcəli kapitala daxil
+edilir:
+7.3.1. kreditorların tələbi ilə geri çağırılması qeyri-mümkündür ;
+7.3.3
+bank ləğv edildikdə bu elementlər üzrə öhdəliklərin
+ödənilməsi Əlavə I dərəcəli kapitala daxil edilən borc öhdəliklərinin icrasından əvvəl, lakin bankın
+əmanətçilərinin və digər kreditorlarının tələbləri tam ödənildikdən sonra müəyyən edilməli və ya ödənişlərlə
+bağlı hər hansı imtiyaz nəzərdə tutulmamalıdır;
+7.3.6.
+bu elementlər üzrə
+öhdəliklərin əsas məbləğinin icra müddəti bu cür öhdəliklərin yaranma tarixindən azı 5 (beş) ildən sonra
+müəyyən olunur və bu Qaydaların 6-1.3.5-ci yarımbəndinin tələbi nəzərə alınmaqla vaxtından əvvəl geri
+ödəməni təşviq edəcək hər hansı şərt (məsələn, dividend və faiz artımı) müəyyən olunmamalıdır;
+7.3.7. bu elementlər bank və ya banka aidiyyəti olan şəxs tərəfindən əldə edilmir və ya bu elementlərin
+alışı birbaşa və ya dolayı yolla bank tərəfindən maliyyələşdirilmir (məsələn, kredit, qarantiya və s);
+7.3.8. bankın rezolyusiyası çərçivəsində Mərkəzi Bankın qərarı əsasında bu elementlər silinə və ya
+adi səhmə çevrilə bilər;
+7.3.9. bu elementlər üzrə öhdəliklərin əsas məbləğinin vaxtından əvvəl ödənilməsi Mərkəzi Bankın
+razılığı əsasında icra edilir. Mərkəzi Bank tərəfindən bu cür razılığın verilməsi zamanı bu Qaydaların 6-
+1.3.5.1-ci və 6-1.3.5.2-ci yarımbəndlərinin tələbləri nəzərə alınır.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 9 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+7.4. II dərəcəli kapitala daxil olan elementlər
+II dərəcəli kapitalda ödəniş müddətinin başa çatmasına 5 (beş) il qaldıqda qalıq
+müddətinin birinci ilinin əvvəlindən başlayaraq hər il 20 (iyirmi) faiz azaldılmaqla nəzərə alınır.
+7.6. Bu Qaydaların 6-1.4-cü və 6-1.5-ci bəndlərinin tələbləri II dərəcəli kapitalın elementlərinə də
+şamil edilir.
+7.7. Bu Qaydaların 6-1-ci və 7-ci hissələrində Mərkəzi Bankdan razılığın əldə edilməsi nəzərdə
+tutulduqda Mərkəzi Bank bu cür müraciətlərə daxil olduğu tarixdən 30 (otuz) gün ərzində baxır və qərarını
+banka yazılı surətdə təqdim edir. Razılığın verilməsindən imtina olunduqda Mərkəzi Bank öz qərarını
+əsaslandırır.
+8. Kapitaldan tutulmalar
+8.1. Kapitalın adekvatlıq əmsalları və leverec əmsalı hesablanmazdan əvvəl Əsas I dərəcəli
+kapitala, Əlavə I dərəcəli kapitala və II dərəcəli kapitala aşağıda göstərilən qaydada
+düzəlişlər edilir :
+8.1.3. əsas vəsaitlərin yenidən qiymətləndirilməsindən yaranan artıqlıq – tam həcmdə Əsas I dərəcəli
+kapitaldan çıxılır;
+8.1.4. bütün “qeyri-maddi” aktivlərin xalis dəyəri (amortizasiyası nəzər alınmaqla) – tam həcmdə
+Əsas I dərəcəli kapitaldan çıxılır;
+8.1.5. təxirə salınmış vergi aktivləri – bu Qaydaların 8.1.5.1-ci və 8.1.5.2-ci yarımbəndlərinin
+tələblərinə uyğun olaraq:
+8.1.5.1. keçmiş illərin vergi zərərlərinin gələcək dövrlərə ötürülməsi nəticəsində yarandıqda - tam
+həcmdə Əsas I dərəcəli kapitaldan çıxılır;
+8.1.5.2. müvəqqəti fərqlərdən (məsələn, ehtiyatlardan, komissiya gəlirlərindən, amortizasiya
+üsulunun seçimindən və s.) yarandıqda – bu cür təxirə salınmış vergi aktivlərinin məbləğinin bankın Əsas
+I dərəcəli kapitalının 10 faizindən artıq olan hissəsi bankın Əsas I dərəcəli kapitalından çıxılır (bu
+yarımbəndin məqsədi üçün Əsas I dərəcəli kapital bu Qaydaların 8.1.3-cü, 8.1.4-cü, 8.1.5.1-ci, 8.1.6-cı,
+8.1.7-ci və 8.1.8-ci yarımbəndlərində müəyyən edilmiş tutulmalar aparıldıqdan sonra nəzərə alınır).
+8.1.6. pul vəsaitlərinin hərəkəti üzrə hedcinq ehtiyatları – hesablamada pul vəsaitlərinin hərəkəti üzrə
+hedcinq ehtiyatlarının məbləği müsbət olduqda bu məbləğ tam həcmdə Əsas I dərəcəli kapitaldan çıxılır,
+mənfi olduqda isə Əsas I dərəcəli kapitala əlavə edilir;
+8.1.7. maliyyə təşkilatlarının kapitalına çarpaz investisiyalar – tam həcmdə bu Qaydaların 8.1.7.1 -
+8.1.7.4-cü yarımbəndlərinin tələblərinə uyğun olaraq “Müvafiq kapital maddəsindən çıxılma” yanaşması
+əsasında:
+8.1.7.1. adi səhmlərə investisiyalar – Əsas I dərəcəli kapitaldan çıxılır;
+8.1.7.2. bu Qaydaların 6-1.3-cü bəndində müəyyən edilmiş tələblərə uyğun olan kapitalın digər
+elementlərinə investisiyalar – Əlavə I dərəcəli kapitaldan çıxılır;
+8.1.7.3. bu Qaydaların 7.3-cü bəndində müəyyən edilmiş tələblərə uyğun olan kapitalın digər
+elementlərinə investisiyalar – II dərəcəli kapitaldan çıxılır;
+8.1.7.4. bu Qaydaların 8.1.7.1 – 8.1.7.3-cü yarımbəndlərinə aid olmayan investisiyalar – Əsas I
+dərəcəli kapitaldan çıxılır.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 10 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+8.1.8. maliyyə təşkilatlarının kapitalına investisiyaların məbləği bu Qaydaların 8.1.8.1-8.1.8.2-ci
+yarımbəndlərinin tələblərinə uyğun olaraq:
+8.1.8.1. qismən əhəmiyyətli və ya əhəmiyyətsiz investisiyalar - bütün bu cür investisiyaların məcmu
+miqdarının bankın Əsas I dərəcəli kapitalının 10 faizindən artıq olan hissəsi bu Qaydaların 8.1.7-ci
+yarımbəndində müəyyən edilmiş “Müvafiq kapital maddəsindən çıxılma” yanaşması əsasında bankın
+kapitalından (maliyyə təşkilatlarının müvafiq kapital elementinə qoyulmuş investisiyanın çəkisinə uyğun
+olaraq) çıxılır (bu yarımbəndin məqsədləri üçün hesablamada Əsas I dərəcəli kapital bu Qaydaların 8.1.3 –
+8.1.7-ci yarımbəndlərində (8.1.5.2-ci yarımbənddə müəyyən edilmiş tutulmalar istisna olmaqla) müəyyən
+edilmiş tutulmalar aparıldıqdan sonra nəzərə alınır).
+8.1.8.2. əhəmiyyətli investisiyaların məbləği - bu Qaydaların 8.1.8.2.1-8.1.8.2.3-cü
+yarımbəndlərinin tələblərinə uyğun olaraq:
+8.1.8.2.1. maliyyə təşkilatlarının əsas I dərəcəli kapitalına investisiyaların məcmu miqdarının bankın
+Əsas I dərəcəli kapitalının 10 faizindən artıq olan hissəsi bankın Əsas I dərəcəli kapitalından çıxılır;
+8.1.8.2.2. Əsas I dərəcəli kapitala investisiyalar istisna olmaqla maliyyə təşkilatlarına digər kapital
+investisiyaları tam həcmdə bu Qaydaların 8.1.7-ci yarımbəndində müəyyən edilmiş “Müvafiq kapital
+maddəsindən çıxılma” yanaşması əsasında bankın kapitalından çıxılır;
+8.1.8.2.3. bu Qaydaların 8.1.8.2-ci yarımbəndinin məqsədləri üçün hesablamada Əsas I dərəcəli
+kapital bu Qaydaların 8.1.3 – 8.1.7-ci və 8.1.8.1-ci yarımbəndlərində (8.1.5.2-ci yarımbənddə müəyyən
+edilmiş tutulmalar istisna olmaqla) müəyyən edilmiş tutulmalar aparıldıqdan sonra nəzərə alınır;
+8.1.9. maliyyə təşkilatları istisna olmaqla digər hüquqi şəxslərin kapitalına birbaşa və ya dolayı
+investisiyaların məbləği – tam həcmdə Əsas I dərəcəli kapitaldan çıxılır.
+8.2. Bu Qaydaların 8.1.7-ci və 8.1.8-ci yarımbəndlərində müəyyən edilmiş tutulmalar aparılan
+zaman II dərəcəli kapitalın həcmi yetərli olmadıqda tutulmaların qalan hissəsi Əlavə I dərəcəli kapitaldan,
+Əlavə I dərəcəli kapitalın həcmi yetərli olmadıqda isə tutulmaların qalan hissəsi Əsas I dərəcəli kapitaldan
+tutulur.
+8.3. İnvestisiyalar Maliyyə Hesabatlarının Beynəlxalq Standartlarına uyğun olaraq qiymətləndirilir.
+8.4. Bu Qaydaların 8.1.7 – 8.1.9-cu yarımbəndlərində müəyyən edilmiş tutulmalar aparılan zaman
+həmin investisiyalar üçün yaradılmış “məqsədli” ehtiyatlar istisna edilir.
+8-1. Kapitalın adekvatlıq əmsallarına dair tələblər
+8-1.1. Banklar tərəfindən kapitalın adekvatlıq əmsalları aşağıdakı hədlərdən az olmayan səviyyədə
+saxlanılır:
+8-1.1.1. Əsas I dərəcəli kapitalın adekvatlıq əmsalı – Əsas I dərəcəli kapitalın risk dərəcəsi üzrə
+ölçülmüş aktivlərə nisbəti 4.5 (dörd tam onda beş) faiz olmaqla;
+8-1.1.2. I dərəcəli kapitalın adekvatlıq əmsalı – I dərəcəli kapitalın risk dərəcəsi üzrə ölçülmüş
+aktivlərə nisbəti 6 (altı) faiz olmaqla;
+8-1.1.3. məcmu kapitalın adekvatlıq əmsalı – məcmu kapitalın risk dərəcəsi üzrə ölçülmüş aktivlərə
+nisbəti 8 (səkkiz) faiz olmaqla.
+8-1.2. Kapitalın adekvatlıq əmsallarının hesablanması zamanı istifadə edilən risk dərəcəsi üzrə
+ölçülmüş aktivlər kredit riski, əməliyyat riski və bazar riski üzrə ölçülmüş aktivlərin cəminə bərabərdir.
+8-2. Konservasiya kapital buferi
+8-2.1. Banklar tərəfindən bu Qaydaların 8-1.1-ci bəndində müəyyən edilmiş kapitalın minimum
+adekvatlıq əmsalları üzrə tələbdən əlavə 2.5 (iki tam onda beş) faiz həddində konservasiya kapital buferi
+saxlanılır. Konservasiya kapital buferinin tətbiqindən sonra kapitalın adekvatlıq əmsallarının yeni hədləri
+aşağıdakı kimi müəyyən edilir:
+8-2.1.1. Əsas I dərəcəli kapitalın adekvatlıq əmsalı – 7 (yeddi) faiz;
+8-2.1.2. I dərəcəli kapitalın adekvatlıq əmsalı – 8.5 (səkkiz tam onda beş) faiz;
+8-2.1.3. məcmu kapitalın adekvatlıq əmsalı – 10.5 (on tam onda beş) faiz.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 11 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+8-2.2. Bank tərəfindən konservasiya kapital buferi bu Qaydaların 8-2.1-ci bəndində müəyyən edilmiş
+həddən aşağı düşdükdə mükafat və dividend ödənişi, o cümlədən aralıq dividend ödənişi aşağıdakı cədvəldə
+müəyyən edilmiş qaydada məhdudlaşdırılır:
+Konservasiya kapital buferinin həddi Xalis mənfəətin bölüşdürülə bilən hissəsi
+2.5% olduqda Xalis mənfəətin bölüşdürülməsi üzrə məhdudiyyət tətbiq
+edilmir
+1.875%-dən artıq və 2.5%-dən az olduqda Xalis mənfəətin 60%-dək hissəsi bölüşdürülə bilər
+1.25%-dən artıq, lakin 1.875%-dən çox Xalis mənfəətin 40%-dək hissəsi bölüşdürülə bilər
+olmadıqda
+0.625%-dən artıq, lakin 1.25%-dən çox Xalis mənfəətin 20%-dək hissəsi bölüşdürülə bilər
+olmadıqda
+0.625% və ya ondan az olduqda Xalis mənfəətin bölüşdürülməsinə yol verilmir
+8-2.3. Bu Qaydaların 8-2.2-ci bəndindəki cədvəldə müəyyən edilmiş konservasiya kapital buferinin
+həddi aşağıdakı düsturla müəyyən edilir:
+konservasiya buferinin həddi = Minimum [(faktiki Əsas I dərəcəli kapitalın adekvatlıq əmsalı – Əsas
+I dərəcəli kapitalın adekvatlıq əmsalı üzrə tələb); (faktiki I dərəcəli kapitalın adekvatlıq əmsalı – I dərəcəli
+kapitalın adekvatlıq əmsalı üzrə tələb); (faktiki məcmu kapitalın adekvatlıq əmsalı – məcmu kapitalın
+adekvatlıq əmsalı üzrə tələb); 2.5%]
+Burada: faktiki Əsas I dərəcəli, I dərəcəli və məcmu kapitalın adekvatlıq əmsalları dedikdə bankın
+hesabat tarixinə sözügedən əmsallar üzrə göstəricisi nəzərdə tutulur. Əsas I dərəcəli, I dərəcəli və məcmu
+kapitalın adekvatlıq əmsalları üzrə tələb dedikdə isə bu Qaydaların 8-1.1-ci bəndində müəyyən edilmiş
+minimum hədlər ilə bu Qaydaların 8-3-cü və 8-4-cü hissələrində müəyyən edilmiş kontr-tsiklik kapital
+buferi və sistem əhəmiyyətli bank kapital buferinin cəmi nəzərdə tutulur (məsələn, fərz edək ki, kontr-tsiklik
+kapital buferi 0.5%-dir, sistem əhəmiyyətli bankın kapital buferi 1%-dir, bu halda bu tələb Əsas I dərəcəli
+kapital üzrə 6%, I dərəcəli kapital üzrə 7.5% və məcmu kapital üzrə isə 9.5% təşkil edəcəkdir).
+8-2.4. Bu Qaydaların 8-2.2-ci bəndinin məqsədləri üçün xalis mənfəət dedikdə Mərkəzi Bankın 2023-
+cü il 28 avqust tarixli 41/1 nömrəli Qərarı ilə təsdiq edilmiş “Banklarda korporativ idarəetmə
+Standartları”nda mükafatlandırma və dividend ödənişləri üzrə tələb olunan mənfəət nəzərdə tutulur.
+8-2.5. Bankın konservasiya kapital buferi bu Qaydaların 8-2.1-ci bəndində müəyyən edilmiş həddən
+aşağı düşdükdə bank bu barədə Mərkəzi Bankı dərhal məlumatlandırır və pozuntudan sonrakı 5 (beş) iş
+günü ərzində Mərkəzi Banka bu həddin bərpa olunmasına dair plan təqdim edir. Bərpa planında azı
+aşağıdakı məsələlər müəyyən olunur:
+8-2.5.1. bankın qiymətləndirmə nəticələri və proqnozları;
+8-2.5.2. konservasiya kapital buferinin artırılması üzrə bankın nəzərdə tutduğu tədbirlər;
+8-2.5.3. konservasiya kapital buferinə tam əməl olunması üçün tələb olunan müddət;
+8-2.5.4. bərpa planının icrasının dəqiqləşdirilməsi üçün Mərkəzi Bank tərəfindən digər məlumatlar
+tələb edildikdə, həmin məlumatlar.
+8-2.6. Təqdim edilmiş bərpa planı 15 (on beş) iş günü ərzində Mərkəzi Bank tərəfindən təhlil edilir
+və bank tərəfindən təqdim edilmiş müddət və tədbirlər ağlabatan olduqda Mərkəzi Bank bərpa planını təsdiq
+edir.
+8-2.8. Bank mükafat (o cümlədən təxirə salınmış mükafatlar) və dividend (aralıq dividend) ödənişləri
+nəticəsində Əsas I dərəcəli, I dərəcəli və məcmu kapitalın adekvatlıq əmsalları üzrə tələbin pozuntusuna
+yol verməməlidir. Bu bəndin məqsədləri üçün Əsas I dərəcəli, I dərəcəli və məcmu kapitalın adekvatlıq
+əmsalları üzrə tələb dedikdə bu Qaydaların 8-1.1-ci bəndində müəyyən edilmiş minimum hədlər ilə bu
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 12 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+Qaydaların 8-3-cü və 8-4-cü hissələrində müəyyən edilmiş kontr-tsiklik kapital buferi və sistem əhəmiyyətli
+bank kapital buferinin cəmi nəzərdə tutulur.
+8-3. Kontr-tsiklik kapital buferi
+8-3.1. İqtisadi tsikl və kredit portfelinin artım tempindən asılı olaraq bu Qaydaların 8-2.1-ci
+bəndində müəyyən edilmiş minimum kapitalın adekvatlıq əmsallarının üzərinə 0 – 2.5% arasında kontr-
+tsiklik kapital buferi tətbiq edilir. Kontr-tsiklik kapital buferinin hesablanması bu Qaydalara 2 nömrəli
+Əlavə ilə müəyyən edilir.
+8-3.2. Kontr-tsiklik kapital buferi tələbi artırıldıqda, yeni tələb artımın elan edildiyi tarixdən azı 1
+(bir) ay sonra, azaldıldıqda isə azalmanın elan edildiyi tarixdən etibarən qüvvəyə minir.
+8-3.3. Kontr-tsiklik kapital buferi Mərkəzi Bank tərəfindən bu Qaydalara 2 nömrəli Əlavədə
+göstərilən qaydada rüblük əsasda hesablanır və Mərkəzi Bankın rəsmi internet səhifəsində açıqlanır.
+8-4. Sistem əhəmiyyətli bank kapital buferi
+8-4.1. Sistem əhəmiyyətli bank “sistem əhəmiyyətli bank kapital buferi”ni bankın sistem
+əhəmiyyətliliyi indeksinə uyğun olaraq aşağıdakı cədvəldə müəyyən edilmiş hədlərdən az olmayan
+səviyyədə saxlayır:
+Sistem əhəmiyyətli bankın Sistem əhəmiyyətliliyi indeksi Minimum sistem əhəmiyyətli
+daxil olduğu qrup bank kapital buferi
+4-cü qrup 2900-dən yuxarı, lakin 3700-dən 4%
+artıq olmadıqda
+3-cü qrup 2100-dən yuxarı, lakin 2900-dən 3%
+artıq olmadıqda
+2-ci qrup 1300-dən yuxarı, lakin 2100-dən 2%
+artıq olmadıqda
+1-ci qrup 420 və ondan yuxarı, lakin 1300-dən 1%
+artıq olmadıqda
+8-4.2. Bankın sistem əhəmiyyətliliyi indeksi Mərkəzi Bankın 2025-ci il 19 mart tarixli 11 nömrəli
+Qərarı ilə təsdiq edilmiş “Bankın sistem əhəmiyyətli bank kimi qiymətləndirilməsi Meyarları” əsasında
+müəyyən edilir.
+8-4.3. Sistem əhəmiyyətli banklardan azı birinin sistem əhəmiyyətliliyi indeksi bu Qaydaların 8-4.1-
+ci bəndində müəyyən edilmiş cədvəldəki 4-cü qrupa təsadüf etdikdə, həmin cədvəldə qruplar üzrə müəyyən
+edilmiş sistem əhəmiyyətliliyi indeksi intervalı əsasında yeni boş qrup (5-ci qrup) yaradılır. Bu proses hər
+boş qrupa sistem əhəmiyyətli banklardan azı birinin sistem əhəmiyyətliliyi indeksi təsadüf etdikdə davam
+etdirilir (məsələn, 5-ci qrupa sistem əhəmiyyətli bank aid edildikdə yeni boş qrup (6-cı qrup) yaradılır və
+s.).
+8-4.4.bu Qaydaların 8-4.3-cü bəndində müəyyən edilmiş qaydada yaradılmış yeni boş qrup üzrə
+minimum “sistem əhəmiyyətli bank kapital buferi” tələbi özündən əvvəlki qrup üzrə müəyyən edilmiş
+minimum “sistem əhəmiyyətli bank kapital buferi” tələbindən 1(bir) faiz bəndi artıq müəyyən edilir
+(məsələn, yeni yaradılacaq 5-ci qrup üzrə 5 (beş) faiz, yeni yaradılacaq 6-cı qrup üzrə 6 (altı) faiz və s.).
+8-4.5. Sistem əhəmiyyətli bankın bu Qaydaların 8-4.1-ci bəndi ilə müəyyən edilmiş “sistem
+əhəmiyyətli bank kapital buferi” bu Qaydaların 8-3.1-ci bəndində müəyyən edilmiş minimum kapitalın
+adekvatlıq əmsallarının üzərinə əlavə edilir.
+9. Kredit riskləri üzrə minimum kapital tələbi
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 13 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+9.1. Kredit riskləri üzrə ölçülmüş aktivlər balans aktivlərinin və balansdankənar öhdəliklərin hər
+birinin risk dərəcəsinə əsasən qiymətləndirilmiş dəyəri əsasında hesablanır. Kredit riski üzrə ölçülmüş
+aktivlər hesablanmazdan əvvəl aktivlərdən həmin aktivlər üzrə mümkün zərərin ödənilməsi üçün
+yaradılmış “məqsədli” ehtiyatlar, habelə bu Qaydanın 8-ci hissəsində müəyyən edilmiş tutulmalar aparılır
+(çıxılır).
+9.1-1. Bankın balans aktivləri və balansdankənar öhdəlikləri növündən, xüsusiyyətindən,
+habelə öhdəliyin təminatından asılı olaraq müxtəlif risk dərəcələrinə aid edilir.
+9.2. Aktivlərin və balansdankənar öhdəliklərin təminatı qismində qiymətli kağızlar çıxış
+etdikdə risk dərəcələrinin ölçülməsi zamanı qiymətli kağızların bazar dəyəri nəzərə alınır.
+9.3. Balans aktivləri risk qruplarına aşağıdakı xüsusiyyətlərindən asılı olaraq aid edilir:
+9.3.1. 0 (sıfır) faizli (0,0 əmsallı) risk qrupu:
+9.3.1.1. bankın kassalarında, xəzinələrində, onun nümayəndəlik, şöbə və filiallarında,
+bankomatlarda və digər ödəniş terminallarında, habelə olduğu yerdən təyinat yerinə daşınmada
+olan Azərbaycan Respublikasının milli valyutası, bank metalları, beynəlxalq nüfuzlu reytinq
+agentlikləri (Standard & Poor`s, Fitch Ratings, Moody`s, bundan sonra - beynəlxalq reytinq
+agentlikləri) tərəfindən verilmiş minimum “AA-” ölkə (suveren) borc reytinqinə (və ya buna
+ekvivalent digər reytinq dərəcəsinə) malik ölkələrin valyutası, habelə bu ölkələrin
+hökumətlərinin və ya mərkəzi banklarının buraxdıqları qiymətli kağızlar və onlara qarşı olan
+birbaşa tələblər, yaxud aktivin bu ölkələrin hökumətləri və ya mərkəzi bankları tərəfindən qeyd-şərtsiz
+təmin olunmuş hissəsi;9
+9.3.1.2. bankın Mərkəzi Bankdakı hesablarında (müxbir, depozit və s.) olan vəsait, habelə
+Mərkəzi Bank ilə bağlanan repo əqdləri;
+9.3.1.3. Azərbaycan Respublikası adından bağlanmış müqavilələr üzrə yaranan birbaşa
+tələblər, dövlət qiymətli kağızları, Mərkəzi Bank tərəfindən buraxılan qiymətli kağızlar;
+9.3.1.4. Azərbaycan Respublikasının İpoteka və Kredit Zəmanət Fondunun (bundan sonra
+– Fond) buraxdığı təmin edilmiş qiymətli kağızlar;
+9.3.1.5. kreditin bankın hesablarında girov qoyulmuş Azərbaycan Respublikasının milli
+valyutası, bank metalları və ya beynəlxalq reytinq agentlikləri tərəfindən verilmiş minimum
+“AA-” ölkə (suveren) borc reytinqinə (və ya buna ekvivalent digər reytinq dərəcəsinə) malik
+ölkələrin valyutası ilə təmin olunmuş hissəsi;
+9.3.1.6. beynəlxalq reytinq agentlikləri tərəfindən verilmiş “AAA” kredit reytinqinə (və ya
+buna ekvivalent digər reytinq dərəcəsinə) malik çoxtərəfli inkişaf banklarına qarşı birbaşa
+tələblər, yaxud tələblərin bu təşkilatlar tərəfindən qeyd-şərtsiz öhdəliyi ilə və ya həmin təşkilatlar
+tərəfindən buraxılmış qiymətli kağızlarla təmin olunmuş hissəsi;
+10
+9.3.1.8. Fondun zəmanəti ilə verilmiş ipoteka kreditləri;
+9.3.1.9. aktivin Azərbaycan Respublikasının dövlət qiymətli kağızları, dövlət və Mərkəzi Bankın
+zəmanəti, habelə Mərkəzi Bank tərəfindən buraxılmış qiymətli kağızlar ilə qeyd-şərtsiz təmin olunmuş
+hissəsi;11
+9.3.1.10. Azərbaycan Respublikası Təhsil Nazirliyinin tabeliyində fəaliyyət göstərən Təhsil Tələbə
+Krediti Fondunun vəsaiti hesabına verilmiş təhsil tələbə kreditləri (bankın maliyyə öhdəliyi daşıdığı hallar
+istisna olmaqla).12
+9.3.2. 20 (iyirmi) faizli (0,2 əmsallı) risk qrupu:
+9.3.2.1. 0 (sıfır) faizli risk qrupuna aid edilməyən və beynəlxalq reytinq agentlikləri
+tərəfindən verilmiş minimum “A-” ölkə (suveren) borc reytinqinə (və ya buna ekvivalent digər
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 14 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+reytinq dərəcəsinə) malik ölkələrin valyutası, habelə bu ölkələrin hökumətlərinin və ya mərkəzi
+banklarının buraxdıqları qiymətli kağızlar və onlara qarşı olan birbaşa tələblər;
+9.3.2.2. beynəlxalq reytinq agentlikləri tərəfindən verilmiş minimum “AA-” kredit
+reytinqinə (və ya buna ekvivalent digər reytinq dərəcəsinə) malik depozit və ya digər maliyyə-
+kredit təşkilatlarına qarşı tələblər və onlar tərəfindən qeyd-şərtsiz təmin olunmuş digər aktivlər;
+9.3.2.3. tələblərin beynəlxalq reytinq agentlikləri tərəfindən verilmiş minimum “AA-” ölkə
+(suveren) borc reytinqinə (və ya buna ekvivalent digər reytinq dərəcəsinə) malik ölkələrin yerli
+hakimiyyət, yaxud bələdiyyə orqanları tərəfindən buraxılan qiymətli kağızlarla təmin olunmuş
+hissəsi (bu tələblərin ödənilməsi mənbəyi kommersiya layihələrindən əldə edilən gəlirlər deyil,
+ümumi büdcə daxilolmaları hesabına formalaşmalıdır);
+9.3.2.4. 0 (sıfır) faizli risk qrupuna aid edilməyən və beynəlxalq reytinq agentlikləri
+tərəfindən verilmiş minimum investisiya reytinqinə malik çoxtərəfli inkişaf banklarına qarşı
+birbaşa tələblər, yaxud tələblərin bu təşkilatlar tərəfindən qeyd-şərtsiz öhdəliyi ilə və ya həmin
+təşkilat tərəfindən buraxılmış qiymətli kağızlarla təmin olunmuş hissəsi;
+9.3.2.5. aktivlərin tam və ya hər hansı bir hissəsi, əgər onlar üçüncü şəxs tərəfindən
+buraxılmış qiymətli kağızlarla təmin olunmuşsa və bu qiymətli kağızların ödənilməsinə öz
+növbəsində Azərbaycan Respublikası, Mərkəzi Bank, yaxud beynəlxalq reytinq agentlikləri
+tərəfindən verilmiş minimum “A-” ölkə (suveren) borc reytinqinə (və ya buna ekvivalent digər
+reytinq dərəcəsinə) malik ölkələrin hökumətləri və ya mərkəzi bankları tərəfindən qeyd-şərtsiz
+təminat verilmişsə;
+9.3.2.6. 0 (sıfır) faizli risk qrupuna aid edilməyən və üçüncü şəxslərin banka olan borclarının
+Azərbaycan Respublikası, Mərkəzi Bank, yaxud beynəlxalq reytinq agentlikləri tərəfindən
+verilmiş minimum “A-” ölkə (suveren) borc reytinqinə (və ya buna ekvivalent digər reytinq
+dərəcəsinə) malik ölkələrin hökumətləri və ya mərkəzi bankları tərəfindən qeyd-şərtsiz təmin
+olunmuş hissəsi;
+9.3.2.7. Fondun buraxdığı təmin edilməmiş qiymətli kağızlar;
+9.3.2.8. dövlət tərəfindən yaradılmış və bank kreditləri üzrə öhdəliyin yerinə yetirilməsinə zəmanət
+verən fondların və digər ixtisaslaşmış dövlət qurumlarının zəmanəti ilə manatla verilmiş biznes, o
+cümlədən kənd təsərrüfatı kreditlərinin qeyd-şərtsiz təmin edilmiş hissəsi;13
+14
+9.3.2.10. beynəlxalq reytinq agentlikləri tərəfindən verilmiş minimum “AA-” kredit
+reytinqinə (və ya buna ekvivalent digər reytinq dərəcəsinə) malik korporativ
+qiymətli kağızlar.15
+16
+9.3.3. 35 (otuz beş) faizli (0,35 əmsallı) risk qrupu:
+9.3.3.1. Fondun vəsaiti hesabına verilmiş ipoteka kreditləri;
+9.3.3.2. beynəlxalq reytinq agentlikləri tərəfindən verilmiş kredit reytinqi Azərbaycan
+Respublikasının ölkə (suveren) borc reytinqindən maksimum 3 (üç) pillə aşağı olan yerli banklara
+(Azərbaycan Respublikasında fəaliyyət göstərən banklara və xarici bankların yerli filiallarına) qarşı
+müddəti 6 (altı) aydan çox olmayan tələblər (restrukturizasiya olunmuş tələblər istisna olmaqla).17
+9.3.4. 50 (əlli) faizli (0,5 əmsallı) risk qrupu:
+9.3.4.1. 20 (iyirmi) faizli risk qruplarına aid edilməyən və beynəlxalq reytinq agentlikləri
+tərəfindən verilmiş minimum investisiya reytinqinə malik ölkələrin valyutası, habelə bu ölkələrin
+hökumətlərinin və ya mərkəzi banklarının buraxdıqları qiymətli kağızlar və onlara qarşı olan
+birbaşa tələblər;
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 15 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+9.3.4.2. 20 (iyirmi) faizli risk qrupuna aid edilməyən və beynəlxalq reytinq agentlikləri
+tərəfindən verilmiş minimum “A-” kredit reytinqinə (və ya buna ekvivalent digər reytinq
+dərəcəsinə) malik depozit və ya digər maliyyə-kredit təşkilatlarına qarşı tələblər;
+9.3.4.3. tələblərin 20 (iyirmi) faizli risk qrupuna aid edilməyən və beynəlxalq reytinq
+agentlikləri tərəfindən verilmiş minimum “A-” ölkə (suveren) borc reytinqinə (və ya buna
+ekvivalent digər reytinq dərəcəsinə) malik ölkələrin yerli hakimiyyət, yaxud bələdiyyə orqanları
+tərəfindən buraxılan qiymətli kağızlarla təmin olunmuş hissəsi (bu tələblərin ödənilməsi
+mənbəyi kommersiya layihələri üzrə alınan gəlirlər olur);
+9.3.4.4. Bankın vəsaiti və digər mənbələr hesabına verilmiş ipoteka kreditləri;
+9.3.4.5. beynəlxalq reytinq agentlikləri tərəfindən verilmiş minimum “A-” kredit reytinqinə
+(və ya buna ekvivalent digər reytinq dərəcəsinə) malik korporativ qiymətli
+kağızlar;
+9.3.4.7. Azərbaycan Respublikası Nazirlər Kabinetinin 30 dekabr 2016-cı il tarixli 534
+nömrəli Qərarı ilə təsdiq edilmiş “Gəlirlər və xərclər smetaları hazırlanmalı, təsdiq edilməli və
+icrası üzrə monitorinq aparılmalı olan iri dövlət şirkətlərinin Siyahısı”nda nəzərdə tutulan və
+beynəlxalq reytinq agentlikləri tərəfindən verilmiş kredit reytinqi Azərbaycan Respublikasının
+ölkə (suveren) borc reytinqindən maksimum 1 (bir) pillə aşağı olan hüquqi şəxslərin buraxdığı
+qiymətli kağızlar;
+9.3.4.8. 20 (iyirmi) faizli risk qruplarına aid edilməyən və Azərbaycan Respublikasının
+müvafiq qanunvericiliyi ilə müəyyən olunmuş kiçik və orta sahibkarlıq subyektlərinə verilən və
+təyinatı üzrə istifadə olunması müvafiq sənədlərlə təsdiq edilmiş milli valyutada biznes, o
+cümlədən kənd təsərrüfatı kreditləri; 18
+9.3.4.9. 20 (iyirmi) faizli risk qruplarına aid edilməyən və ixracın (qeyri-neft sektoru üzrə)
+maliyyələşməsinə yönəlmiş və təyinatı üzrə istifadə olunması müvafiq sənədlərlə təsdiq edilmiş
+milli valyutada biznes kreditləri;
+9.3.4.10. 35 (otuz beş) faizli risk qrupuna aid edilməyən və müddəti 6 (altı) aydan çox olmayan yerli
+banklara (Azərbaycan Respublikasında fəaliyyət göstərən banklara və xarici bankların yerli filiallarına)
+qarşı tələblər (restrukturizasiya olunmuş tələblər istisna olmaqla).19
+9.3.5. 75 (yetmiş beş) faizli (0,75 əmsallı) risk qrupu:
+9.3.5.1. ixracın (qeyri-neft sektoru üzrə) maliyyələşməsinə yönəlmiş və təyinatı üzrə istifadə
+olunması sənədlərlə təsdiq edilmiş xarici valyutada biznes kreditləri;
+9.3.5.2. 20 (iyirmi) faizli risk qruplarına aid edilməyən mikro sahibkarlara milli valyutada verilmiş
+kənd təsərrüfatı kreditləri.20
+9.3.6. 100 (yüz) faizli (1,0 əmsallı) risk qrupu:
+9.3.6.1. Naxçıvan Muxtar Respublikası, Azərbaycan Respublikasının yerli hakimiyyət və ya
+bələdiyyə orqanları tərəfindən buraxılmış qiymətli kağızlarla təmin edilmiş tələblər;
+9.3.6.2. 50 (əlli) faizli risk qrupuna aid edilməyən beynəlxalq reytinq agentlikləri tərəfindən
+verilmiş minimum “BB-” kredit reytinqinə (və ya buna ekvivalent digər reytinq dərəcəsinə) malik
+və ya reytinqi olmayan qiymətli kağızlar;
+9.3.6.3. bütün əsas vəsaitlər, o cümlədən bank işində istifadə olunmayan əsas vəsaitlər;
+9.3.6.4. yığılma prosesində olan ödəniş alətləri (bank tərəfindən icra edilmiş, lakin pul əvəzi
+banka daxil olmamış ödəniş alətləri);
+21
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 16 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+9.3.6.7. bu Qaydaların 9.3.1-ci, 9.3.2-ci, 9.3.3-cü, 9.3.4-cü, 9.3.5-ci, 9.3.8-ci,
+9.3.10-cu və 9.3.11-ci yarımbəndlərində göstərilən risk qruplarına aid olmayan digər aktivlər;22
+9.3.6.8. 35 (otuz beş) və 50 (əlli) faizli risk qruplarına aid edilməyən yerli banklara (Azərbaycan
+Respublikasında fəaliyyət göstərən banklara və xarici bankların yerli filiallarına) qarşı tələblər;23
+9.3.6.9. 20 (iyirmi) faizli risk qruplarına aid edilməyən ailə kəndli təsərrüfatına milli valyutada
+verilmiş kənd təsərrüfatı kreditləri;24
+9.3.6.10. maliyyə təşkilatlarının kapitalına qismən əhəmiyyətli və ya əhəmiyyətsiz investisiyalar (bu
+Qaydaların 8.1.8.1-ci yarımbəndində müəyyən edilmiş kapitaldan çıxılan hissəsi istisna olmaqla).
+9.3.8. 150 (yüz əlli) faizli (1,5 əmsallı) risk qrupu:
+9.3.8.1. beynəlxalq reytinq agentlikləri tərəfindən verilmiş “BB-” kredit reytinqindən aşağı
+kredit reytinqinə (və ya buna ekvivalent digər reytinq dərəcəsinə) malik
+korporativ qiymətli kağızlar.
+25
+9.3.10. 200 (iki yüz) faizli (2,0 əmsallı) risk qrupu:
+9.3.10.1. BGN əmsalı 45 (qırx beş) faizdən yuxarı olan, lakin 60 (altmış) faiz həddini keçməyən və
+ya BGN əmsalı 70 (yetmiş) faizdən yuxarı olan istehlak kreditləri
+;26
+9.3.10.2. verilmə anında faiz dərəcəsi əvvəlki rübdə verilmiş istehlak kreditləri üzrə sektorun orta faiz
+dərəcəsi və onun dörddə birinin cəmindən böyük olan istehlak kreditləri. İstehlak kreditləri üzrə orta faiz
+dərəcəsi Mərkəzi Bank tərəfindən bu Qaydalara 1 nömrəli Əlavədə göstərilən qaydada hesablanır və hər
+rübdən sonrakı ayın 25-nə kimi Mərkəzi Bankın rəsmi internet səhifəsində açıqlanır. Orta faiz dərəcəsinin
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 17 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+açıqlandığı tarixdən sonrakı 1 (bir) iş günü ərzində banklara bu barədə elektron və ya poçt bildirişi ilə
+məlumat verilir. Orta faiz dərəcəsi açıqlanana qədər banklar əvvəlki rübün məlumatlarından istifadə edir;
+9.3.10.3. xarici valyutada gəliri olan və ya valyuta riski digər formada hedcləşdirilmiş borcalanlara
+verilmiş biznes kreditləri istisna olmaqla, valyuta riski hedcləşdirilməmiş borcalanlara xarici valyutada
+verilmiş biznes kreditləri.27
+9.3.11. 230 (iki yüz otuz) faizli (2,3 əmsallı) risk qrupu:
+9.3.11.1. BGN əmsalı 60 (altmış) faizdən yuxarı olan, lakin 70 (yetmiş) faiz həddini keçməyən
+istehlak kreditləri;
+9.3.11.2. verilmə anında faiz dərəcəsi əvvəlki rübdə verilmiş istehlak kreditləri üzrə sektorun orta faiz
+dərəcəsi və onun üçdə birinin cəmindən böyük olan istehlak kreditləri.28
+9.3.11-1. 250 (iki yüz əlli) faizli (2,5 əmsallı) risk qrupu:
+9.3.11-1.1. maliyyə təşkilatlarının kapitalına əhəmiyyətli investisiyalar (bu Qaydaların 8.1.8.2-ci
+yarımbəndində müəyyən edilmiş kapitaldan çıxılan hissəsi istisna olmaqla);
+9.3.11-1.2. müvəqqəti fərqlərdən (məsələn, ehtiyatlardan, komissiya gəlirlərindən, amortizasiya
+üsulunun seçimindən və s.) yaranan təxirə salınmış vergi aktivləri (bu Qaydaların 8.1.5.2-ci
+yarımbəndində müəyyən edilmiş kapitaldan çıxılan hissəsi istisna olmaqla).
+9.4. İstehlak krediti bir neçə fərqli risk qrupunun şərtlərinə uyğun gəldiyi təqdirdə, kredit
+uyğun gəldiyi ən yüksək əmsallı risk qrupuna aid edilir. İstehlak kreditlərininin müddətindən
+və valyutasından asılı olaraq isə risk dərəcələri aşağıdakı qaydada artırılır:
+9.4.1. müddəti 3 il və ya daha çox və 5 il və ya daha az təşkil edən kreditlərin risk dərəcəsi
+20 faiz bəndi artırılır;
+9.4.2. müddəti 5 ildən çox təşkil edən kreditlərin risk dərəcəsi 40 faiz
+bəndi artırılır;29
+9.4.3. xarici valyutada verilmiş istehlak kreditlərinin risk dərəcəsi 60 faiz bəndi artırılır.
+9.4-1. Mərkəzi Bankın İdarə Heyətinin 2023-cü il 21 sentyabr tarixli 46/4 nömrəli Qərarı ilə təsdiq
+edilmiş “Banklarda kredit risklərinin idarə edilməsi Qaydası”nda müəyyən edilmiş davranış modeli
+əsasında verilmiş kreditlərin risk dərəcəsi 20 faiz bəndi artırılır.30
+9.5. Balansdankənar öhdəliklərin (aktivlərin) risk qruplarının müəyyən edilməsi üçün
+balansdankənar öhdəliklərin icra məbləği bu Qaydaların 9.6-cı və 9.7-ci bəndlərində müəyyən
+edilmiş kreditə konvertasiya əmsalına vurulur, alınan hasil balansdankənar öhdəliyin balans
+aktivinin ekvivalenti hesab edilir və həmin məbləğ bu Qaydaların 9.3-cü bəndi ilə balans aktivləri
+üçün müəyyən olunmuş müvafiq risk qrupuna aid edilir.
+9.6. Bu hissədə göstərilən balansdankənar öhdəliklər aşağıda müəyyən olunmuş əmsallar
+üzrə kreditə konvertasiya edilir:
+9.6.1. istehlak krediti xətləri istisna olmaqla, müddəti bir ilədək olan balansdankənar öhdəliklər
+– 20 (iyirmi) faizlə (kreditə konvertasiya əmsalı – 0,2);31
+9.6.1-1. istehlak krediti xətləri - 40 (qırx) faizlə (kreditə konvertasiya əmsalı – 0,4);32
+9.6.2. istehlak krediti xətləri istisna olmaqla, müddəti bir ildən çox olan balansdankənar
+öhdəliklər – 50 (əlli) faizlə (kreditə konvertasiya əmsalı – 0,5);
+9.6.3. bank aksepti və qiymətli kağızların alınması və satılması üzrə öhdəliklər – 100 (yüz)
+faizlə (kreditə konvertasiya əmsalı – 1,0);
+9.6.4. istehlak krediti xətləri istisna olmaqla, müqavilə əsasında banka birtərəfli qaydada
+öhdəliyi tam yerinə yetirməmək hüququ verən öhdəliklər – 0 (sıfır) faizlə (kreditə konvertasiya
+əmsalı – 0).33
+9.6-1. istehlak krediti xətlərinin istifadə edilməmiş hissəsi (balansdankənar hesablarda uçota
+alınan) bu Qaydaların 9.6.1-1-ci yarımbəndinə uyğun olaraq kreditə konvertasiya edildikdən
+sonra 100 (yüz) faizli risk qrupuna aid edilir.34
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 18 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+9.7. Valyuta müqavilələri (forvard müqavilələri) aşağıdakı cədvəldə verilmiş əmsallar üzrə
+kreditə konvertasiya olunur:
+Müqavilə müddətinə görə bağlanmış forvard müqavilələri (müqavilə Kreditə
+ilə valyutanın alınması üçün müəyyən olunmuş ilkin müddət) konvertasiya faizi
+və ya əmsalı
+a) bir il və ondan az olan müddətə 2 % və ya 0,02
+b) bir ildən iki ilə qədər olan müddətə 5 % və ya 0,05
+c) iki ildən artıq olan müddətə. Üçüncü ildən başlayaraq hər növbəti 5 %+3 % x n və ya 0,05+0,03
+il üçün - 3% (n-illərin sayı) x n
+Forvard müqaviləsinin məbləğinin balans aktivinə konvertasiya edilməsi üçün, cədvəldə
+verilmiş kreditə konvertasiya əmsalı müqavilə məbləğinə vurulur, alınan hasil balansdankənar
+öhdəliyin balans ekvivalenti hesab edilir və həmin məbləğ bu Qaydaların 9.3-cü bəndi ilə balans
+aktivləri üçün müəyyən olunmuş müvafiq risk qrupuna aid edilir.
+11. Bazar riskləri üzrə minimum kapital tələbi
+11.1. Bu Qaydaların məqsədləri üçün bazar risklərinə yalnız bankın məruz qaldığı valyuta
+riski daxildir.
+11.2. Bazar riski dərəcəsi üzrə ölçülmüş aktivlər “Banklarda açıq valyuta mövqeyinin
+limitlərinin müəyyən edilməsi Qaydaları” əsasında müəyyən edilmiş və orta aylıq əsasda
+hesablanmış məcmu açıq valyuta mövqeyinin mütləq ifadəsinə bərabərdir.35
+11.3. Məcmu açıq valyuta mövqeyi bankın məcmu kapitalının 2 faizini və ya daha artıq
+hissəsini təşkil etdiyi təqdirdə bazar riskinin hesablanmasında tam həcmdə nəzərə alınır, bankın
+məcmu kapitalının 2 faizindən az hissəsini təşkil etdikdə isə 0 (sıfır) kimi müəyyən edilir.
+12. Əməliyyat riskləri üzrə minimum kapital tələbi
+12.1. Əməliyyat riski dərəcəsi üzrə ölçülmüş aktivlər əməliyyat riskləri üzrə kapital
+tələbinin bu Qaydaların 8-3.1-ci və 8-4.5-ci bəndlərində müəyyən edilmiş məcmu
+kapitalın adekvatlıq əmsalına bölünməsi yolu ilə aşağıdakı düsturla hesablanır:
+RÖA (ƏR) =
+Burada: ƏR - əməliyyat riskləri üzrə kapital tələbi, AƏ - məcmu kapitalın adekvatlıq
+əmsalıdır.
+12.2. Əməliyyat riskləri üzrə kapital tələbinin hesablanması baza indikator yanaşması ilə
+aşağıdakı düsturla müəyyən edilir və ötən 3 il ərzində bankın 15 (on beş) faizə vurulmuş müsbət
+illik əməliyyat mənfəətinin cəminin orta məxrəcinə bərabərdir:
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 19 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+ƏR =
+Burada: ƏR - əməliyyat riskləri üzrə kapital tələbi, M – ötən 3 il ərzində bankın müsbət illik
+əməliyyat mənfəəti, n - 3 illik dövr üzrə müsbət əməliyyat mənfəəti əldə edilmiş illərin sayıdır.
+12.3. Əməliyyat mənfəətinin mənfi və ya sıfıra bərabər olduğu il əməliyyat riskləri üzrə
+kapital tələbinin hesablanması zamanı surətdə həmin il üzrə əməliyyat mənfəəti, məxrəcdə isə
+həmin il nəzərə alınmır.
+12.4. Ötən 3 il ərzində hər il əməliyyat mənfəəti mənfi və ya 0 (sıfır) olduğu təqdirdə bankın
+əməliyyat riskləri üzrə kapital tələbi 0 (sıfır) kimi müəyyən olunur.
+12.5. Əməliyyat mənfəəti bankın xalis faiz və xalis qeyri-faiz gəlirlərinin və bankın faiz
+borcları və (və ya) müqavilədə göstərilən digər ödənişlər üzrə yaradılmış məqsədli ehtiyatlarının
+cəminə bərabərdir. 36
+12.6. Əməliyyat mənfəətinin hesablanmasına gündəlik əsasda bankın məcmu gəlir
+haqqında hesabatında (mənfəət və zərərlər haqqında hesabat) nəzərə alınan qiymətli kağızlar
+istisna olmaqla digər qiymətli kağızların ticarətindən əldə edilmiş gəlir və zərər, habelə
+gözlənilməz fəaliyyət növlərindən, o cümlədən sığorta fəaliyyətindən əldə edilmiş gəlir daxil
+edilmir.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 20 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+14. Leverec əmsalına dair tələblər və onun hesablanması
+14.1. Sistem əhəmiyyətli banklar istisna olmaqla, digər banklar leverec əmsalını 4 (dörd)
+faizdən az olmayan səviyyədə saxlamalıdır.
+14.2. Sistem əhəmiyyətli bankların leverec əmsalı 5 (beş) faizdən az ola bilməz.
+14.3. Leverec əmsalında nəzərə alınması üçün balansdankənar öhdəliklərin icra məbləği
+aşağıda müəyyən olunmuş əmsallar ilə kreditə konvertasiya olunur:
+14.3.1. müddəti bir ilədək olan balansdankənar öhdəliklər – 20 (iyirmi) faizlə (kreditə
+konvertasiya əmsalı – 0,2);
+14.3.2. müddəti bir ildən çox olan balansdankənar öhdəliklər – 50 (əlli) faizlə (kreditə
+konvertasiya əmsalı – 0,5);
+14.3.3. bank aksepti və qiymətli kağızların alınması və satılması üzrə öhdəliklər – 100 (yüz)
+faizlə (kreditə konvertasiya əmsalı – 1,0);
+14.3.4. müqavilə əsasında banka birtərəfli qaydada öhdəliyi tam yerinə yetirməmək
+hüququ verən öhdəliklər – 10 (on) faizlə (kreditə konvertasiya əmsalı – 0,1).
+14.4. Leverec əmsalı
+𝐼 𝑑ə𝑟ə𝑐ə𝑙𝑖 𝑘𝑎𝑝𝑖𝑡𝑎𝑙 (𝑏𝑢 𝑄𝑎𝑦𝑑𝑎𝑙𝑎𝑟𝚤𝑛 8−𝑐𝑖 ℎ𝑖𝑠𝑠ə𝑠𝑖𝑛𝑑ə 𝑚üə𝑦𝑦ə𝑛 𝑒𝑑𝑖𝑙𝑚𝑖ş 𝑡𝑢𝑡𝑢𝑙𝑚𝑎𝑙𝑎𝑟𝑑𝑎𝑛 𝑠𝑜𝑛𝑟𝑎)
+= 𝑥 100%
+(𝑏𝑎𝑙𝑎𝑛𝑠 𝑎𝑘𝑡𝑖𝑣𝑙ə𝑟𝑖+𝑏𝑎𝑙𝑎𝑛𝑠𝑑𝑎𝑛𝑘ə𝑛𝑎𝑟 öℎ𝑑ə𝑙𝑖𝑘𝑙ə𝑟)
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 21 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+14.5. Depozit valyuta svopları üzrə bağlanan əqdlər aşağıdakı hallarda netləşdirilərək
+leverec əmsalında nəzərə alınır:
+14.5.1. müddəti 1 ilə qədər olan əqdlərin məcmu məbləği cəmi aktivlərin 10 (on) faizindən
+az hissəsini təşkil etdikdə;
+14.5.2. müddəti 1 ildən artıq olan əqdlərin məcmu məbləği cəmi aktivlərin 15 (on beş)
+faizindən az hissəsini təşkil etdikdə;
+14.5.3. depozit valyuta svopları üzrə bağlanan bütün əqdlərin cəmi məbləği cəmi aktivlərin
+15 (on beş) faizindən az hissəsini təşkil etdikdə.
+14.6. Netləşdirmə zamanı bankın svop əqdinin şərtlərinə uyğun olaraq digər banka
+yerləşdirdiyi depozitlər həmin bankın qarşısında yaranmış öhdəlik həcmində nəzərə alınmır.
+14.7. Vəsaitlərin netləşdirilməsi üçün aşağıdakı şərtlər təmin edilməlidir:
+14.7.1. yerləşdirilmiş depozit vəsaiti yerləşdirən bank üçün bloklaşdırılır;
+14.7.2. yerləşdirilmiş depozit cəlb edilmiş vəsait üçün girov qismində çıxış edir.
+38
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 22 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+“Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”na
+Əlavə 1
+İstehlak kreditləri üzrə sektorun orta faiz dərəcəsinin hesablanması qaydası
+1. Mərkəzi Bank tərəfindən istehlak kreditləri üzrə sektorun orta faiz dərəcəsinin
+hesablanması aşağıdakı ardıcıllıqla aparılır:
+1.1. hər bir bankdan əvvəlki rübdə verilmiş istehlak kreditlərinin aşağıdakı növləri üzrə
+orta faiz dərəcələri əldə edilir:
+1.1.1. avtomobil kreditləri;
+1.1.2. kredit kartı vasitəsi ilə verilən kreditlər;
+1.1.3. yaşayış sahəsinin təmiri ilə bağlı olan kreditlər;
+1.1.4. məişət avadanlıqlarının alınması ilə bağlı olan kreditlər;
+1.1.5 digər istehlak kreditləri.
+1.2. əldə edilmiş orta faiz dərəcələri əsasında istehlak kreditinin hər bir növü üzrə
+sektorun medianı müəyyən edilir.
+2. Hər bir bank tərəfindən bankın əvvəlki rübdə müvafiq valyutada verdiyi istehlak
+krediti növü üzrə orta faiz dərəcəsinin hesablanması (həmin bank üzrə) aşağıdakı düstur ilə
+aparılır:
+Burada:
+– bankın əvvəlki rübdə müvafiq valyutada verdiyi istehlak krediti növü üzrə
+kreditlərin orta faiz dərəcəsi;
+– bankın əvvəlki rübdə müvafiq valyutada verdiyi istehlak krediti növü üzrə k-cı
+kreditin məbləği;
+- bankın əvvəlki rübdə müvafiq valyutada verdiyi istehlak krediti növü üzrə k-cı
+kreditin faiz dərəcəsi;
+– istehlak kreditinin növü;
+– kreditın sıra nömrəsi,
+– j istehlak krediti növü üzrə kreditlərin ümumi sayı.
+3. Bank bu Əlavənin 2-ci hissəsində müəyyən edilmiş formada hesabladığı orta faiz
+dərəcəsini, hesablamaların əsasını təşkil edən məlumatlarla birlikdə Mərkəzi Bankın müəyyən
+etdiyi formada prudensial hesabatlarla birgə Mərkəzi Banka təqdim edir.
+4. Kredit müqaviləsində faizlərin əvəzinə digər ödənişlər nəzərdə tutulduqda, orta faiz dərəcəsinin
+hesablanmasında həmin ödənişlərin cəmi nəzərə alınır.39
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 23 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+“Bank kapitalının və onun
+adekvatlığının hesablanması
+Qaydaları”na
+Əlavə 2
+Kontr-tsiklik kapital buferinin hesablanması və açıqlanması qaydası
+1. Kontr-tsiklik kapital buferinin yaradılması üçün əsas göstərici kimi kredit qəpi çıxış edir.
+2. Kredit qəpi – müvafiq dövrdə cəmi kredit portfelinin
+ÜDM-ə nisbəti və qeyri-neft sektoruna aid kredit portfelinin qeyri-neft ÜDM-ə nisbəti üzrə orta
+göstəricinin bu nisbətlərin uzunmüddətli trendinin həmin dövrə olan orta göstəricisinin
+fərqidir.
+3. Kredit portfelinin ÜDM-ə və qeyri-neft sektoruna aid kredit portfelinin qeyri-neft ÜDM-ə
+nisbətlərinin uzunmüddətli trendi hesablanarkən azı 10 (on) illik göstəricilər nəzərə
+alınır. Trend müəyyən edilərkən Hodrick-Prescott filtri istifadə edilir
+4. Əsas göstərici olaraq kredit qəpi 2-10% aralığında dəyişərkən kontr-tsiklik kapital buferi
+müvafiq olaraq 0-2.5% aralığında aşağıdakı düstura uyğun olaraq (bu Əlavənin 5-ci hissəsinin
+tələbləri nəzərə alınmaqla) müəyyən edilir:
+Kontr-tsiklik kapital buferi =
+5. Kontr-tsiklik kapital buferini təyin edərkən, kredit qəpindən əlavə olaraq aşağıdakı
+göstəricilər nəzərə alınır:
+5.1. real ÜDM və qeyri-neft ÜDM artımı;
+5.2. bank sektorunun kapitalının gəlirliliyinin dinamikası ;
+5.2-1. leverec əmsalının dinamikası;
+5.4. əmlak və səhm bazarı göstəricilərinin uzunmüddətli trenddən deviasiyası
+(kənarlaşması);
+5.5. eyni müddətli dövlət qiyməti kağızları və korporativ qiyməli kağızların gəlirliliyinin
+fərqi;
+5.6. bankların kapital mövqeyi;
+5.7. əhalinin və qeyri-maliyyə təşkilatlarının borclanma səviyyəsi;
+5.8. problemli maliyyə təşkilatlarında kreditlərin dinamikası.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 24 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 01 avqust 2022-ci il tarixli 32/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202208010321, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 15 avqust 2022-ci il)
+2. 21 sentyabr 2023-cü il tarixli 46/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202309210462,
+Hüquqi Aktların Dövlət Reyestrinə daxil edildiyi tarix 3 oktyabr 2023-cü il)
+3. 10 dekabr 2024-cü il tarixli 49/6 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202412100496, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 24 dekabr 2024-cü il)
+4. 15 iyul 2025-ci il tarixli 25/3 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202507150253, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 25 iyul 2025-ci il)
+QƏRARA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+3 15 iyul 2025-ci il tarixli 25/3 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202507150253, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 25 iyul 2025-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”nın 2.1.17-ci yarımbəndə “kredit” sözündən sonra “, o cümlədən kredit xətti”
+sözləri əlavə edilmişdir.
+4 21 sentyabr 2023-cü il tarixli 46/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202309210462, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 3 oktyabr 2023-cü il) ilə “Bank kapitalının və onun
+adekvatlığının hesablanması Qaydaları”nın 2.1.18-ci yarımbəndinə “kredit” sözündən sonra “, habelə
+kənd təsəsrrüfatı kreditləri” sözləri əlavə edilmişdir.
+5 01 avqust 2022-ci il tarixli 32/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202208010321, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 avqust 2022-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”nın 2.1.21-ci yarımbənd ləğv edilmişdir.
+6 21 sentyabr 2023-cü il tarixli 46/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202309210462, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 3 oktyabr 2023-cü il) ilə “Bank kapitalının və onun
+adekvatlığının hesablanması Qaydaları”nın 2.1.22-ci və 2.1.23-cü yarımbəndləri ləğv edilmişdir.
+7 01 avqust 2022-ci il tarixli 32/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202208010321, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 avqust 2022-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”na yeni məzmunda 2.2-ci bənd əlavə edilmişdir.
+21 sentyabr 2023-cü il tarixli 46/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202309210462, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 3 oktyabr 2023-cü il) ilə “Bank kapitalının və onun
+adekvatlığının hesablanması Qaydaları”nın 2.2-ci bəndi yeni redaksiyada verilmişdir.
+əvvəlki redaksiyada deyilirdi:
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 25 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+8 15 iyul 2025-ci il tarixli 25/3 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202507150253, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 25 iyul 2025-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”na yeni məzmunda 2.3-cü bənd əlavə edilmişdir.
+9 01 avqust 2022-ci il tarixli 32/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202208010321, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 avqust 2022-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”nın 9.3.1.1-ci yarımbəndə “tələblər” sözündən sonra “, yaxud aktivin bu
+ölkələrin hökumətləri və ya mərkəzi bankları tərəfindən qeyd-şərtsiz təmin olunmuş hissəsi” sözləri
+əlavə edilmişdir.
+10 21 sentyabr 2023-cü il tarixli 46/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202309210462, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 3 oktyabr 2023-cü il) ilə “Bank kapitalının və onun
+adekvatlığının hesablanması Qaydaları”nın 9.3.1.7-ci yarımbəndi ləğv edilmişdir.
+11 21 sentyabr 2023-cü il tarixli 46/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202309210462, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 3 oktyabr 2023-cü il) ilə “Bank kapitalının və onun
+adekvatlığının hesablanması Qaydaları”nın 9.3.1.9-cu yarımbənddə ikinci halda “dövlət” sözündən
+sonra “və Mərkəzi Bankın” sözləri əlavə edilmişdir və həmin yarımbənddə “kağızlarla” sözü “kağızlar
+ilə” sözləri ilə əvəz edilmişdir.
+12 01 avqust 2022-ci il tarixli 32/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202208010321, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 avqust 2022-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”nın 9.3.1.8-ci yarımbəndin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz
+edilmişdir və yeni məzmunda 9.3.1.9-cu və 9.3.1.10-cu yarımbəndlər əlavə edilmişdir.
+13 21 sentyabr 2023-cü il tarixli 46/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202309210462, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 3 oktyabr 2023-cü il) ilə “Bank kapitalının və onun
+adekvatlığının hesablanması Qaydaları”nın 9.3.2.8-ci yarımbəndi yeni redaksiyada verilmişdir.
+əvvəlki redaksiyada deyilirdi:
+14 21 sentyabr 2023-cü il tarixli 46/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202309210462, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 3 oktyabr 2023-cü il) ilə “Bank kapitalının və onun
+adekvatlığının hesablanması Qaydaları”nın 9.3.2.9-cu yarımbəndi ləğv edilmişdir.
+15 01 avqust 2022-ci il tarixli 32/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202208010321, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 15 avqust 2022-ci il) ilə “Bank kapitalının və onun
+adekvatlığının hesablanması Qaydaları”nın 9.3.2.10-cu, 9.3.4.5-ci, 9.3.6.2-ci və 9.3.8.1-ci yarımbəndlərdən
+“uzunmüddətli” sözü çıxarılmışdır.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 26 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+16 01 avqust 2022-ci il tarixli 32/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202208010321, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 avqust 2022-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”nın 9.3.2.10-cu yarımbəndin sonunda nöqtəli vergül işarəsi nöqtə işarəsi ilə əvəz
+edilmişdir və 9.3.2.11-ci və 9.3.4.6-cı yarımbəndlər ləğv edilmişdir.
+17 01 avqust 2022-ci il tarixli 32/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202208010321, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 avqust 2022-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”nın 9.3.3.1-ci yarımbəndin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz
+edilmişdir və yeni məzmunda 9.3.3.2-ci yarımbənd əlavə edilmişdir.
+21 sentyabr 2023-cü il tarixli 46/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202309210462, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 3 oktyabr 2023-cü il) ilə “Bank kapitalının və onun
+adekvatlığının hesablanması Qaydaları”nın 9.3.3.2-ci və 9.3.4.10-cu yarımbəndlərində “aktivlər” sözü
+“tələblər” sözü ilə əvəz edilmişdir.
+18 21 sentyabr 2023-cü il tarixli 46/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202309210462, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 3 oktyabr 2023-cü il) ilə “Bank kapitalının və onun
+adekvatlığının hesablanması Qaydaları”nın 9.3.4.8-ci yarımbəndinə “biznes” sözündən sonra “, o
+cümlədən kənd təsərrüfatı” sözləri əlavə edilmişdir.
+19 01 avqust 2022-ci il tarixli 32/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202208010321, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 avqust 2022-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”nın 9.3.4.9-cu yarımbəndin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz
+edilmişdir və yeni məzmunda 9.3.4.10-cu yarımbənd əlavə edilmişdir.
+20 21 sentyabr 2023-cü il tarixli 46/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202309210462, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 3 oktyabr 2023-cü il) ilə “Bank kapitalının və onun
+adekvatlığının hesablanması Qaydaları”nın 9.3.5.1-ci yarımbəndin sonunda nöqtə işarəsi nöqtəli vergül
+işarəsi ilə əvəz edilmişdir və yeni məzmunda 9.3.5.2-ci yarımbənd əlavə edilmişdir.
+21 21 sentyabr 2023-cü il tarixli 46/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202309210462, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 3 oktyabr 2023-cü il) ilə “Bank kapitalının və onun
+adekvatlığının hesablanması Qaydaları”nın 9.3.6.5-ci və 9.3.6.6-cı yarımbəndləri ləğv edilmişdir.
+22 01 avqust 2022-ci il tarixli 32/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202208010321, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 avqust 2022-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”nın 9.3.6.7-ci yarımbəndini “9.3.7-ci,” və “9.3.9-cu və” sözləri çıxarılmışdır,
+“9.3.10-cu” sözlərindən sonra “və 9.3.11-ci” sözləri əlavə edilmişdir, yarımbəndin sonunda nöqtə işarəsi
+nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 9.3.6.8-ci yarımbənd əlavə edilmişdir.
+23 01 avqust 2022-ci il tarixli 32/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202208010321, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 avqust 2022-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”nın 9.3.6.7-ci yarımbəndin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz
+edilmişdir və yeni məzmunda 9.3.6.8-ci yarımbənd əlavə edilmişdir.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 27 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+24 21 sentyabr 2023-cü il tarixli 46/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202309210462, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 3 oktyabr 2023-cü il) ilə “Bank kapitalının və onun
+adekvatlığının hesablanması Qaydaları”nın 9.3.6.8-ci yarımbəndin sonunda nöqtə işarəsi nöqtəli vergül
+işarəsi ilə əvəz edilmişdir və yeni məzmunda 9.3.6.9-cu yarımbənd əlavə edilmişdir.
+25 01 avqust 2022-ci il tarixli 32/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202208010321, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 avqust 2022-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”nın 9.3.8.1-ci yarımbəndin sonunda nöqtəli vergül işarəsi nöqtə işarəsi ilə əvəz
+edilmişdir və 9.3.7-ci, 9.3.8.2-ci, 9.3.8.3-cü və 9.3.9-cu yarımbəndlər ləğv edilmişdir.
+26 01 avqust 2022-ci il tarixli 32/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202208010321, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 avqust 2022-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”nın 9.3.10.1-ci yarımbəndə ”BGN əmsalı” sözlərindən əvvəl “BGN əmsalı 45
+(qırx beş) faizdən yuxarı olan, lakin 60 (altmış) faiz həddini keçməyən və ya” sözləri əlavə edilmişdir və
+həmin yarımbənddən “(təminatı qismində milli və sərbəst dönərli xarici valyutada pul vəsaitləri çıxış
+edən və təminatının dəyəri təmin etdiyi öhdəliyin 100 (yüz) faizindən az olmayan, habelə təminatı
+qismində daşınmaz əmlak və avtomobil nəqliyyatı vasitələri çıxış edən və təminatının dəyəri təmin
+etdiyi öhdəliyin 150 (yüz əlli) faizindən az olmayan istehlak kreditləri istisna olmaqla)” sözləri
+çıxarılmışdır.
+27 01 avqust 2022-ci il tarixli 32/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202208010321, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 avqust 2022-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”nın 9.3.10.1-ci yarımbəndin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz
+edilmişdir və yeni məzmunda 9.3.10.2-ci və 9.3.10.3-cü yarımbəndlər əlavə edilmişdir.
+28 01 avqust 2022-ci il tarixli 32/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202208010321, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 avqust 2022-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”na yeni məzmunda 9.3.11-ci yarımbənd əlavə edilmişdir.
+29 01 avqust 2022-ci il tarixli 32/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202208010321, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 avqust 2022-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”nın 9.4.2-ci yarımbənddən “və 7 il və ya daha az” sözləri çıxarılmışdır.
+30 10 dekabr 2024-cü il tarixli 49/6 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202412100496, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 24 dekabr 2024-cü il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”na yeni məzmunda 9.4-1-ci bənd əlavə edilmişdir.
+31 15 iyul 2025-ci il tarixli 25/3 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202507150253, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 25 iyul 2025-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”nın 9.6.1-ci və 9.6.2-ci yarımbəndlərdə “müddəti” sözündən əvvəl “istehlak
+krediti xətləri istisna olmaqla,” sözləri əlavə edilmişdir.
+32 15 iyul 2025-ci il tarixli 25/3 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202507150253, Hüquqi Aktların
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri
+--- page 28 ---
+01.01.2027-ci il tarixindən etibarən qüvvəyə minəcək versiya
+Dövlət Reyestrinə daxil edildiyi tarix 25 iyul 2025-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”na yeni məzmunda 9.6.1-1-ci yarımbənd əlavə edilmişdir.
+33 15 iyul 2025-ci il tarixli 25/3 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202507150253, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 25 iyul 2025-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”nın 9.6.4-cü yarımbənddə “müqavilə” sözündən əvvəl “istehlak krediti xətləri
+istisna olmaqla,” sözləri əlavə edilmişdir.
+34 15 iyul 2025-ci il tarixli 25/3 nömrəli Azərbaycan Respublikası Mərkəzi Bankın İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202507150253, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 25 iyul 2025-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”na yeni məzmunda 9.6-1-ci bənd əlavə edilmişdir.
+35 01 avqust 2022-ci il tarixli 32/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202208010321, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 avqust 2022-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”nın 11.2-ci bəndə “müəyyən edilmiş” sözlərindən sonra “və orta aylıq əsasda
+hesablanmış” sözləri əlavə edilmişdir.
+36 21 sentyabr 2023-cü il tarixli 46/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202309210462, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 3 oktyabr 2023-cü il) ilə “Bank kapitalının və onun
+adekvatlığının hesablanması Qaydaları”nın 12.5-ci bəndinə “borcları” sözündən sonra “və (və ya)
+müqavilədə göstərilən digər ödənişlər” sözləri əlavə edilmişdir.
+38 01 avqust 2022-ci il tarixli 32/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202208010321, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 avqust 2022-ci il) ilə “Bank kapitalının və onun adekvatlığının
+hesablanması Qaydaları”nın 15-ci bənd ləğv edilmişdir.
+39 21 sentyabr 2023-cü il tarixli 46/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202309210462, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 3 oktyabr 2023-cü il) ilə “Bank kapitalının və onun
+adekvatlığının hesablanması Qaydaları”nın 1 nömrəli Əlavəyə yeni məzmunda 4-cü hissə əlavə
+edilmişdir.
+Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestri

@@ -1,0 +1,15 @@
+#! variant: v2 full guidelines
+#! differs_from_v1: the label definitions, decision order and further rules are replaced by the full frozen guidelines v1.2 text
+#! source_placement: system
+#! output: label
+#! language: en
+You check one claim from an Azerbaijani news report against the official announcement A. A is the press release plus, where present, the full decision or legal text it announces; both count as A. Use only A. Do not use outside knowledge.
+
+Follow these annotation guidelines exactly. You label one claim at a time; the claims are already split and fixed. Give only the label: ignore the other fields the guidelines describe (key_conditions, evidence, tags, distortion_type, cause, flags, minutes).
+
+<guidelines>
+{GUIDELINES}
+</guidelines>
+
+Reply with exactly one line and nothing else:
+LABEL: <SUPPORTED|CONTRADICTED|MISREPRESENTED|NOT_IN_SOURCE|UNASSESSABLE>

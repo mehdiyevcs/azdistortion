@@ -1,0 +1,14 @@
+{
+ "run_id": "e2_azberts3_edits_C2_random",
+ "system": "S2b_azbert_edits",
+ "condition": "C2",
+ "sample": "random",
+ "n": 2020,
+ "model_id": "allmalab/bert-base-aze",
+ "source_file": "runs/colab_returned_2026-11-11/results_random/predictions_enc_azbert_edits.csv",
+ "source_sha256": "00e12c7828e87680dd36ed9355d138ee99f4e8aa786413ba6071986db2134838",
+ "predictions_sha256": "8b09e1ba30d6cb2f0524547456c6372dab35af4a621ff3ddd2c6ab6167996d3f",
+ "cost": 0.0,
+ "finished": "2026-11-11 12:33:36",
+ "note": "E2 encoder, training seed 3 (mean and range over seeds 1-3 in the analysis)"
+}

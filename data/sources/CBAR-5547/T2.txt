@@ -1,0 +1,137 @@
+=== text_0_nostrike.txt ===
+--- page 1 ---
+AZƏRBAYCAN RESPUBLİKASI MƏRKƏZİ BANKININ İDARƏ HEYƏTİNİN
+QƏRA RI
+№ 06/2
+Bakı şəhəri 31 yanvar 2024-cü il
+“Sığortaçının sistem əhəmiyyətli sığortaçı kimi qiymətləndirilməsi Meyarları”nın
+təsdiq edilməsi barədə
+“Sığorta fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun 95.5-ci
+maddəsinə və “Azərbaycan Respublikasının Mərkəzi Bankı haqqında” Azərbaycan
+Respublikası Qanununun 22.1.17-ci maddəsinə əsasən Azərbaycan Respublikası Mərkəzi
+Bankının İdarə Heyəti
+QƏRARA ALIR:
+1. “Sığortaçının sistem əhəmiyyətli sığortaçı kimi qiymətləndirilməsi Meyarları”
+təsdiq edilsin (əlavə olunur).
+2. Hüquq departamentinə tapşırılsın ki, bu Qərarın 3 gün müddətində Azərbaycan
+Respublikasının Hüquqi Aktların Dövlət Reyestrinə daxil edilməsi üçün Azərbaycan
+Respublikasının Ədliyyə Nazirliyinə təqdim olunmasını təmin etsin.
+Mərkəzi Bankın sədri Taleh Kazımov
+--- page 2 ---
+“Təsdiq edilmişdir”
+Azərbaycan Respublikasının
+Mərkəzi Bankı
+Qərar № 06/2
+31 yanvar 2024-cü il
+Sığortaçının sistem əhəmiyyətli sığortaçı kimi qiymətləndirilməsi
+MEYARLARI
+1. Ümumi müddəalar
+1.1. Sığortaçının sistem əhəmiyyətli sığortaçı kimi qiymətləndirilməsi Meyarları
+(bundan sonra – Meyarlar) “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikası
+Qanununun (bundan sonra – Qanun) 95.5-ci maddəsinə uyğun olaraq hazırlanmış və
+Azərbaycan Respublikasında fəaliyyət göstərən sığortaçıların sistem əhəmiyyətli sığortaçı
+kimi qiymətləndirilməsi meyarlarını müəyyən edir.
+1.2. Bu Meyarlarda istifadə olunan “sığortaçı” anlayışı təkrarsığortaçıları da əhatə
+edir.
+1.3. Bu Meyarlarda istifadə olunan anlayışlar Azərbaycan Respublikasının sığorta
+qanunvericiliyi ilə müəyyən edilmiş anlayışları ifadə edir.
+2. Sistem əhəmiyyətliliyin müəyyən edilməsi metodologiyası1
+2.1. Sığortaçının sistem əhəmiyyətliliyi aşağıdakı cədvəldə verilmiş göstəricilər (kateqoriya,
+indikatorlar və həmin indikatorlara verilmiş xüsusi çəkilər) vasitəsilə qiymətləndirilir:
+İndikatorun xüsusi
+№ Kateqoriya İndikator
+çəkisi (%)
+1 Ölçü Cəmi aktivlər 30
+Ölkə daxilindən qəbul edilmiş təkrarsığorta
+25
+haqları
+Sığortaçının maliyyə institutlarında
+2 Şaxələnmə
+15
+yerləşdirdiyi aktivləri
+Qiymətli kağızların dövriyyəsi 10
+Cəmi sığorta predmetlərinin sayı 10
+3 Əvəzolunmazlıq
+Sığorta (təkrarsığorta) portfelinin çeşidliliyi 10
+--- page 3 ---
+2.2. Sığortaçının sistem əhəmiyyətliliyinin müəyyən edilməsi üçün aşağıdakı indikatorlardan
+istifadə olunur:
+2.2.1. cəmi aktivlər – sığortaçının uzunmüddətli və qısamüddətli aktivlərinin cəmi;
+2.2.2. ölkə daxilindən qəbul edilmiş təkrarsığorta haqları – təkrarsığorta fəaliyyəti ilə əlaqədar
+sığortaçıların ölkə daxilindən qəbul etdikləri risklər üzrə hesablanmış təkrarsığorta haqlarının cəmi;
+2.2.3. sığortaçının maliyyə institutlarında yerləşdirdiyi aktivləri – ölkə ərazisində fəaliyyət
+göstərən banklar, bank olmayan kredit təşkilatları, sığortaçılar, habelə lizinq, faktorinq, lombard
+təşkilatları və digər oxşar təşkilatlara qarşı tələblərinin cəmi;
+2.2.4. qiymətli kağızların dövriyyəsi – hesabat dövrü ərzində sığortaçının investisiya
+məqsədilə aldığı və satdığı qiymətli kağızların aidiyyəti üzrə alış və satış məbləğlərinin cəmi;
+2.2.5. cəmi sığorta predmetlərinin sayı – sığortaçının hesabat tarixinə olan sığorta
+predmetlərinin cəmi;
+2.2.6. sığorta (təkrarsığorta) portfelinin çeşidliliyi – sığortaçının (təkrarsığortaçının) fəaliyyət
+göstərdiyi sığorta siniflərindən hər hansı biri üzrə sığorta (təkrarsığorta) haqlarına münasibətdə
+bazar payı 20% dən az olmayan siniflər üzrə hesablanmış sığorta (təkrarsığorta) haqlarının cəmi.
+2.3. Bu Meyarların 2.1-ci bəndində qeyd olunan göstəricilərdən istifadə etməklə hər bir
+sığortaçı üzrə sistem əhəmiyyətliliyi indeksi aşağıdakı düsturla hesablanır:
+burada,
+SII – sığortaçının sistem əhəmiyyətliliyi indeksi;
+I – sığortaçının müvafiq indikator üzrə son 3 (üç) illik ədədi ortası;
+i
+L – sığorta sahəsi üzrə müvafiq indikatorun son 3 (üç) illik ədədi ortası;
+i
+W – hər bir indikatora verilmiş xüsusi çəki;
+i
+n – qiymətləndirilmiş indikatorların sayı.
+2.4. Müstəsna olaraq təkrarsığorta fəaliyyəti ilə məşğul olan təkrarsığortaçı üçün bu
+Meyarların 2.2.5-ci yarımbəndində nəzərdə tutulmuş indikator üzrə qiymətləndirmə aparılmır.
+Qeyd olunan indikator üzrə xüsusi çəki həmin kateqoriyaya aid olan digər indikator üzrə xüsusi
+çəkiyə əlavə olunur.
+2.5. Sığortaçının sistem əhəmiyyətliliyi hər il üçün son 3 (üç) ilin illik hesabatlarına əsasən
+qiymətləndirilir. Əgər sığortaçı 3 (üç) ildən az müddətdə fəaliyyət göstərirsə, bu zaman fəaliyyətdə
+olduğu illər üzrə illik hesabatlar əsas götürülür.
+2.6. Sığortaçının sistem əhəmiyyətliliyi aşağıdakı mərhələlər əsasında müəyyən edilir:
+2.6.1. hər bir sığortaçı üzrə sistem əhəmiyyətlilik indeksi hesablandıqdan sonra həmin indeks
+15 faiz bəndi ilə müqayisə olunur;
+--- page 4 ---
+2.6.2. yekun sistem əhəmiyyətlilik indeksinin nəticələri 15 faiz bəndi və bundan yüksək olan
+sığortaçılar sistem əhəmiyyətli sığortaçı kimi qiymətləndirilir.
+2.7. Sistem əhəmiyyətli sığortaçıların siyahısı hər il 1 sentyabr tarixinədək Azərbaycan
+Respublikası Mərkəzi Bankının (bundan sonra – Mərkəzi Bank) İdarə Heyətinin qərarı ilə təsdiq
+edilir.
+2.8. Qərar qəbul edildiyi tarixdən 5 (beş) iş günü ərzində bu barədə məlumat müvafiq sistem
+əhəmiyyətli sığortaçıya Mərkəzi Bankın elektron sistemi vasitəsi ilə və ya poçt bildirişi ilə göndərilir.
+2.9. Müştərək sığortaçılar sığortaçıların sistem əhəmiyyətliliyinin müəyyən edilməsində
+iştirak etmirlər.
+--- page 5 ---
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 28 iyul 2026-cı il tarixli 33/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin Qərarı
+(Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202607280332, Hüquqi Aktların Dövlət
+Reyestrinə daxil edildiyi tarix 19 avqust 2026-cı il)
+QƏRARA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+1 28 iyul 2026-cı il tarixli 33/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202607280332, Hüquqi Aktların Dövlət
+Reyestrinə daxil edildiyi tarix 19 avqust 2026-cı il) ilə “Sığortaçının sistem əhəmiyyətli sığortaçı kimi
+qiymətləndirilməsi Meyarları”nın 2-ci hissəsi yeni redaksiyada verilmişdir.
+Əvvəlki redaksiyada deyilirdi:
+--- page 6 ---
+
+=== tables_0_checked.txt ===
+# CHECKED TABLES (manual, 2026-11-09) for raw_0.pdf (consolidated 'Sığortaçının sistem əhəmiyyətli sığortaçı kimi qiymətləndirilməsi Meyarları', incl. 33/2 of 28.07.2026).
+# Values in tables_0.txt match the PDF. Problem fixed here: the page 5 table is the FORMER wording ('Əvvəlki redaksiyada deyilirdi'), printed struck through in the PDF; pdfplumber drops the strike-through. It is NOT in force.
+# Page 1 table 1 is the decision header (text block), not a data table.
+--- page 2 table 1 (checked; IN FORCE, 2.1-ci bənd) ---
+№ | Kateqoriya | İndikator | İndikatorun xüsusi çəkisi (%)
+1 | Ölçü | Cəmi aktivlər | 30
+2 | Şaxələnmə | Ölkə daxilindən qəbul edilmiş təkrarsığorta haqları | 25
+ |  | Sığortaçının maliyyə institutlarında yerləşdirdiyi aktivləri | 15
+ |  | Qiymətli kağızların dövriyyəsi | 10
+3 | Əvəzolunmazlıq | Cəmi sığorta predmetlərinin sayı | 10
+ |  | Sığorta (təkrarsığorta) portfelinin çeşidliliyi | 10
+--- page 5 table 1 (checked; FORMER WORDING, STRUCK THROUGH IN PDF, NOT IN FORCE; footnote 1 to section 2) ---
+N | Kateqoriya | İndikator | Xüsusi çəki (%)
+1. | Miqyas | Cəmi aktivlər | 20
+ |  | Sığorta haqları | 10
+ |  | Sığorta müqavilələrinin sayı | 10
+2. | Şaxələnmə | Sığortaçının maliyyə təşkilatları qarşısındakı öhdəlikləri | 6.67
+ |  | Sığortaçının maliyyə təşkilatlarında yerləşdirdiyi aktivləri | 6.67
+ |  | Təkrarsığorta haqları | 6.67
+3. | Əvəzolunmazlıq | Xüsusi sığorta növləri üzrə sığorta (təkrarsığorta) haqları | 30
+4. | Mürəkkəblik | Sığorta (təkrarsığorta) portfelinin çeşidliliyi | 10

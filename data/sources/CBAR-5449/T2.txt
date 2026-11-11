@@ -1,0 +1,602 @@
+=== text_0_nostrike.txt ===
+--- page 1 ---
+AZƏRBAYCAN RESPUBLİKASI MƏRKƏZİ BANKININ İDARƏ HEYƏTİNİN
+QƏRA RI
+№ 25/1
+Bakı şəhəri 29 iyun 2022-ci il
+“Avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə
+sığorta haqqı məbləğlərinin hesablanması Qaydası”nın təsdiq edilməsi barədə
+“İcbari sığortalar haqqında” Azərbaycan Respublikası Qanununun 57.1-ci
+maddəsinə və “Azərbaycan Respublikasının Mərkəzi Bankı haqqında” Azərbaycan
+Respublikası Qanununun 22.0.17-ci maddəsinə əsasən Azərbaycan Respublikası
+Mərkəzi Bankının İdarə Heyəti
+Q Ə R A R A A L I R:
+1. “Avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası
+üzrə sığorta haqqı məbləğlərinin hesablanması Qaydası” təsdiq edilsin (əlavə olunur).
+2. Bu Qərar 2022-ci il 1 oktyabr tarixindən qüvvəyə minir.
+3. Hüquq departamentinə (Rəna Məlikova) tapşırılsın ki, bu Qərarın 3 gün
+müddətində Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestrinə daxil
+edilməsi üçün Azərbaycan Respublikasının Ədliyyə Nazirliyinə təqdim olunmasını
+təmin etsin.
+Mərkəzi Bankın sədri Taleh Kazımov
+--- page 2 ---
+“Təsdiq edilmişdir”
+Azərbaycan Respublikasının
+Mərkəzi Bankı
+Qərar № 25/1
+29 iyun 2022-ci il
+Avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə
+sığorta haqqı məbləğlərinin hesablanması
+QAYDASI
+1. Ümumi müddəalar
+1.1. Bu Qayda “İcbari sığortalar haqqında” Azərbaycan Respublikası
+Qanununun 57.1-ci maddəsinə uyğun olaraq hazırlanmışdır və avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin
+hesablanması ilə bağlı məsələləri tənzimləyir.
+1.2. Bu Qaydanın məqsədləri üçün istifadə olunan əsas anlayışlar aşağıdakı
+mənaları ifadə edir:
+1.2.1. sığorta tarixçəsi – sığortalının bağladığı sığorta müqavilələri və nəqliyyat vasitəsi
+sürücüsünün təqsiri üzündən baş vermiş sığorta hadisələri barədə məlumatları ehtiva edən
+tarixçə;1
+1.2.2. qiymətləndirmə subyektləri – avtonəqliyyat vasitələrinin qiymətləndirmə qrupu
+(bundan sonra – qiymətləndirmə qrupu) üzrə barəsində sığorta tarixçəsinə əsasən güzəşt və
+əlavələrin tətbiq edildiyi şəxslər;
+1.2.3. sığorta tarixçəsi əmsalı – qiymətləndirmə subyektinin sığorta tarixçəsinə əsasən
+müəyyən edilən və sığorta haqqının hesablanmasında tətbiq edilən əmsal.
+1.2.4. Qiymətləndirmə qrupları aşağıdakılardır:
+1.2.4.1. minik avtomobilləri və onların bazasında istehsal edilmiş digər avtonəqliyyat
+vasitələri;
+1.2.4.2. yük avtomobilləri və onların bazasında istehsal edilmiş digər avtonəqliyyat
+vasitələri;
+1.2.4.3. avtobuslar, mikroavtobuslar və onların bazasında istehsal edilmiş digər
+avtonəqliyyat vasitələri;
+1.2.4.4. motosikletlər, trisikllər və kvadrisikllər;
+1.2.4.5. traktorlar, meşə və kənd təsərrüfatında istifadə olunan avtonəqliyyat vasitələri;
+1.2.4.6. trolleybuslar və tramvaylar;
+1.2.4.7. qoşqular və yarımqoşqular.
+1.2.4.8. texnoloji nəqliyyat vasitələri və bu kateqoriyadan olan digər mexaniki
+avtonəqliyyat vasitələri.
+1.3. Bu Qaydada istifadə olunan digər anlayışlar “Avtomobil nəqliyyatı haqqında”
+Azərbaycan Respublikasının Qanununda, Azərbaycan Respublikasının sığorta qanunvericiliyi,
+--- page 3 ---
+habelə Azərbaycan Respublikasının digər normativ hüquqi aktlarında müəyyən edilmiş
+mənaları ifadə edir.2
+2. Sığorta haqqı məbləğinin hesablanması qaydası
+2.1. Bu Qaydanın 2.4-cü bəndi nəzərə alınmaqla, avtonəqliyyat vasitəsi sahiblərinin
+mülki məsuliyyətinin icbari sığortası müqaviləsi bağlanarkən ödənilməli olan bir illik
+sığorta haqqı məbləği baza sığorta haqqı məbləğinə bu Qayda ilə müəyyən edilmiş
+əmsallar tətbiq olunmaqla aşağıdakı qaydada hesablanır:3
+2.1.1. avtonəqliyyat vasitəsinin sahibi fiziki şəxs olduqda:
+SH = BSH x ANVƏ x AİTƏ x TYƏ x RƏ x İMƏ x AVSƏ x STƏ4
+burada,
+SH – bir illik sığorta haqqı məbləği;
+BSH – baza sığorta haqqı məbləği;
+ANVƏ – avtonəqliyyat vasitəsinin növünə görə əmsal;
+AİTƏ – avtonəqliyyat vasitəsinin istifadə təyinatına görə əmsal;
+TYƏ – sığortalının sürücülük təcrübəsi və yaşına görə əmsal;
+RƏ – avtonəqliyyat vasitəsinin daha çox istifadə olunduğu əraziyə görə əmsal;
+İMƏ – avtonəqliyyat vasitəsinin istismar müddətinə görə əmsal;
+AVSƏ – avtonəqliyyat vasitəsi sahiblərinin sayına görə əmsal;5
+STƏ – sığorta tarixçəsi əmsalı;6
+2.1.2. avtonəqliyyat vasitəsinin sahibi hüquqi şəxs
+olduqda:7
+SH = BSH x ANVƏ x AİTƏ x RƏ x İMƏ x HŞƏ x STƏ8
+burada,
+SH – bir illik sığorta haqqı məbləği;
+BSH – baza sığorta haqqı məbləği;
+ANVƏ – avtonəqliyyat vasitəsinin növünə görə əmsal;
+AİTƏ – avtonəqliyyat vasitəsinin istifadə təyinatına görə əmsal;
+RƏ – avtonəqliyyat vasitəsinin daha çox istifadə olunduğu əraziyə görə əmsal;
+İMƏ – avtonəqliyyat vasitəsinin istismar müddətinə görə əmsal;
+HŞƏ – avtonəqliyyat vasitəsi sahibinin hüquqi şəxs
+olmasına görə əmsal;9
+STƏ – sığorta tarixçəsi əmsalı.10
+2.2. Baza sığorta haqqı 50,0 manat məbləğində müəyyən olunur.
+2.3. Bu Qaydanın 2.3–1-ci bəndində nəzərdə tutulmuş hal istisna olmaqla bu Qaydanın
+2.1-ci bəndinə uyğun olaraq müvafiq əmsalların tətbiqi ilə hesablanan sığorta haqqı
+baza sığorta haqqı ilə bu Qaydanın 3-cü hissəsində nəzərdə tutulan
+avtonəqliyyat vasitəsinin növünə görə müəyyən edilən əmsalın hasilinin üç mislindən
+çox ola bilməz.11
+2.3–1. Avtonəqliyyat vasitəsi taksi minik avtomobilləri ilə sərnişin daşımaları üçün
+istifadə edildikdə bu Qaydanın 2.1-ci bəndinə uyğun olaraq, müvafiq əmsalların tətbiqi ilə
+hesablanan sığorta haqqı baza sığorta haqqı ilə bu Qaydanın 3-cü hissəsində nəzərdə tutulan
+--- page 4 ---
+avtonəqliyyat vasitəsinin növünə görə müəyyən edilən əmsalın hasilinin beş mislindən çox ola
+bilməz.
+2.3–2. Bu Qaydanın 3–2-ci hissəsində nəzərdə tutulmuş hallar mövcud olduqda bu
+Qaydanın 2.3–1-ci bəndinin tələbi nəzərə alınmaqla bu Qaydanın 2.1-ci bəndinə uyğun olaraq
+hesablanan və ödənilməli olan bir illik sığorta haqqı məbləğinə müvafiq nəqliyyat vasitəsinə
+münasibətdə əvvəlki sığorta müqaviləsi üzrə sığorta haqqı üzrə dürüstləşdirmə məbləği də əlavə
+olunur.12
+2.4. Digər ölkədə qeydiyyatdan keçmiş və Azərbaycan Respublikasının ərazisinə daxil
+olarkən sürücüsü tərəfindən “İcbari sığortalar haqqında” Azərbaycan Respublikası
+Qanununun 63-1.2-ci maddəsində nəzərdə tutulmuş Yaşıl Kart təqdim olunmayan
+avtonəqliyyat vasitələrinə münasibətdə bağlanan sərhəd sığorta müqavilələri (bundan sonra -
+sərhəd sığorta müqaviləsi) üzrə sığorta haqları bu Qaydanın 10-cu hissəsində nəzərdə tutulmuş
+qaydada hesablanır.13
+3. Avtonəqliyyat vasitəsinin növünə görə tətbiq olunan əmsallar
+Avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası
+müqaviləsi bağlanarkən ödənilməli olan bir illik sığorta haqqı məbləğinin
+hesablanması üçün avtonəqliyyat vasitəsinin növünə görə cədvəl 1-də nəzərdə tutulan
+əmsallar tətbiq olunur:
+Cədvəl 1. 14
+Sıra
+Avtonəqliyyat vasitəsinin növü Əmsallar
+nömrəsi
+Minik avtomobilləri və onların bazasında istehsal edilmiş digər
+1.
+avtonəqliyyat vasitələri:
+mühərriklərinin həcminə görə:
+50 sm3 – 1500 sm3 1
+1501 sm3 – 2000 sm3 1.5
+2 001 sm3 – 2500 sm3 2
+2501 sm3 – 3000 sm3 2.5
+1.1.
+3001 sm3 – 3500 sm3 3
+3501 sm3 – 4000 sm3 3.5
+4001 sm3 – 4500 sm3 4
+4501 sm3 – 5000 sm3 4.5
+5000 sm3-dən çox 5
+1.2. Elektrik mühərriki ilə hərəkətə gətirilən minik avtomobilləri 1.5
+Avtobuslar, mikroavtobuslar və onların bazasında istehsal
+edilmiş digər avtonəqliyyat vasitələri – sərnişin yerlərinin sayına görə:
+2.
+9 – 16 3
+16-dan artıq 4
+3. Yük avtomobilləri və onların bazasında istehsal edilmiş digər
+--- page 5 ---
+avtonəqliyyat vasitələri – icazə verilən maksimum kütləsinə görə:
+3500 kq-dan çox olmadıqda 3
+3501 kq – 7 500 kq 4
+7500 kq-dan yuxarı 5
+4. Motosikletlər, trisikllər və kvadrisikllər 1
+5. Trolleybuslar və tramvaylar 2
+Traktorlar, meşə və kənd təsərrüfatında istifadə olunan mexaniki
+6. 1
+avtonəqliyyat vasitələri
+Texnoloji nəqliyyat vasitələri və bu kateqoriyadan olan digər
+7. 1
+mexaniki avtonəqliyyat vasitələri
+8. Qoşqular və yarımqoşqular 0.5
+3–1. Avtonəqliyyat vasitəsinin istifadə təyinatına görə tətbiq olunan əmsal15
+3–1.1. Avtonəqliyyat vasitəsi taksi minik avtomobilləri ilə sərnişin daşımaları üçün
+istifadə edildikdə avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası
+müqaviləsi bağlanarkən ödənilməli olan bir illik sığorta haqqı məbləğinin hesablanması üçün
+1.5 əmsalı tətbiq edilir.
+3–1.2. Avtonəqliyyat vasitəsinin taksi minik avtomobilləri ilə sərnişin daşımaları üçün
+istifadə edilməsi dedikdə “Avtomobil nəqliyyatı haqqında” və “Lisenziyalar və icazələr
+haqqında” Azərbaycan Respublikasının qanunlarına uyğun olaraq, səlahiyyətli dövlət qurumu
+tərəfindən verilmiş icazə əsasında avtonəqliyyat vasitəsinə münasibətdə müvafiq buraxılış
+vəsiqəsi və buraxılış kartı olan daşıyıcılar tərəfindən hər hansı şəxsin sifarişi əsasında qeyri-
+müntəzəm marşrut üzrə yerinə yetirilən sərnişin daşımaları başa düşülür.
+3–1.3. Bu Qaydanın 3–1.4-cü bəndi nəzərə alınmaqla, sığorta müqaviləsi bağlanarkən bu
+Qaydanın 3–1.1-ci bəndində əks olunmuş əmsal avtonəqliyyat vasitəsinin taksi minik
+avtomobilləri ilə sərnişin daşımalarına buraxılış vəsiqəsi və buraxılış kartı barədə məlumat
+mövcud olduğu halda tətbiq edilir.
+3–1.4. Avtonəqliyyat vasitəsinin taksi minik avtomobilləri ilə sərnişin daşımalarına
+buraxılış vəsiqəsi və buraxılış kartı barədə məlumatın müəyyən edilməsi mümkün olmadıqda,
+bu Qaydanın 3–1.1-ci bəndində nəzərdə tutulmuş əmsalın tətbiqi sığorta müqaviləsi
+bağlanarkən sığortalının könüllü bəyanı əsasında həyata keçirilir.
+3–1.5. Avtonəqliyyat vasitəsinin taksi minik avtomobilləri ilə sərnişin daşımalarına
+buraxılış vəsiqəsi və buraxılış kartı barədə məlumat müəyyən edilməsi mümkün olmadıqda və
+ya bu Qaydanın 3–1.4-cü bəndində nəzərdə tutulmuş halda həmin məlumat sığortalı tərəfindən
+sığortaçıya bəyan edilmədikdə sığorta haqqı məbləğinin hesablanması üçün 1 əmsal tətbiq
+olunur.
+3–2. Sığorta haqqı üzrə dürüstləşdirmə məbləği
+3–2.1. Bu Qaydanın 3–1.4-cü bəndində nəzərdə tutulmuş halda, aşağıdakı şərtlərin hər
+biri mövcud olduqda avtonəqliyyat vasitəsinin istifadə təyinatı barədə yanlış məlumat vermiş
+--- page 6 ---
+sığortalı ilə bağlanacaq növbəti sığorta müqaviləsində sığorta haqqı üzrə dürüstləşdirmə
+məbləği tətbiq edilir:
+3–2.1.1. bu Qaydanın 3–2.2-ci bəndində nəzərdə tutulmuş hal istisna olmaqla yanlış
+məlumatın verilməsi avtonəqliyyat vasitəsinə münasibətdə bağlanmış sonuncu sığorta
+müqaviləsi üzrə olduqda;
+3–2.1.2. sığortaçı tərəfindən yanlış məlumatın verilməsi faktı sığorta hadisəsi baş
+verdikdən sonra müəyyən edilmiş olduqda.
+3–2.2. Sığorta hadisəsinin qeydiyyatı avtonəqliyyat vasitəsinin istifadə təyinatı barədə
+yanlış məlumat verilmiş sığorta müqaviləsinin qüvvədən düşməsindən (müddətinin başa
+çatması və ya xitamından) sonra həyata keçirilmişdirsə, sığorta haqqı üzrə dürüstləşdirmə
+məbləği sığorta hadisəsinin qeydiyyatının həyata keçirilməsindən sonra bağlanacaq növbəti
+sığorta müqaviləsində tətbiq edilir.
+3–2.3. Sığorta haqqı üzrə dürüstləşdirmə məbləği müvafiq avtonəqliyyat vasitəsinə
+münasibətdə sonuncu bağlanmış sığorta müqaviləsində avtonəqliyyat vasitəsinin istifadə
+təyinatını düzgün əks etdirməklə hesablanmalı olan sığorta haqqı məbləği ilə faktiki ödənilmiş
+sığorta haqqı məbləği arasındakı fərqə bərabərdir.
+3–2.4. Avtonəqliyyat vasitəsinin istifadə təyinatı barədə yanlış məlumatın verilməsi faktı
+müvafiq icazəyə dair sənədlər, əldə edilmiş məlumatlar və ya müvafiq icazəni vermiş səlahiyyətli
+dövlət qurumuna göndərilmiş sorğunun nəticəsi əsasında müəyyən edilir.
+3–2.5. Növbəti sığorta müqaviləsi bağlananadək sığortalı tərəfindən iki və daha artıq
+sığorta müqaviləsi üzrə avtonəqliyyat vasitəsinin istifadə təyinatı barədə yanlış məlumat
+verilməsi müəyyən edildikdə hər bir müqavilə üzrə bu Qaydanın 3–2.3-cü bəndinə uyğun
+olaraq hesablanmış sığorta haqqı üzrə dürüstləşdirmə məbləği sığortalı ilə bağlanacaq növbəti
+sığorta müqaviləsinə cəmlənərək tətbiq olunur.
+4. Sığortalının sürücülük təcrübəsi və yaşına görə tətbiq olunan əmsallar
+4.1. Avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası
+müqaviləsi bağlanarkən ödənilməli olan bir illik sığorta haqqı məbləğinin
+hesablanması üçün sığortalının sürücülük təcrübəsi və yaşına görə cədvəl 2-də nəzərdə
+tutulan əmsallar tətbiq olunur:
+Cədvəl 2
+10 ildən
+S.n. Yaş/Təcrübə 0 il 1 il 2 il 3-4 il 5-6 il 7-10 il
+yuxarı
+1. 16-25 1.35 1.35 1.35 1.30 1.25 1.20 -
+2. 26-29 1.35 1.35 1.30 1.25 1.20 1.10 1.00
+3. 30-39 1.35 1.30 1.25 1.20 1.10 1.00 1.00
+4. 40-49 1.35 1.30 1.25 1.15 1.10 1.00 1.00
+5. 50-65 1.35 1.30 1.25 1.15 1.05 1.00 1.00
+6. 65-dən yuxarı 1.35 1.35 1.35 1.30 1.25 1.20 1.10
+--- page 7 ---
+4.2. Azərbaycan Respublikasının səlahiyyətli orqanı tərəfindən verilən
+sürücülük vəsiqəsinə malik olmayan şəxslərin sürücülük təcrübəsi 0-a bərabərdir.
+5. Avtonəqliyyat vasitəsinin daha çox istifadə olunduğu əraziyə görə tətbiq
+olunan əmsallar
+5.1. Avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası
+müqaviləsi bağlanarkən sığorta haqqının hesablanması üçün avtonəqliyyat vasitəsinin
+daha çox istifadə olunduğu ərazi nəzərə alınır.
+5.2. Avtonəqliyyat vasitəsinin daha çox istifadə olunan ərazisi avtonəqliyyat
+vasitəsinin uçotda olduğu yer üzrə müəyyən olunur.
+5.3. Xarici ölkələrin Azərbaycan Respublikasında fəaliyyət göstərən diplomatik
+nümayəndəlik və konsulluqlarına, diplomatik nümayəndəlik statusuna (immunitetinə)
+malik beynəlxalq təşkilatlara, habelə onların diplomatik personalı və bu personalın ailə
+üzvlərinə məxsus avtonəqliyyat vasitələrinə münasibətdə avtonəqliyyat vasitəsinin
+daha çox istifadə olunduğu ərazi müvafiq diplomatik nümayəndəliyin və (və ya)
+konsulluğun olduğu yer üzrə müəyyən olunur.
+5.4. Avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası
+müqaviləsi bağlanarkən ödənilməli olan bir illik sığorta haqqı məbləğinin
+hesablanması üçün avtonəqliyyat vasitəsinin daha çox istifadə olunduğu əraziyə görə
+cədvəl 3-də nəzərdə tutulan əmsallar tətbiq olunur:
+Cədvəl 3
+S.n. Avtonəqliyyat vasitəsinin daha çox istifadə olunduğu ərazi Əmsallar
+1. Bakı şəhəri 1.1
+2. Sumqayıt şəhəri, Abşeron rayonu 1.05
+3. Naxçıvan Muxtar Respublikası, Gəncə şəhəri 1.0
+4. Digər şəhər və rayonlar 0.95
+5.5. Azərbaycan Respublikasında mərkəzləşdirilmiş şəkildə uçota alınmış
+avtonəqliyyat
+vasitələrinə münasibətdə avtonəqliyyat vasitəsinin daha çox istifadə olunduğu əraziyə
+görə əmsal 1.1-ə bərabərdir.16
+6. Avtonəqliyyat vasitəsinin istismar müddətinə görə tətbiq olunan əmsallar
+--- page 8 ---
+6.1. Avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası
+müqaviləsi bağlanarkən ödənilməli olan bir illik sığorta haqqı məbləğinin
+hesablanması üçün avtonəqliyyat vasitəsinin istismar müddətinə görə cədvəl 4-də
+nəzərdə tutulan əmsallar tətbiq olunur:
+Cədvəl 4
+S.n. Avtonəqliyyat vasitəsinin istismar müddəti Əmsallar
+1. 0-10 il 1
+2. 11-20 il 1.05
+3. 20 ildən artıq müddət 1.10
+6.2. Avtonəqliyyat vasitəsinin istismar müddəti Azərbaycan Respublikasının
+səlahiyyətli orqanları tərəfindən verilmiş nəqliyyat vasitəsinin
+dövlət qeydiyyat şəhadətnaməsində müəyyən edilən nəqliyyat vasitəsinin buraxılış
+ilindən hesablanır.17
+7. Avtonəqliyyat vasitəsi sahiblərinin sayına görə tətbiq olunan əmsallar18
+7.1. Fiziki şəxslər tərəfindən avtonəqliyyat vasitəsi sahiblərinin mülki
+məsuliyyətinin icbari sığortası müqaviləsi bağlanarkən sığorta haqqının
+hesablanmasında avtonəqliyyat vasitəsi sahiblərinin sayı nəzərə alınır.19
+7.2. Fiziki şəxslər tərəfindən avtonəqliyyat vasitəsi sahiblərinin mülki
+məsuliyyətinin icbari sığortası müqaviləsi bağlanarkən ödənilməli olan bir illik sığorta
+haqqı məbləğinin hesablanması üçün avtonəqliyyat vasitəsi sahiblərinin sayına görə
+aşağıdakı əmsallar tətbiq olunur:20
+7.2.1. avtonəqliyyat vasitəsi sahiblərinin sayı dörd və ya daha az olduqda - 1;
+7.2.2. avtonəqliyyat vasitəsi sahiblərinin sayı beş və ya daha çox olduqda - 1.15.21
+7.3. Avtonəqliyyat vasitəsi sahiblərinin sayı avtonəqliyyat vasitəsinə dair
+mülkiyyət hüququnu təsdiq edən sənəd, avtonəqliyyat vasitəsinin icarə və ya digər
+əşya hüquqlarına dair müqavilə, habelə nəqliyyat vasitələrinin istifadə edilməsi və ya
+ona sərəncam verilməsi hüquqları ilə bağlı etibarnamə əsasında müəyyən olunur.22
+23
+8. Sığorta tarixçəsi əmsalı24
+8.1. Avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası müqaviləsi
+bağlanarkən ödənilməli olan bir illik sığorta haqqının hesablanmasında sığorta tarixçəsi əmsalı
+tətbiq edilir.
+8.2. Bu Qaydanın məqsədləri üçün müəyyən edilən sığorta tarixçəsi əmsalı 0.60
+əmsaldan az və 3 əmsaldan çox ola bilməz.
+--- page 9 ---
+8.3. Şəxsin sığorta tarixçəsi əmsalı şəxsə bağlı olmaqla onun sığorta tarixçəsinə əsasən
+müvafiq güzəşt və əlavələr tətbiq edilməklə hər bir qiymətləndirmə qrupu üzrə ayrı-ayrılıqda
+formalaşır.
+8.4. Fiziki şəxslər tərəfindən avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin
+icbari sığortası müqaviləsi bağlanarkən, bu Qaydanın 8.5-ci bəndi nəzərə alınmaqla, bu
+Qaydanın 7.3-cü bəndinə uyğun olaraq müəyyən edilən avtonəqliyyat vasitəsi sahibləri
+arasında ən yüksək sığorta tarixçəsi əmsalına malik olan şəxsin sığorta tarixçəsi əmsalı tətbiq
+edilir.
+8.5. Avtonəqliyyat vasitəsinin özgəninkiləşdirilməsi halı istisna olmaqla, fiziki şəxslər
+tərəfindən sığorta müqaviləsi bağlanıldığı tarixdən əvvəlki son bir ay ərzində müvafiq nəqliyyat
+vasitəsinin sahibi olmuş, habelə həmin dövr ərzində bu hüququna xitam verilmiş bütün şəxslər
+bu Qaydanın 8.4-cü bəndində nəzərdə tutulmuş sığorta tarixçəsi əmsalının tətbiqi zamanı
+nəzərə alınır.
+8.6. Avtonəqliyyat vasitəsinin sahibi hüquqi şəxs olduqda, avtonəqliyyat vasitəsinin
+taksi minik avtomobili kimi sərnişin daşımaları üçün istifadə edilməsi halı istisna olmaqla,
+sığorta haqqının hesablanmasında tətbiq olunan sığorta tarixçəsi əmsalı 1-ə bərabərdir və həmin
+əmsala güzəşt və ya əlavə tətbiq edilmir.
+8.7. Avtonəqliyyat vasitəsinin taksi minik avtomobili kimi sərnişin daşımaları üçün
+istifadə edilməsi halı istisna olmaqla, sığortalı hüquqi şəxs olduqda və sığorta hadisəsi baş
+verdikdə, sığorta tarixçəsi əmsalına tətbiq edilən əlavələr nəqliyyat vasitəsini idarə edən və
+sığorta hadisəsini törədən fiziki şəxsin sığorta tarixçəsi əmsalına tətbiq edilir.
+8.8. Avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası müqaviləsi
+ilk dəfə bağlanarkən, habelə müqavilə bağlamaq istəyən fiziki şəxsin təqsiri üzündən müvafiq
+qiymətləndirmə qrupu üzrə baş vermiş və Büronun informasiya sistemində qeydiyyata alınmış
+sığorta ödənişi həyata keçirilmiş sığorta hadisəsi mövcud olmadıqda, şəxsin sığorta tarixçəsi
+əmsalı olaraq 1 əmsal müəyyən edilir. Avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin
+icbari sığortası müqaviləsinin ilk dəfə bağlanması dedikdə, Büronun informasiya sistemində
+həmin şəxs tərəfindən müvafiq qiymətləndirmə qrupu üzrə bağlanmış icbari sığorta
+müqaviləsinin mövcud olmaması nəzərdə tutulur.
+8.9. Bu Qaydanın 8.6-cı bəndində nəzərdə tutulmuş tələblər nəzərə alınmaqla, müvafiq
+qiymətləndirmə qrupu üzrə şəxsin sığorta tarixçəsi əmsalına qüvvədə olan icbari sığorta
+müqavilələrinin sayından asılı olmayaraq aşağıdakı şərtlərin hər biri mövcud olduqda hər dəfə 5
+(beş) faiz güzəşt tətbiq edilir:
+8.9.1. sığorta tarixçəsi əmsalına edilmiş sonuncu dəyişiklik tarixindən etibarən, fiziki
+şəxs olduqda özünün, avtonəqliyyat vasitəsini taksi minik avtomobili kimi istifadə edən hüquqi
+şəxs olduqda isə avtonəqliyyat vasitəsinin sürücüsünün təqsiri üzündən baş vermiş və sığorta
+ödənişi həyata keçirilmiş heç bir sığorta hadisəsi olmadıqda;
+8.9.2. sığorta tarixçəsi əmsalına edilmiş sonuncu dəyişiklikdən etibarən sığortalı olduğu
+günlərin sayı 275-dən çox olduqda.
+8.10. Bu Qaydanın 8.11-ci bəndində nəzərdə tutulmuş hal istisna olmaqla, sığorta
+tarixçəsi əmsalına edilmiş sonuncu dəyişiklik tarixindən etibarən fiziki şəxsin təqsiri üzündən
+baş vermiş və sığorta ödəniş(lər)i həyata keçirilmiş hər bir sığorta hadisəsi ilə bağlı müvafiq
+qiymətləndirmə qrupu üzrə həmin şəxsin, sığortalı olub-olmamasından asılı olmayaraq, sığorta
+--- page 10 ---
+tarixçəsi əmsalına 30 (otuz) faiz əlavə tətbiq edilir. Büronun informasiya sistemində müvafiq
+qiymətləndirmə qrupu üzrə şəxs tərəfindən bağlanmış icbari sığorta müqaviləsi mövcud
+olmadıqda, şəxsin sığorta tarixçəsi əmsalı 1 əmsal olaraq müəyyən edilməklə 30 (otuz) faiz əlavə
+həmin əmsala tətbiq edilir.
+8.11. Sığortalı hüquqi şəxs olduqda və avtonəqliyyat vasitəsi taksi minik avtomobili kimi
+sərnişin daşımaları üçün istifadə edildikdə sığorta ödənişi həyata keçirilmiş hər bir sığorta
+hadisəsi üzrə hüquqi şəxsin sığorta tarixçəsi əmsalına 30 (otuz) faiz əlavə tətbiq edilir.
+9. Avtonəqliyyat vasitəsi sahibinin hüquqi şəxs
+olmasına görə əmsal25
+Avtonəqliyyat vasitəsinin sahibi hüquqi şəxs olduqda
+avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası müqaviləsi
+bağlanarkən ödənilməli olan bir illik sığorta haqqının hesablanmasında 1.40 əmsalı
+tətbiq edilir.26
+10. Sərhəd sığorta müqaviləsi üzrə sığorta haqqı
+Sərhəd sığorta müqavilələri üzrə sığorta haqları avtonəqliyyat vasitəsinin növünə və
+sığorta müqaviləsinin müddətinə görə cədvəl 8-də nəzərdə tutulan tariflərə əsasən müəyyən
+edilir:27
+Cədvəl 8
+.n.S
+Sərhəd sığorta müqaviləsinin
+müddətinə görə sığorta
+Avtonəqliyyat vasitəsinin növü haqqının məbləği
+(manatla)
+12 ay 6 ay 3 ay 1 ay
+Minik avtomobilləri və onların bazasında istehsal edilmiş
+1. 130 91 59 26
+digər avtonəqliyyat vasitələri
+Yük avtomobilləri və onların bazasında istehsal edilmiş
+2. 485 340 218 97
+digər avtonəqliyyat vasitələri
+3. Qoşqular və yarımqoşqular 50 35 23 10
+Avtobuslar, mikroavtobuslar və onların bazasında istehsal
+4. 370 259 167 74
+edilmiş digər avtonəqliyyat vasitələri
+5. Motosikletlər və motorollerlər 95 67 43 19
+Traktorlar, yol-tikinti işlərində, meşə və kənd təsərrüfatında
+6. 95 67 43 19
+istifadə olunan avtonəqliyyat vasitələri
+10–1. Qarşılıqlı ödəmələrin həyata keçirilməsi qaydası28
+10–1.1. Bu Qayda ilə müəyyən edilən hallarda tətbiq edilən sığorta haqqı üzrə
+dürüstləşdirmə məbləği üzrə qarşılıqlı hesablaşmaların həyata keçirilməsi məqsədilə sığortaçılar
+--- page 11 ---
+və İcbari Sığorta Bürosu arasında bu Qaydanın 3–2-ci hissəsinin qüvvəyə mindiyi tarixdən ən
+geci 30 (otuz) təqvim günü müddətində kollektiv saziş bağlanılır.
+10–1.2. Kollektiv sazişdə azı aşağıdakı məsələlər əhatə olunur:
+10–1.2.1. kollektiv sazişə qoşulma və ondan çıxma qaydası;
+10–1.2.2. sığorta haqqı üzrə dürüstləşdirmə məbləği üzrə sığortaçılar arasında hesablaşma
+qaydası;
+10–1.2.3. öhdəliklərin icra müddətləri;
+10–1.2.4. mübahisələrin həlli qaydası.
+10–1.3. Sığortaçılar arasında aparılan hesablaşmalar nağdsız formada həyata keçirilir.
+29
+--- page 12 ---
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 26 yanvar 2024-cü il tarixli 04/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202401260041,
+Hüquqi Aktların Dövlət Reyestrinə daxil edildiyi tarix 6 fevral 2024-cü il)
+2. 17 iyun 2025-ci il tarixli 22/8 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202506170228,
+Hüquqi Aktların Dövlət Reyestrinə daxil edildiyi tarix 25 iyun 2025-ci il)
+3. 16 dekabr 2025-ci il tarixli 44/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202512160442,
+Hüquqi Aktların Dövlət Reyestrinə daxil edildiyi tarix 19 mart 2026-cı il)
+4. 1 aprel 2026-cı il tarixli 13/9 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604010139, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 15 aprel 2026-cı il)
+QƏRARA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+1 26 yanvar 2024-cü il tarixli 04/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202401260041, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 6 fevral 2024-cü il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 1.2.9.4-cü yarımbənddə “və motorollerlər” sözləri “, trisikllər və kvadrisikllər” sözləri ilə
+əvəz edilmişdir.
+26 yanvar 2024-cü il tarixli 04/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202401260041, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 6 fevral 2024-cü il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 1.2.9.5-ci yarımbənddən “yol tikinti işlərində,” sözləri çıxarılmışdır.
+26 yanvar 2024-cü il tarixli 04/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202401260041, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 6 fevral 2024-cü il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 1.2.9.7-ci yarımbəndin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və
+yeni məzmunda 1.2.9.8-ci yarımbənd əlavə edilmişdir.
+1 aprel 2026-cı il tarixli 13/9 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604010139, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 aprel 2026-cı il) ilə “Avtonəqliyyat vasitəsi sahiblərinin mülki
+məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması Qaydası”nın 1.2.1–1.2.9-cu
+yarımbəndləri yeni redaksiyada verilmişdir.
+Əvvəlki redaksiyada deyilirdi:
+--- page 13 ---
+2 16 dekabr 2025-ci il tarixli 44/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202512160442, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 19 mart 2026-cı il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”na yeni məzmunda 1.3-cü bənd əlavə edilmişdir.
+3 17 iyun 2025-ci il tarixli 22/8 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202506170228, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 25 iyun 2025-ci il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 2.1-ci bənddə “Avtonəqliyyat” sözü “Bu Qaydanın 2.4-cü bəndi nəzərə alınmaqla,
+avtonəqliyyat” sözləri ilə əvəz edilmişdir.
+4 16 dekabr 2025-ci il tarixli 44/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202512160442, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 19 mart 2026-cı il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 2.1.1-ci və 2.1.2-ci yarımbəndlərinin hesablama düsturunda “x ANVƏ” sözlərindən sonra
+“x AİTƏ” sözləri əlavə edilmişdir, “ANVƏ – avtonəqliyyat vasitəsinin növünə görə əmsal;”
+sözlərindən sonra yeni məzmunda yeni abzas əlavə edilmişdir.
+1 aprel 2026-cı il tarixli 13/9 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604010139, Hüquqi Aktların
+--- page 14 ---
+Dövlət Reyestrinə daxil edildiyi tarix 15 aprel 2026-cı il) ilə “Avtonəqliyyat vasitəsi sahiblərinin mülki
+məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması Qaydası”nın 2.1.1-ci
+yarımbəndinin ikinci abzasında “AVİƏ” sözü “AVSƏ” sözü ilə, “BMƏ” sözü “STƏ” sözü ilə əvəz
+edilmişdir.
+5 1 aprel 2026-cı il tarixli 13/9 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604010139, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 aprel 2026-cı il) ilə “Avtonəqliyyat vasitəsi sahiblərinin mülki
+məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması Qaydası”nın 2.1.1-ci
+yarımbəndinin on birinci abzasında “AVİƏ – avtonəqliyyat vasitəsini idarə etmək hüququ olan
+şəxslərin sayına görə əmsal” sözləri “AVSƏ – avtonəqliyyat vasitəsi sahiblərinin sayına görə əmsal”
+sözləri ilə əvəz edilmişdir.
+6 1 aprel 2026-cı il tarixli 13/9 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604010139, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 aprel 2026-cı il) ilə “Avtonəqliyyat vasitəsi sahiblərinin mülki
+məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması Qaydası”nın 2.1.1-ci
+yarımbəndinin on ikinci abzasında “BMƏ – BM sinfinə görə əmsal” sözləri “STƏ – sığorta tarixçəsi
+əmsalı” sözləri ilə əvəz edilmişdir.
+7 1 aprel 2026-cı il tarixli 13/9 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604010139, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 aprel 2026-cı il) ilə “Avtonəqliyyat vasitəsi sahiblərinin mülki
+məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması Qaydası”nın 2.1.2-ci
+yarımbəndinin birinci abzasından “və (və ya) mülkiyyətçisi” sözləri çıxarılmışdır.
+8 1 aprel 2026-cı il tarixli 13/9 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604010139, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 aprel 2026-cı il) ilə “Avtonəqliyyat vasitəsi sahiblərinin mülki
+məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması Qaydası”nın 2.1.2-ci
+yarımbəndinin ikinci abzasında “BMƏ” sözü “STƏ” sözü ilə əvəz edilmişdir.
+9 1 aprel 2026-cı il tarixli 13/9 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə Heyətinin
+Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604010139, Hüquqi Aktların
+Dövlət Reyestrinə daxil edildiyi tarix 15 aprel 2026-cı il) ilə “Avtonəqliyyat vasitəsi sahiblərinin mülki
+məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması Qaydası”nın 2.1.2-ci
+yarımbəndinin onuncu abzasından “və (və ya) mülkiyyətçisinin” sözləri çıxarılmışdır.
+10 1 aprel 2026-cı il tarixli 13/9 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604010139, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 15 aprel 2026-cı il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 2.1.2-ci yarımbəndinin on birinci abzasında “BMƏ – BM sinfinə görə əmsal” sözləri “STƏ
+– sığorta tarixçəsi əmsalı” sözləri ilə əvəz edilmışdır.
+11 16 dekabr 2025-ci il tarixli 44/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202512160442, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 19 mart 2026-cı il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 2.3-cü bəndində “Bu” sözü “Bu Qaydanın 2.3–1-ci bəndində nəzərdə tutulmuş hal istisna
+olmaqla bu” sözləri ilə əvəz edilmişdir və həmin bənddən “hər bir halda” sözləri çıxarılmışdır.
+--- page 15 ---
+12 16 dekabr 2025-ci il tarixli 44/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202512160442, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 19 mart 2026-cı il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”na yeni məzmunda 2.3–1-ci və 2.3–2-ci bəndlər əlavə edilmışdır.
+13 17 iyun 2025-ci il tarixli 22/8 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202506170228, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 25 iyun 2025-ci il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”na yeni məzmunda 2.4-cü bənd əlavə edilmişdir.
+14 26 yanvar 2024-cü il tarixli 04/1 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202401260041, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 6 fevral 2024-cü il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 3-cü hissədə Cədvəl 1 yeni redaksiyada verilmişdir.
+əvvəlki redaksiyada deyilirdi:
+--- page 16 ---
+15 16 dekabr 2025-ci il tarixli 44/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202512160442, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 19 mart 2026-cı il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”na yeni məzmunda 3–1-ci və 3–2-ci hissələr əlavə edilmışdır.
+16 17 iyun 2025-ci il tarixli 22/8 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202506170228, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 25 iyun 2025-ci il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 5.5-ci bənddə “, habelə digər ölkədə qeydiyyatdan keçmiş və Azərbaycan
+Respublikasının ərazisinə daxil olarkən sürücüsü tərəfindən “İcbari sığortalar haqqında”
+Azərbaycan Respublikası Qanununun 63-1.2-ci maddəsində nəzərdə tutulmuş Yaşıl Kart təqdim
+olunmayan avtonəqliyyat vasitələrinə münasibətdə bağlanan sərhəd sığorta müqavilələri (bundan
+sonra – sərhəd sığorta müqaviləsi) üzrə” sözləri çıxarılmışdır.
+17 17 iyun 2025-ci il tarixli 22/8 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202506170228, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 25 iyun 2025-ci il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 6.2-ci bənddə “və ya xarici dövlətlərin” sözləri çıxarılmışdır.
+18 1 aprel 2026-cı il tarixli 13/9 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604010139, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 15 aprel 2026-cı il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 7-ci hissəsinin adında “vasitəsini idarə etmək hüququ olan şəxslərin” sözləri “vasitəsi
+sahiblərinin” sözləri ilə əvəz edilmişdir.
+19 1 aprel 2026-cı il tarixli 13/9 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604010139, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 15 aprel 2026-cı il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 7.1-ci bəndində “vasitəsini idarə etmək hüququna malik olan şəxslərin” sözləri “vasitəsi
+sahiblərinin” sözləri ilə əvəz edilmişdir.
+20 1 aprel 2026-cı il tarixli 13/9 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604010139, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 15 aprel 2026-cı il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 7.2-ci bəndində “vasitəsini idarə etmək hüququna malik olan şəxslərin” sözləri “vasitəsi
+sahiblərinin” sözləri ilə əvəz edilmişdir.
+21 1 aprel 2026-cı il tarixli 13/9 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604010139, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 15 aprel 2026-cı il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 7.2.1-ci və 7.2.2-ci yarımbəndləri yeni redaksiyada verilmişdir.
+Əvvəlki redaksiyada deyilirdi:
+--- page 17 ---
+22 1 aprel 2026-cı il tarixli 13/9 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604010139, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 15 aprel 2026-cı il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 7.3-cü bəndində “vasitəsini iki və ya daha çox şəxsin idarə etmək hüququnun
+mövcudluğu” sözləri “vasitəsi sahiblərinin sayı” sözləri ilə əvəz edilmişdir.
+23 17 iyun 2025-ci il tarixli 22/8 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202506170228, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 25 iyun 2025-ci il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 7.4-cü bənd ləğv edilmişdir.
+24 1 aprel 2026-cı il tarixli 13/9 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604010139, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 15 aprel 2026-cı il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 8-ci hissəsi yeni redaksiyada verilmişdir.
+Əvvəlki redaksiyada deyilirdi:
+--- page 18 ---
+--- page 19 ---
+--- page 20 ---
+25 1 aprel 2026-cı il tarixli 13/9 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604010139, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 15 aprel 2026-cı il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 9-cu hissəsinin adından “və (və ya) mülkiyyətçisinin” sözləri çıxarılmışdır.
+26 1 aprel 2026-cı il tarixli 13/9 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604010139, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 15 aprel 2026-cı il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 9-cu hissəsinin mətnindən “və (və ya) mülkiyyətçisi” sözləri çıxarılmışdır.
+27 17 iyun 2025-ci il tarixli 22/8 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202506170228, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 25 iyun 2025-ci il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 10-cu hissə yeni redaksiyada verilmişdir.
+əvvəlki redaksiyada deyilirdi:
+28 16 dekabr 2025-ci il tarixli 44/2 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202512160442, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 19 mart 2026-cı il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”na yeni məzmunda 10–1-ci hissə əlavə edilmışdır.
+29 1 aprel 2026-cı il tarixli 13/9 nömrəli Azərbaycan Respublikası Mərkəzi Bankının İdarə
+Heyətinin Qərarı (Hüquqi Aktların Dövlət Reyestrinin qeydiyyat nömrəsi 23202604010139, Hüquqi
+Aktların Dövlət Reyestrinə daxil edildiyi tarix 15 aprel 2026-cı il) ilə “Avtonəqliyyat vasitəsi
+sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə sığorta haqqı məbləğlərinin hesablanması
+Qaydası”nın 11-ci hissəsi ləğv edilmışdır.

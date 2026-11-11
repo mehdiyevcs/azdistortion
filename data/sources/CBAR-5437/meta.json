@@ -1,0 +1,17 @@
+{
+ "ann_id": "CBAR-5437",
+ "t1_files": [
+  "data/raw/announcements/CBAR-5437/text_0.txt"
+ ],
+ "t2_files": [
+  "data/raw/announcements/CBAR-5437-DEC/text_0.txt",
+  "data/raw/announcements/CBAR-5437-DEC/tables_0.txt"
+ ],
+ "has_t2": 1,
+ "t2_status": "uncertain",
+ "t1_is_act": 0,
+ "sha256_T1": "083fa8d8b734476210106c84795d40adc8d349908200a6f953c65918919e9116",
+ "sha256_T2": "52ab3680231acf6b0fd84e441f769b70e4c899a4a97b8898b8869dc8c0ffc620",
+ "chars_T1": 3138,
+ "chars_T2": 36014
+}
