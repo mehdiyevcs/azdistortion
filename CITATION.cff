@@ -11,7 +11,7 @@ license:
   - CC-BY-4.0
 preferred-citation:
   type: article
-  title: "Detection of misleading claims in Azerbaijani news: limitations of language models"
+  title: "Limitations of Language Models in Detecting Misleading Information in Azerbaijani News"
   authors:
     - family-names: Mehdiyev
       given-names: Jalal

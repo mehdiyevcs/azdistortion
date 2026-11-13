@@ -2,7 +2,7 @@
 
 Data and code for the paper
 
-> Mehdiyev, J. (2026). Detection of misleading claims in Azerbaijani news: limitations of language models. *Problems of Information Society*.
+> Mehdiyev, J.S. (2026). Limitations of Language Models in Detecting Misleading Information in Azerbaijani News. *Problems of Information Society*.
 
 AzDistortion is a claim-level dataset of Azerbaijani news reports checked against the official announcements they report on. Each claim is labelled against the press release and, where one exists, the full decision text. The repository contains the data, the annotation guidelines, the pre-registration, every system prediction, the analysis outputs and the code of every pipeline stage.
 
